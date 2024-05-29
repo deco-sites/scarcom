@@ -1,1 +1,1 @@
-export { default } from "$store/components/wishlist/WishlistButton.tsx";
+export { default } from "../components/wishlist/WishlistButton.tsx";

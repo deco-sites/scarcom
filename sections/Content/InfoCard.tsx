@@ -1,1 +1,1 @@
-export { default } from "$store/components/infoCard/InfoCard.tsx";
+export { default } from "../../components/infoCard/InfoCard.tsx";

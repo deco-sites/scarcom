@@ -1,2 +1,2 @@
-export { default } from "$store/components/ui/BannerCarousel.tsx";
-export * as typings from "$store/components/ui/BannerCarousel.tsx";
+export { default } from "../../components/ui/BannerCarousel.tsx";
+export * as typings from "../../components/ui/BannerCarousel.tsx";

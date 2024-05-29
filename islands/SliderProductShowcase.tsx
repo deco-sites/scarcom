@@ -1,1 +1,1 @@
-export { default } from "$store/components/product/SliderProductShowcase.tsx";
+export { default } from "../components/product/SliderProductShowcase.tsx";

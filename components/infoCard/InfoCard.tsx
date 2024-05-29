@@ -1,6 +1,6 @@
-import type { SocialIcons } from "$store/components/ui/Icon.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import { SemanticColors } from "$store/components/ui/BannerGrid.tsx";
+import type { SocialIcons } from "../../components/ui/Icon.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import { SemanticColors } from "../../components/ui/BannerGrid.tsx";
 
 export type TextAlign = "Left" | "Center" | "Right" | "Justify";
 

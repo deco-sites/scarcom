@@ -2,7 +2,7 @@ import Icon, {
   AvailableIcons,
   PaymentIcons,
   SocialIcons,
-} from "$store/components/ui/Icon.tsx";
+} from "../../components/ui/Icon.tsx";
 
 export interface Props {
   cards: {

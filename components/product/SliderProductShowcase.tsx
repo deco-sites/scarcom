@@ -1,10 +1,10 @@
 import Image from "apps/website/components/Image.tsx";
-import Slider from "$store/components/ui/Slider.tsx";
+import Slider from "../../components/ui/Slider.tsx";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
-import { useOffer } from "$store/sdk/useOffer.ts";
+import { useOffer } from "../../sdk/useOffer.ts";
 import DiscountBadge, { DiscountBadgeProps } from "./DiscountBadge.tsx";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
-import ProductHighlights from "$store/components/product/ProductHighlights.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
+import ProductHighlights from "../../components/product/ProductHighlights.tsx";
 
 const WIDTH = 500;
 const HEIGHT = 500;

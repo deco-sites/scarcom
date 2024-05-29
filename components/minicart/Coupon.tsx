@@ -1,4 +1,4 @@
-import Button from "$store/components/ui/Button.tsx";
+import Button from "../../components/ui/Button.tsx";
 import { useSignal } from "@preact/signals";
 import { useCart } from "apps/vtex/hooks/useCart.ts";
 import { useRef } from "preact/hooks";

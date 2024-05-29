@@ -3,7 +3,7 @@ import {
   DESKTOP_COLUMNS,
   MOBILE_COLUMNS,
   SemanticColors,
-} from "$store/components/ui/BannerGrid.tsx";
+} from "../../components/ui/BannerGrid.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 // import { Head } from "$fresh/runtime.ts";
 import { Picture, Source } from "apps/website/components/Picture.tsx";

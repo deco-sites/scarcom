@@ -1,11 +1,11 @@
 import { useSignal } from "@preact/signals";
-import { invoke } from "$store/runtime.ts";
+import { invoke } from "../../runtime.ts";
 import type { Product } from "apps/commerce/types.ts";
 import type { JSX } from "preact";
 import { Suspense } from "preact/compat";
-import Button from "$store/components/ui/Button.tsx";
-import AlertModal from "$store/components/ui/AlertModal.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
+import Button from "../../components/ui/Button.tsx";
+import AlertModal from "../../components/ui/AlertModal.tsx";
+import Icon from "../../components/ui/Icon.tsx";
 
 interface Props {
   productID: Product["productID"];

@@ -1,9 +1,9 @@
 import {
   BUTTON_VARIANTS,
   ButtonVariant,
-} from "$store/components/minicart/Cart.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import Logo from "$store/components/ui/Logo.tsx";
+} from "../../components/minicart/Cart.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import Logo from "../../components/ui/Logo.tsx";
 import { useSignal } from "@preact/signals";
 import { SectionProps } from "deco/types.ts";
 import type { JSX } from "preact";
@@ -12,7 +12,7 @@ import { getCookies } from "std/http/mod.ts";
 import {
   INewsletterInputCheckboxProps,
   InputCheckboxNewsletterProps,
-} from "$store/components/newsletter/Newsletter.tsx";
+} from "../../components/newsletter/Newsletter.tsx";
 export interface INewsletterInputProps {
   /**
    * @title Hide input?

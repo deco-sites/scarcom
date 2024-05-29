@@ -1,7 +1,7 @@
 import {
   BUTTON_VARIANTS,
   ButtonVariant,
-} from "$store/components/minicart/Cart.tsx";
+} from "../../components/minicart/Cart.tsx";
 import { SectionProps } from "deco/types.ts";
 import { useEffect, useRef } from "preact/compat";
 import { getCookies } from "std/http/mod.ts";

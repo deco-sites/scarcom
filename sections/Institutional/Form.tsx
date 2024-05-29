@@ -1,1 +1,1 @@
-export { default } from "$store/components/ui/Form.tsx";
+export { default } from "../../components/ui/Form.tsx";

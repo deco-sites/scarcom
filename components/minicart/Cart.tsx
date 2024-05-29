@@ -1,7 +1,7 @@
-import Button from "$store/components/ui/Button.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import { sendEvent } from "$store/sdk/analytics.tsx";
-import { formatPrice } from "$store/sdk/format.ts";
+import Button from "../../components/ui/Button.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import { sendEvent } from "../../sdk/analytics.tsx";
+import { formatPrice } from "../../sdk/format.ts";
 import { useCart } from "apps/vtex/hooks/useCart.ts";
 import CartItem from "./CartItem.tsx";
 import Coupon from "./Coupon.tsx";

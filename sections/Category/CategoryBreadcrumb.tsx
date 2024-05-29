@@ -1,1 +1,1 @@
-export { default } from "$store/components/ui/BreadcrumbCategory.tsx";
+export { default } from "../../components/ui/BreadcrumbCategory.tsx";

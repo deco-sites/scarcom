@@ -1,1 +1,1 @@
-export { default } from "$store/components/header/Modals.tsx";
+export { default } from "../components/header/Modals.tsx";

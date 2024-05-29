@@ -1,8 +1,8 @@
-import Icon from "$store/components/ui/Icon.tsx";
+import Icon from "../../components/ui/Icon.tsx";
 import { Picture, Source } from "apps/website/components/Picture.tsx";
-import { SocialItem } from "$store/components/footer/SocialNetWorks.tsx";
+import { SocialItem } from "../../components/footer/SocialNetWorks.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
-import Button from "$store/components/ui/Button.tsx";
+import Button from "../../components/ui/Button.tsx";
 
 export interface Props {
   serviceInfo?: {

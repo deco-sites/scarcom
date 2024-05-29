@@ -1,4 +1,4 @@
-import Markdown from "$store/components/ui/Markdown.tsx";
+import Markdown from "../../components/ui/Markdown.tsx";
 import { HTMLWidget } from "apps/admin/widgets.ts";
 
 export interface Props {

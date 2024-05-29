@@ -1,6 +1,6 @@
 import { useComputed, useSignal } from "@preact/signals";
-import Icon from "$store/components/ui/Icon.tsx";
-import Button from "$store/components/ui/Button.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import Button from "../../components/ui/Button.tsx";
 import { useWishlist } from "apps/vtex/hooks/useWishlist.ts";
 import { useUser } from "apps/vtex/hooks/useUser.ts";
 

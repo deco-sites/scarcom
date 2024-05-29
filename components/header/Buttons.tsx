@@ -1,7 +1,7 @@
-import Button from "$store/components/ui/Button.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import { sendEvent } from "$store/sdk/analytics.tsx";
-import { useUI } from "$store/sdk/useUI.ts";
+import Button from "../../components/ui/Button.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import { sendEvent } from "../../sdk/analytics.tsx";
+import { useUI } from "../../sdk/useUI.ts";
 import { useCart } from "apps/vtex/hooks/useCart.ts";
 import { useUser } from "apps/vtex/hooks/useUser.ts";
 

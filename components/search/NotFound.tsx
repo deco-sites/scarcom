@@ -1,9 +1,9 @@
 import { SectionProps } from "deco/types.ts";
-import Icon from "$store/components/ui/Icon.tsx";
-import Searchbar from "$store/components/search/Searchbar.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import Searchbar from "../../components/search/Searchbar.tsx";
 import ProductShelf, {
   Props as ProductShelfProps,
-} from "$store/components/product/ProductShelf.tsx";
+} from "../../components/product/ProductShelf.tsx";
 
 export interface Props {
   /**

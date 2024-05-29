@@ -1,1 +1,1 @@
-export { default } from "$store/islands/Newsletter.tsx";
+export { default } from "../../islands/Newsletter.tsx";

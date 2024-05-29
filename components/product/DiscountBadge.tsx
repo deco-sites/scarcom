@@ -5,7 +5,7 @@ import {
   GRID_ROW_HORIZONTAL,
   GRID_ROW_SPAN,
   GRID_ROW_START,
-} from "$store/components/product/ProductHighlights.tsx";
+} from "../../components/product/ProductHighlights.tsx";
 
 export type DiscountBadgeColors =
   | "emphasis"

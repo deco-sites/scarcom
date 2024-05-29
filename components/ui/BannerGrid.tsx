@@ -1,6 +1,6 @@
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import { Picture, Source } from "apps/website/components/Picture.tsx";
-import { clx } from "deco-sites/timecenter/sdk/clx.ts";
+import { clx } from "../../sdk/clx.ts";
 
 export type SemanticColors =
   | "primary"

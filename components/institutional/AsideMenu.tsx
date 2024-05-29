@@ -1,5 +1,5 @@
 import { SectionProps } from "deco/types.ts";
-import Icon from "$store/components/ui/Icon.tsx";
+import Icon from "../../components/ui/Icon.tsx";
 
 export interface Props {
   menuItems: {

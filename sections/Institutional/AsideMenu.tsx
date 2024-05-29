@@ -1,2 +1,2 @@
-export { default, loader } from "$store/components/institutional/AsideMenu.tsx";
-export type { Props } from "$store/components/institutional/AsideMenu.tsx";
+export { default, loader } from "../../components/institutional/AsideMenu.tsx";
+export type { Props } from "../../components/institutional/AsideMenu.tsx";

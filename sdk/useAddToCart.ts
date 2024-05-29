@@ -1,7 +1,7 @@
 import { useSignal } from "@preact/signals";
 import { useCallback } from "preact/hooks";
-import { useUI } from "$store/sdk/useUI.ts";
-import { sendEvent } from "$store/sdk/analytics.tsx";
+import { useUI } from "../sdk/useUI.ts";
+import { sendEvent } from "../sdk/analytics.tsx";
 import { useCart } from "apps/vtex/hooks/useCart.ts";
 
 export interface Options {

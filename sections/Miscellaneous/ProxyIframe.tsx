@@ -1,1 +1,1 @@
-export { default } from "$store/components/ui/ProxyIframe.tsx";
+export { default } from "../../components/ui/ProxyIframe.tsx";

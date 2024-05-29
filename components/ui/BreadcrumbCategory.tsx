@@ -1,4 +1,4 @@
-import Breadcrumb from "$store/components/ui/Breadcrumb.tsx";
+import Breadcrumb from "../../components/ui/Breadcrumb.tsx";
 import { LoaderReturnType } from "deco/mod.ts";
 import type { ProductListingPage } from "apps/commerce/types.ts";
 

@@ -1,11 +1,11 @@
 import { lazy, Suspense } from "preact/compat";
 
-import { useUI } from "$store/sdk/useUI.ts";
-import { headerHeight } from "$store/components/header/constants.ts";
-import type { Props as SearchbarProps } from "$store/components/search/Searchbar.tsx";
+import { useUI } from "../../sdk/useUI.ts";
+import { headerHeight } from "../../components/header/constants.ts";
+import type { Props as SearchbarProps } from "../../components/search/Searchbar.tsx";
 
 const LazySearchbar = lazy(() =>
-  import("$store/components/search/Searchbar.tsx")
+  import("../../components/search/Searchbar.tsx")
 );
 
 interface Props {

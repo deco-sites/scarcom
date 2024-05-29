@@ -1,4 +1,4 @@
-import Icon, { SocialIcons } from "$store/components/ui/Icon.tsx";
+import Icon, { SocialIcons } from "../../components/ui/Icon.tsx";
 
 export interface SocialItem {
   icon: SocialIcons;

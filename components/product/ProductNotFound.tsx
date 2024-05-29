@@ -2,7 +2,7 @@ import { SectionProps } from "deco/types.ts";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import ProductShelf, {
   Props as ProductShelfProps,
-} from "$store/components/product/ProductShelf.tsx";
+} from "../../components/product/ProductShelf.tsx";
 
 export interface Props {
   /**

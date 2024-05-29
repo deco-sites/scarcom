@@ -1,8 +1,8 @@
 import Image from "apps/website/components/Image.tsx";
-import Slider from "$store/components/ui/Slider.tsx";
+import Slider from "../../components/ui/Slider.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import { useId } from "preact/hooks";
-import Header from "$store/components/ui/SectionHeader.tsx";
+import Header from "../../components/ui/SectionHeader.tsx";
 
 export interface Category {
   tag?: string;

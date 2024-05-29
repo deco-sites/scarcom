@@ -1,4 +1,4 @@
-import type { ShareableNetwork } from "$store/components/product/ProductDetails.tsx";
+import type { ShareableNetwork } from "../components/product/ProductDetails.tsx";
 
 export const getShareLink = (
   { network, productName, url }: {

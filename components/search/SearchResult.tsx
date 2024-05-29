@@ -1,19 +1,19 @@
-import Filters from "$store/components/search/Filters.tsx";
-import SearchControls from "$store/islands/SearchControls.tsx";
+import Filters from "../../components/search/Filters.tsx";
+import SearchControls from "../../islands/SearchControls.tsx";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
-import { useOffer } from "$store/sdk/useOffer.ts";
+import { useOffer } from "../../sdk/useOffer.ts";
 import ProductGallery, { Columns } from "../product/ProductGallery.tsx";
 import { LoaderReturnType } from "deco/mod.ts";
 import type { ProductListingPage } from "apps/commerce/types.ts";
-import Sort from "$store/islands/Sort.tsx";
-import SearchPagination from "$store/components/search/SearchPagination.tsx";
-import { DiscountBadgeColors } from "$store/components/product/DiscountBadge.tsx";
+import Sort from "../../islands/Sort.tsx";
+import SearchPagination from "../../components/search/SearchPagination.tsx";
+import { DiscountBadgeColors } from "../../components/product/DiscountBadge.tsx";
 import { Section } from "deco/blocks/section.ts";
-import { Layout } from "$store/components/product/ProductCard.tsx";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import { Layout } from "../../components/product/ProductCard.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
 import { isArray } from "https://deno.land/x/djwt@v2.8/util.ts";
-import { SendEventOnView } from "$store/components/Analytics.tsx";
-import { useId } from "$store/sdk/useId.ts";
+import { SendEventOnView } from "../../components/Analytics.tsx";
+import { useId } from "../../sdk/useId.ts";
 
 export interface DiscountBadgeProps {
   label: string;

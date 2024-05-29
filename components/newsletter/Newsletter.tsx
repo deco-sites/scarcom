@@ -1,7 +1,7 @@
 import {
   BUTTON_VARIANTS,
   ButtonVariant,
-} from "$store/components/minicart/Cart.tsx";
+} from "../../components/minicart/Cart.tsx";
 import { useSignal } from "@preact/signals";
 import type { JSX } from "preact";
 

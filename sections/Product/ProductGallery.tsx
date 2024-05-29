@@ -1,7 +1,7 @@
 import { Product } from "apps/commerce/types.ts";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
 
-import ProductCard, { Layout } from "$store/components/product/ProductCard.tsx";
+import ProductCard, { Layout } from "../../components/product/ProductCard.tsx";
 
 export interface Columns {
   mobile?: number;

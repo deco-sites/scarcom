@@ -1,1 +1,1 @@
-export { default } from "$store/components/product/AddToCartActions.tsx";
+export { default } from "../components/product/AddToCartActions.tsx";

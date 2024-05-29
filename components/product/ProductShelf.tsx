@@ -1,19 +1,19 @@
 import { LoaderReturnType } from "deco/mod.ts";
-import type { Layout as CardLayout } from "$store/components/product/ProductCard.tsx";
-import ProductCard from "$store/components/product/ProductCard.tsx";
+import type { Layout as CardLayout } from "../../components/product/ProductCard.tsx";
+import ProductCard from "../../components/product/ProductCard.tsx";
 import {
   CONDITIONAL_RESPONSIVE_PARAMS,
   ResponsiveConditionals,
-} from "$store/components/ui/BannerCarousel.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import Header from "$store/components/ui/SectionHeader.tsx";
-import Slider from "$store/components/ui/Slider.tsx";
-import { SendEventOnView } from "$store/components/Analytics.tsx";
-import { useOffer } from "$store/sdk/useOffer.ts";
+} from "../../components/ui/BannerCarousel.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import Header from "../../components/ui/SectionHeader.tsx";
+import Slider from "../../components/ui/Slider.tsx";
+import { SendEventOnView } from "../../components/Analytics.tsx";
+import { useOffer } from "../../sdk/useOffer.ts";
 import type { Product } from "apps/commerce/types.ts";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import { useId } from "preact/hooks";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
 
 export interface Props {
   products: LoaderReturnType<Product[] | null>;

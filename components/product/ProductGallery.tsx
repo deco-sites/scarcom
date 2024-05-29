@@ -1,5 +1,5 @@
 import { Product } from "apps/commerce/types.ts";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
 
 import ProductCard, { Layout } from "./ProductCard.tsx";
 

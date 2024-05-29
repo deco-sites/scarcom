@@ -1,11 +1,11 @@
-import Button from "$store/components/ui/Button.tsx";
+import Button from "../../components/ui/Button.tsx";
 import {
   Options as UseAddToCartProps,
   useAddToCart,
-} from "$store/sdk/useAddToCart.ts";
-import Icon from "$store/components/ui/Icon.tsx";
+} from "../../sdk/useAddToCart.ts";
+import Icon from "../../components/ui/Icon.tsx";
 import { useEffect } from "preact/compat";
-import AlertModal from "$store/components/ui/AlertModal.tsx";
+import AlertModal from "../../components/ui/AlertModal.tsx";
 import { useSignal } from "@preact/signals";
 import { Suspense } from "preact/compat";
 

@@ -1,8 +1,8 @@
-import { ICartProps } from "$store/components/minicart/Cart.tsx";
-import { EditableProps as SearchbarProps } from "$store/components/search/Searchbar.tsx";
-import Buttons from "$store/islands/HeaderButton.tsx";
-import Modals from "$store/islands/HeaderModals.tsx";
-import SearchBar from "$store/islands/HeaderSearchbar.tsx";
+import { ICartProps } from "../../components/minicart/Cart.tsx";
+import { EditableProps as SearchbarProps } from "../../components/search/Searchbar.tsx";
+import Buttons from "../../islands/HeaderButton.tsx";
+import Modals from "../../islands/HeaderModals.tsx";
+import SearchBar from "../../islands/HeaderSearchbar.tsx";
 import NavItem, { INavItem } from "./NavItem.tsx";
 import { megaMenuDefaultItems } from "./constants.ts";
 import type { ImageWidget } from "apps/admin/widgets.ts";

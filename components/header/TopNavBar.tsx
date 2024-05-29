@@ -1,5 +1,5 @@
-import Icon, { AvailableIcons } from "$store/components/ui/Icon.tsx";
-import Slider from "$store/components/ui/Slider.tsx";
+import Icon, { AvailableIcons } from "../../components/ui/Icon.tsx";
+import Slider from "../../components/ui/Slider.tsx";
 import Image from "apps/website/components/Image.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 

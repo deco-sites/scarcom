@@ -1,4 +1,4 @@
-import { formatPrice } from "$store/sdk/format.ts";
+import { formatPrice } from "../../sdk/format.ts";
 import type {
   Filter,
   FilterToggle,

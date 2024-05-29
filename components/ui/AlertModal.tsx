@@ -1,8 +1,8 @@
 import { useSignal } from "@preact/signals";
 import { useEffect, useRef } from "preact/hooks";
 import type { JSX } from "preact";
-import Icon from "$store/components/ui/Icon.tsx";
-import Button from "$store/components/ui/Button.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import Button from "../../components/ui/Button.tsx";
 
 type Props = JSX.IntrinsicElements["dialog"] & {
   loading?: "lazy" | "eager";

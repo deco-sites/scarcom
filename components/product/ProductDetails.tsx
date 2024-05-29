@@ -1,23 +1,23 @@
 import { useId } from "preact/hooks";
-import ShippingSimulation from "$store/islands/ShippingSimulation.tsx";
-import Breadcrumb from "$store/components/ui/Breadcrumb.tsx";
+import ShippingSimulation from "../../islands/ShippingSimulation.tsx";
+import Breadcrumb from "../../components/ui/Breadcrumb.tsx";
 import Image from "apps/website/components/Image.tsx";
-import OutOfStock from "$store/islands/OutOfStock.tsx";
-import { useOffer } from "$store/sdk/useOffer.ts";
-import { formatPrice } from "$store/sdk/format.ts";
-// import { SendEventOnLoad } from "$store/sdk/analytics.tsx";
+import OutOfStock from "../../islands/OutOfStock.tsx";
+import { useOffer } from "../../sdk/useOffer.ts";
+import { formatPrice } from "../../sdk/format.ts";
+// import { SendEventOnLoad } from "../../sdk/analytics.tsx";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
 import { LoaderReturnType } from "deco/mod.ts";
-import AddToCartActions from "$store/islands/AddToCartActions.tsx";
-import Icon from "$store/components/ui/Icon.tsx";
-import { getShareLink } from "$store/sdk/shareLinks.tsx";
-import SliderProductShowcase from "$store/islands/SliderProductShowcase.tsx";
-import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import AddToCartActions from "../../islands/AddToCartActions.tsx";
+import Icon from "../../components/ui/Icon.tsx";
+import { getShareLink } from "../../sdk/shareLinks.tsx";
+import SliderProductShowcase from "../../islands/SliderProductShowcase.tsx";
+import { HighLight } from "../../components/product/ProductHighlights.tsx";
 
 import ProductSelector from "./ProductVariantSelector.tsx";
 import { Section } from "deco/blocks/section.ts";
-import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
+import { DiscountBadgeProps } from "../../components/product/DiscountBadge.tsx";
 
 export type Variant = "front-back" | "slider" | "auto";
 

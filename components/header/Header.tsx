@@ -1,4 +1,4 @@
-import { AppContext } from "$store/apps/site.ts";
+import { AppContext } from "../../apps/site.ts";
 import type { SectionProps } from "deco/types.ts";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import { SearchButton } from "../../islands/Header/Buttons.tsx";

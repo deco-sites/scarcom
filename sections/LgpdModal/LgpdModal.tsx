@@ -1,1 +1,1 @@
-export { default, loader } from "$store/components/ui/LgpdModal.tsx";
+export { default, loader } from "../../components/ui/LgpdModal.tsx";
