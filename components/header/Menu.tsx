@@ -1,5 +1,5 @@
 import Icon from "../../components/ui/Icon.tsx";
-import { useUI } from "../sdk/useUI.ts";
+import { useUI } from "../../sdk/useUI.ts";
 import type { INavItem } from "./NavItem.tsx";
 import { useUser } from "apps/vtex/hooks/useUser.ts";
 

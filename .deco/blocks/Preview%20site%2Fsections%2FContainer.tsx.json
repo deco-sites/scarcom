@@ -1,5 +1,6 @@
 {
   "__resolveType": "site/sections/Container.tsx",
+  "label": "\"Container\"",
   "sections": [
     {
       "section": {
@@ -52,9 +53,5 @@
       "verticalSpacing": "top",
       "label": "Carousel"
     }
-  ],
-  "label": "\"Container\"",
-  "images": [],
-  "showPaginationArrows": "Always",
-  "showPaginationDots": "Always"
+  ]
 }
