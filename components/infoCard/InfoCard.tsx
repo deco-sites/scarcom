@@ -91,7 +91,7 @@ export default function InfoCard(
         ? (
           <div
             dangerouslySetInnerHTML={{ __html: html }}
-            class="text-neutral font-normal text-sm max-w-5xl m-auto pb-12"
+            class="text-secondary font-normal text-sm max-w-5xl m-auto pb-12"
           />
         )
         : null}
