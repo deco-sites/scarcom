@@ -6,6 +6,7 @@ export interface Props {
   description?: string;
   alignment?: "center" | "left";
   colorReverse?: boolean;
+  tailwind?: string;
 }
 
 const fontSizeClasses = {
@@ -33,6 +34,7 @@ function Header(props: Props) {
                       ? "text-primary-content"
                       : "text-base-content",
                     fontSizeClasses[props.fontSize || "Normal"],
+                    props?.tailwind,
                   )}
                 >
                   {props.title}
