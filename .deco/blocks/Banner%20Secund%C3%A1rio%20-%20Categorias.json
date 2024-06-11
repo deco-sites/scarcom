@@ -1,12 +1,12 @@
 {
   "__resolveType": "site/sections/Container.tsx",
+  "label": "\"Container\"",
   "sections": [
     {
       "section": {
         "__resolveType": "site/sections/Images/ImageGallery.tsx",
         "images": [
           {
-            "alt": "relogioanel",
             "backgroundColorHover": "primary",
             "borderRadius": {
               "mobile": "xl",
@@ -17,11 +17,11 @@
               "desktop": "none"
             },
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
+            "alt": "relogioanel",
             "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
             "href": "/relogioanel"
           },
           {
-            "alt": "relogioanel",
             "backgroundColorHover": "primary",
             "borderRadius": {
               "mobile": "xl",
@@ -32,11 +32,11 @@
               "desktop": "none"
             },
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
+            "alt": "relogioanel",
             "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
             "href": "/relogioanel"
           },
           {
-            "alt": "relogioanel",
             "backgroundColorHover": "primary",
             "borderRadius": {
               "mobile": "xl",
@@ -47,6 +47,7 @@
               "desktop": "none"
             },
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
+            "alt": "relogioanel",
             "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
             "href": "/relogioanel"
           }
@@ -60,6 +61,5 @@
       "label": "ImageGallery",
       "withContainer": true
     }
-  ],
-  "label": "\"Container\""
+  ]
 }

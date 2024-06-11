@@ -332,5 +332,53 @@
   "/.deco/blocks/Preview%20%2Fsections%2FImages%2FCarousel.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/Carousel.tsx"
+  },
+  "/.deco/blocks/Preview%20%2Fsections%2FContainer.tsx.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Banner%20Secund%C3%A1rio%20-%20Categorias.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Home%20-%20Carousel.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Home%20-%20Prateleira%20Cole%C3%A7%C3%A3o.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Footer%20Global.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Banners%20Terci%C3%A1rio%20-%20Grid.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Instagram%20-%20Imagens.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Sobre%20a%20loja%20-%20InfoCard.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Categoria%20-%20Breadcrumb.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/SearchResults%20Category.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Categoria%20-%20Banner.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Produtos%20relacionados%20.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
   }
 }
