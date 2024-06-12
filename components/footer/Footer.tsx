@@ -41,7 +41,7 @@ function SectionItem({ item }: { item: Item }) {
           <a
             href={item.href}
             target={item?.target ? item?.target : undefined}
-            class="max-md:text-sm text-xs font-normal text-base-300 hover:text-emphasis transition-all duration-500"
+            class="max-md:text-sm text-xs font-normal text-base hover:text-emphasis transition-all duration-500"
           >
             {item.label}
           </a>
@@ -150,7 +150,7 @@ function Footer(
               </div>
             )}
             <span
-              class="text-base-300 text-left text-xs font-normal mt-3 block leading-6"
+              class="text-base text-left text-xs font-normal mt-3 block leading-6"
               dangerouslySetInnerHTML={{
                 __html: openingHours,
               }}
@@ -217,7 +217,7 @@ function Footer(
               <ul class="flex items-center w-full lg:w-auto max-lg:justify-center flex-wrap gap-8">
                 {poweredby?.map((item) => (
                   <li class="flex items-center gap-2">
-                    <span class="text-neutral text-[10px]">
+                    <span class="text-black text-[10px]">
                       {item.label}
                     </span>
                     <img

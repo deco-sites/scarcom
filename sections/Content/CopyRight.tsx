@@ -12,7 +12,7 @@ export default function CopryRight(props: Props) {
   }
 
   return (
-    <div class="text-center mt-12 py-5 text-base-300 text-xs font-normal max-md:mt-4">
+    <div class="text-center mt-12 py-5 text-base text-xs font-normal max-md:mt-4">
       {props.copyRight}
     </div>
   );
