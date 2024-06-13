@@ -7,7 +7,7 @@
         "alerts": [
           {
             "idIcon": "",
-            "textAlert": "atendimento@timecenter.com.br",
+            "textAlert": "Frete grátis acima de R$ 450",
             "textColor": "#ffffff",
             "alt": "Frete grátis acima de R$ 450"
           },
@@ -42,7 +42,9 @@
       "section": {
         "__resolveType": "site/sections/Header/HeaderLayout.tsx",
         "logo": {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca"
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca",
+          "width": 150,
+          "height": 50
         },
         "navItems": [
           {

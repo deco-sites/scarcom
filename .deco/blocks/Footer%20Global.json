@@ -58,31 +58,26 @@
           }
         ],
         "logo": {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/09ffb3e1-5018-453d-9819-d4c605153c7c"
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca"
         },
         "socialNetWorks": [
           {
             "icon": "Facebook",
             "label": "Facebook",
-            "href": "https://www.facebook.com/euroacessorios"
+            "href": "https://www.facebook.com/Scarcom"
           },
           {
             "icon": "Instagram",
             "label": "Instagram",
-            "href": "https://www.instagram.com/estiloeuro/"
+            "href": "https://www.instagram.com/scarcom_informatica/"
           },
           {
-            "icon": "YouTube",
-            "label": "Youtube",
-            "href": "https://www.youtube.com/@eurorelogios"
-          },
-          {
-            "icon": "Tiktok",
-            "label": "Tiktok",
-            "href": "https://www.tiktok.com/@estiloeuro"
+            "icon": "Twitter",
+            "label": "Twitter",
+            "href": "https://x.com/scarcom"
           }
         ],
-        "openingHours": "Seg. à Sex. das 09:00h às 18:00h <br /> Sábado das 10:00h às 14:00h",
+        "openingHours": "<p>Seg. à Sex. das 09:00h às 18:00h<br></p>",
         "payments": [
           {
             "alt": "Mastercard",
@@ -127,7 +122,7 @@
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/685dcc4c-2b15-42ae-9d26-dc6915e1049c"
           }
         ],
-        "email": "atendimento@eurorelogios.com.br"
+        "email": "atendimento@scarcom.com.br"
       },
       "shadow": "none",
       "overFlow": "overflow-none",
@@ -139,7 +134,7 @@
     {
       "section": {
         "__resolveType": "site/sections/Content/CopyRight.tsx",
-        "copyRight": "Est. Luiz Lopes Neto, 21 - Galpão A - Modulo 4 Do Tenentes - Extrema - MG - Cep: 37.640-000 CNPJ: 28.778.134/0026-05"
+        "copyRight": "Av. Fagundes Filho, 145 - sala 55 - São Judas - São Paulo - SP - CEP 04304-010 - CNPJ: 10.896.683/0001-60"
       },
       "shadow": "none",
       "overFlow": "overflow-none",
