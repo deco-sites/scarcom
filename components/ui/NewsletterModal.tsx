@@ -242,7 +242,7 @@ function NewsletterModal(
     <>
       <dialog
         ref={modalRef}
-        class="modal-euro bg-secondary bg-opacity-70 items-center"
+        class="modal-euro bg-black bg-opacity-70 items-center"
       >
         <form method="dialog" class="modal-box overflow-visible p-10 max-w-sm">
           <div class="flex text-secondary-content justify-center items-center absolute right-2 -top-10">
@@ -251,7 +251,7 @@ function NewsletterModal(
             <button
               onClick={() =>
                 setCookieOnCloseModal("closed", modalCloseExpiredDate)}
-              class="btn btn-sm btn-circle btn-ghost focus:outline-none"
+              class="btn btn-sm btn-circle btn-ghost focus:outline-none bg-transparent"
               aria-label="Fechar"
             >
               <Icon
