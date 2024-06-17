@@ -1,13 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-    "title": "Storefront",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca",
+    "title": "Scarcom",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx ",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx"
+    "description": "Scarcom.com.br. Confira nossa linha de Computadores, Redes, Memórias, Placas de Vídeo, HD, SSD, Roteadores e toda linha completa para empresa.",
+    "titleTemplate": "%s | Scarcom",
+    "descriptionTemplate": "%s | Scarcom",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/20b0dd49-aa86-431a-af9e-38b0df84cc9a"
   },
   "theme": {
     "__resolveType": "Fashion theme"
