@@ -23,6 +23,12 @@
     },
     {
       "__resolveType": "Footer Global"
+    },
+    {
+      "__resolveType": "LgpdModal"
+    },
+    {
+      "__resolveType": "NewsletterModal"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",

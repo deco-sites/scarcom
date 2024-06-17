@@ -380,5 +380,13 @@
   "/.deco/blocks/Produtos%20relacionados%20.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/LgpdModal.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/LgpdModal/LgpdModal.tsx"
+  },
+  "/.deco/blocks/NewsletterModal.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Newsletter/NewsletterModal.tsx"
   }
 }
