@@ -83,7 +83,7 @@ function LgpdModal(
     <>
       <dialog
         ref={modalRef}
-        class="modal-euro bg-secondary bg-opacity-70"
+        class="modal-time bg-black bg-opacity-70"
       >
         <div class="overflow-visible px-10 py-2 mb-5 self-end flex flex-row items-center max-w-6xl rounded-2xl bg-base-100">
           <div

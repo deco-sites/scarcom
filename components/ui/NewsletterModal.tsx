@@ -242,7 +242,7 @@ function NewsletterModal(
     <>
       <dialog
         ref={modalRef}
-        class="modal-euro bg-secondary bg-opacity-70 items-center"
+        class="modal-time bg-secondary bg-opacity-70 items-center"
       >
         <form method="dialog" class="modal-box overflow-visible p-10 max-w-sm">
           <div class="flex text-secondary-content justify-center items-center absolute right-2 -top-10">
