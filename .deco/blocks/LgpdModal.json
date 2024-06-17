@@ -2,7 +2,7 @@
   "__resolveType": "site/sections/LgpdModal/LgpdModal.tsx",
   "button": {
     "variant": "primary",
-    "label": "cadastrar"
+    "label": "Concordo"
   },
   "text": "<p>Coletamos dados para melhorar a segurança, desempenho do site e personalizar anúncios e conteúdos. Você pode configurar suas preferências em nosso site e conferir nossa <a class=\"underline\" href=\"https://www.eurorelogios.com.br/institucional/privacidade-e-seguranca\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.eurorelogios.com.br/institucional/privacidade-e-seguranca\" data-mce-selected=\"inline-boundary\">Política de Privacidade.</a></p>",
   "modalCloseExpiredDate": 30
