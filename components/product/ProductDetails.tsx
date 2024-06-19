@@ -1,23 +1,23 @@
 import { useId } from "preact/hooks";
-import ShippingSimulation from "../../islands/ShippingSimulation.tsx";
-import Breadcrumb from "../../components/ui/Breadcrumb.tsx";
+import ShippingSimulation from "$store/islands/ShippingSimulation.tsx";
+import Breadcrumb from "$store/components/ui/Breadcrumb.tsx";
 import Image from "apps/website/components/Image.tsx";
-import OutOfStock from "../../islands/OutOfStock.tsx";
-import { useOffer } from "../../sdk/useOffer.ts";
-import { formatPrice } from "../../sdk/format.ts";
-// import { SendEventOnLoad } from "../../sdk/analytics.tsx";
-import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
+import OutOfStock from "$store/islands/OutOfStock.tsx";
+import { useOffer } from "$store/sdk/useOffer.ts";
+import { formatPrice } from "$store/sdk/format.ts";
+// import { SendEventOnLoad } from "$store/sdk/analytics.tsx";
+// import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
 import { LoaderReturnType } from "deco/mod.ts";
-import AddToCartActions from "../../islands/AddToCartActions.tsx";
-import Icon from "../../components/ui/Icon.tsx";
-import { getShareLink } from "../../sdk/shareLinks.tsx";
-import SliderProductShowcase from "../../islands/SliderProductShowcase.tsx";
-import { HighLight } from "../../components/product/ProductHighlights.tsx";
+import AddToCartActions from "$store/islands/AddToCartActions.tsx";
+import Icon from "$store/components/ui/Icon.tsx";
+import { getShareLink } from "$store/sdk/shareLinks.tsx";
+import SliderProductShowcase from "$store/islands/SliderProductShowcase.tsx";
+import { HighLight } from "$store/components/product/ProductHighlights.tsx";
 
 import ProductSelector from "./ProductVariantSelector.tsx";
 import { Section } from "deco/blocks/section.ts";
-import { DiscountBadgeProps } from "../../components/product/DiscountBadge.tsx";
+import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
 
 export type Variant = "front-back" | "slider" | "auto";
 
@@ -71,7 +71,7 @@ function ProductInfo({
   shipmentPolitics?: Props["shipmentPolitics"];
   shareableNetworks?: Props["shareableNetworks"];
 }) {
-  const { breadcrumbList, product } = page;
+  const { product } = page;
   const {
     description,
     productID,
@@ -228,34 +228,36 @@ function ProductInfo({
         </div>
       </div>
       {/* Prices */}
-      <div class="mt-5">
-        <div class="flex flex-row gap-2 items-center">
-          {listPrice !== price && (
-            <span class="line-through text-base-300 text-xs">
-              {formatPrice(listPrice, offers!.priceCurrency!)}
+      {availability === "https://schema.org/InStock" && (
+        <div class="mt-5">
+          <div class="flex flex-row gap-2 items-center">
+            {listPrice !== price && (
+              <span class="line-through text-base-300 text-xs">
+                {formatPrice(listPrice, offers!.priceCurrency!)}
+              </span>
+            )}
+            <span class="font-medium text-xl lg:text-2xl uppercase text-primary">
+              {formatPrice(price, offers!.priceCurrency!)}
             </span>
-          )}
-          <span class="font-medium text-xl lg:text-2xl uppercase text-primary">
-            {formatPrice(price, offers!.priceCurrency!)}
-          </span>
+          </div>
+          <span>{installments}</span>
         </div>
-        <span>
-          {installments}
-        </span>
-      </div>
+      )}
       {/* Measurement chart */}
-      <div class="mt-4 sm:mt-5">
-        <a
-          class="text-sm underline"
-          href="https://technos.vtexcommercestable.com.br/api/dataentities/MI/documents/405a6e7f-cce7-11ed-83ab-02f9c48fe6b5/file/attachments/GuiaDeMedidasTechnos.pdf"
-          target="_blank"
-          data-gtm-vis-first-on-screen387253_693="1145"
-          data-gtm-vis-total-visible-time387253_693="100"
-          data-gtm-vis-has-fired387253_693="1"
-        >
-          Tabela de Medidas
-        </a>
-      </div>
+      {availability === "https://schema.org/InStock" && (
+        <div class="mt-4 sm:mt-5">
+          <a
+            class="text-sm underline"
+            href="https://technos.vtexcommercestable.com.br/api/dataentities/MI/documents/405a6e7f-cce7-11ed-83ab-02f9c48fe6b5/file/attachments/GuiaDeMedidasTechnos.pdf"
+            target="_blank"
+            data-gtm-vis-first-on-screen387253_693="1145"
+            data-gtm-vis-total-visible-time387253_693="100"
+            data-gtm-vis-has-fired387253_693="1"
+          >
+            Tabela de Medidas
+          </a>
+        </div>
+      )}
       {/* Sku Selector */}
       <div class="mt-4 sm:mt-5">
         <ProductSelector product={product} />
