@@ -732,7 +732,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 30,
+                "width": 33.43789209535759,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -754,7 +754,7 @@
               },
               {
                 "type": "stack",
-                "width": 70,
+                "width": 66.5621079046424,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1003,7 +1003,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 30,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1025,7 +1025,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 70,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1064,7 +1064,8 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2FFooter%2520Global.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null
+            "__signal": null,
+            "value": null
           }
         },
         "%2F.deco%2Fblocks%2FFooter%2520Global.json::Preview::world::Preview::%7B%7D": {
