@@ -45,7 +45,7 @@
     height: 100vh;
   }
 
-  .modal-euro {
+  .modal-time {
     pointer-events: none;
     position: fixed;
     inset: 0;
@@ -68,12 +68,12 @@
     overflow-y: hidden;
   }
 
-  .modal-euro[open] {
+  .modal-time[open] {
     pointer-events: auto;
     visibility: visible;
   }
 
-  .modal-euro::backdrop, .modal-euro:not(dialog:not(.modal-euro-open)) {
+  .modal-time::backdrop, .modal-time:not(dialog:not(.modal-time-open)) {
     background-color: rgba(0,0,0,.3);
     animation: modal-pop .2s ease-out
   }
