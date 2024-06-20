@@ -5,8 +5,21 @@ import Buttons from "$store/islands/HeaderButton.tsx";
 import Modals from "$store/islands/HeaderModals.tsx";
 import SearchBar from "$store/islands/HeaderSearchbar.tsx";
 import BuyWarning from "$store/islands/BuyWarning.tsx";
+import type { ImageWidget } from "apps/admin/widgets.ts";
+import Image from "apps/website/components/Image.tsx";
+import { FnContext, SectionProps } from "deco/mod.ts";
 
 export interface Props {
+  /**
+   * @title Logo
+   * @description logo desktop e mobile
+   */
+  logo?: {
+    image?: ImageWidget;
+    width?: number;
+    height?: number;
+  };
+
   /**
    * @title Minicart settings
    */
@@ -21,15 +34,25 @@ function HeaderLayout(
   {
     minicart,
     searchbar,
-  }: Props,
+    logo,
+    device,
+  }: SectionProps<ReturnType<typeof loader>>,
 ) {
   return (
     <header class="z-50 py-2">
       <div class="flex justify-between items-center lg:p-0">
         <div class="flex items-center gap-5">
-          <Buttons variant="menu" />
+        {device === "mobile" ? <Buttons variant="menu" /> : null}
           <a href="/" class="" aria-label="Store logo">
-            <Icon id="Logo" class="max-w-[33vw]" width={142} height={61} />
+            {(logo?.image) && (
+                <Image
+                  src={logo?.image}
+                  width={logo?.width ?? 91}
+                  height={logo?.height ?? 17}
+                  alt="Logo"
+                  title="Logo"
+                />
+              )}
           </a>
         </div>
         <div class="max-lg:hidden flex justify-between">
@@ -65,5 +88,12 @@ function HeaderLayout(
     </header>
   );
 }
+
+export const loader = (props: Props, _req: Request, ctx: FnContext) => {
+  return {
+    ...props,
+    device: ctx.device,
+  };
+};
 
 export default HeaderLayout;

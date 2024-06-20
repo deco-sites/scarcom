@@ -132,7 +132,7 @@ function NavItem({ item }: { item: INavItem }) {
         }`}
       >
         {highlighted && (
-          <Icon id="Menu" width={18} height={18} strokeWidth={1} />
+          <Icon id="AllCategories" width={18} height={18} strokeWidth={1} />
         )}
         <span
           class={`relative text-sm transition-all font-bold duration-300 ${
