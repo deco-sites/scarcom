@@ -1,49 +1,71 @@
-import { AppContext } from "../../apps/site.ts";
-import type { SectionProps } from "deco/types.ts";
-import type { ImageWidget } from "apps/admin/widgets.ts";
-import { SearchButton } from "../../islands/Header/Buttons.tsx";
-import { useUI } from "../../sdk/useUI.ts";
-import { usePlatform } from "../../sdk/usePlatform.tsx";
-import CartButtonLinx from "../../islands/Header/Cart/linx.tsx";
-import CartButtonShopify from "../../islands/Header/Cart/shopify.tsx";
-import CartButtonVDNA from "../../islands/Header/Cart/vnda.tsx";
-import CartButtonVTEX from "../../islands/Header/Cart/vtex.tsx";
-import CartButtonWake from "../../islands/Header/Cart/wake.tsx";
-import CartButtonNuvemshop from "../../islands/Header/Cart/nuvemshop.tsx";
+import { LoaderReturnType } from "deco/mod.ts";
+import type { EditableProps as SearchbarProps } from "$store/components/search/Searchbar.tsx";
+import Modals from "$store/islands/HeaderModals.tsx";
+import type { Product, Suggestion } from "apps/commerce/types.ts";
+// import type { Image } from "deco-sites/std/components/types.ts";
 
-export interface Props {
-  /**
-   * @title Logo
-   * @description logo desktop e mobile
-   */
-  logo?: {
-    image?: ImageWidget;
-    width?: number;
-    height?: number;
+import { headerHeight } from "./constants.ts";
+
+export interface NavItem {
+  label: string;
+  href: string;
+  children?: Array<{
+    label: string;
+    href: string;
+    children?: Array<{
+      label: string;
+      href: string;
+    }>;
+  }>;
+  image?: {
+    src?: string;
+    alt?: string;
   };
 }
 
-function Header({}: SectionProps<typeof loader>) {
-  const platform = usePlatform();
+export interface Props {
+  /** @title Search Bar */
+  searchbar?: SearchbarProps;
+  /**
+   * @title Navigation items
+   * @description Navigation items used both on mobile and desktop menus
+   */
+  navItems?: NavItem[];
+
+  /**
+   * @title Product suggestions
+   * @description Product suggestions displayed on search
+   */
+  products?: LoaderReturnType<Product[] | null>;
+
+  /**
+   * @title Enable Top Search terms
+   */
+  suggestions?: LoaderReturnType<Suggestion | null>;
+}
+
+function Header(
+  {
+    searchbar: _searchbar,
+    products,
+    navItems = [],
+    suggestions,
+  }: Props,
+) {
+  const searchbar = { ..._searchbar, products, suggestions };
   return (
     <>
-      <header class="z-50 lg:p-0 py-2">
-        <SearchButton />
+      <header style={{ height: headerHeight }}>
+        <div class="bg-base-100 fixed w-full z-50">
+        </div>
 
-        dd
-        {platform === "vtex" && <CartButtonVTEX />}
-        {platform === "vnda" && <CartButtonVDNA />}
-        {platform === "wake" && <CartButtonWake />}
-        {platform === "linx" && <CartButtonLinx />}
-        {platform === "shopify" && <CartButtonShopify />}
-        {platform === "nuvemshop" && <CartButtonNuvemshop />}
+        <Modals
+          menu={{ items: navItems }}
+          // searchbar={searchbar}
+        />
       </header>
     </>
   );
 }
-
-export const loader = (props: Props, _req: Request, ctx: AppContext) => {
-  return { ...props, device: ctx.device };
-};
 
 export default Header;

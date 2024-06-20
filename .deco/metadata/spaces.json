@@ -5,6 +5,26 @@
       "name": "Site Home",
       "pinned": true,
       "icon": "home",
+      "layout": [],
+      "tabs": {
+        "dashboard::Home::home::Home::%7B%7D": {
+          "name": "Home",
+          "icon": "home",
+          "render": "function",
+          "viewId": "Home",
+          "id": "dashboard::Home::home::Home::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        }
+      },
+      "category": "Highlights"
+    },
+    {
+      "id": "pages",
+      "name": "Pages",
+      "pinned": true,
+      "icon": "files",
       "layout": {
         "settings": {
           "hasHeaders": true,
@@ -51,12 +71,12 @@
                 "activeItemIndex": 0,
                 "content": [
                   {
-                    "id": "dashboard::Home::home::Home::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-dashboard::Home::home::Home::%7B%7D\" />",
+                    "id": "pages::List::list::List::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-pages::List::list::List::%7B%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
-                      "id": "dashboard::Home::home::Home::%7B%7D"
+                      "id": "pages::List::list::List::%7B%7D"
                     },
                     "isClosable": true,
                     "reorderEnabled": true
@@ -72,26 +92,6 @@
         "openPopouts": [],
         "maximisedItemId": null
       },
-      "tabs": {
-        "dashboard::Home::home::Home::%7B%7D": {
-          "name": "Home",
-          "icon": "home",
-          "render": "function",
-          "viewId": "Home",
-          "id": "dashboard::Home::home::Home::%7B%7D",
-          "state": {
-            "__signal": null
-          }
-        }
-      },
-      "category": "Highlights"
-    },
-    {
-      "id": "pages",
-      "name": "Pages",
-      "pinned": true,
-      "icon": "files",
-      "layout": [],
       "tabs": {
         "pages::List::list::List::%7B%7D": {
           "name": "List",
@@ -798,7 +798,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 30,
+                "width": 21.186440677966107,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -820,7 +820,7 @@
               },
               {
                 "type": "stack",
-                "width": 70,
+                "width": 32.686488173589716,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -835,6 +835,27 @@
                       "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::world::Preview::%7B%7D"
                     },
                     "width": 70,
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 46.12707114844418,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Code::code::Code::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2FHeader%2520Global.json%22%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Code::code::Code::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2FHeader%2520Global.json%22%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Code::code::Code::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2FHeader%2520Global.json%22%7D"
+                    },
                     "isClosable": true,
                     "reorderEnabled": true
                   }
@@ -859,8 +880,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::world::Preview::%7B%7D": {
@@ -871,6 +891,20 @@
           "viewId": "Preview",
           "width": 70,
           "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Preview::world::Preview::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        },
+        "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Code::code::Code::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2FHeader%2520Global.json%22%7D": {
+          "name": "Code",
+          "icon": "code",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "Code",
+          "viewProps": {
+            "spaceId": "/.deco/blocks/Header%20Global.json"
+          },
+          "id": "%2F.deco%2Fblocks%2Fpages-home-c4bcbfb771e9.json::Code::code::Code::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2FHeader%2520Global.json%22%7D",
           "state": {
             "__signal": null
           }
@@ -947,7 +981,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 21.186440677966107,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -969,7 +1003,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 36.53566921333677,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -984,6 +1018,27 @@
                       "id": "%2F.deco%2Fblocks%2FHeader%2520Global.json::Preview::world::Preview::%7B%7D"
                     },
                     "width": 70,
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 42.27789010869713,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%2F.deco%2Fblocks%2FHeader%2520Global.json::JSON%20Properties::braces::JSON%20Properties::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FHeader%2520Global.json::JSON%20Properties::braces::JSON%20Properties::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2FHeader%2520Global.json::JSON%20Properties::braces::JSON%20Properties::%7B%7D"
+                    },
                     "isClosable": true,
                     "reorderEnabled": true
                   }
@@ -1019,6 +1074,17 @@
           "viewId": "Preview",
           "width": 70,
           "id": "%2F.deco%2Fblocks%2FHeader%2520Global.json::Preview::world::Preview::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        },
+        "%2F.deco%2Fblocks%2FHeader%2520Global.json::JSON%20Properties::braces::JSON%20Properties::%7B%7D": {
+          "name": "JSON Properties",
+          "icon": "braces",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "JSON Properties",
+          "id": "%2F.deco%2Fblocks%2FHeader%2520Global.json::JSON%20Properties::braces::JSON%20Properties::%7B%7D",
           "state": {
             "__signal": null
           }
