@@ -17,7 +17,7 @@ function HeaderNavMenu(
 ) {
   return (
     <div class="z-50">
-      <div class="flex justify-between items-center lg:p-0">
+      <div class="flex justify-between items-center lg:p-0 bg-primary">
         <div class="container px-5 m-auto max-lg:hidden flex justify-between flex-1 whitespace-nowrap">
           {navItems && navItems?.length
             ? navItems?.map((item) => <NavItem key={item.label} item={item} />)

@@ -138,7 +138,7 @@ function NavItem({ item }: { item: INavItem }) {
           class={`relative text-sm transition-all font-bold duration-300 ${
             highlighted
               ? "text-primary"
-              : "text-primary group-hover:text-secondary"
+              : "text-white group-hover:text-secondary"
           }`}
         >
           {label}
