@@ -388,5 +388,13 @@
   "/.deco/blocks/Preview%20site%2Fsections%2FProduct%2FProductDetails.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Product/ProductDetails.tsx"
+  },
+  "/.deco/blocks/Header%20Globar.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
+  },
+  "/.deco/blocks/Header%20Global.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Container.tsx"
   }
 }
