@@ -436,5 +436,11 @@
     "path": "/institucional/garantia",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Seguran%25C3%25A7a-701809.json": {
+    "name": "Segurança",
+    "path": "/institucional/seguranca",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
