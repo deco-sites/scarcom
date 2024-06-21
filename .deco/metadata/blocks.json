@@ -408,8 +408,8 @@
     "__resolveType": "site/sections/Institutional/AsideMenu.tsx"
   },
   "/.deco/blocks/pages-Termos%2520e%2520condi%25C3%25A7%25C3%25B5es-737186.json": {
-    "name": "Tipos de Frete",
-    "path": "/institucional/tipos-de-frete",
+    "name": "Formas de Envio",
+    "path": "/institucional/formas-envio",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
