@@ -430,5 +430,11 @@
     "path": "/institucional/contato",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Garantia-644895.json": {
+    "name": "Garantia",
+    "path": "/institucional/garantia",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
