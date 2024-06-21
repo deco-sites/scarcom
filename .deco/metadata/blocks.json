@@ -421,7 +421,7 @@
   },
   "/.deco/blocks/pages-Privacidade%2520e%2520Seguran%25C3%25A7a-443443.json": {
     "name": "Politica de Privacidade",
-    "path": "/institucional/politica-de-privacidade",
+    "path": "/institucional/politica-privacidade",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
