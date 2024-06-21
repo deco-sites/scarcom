@@ -1,6 +1,6 @@
 {
-  "name": "Sobre",
-  "path": "/institucional/sobre",
+  "name": "Quem Somos",
+  "path": "/institucional/quem-somos",
   "sections": [
     {
       "__resolveType": "Analytics"

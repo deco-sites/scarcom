@@ -398,8 +398,8 @@
     "__resolveType": "website/sections/Analytics/Analytics.tsx"
   },
   "/.deco/blocks/pages-Formas%2520de%2520Entrega-736081.json": {
-    "name": "Sobre",
-    "path": "/institucional/sobre",
+    "name": "Quem Somos",
+    "path": "/institucional/quem-somos",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
