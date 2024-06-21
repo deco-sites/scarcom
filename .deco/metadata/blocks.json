@@ -442,5 +442,11 @@
     "path": "/institucional/seguranca",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Trocas%2520e%2520Devolu%25C3%25A7%25C3%25B5es-654106.json": {
+    "name": "Trocas e Devoluções",
+    "path": "/institucional/trocas-devolucoes",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
