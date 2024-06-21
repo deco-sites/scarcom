@@ -1,6 +1,6 @@
 {
-  "name": "Como Comprar",
-  "path": "/institucional/como-comprar",
+  "name": "Formas de Pagamento",
+  "path": "/institucional/formas-pagamento",
   "sections": [
     {
       "__resolveType": "Analytics"
