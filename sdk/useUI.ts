@@ -18,7 +18,7 @@ const state = {
   displaySearchbar,
   displaySearchDrawer,
   displaySearchPopup,
-  displayBuyWarning
+  displayBuyWarning,
 };
 
 export const useUI = () => state;

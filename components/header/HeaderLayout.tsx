@@ -42,17 +42,17 @@ function HeaderLayout(
     <header class="z-50 py-2">
       <div class="flex justify-between items-center lg:p-0">
         <div class="flex items-center gap-5">
-        {device === "mobile" ? <Buttons variant="menu" /> : null}
+          {device === "mobile" ? <Buttons variant="menu" /> : null}
           <a href="/" class="" aria-label="Store logo">
             {(logo?.image) && (
-                <Image
-                  src={logo?.image}
-                  width={logo?.width ?? 91}
-                  height={logo?.height ?? 17}
-                  alt="Logo"
-                  title="Logo"
-                />
-              )}
+              <Image
+                src={logo?.image}
+                width={logo?.width ?? 91}
+                height={logo?.height ?? 17}
+                alt="Logo"
+                title="Logo"
+              />
+            )}
           </a>
         </div>
         <div class="max-lg:hidden flex justify-between">

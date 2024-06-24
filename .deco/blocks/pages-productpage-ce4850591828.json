@@ -6,15 +6,6 @@
   },
   "sections": [
     {
-      "jsonLD": {
-        "__resolveType": "PDP Loader"
-      },
-      "jsonLDs": [
-        {}
-      ],
-      "__resolveType": "commerce/sections/Seo/SeoPDP.tsx"
-    },
-    {
       "__resolveType": "Header Global"
     },
     {
@@ -274,6 +265,16 @@
     },
     {
       "__resolveType": "Footer Global"
+    },
+    {
+      "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
+      "jsonLD": {
+        "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
+        "slug": {
+          "__resolveType": "website/functions/requestToParam.ts",
+          "param": "slug"
+        }
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
