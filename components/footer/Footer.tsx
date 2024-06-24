@@ -3,7 +3,7 @@ import type { ImageWidget } from "apps/admin/widgets.ts";
 import FooterSectionList, { FooterSectionItem } from "./Payments.tsx";
 import SocialNetWorks, { SocialItem } from "./SocialNetWorks.tsx";
 import Image from "apps/website/components/Image.tsx";
-import Zendesk from "../../components/ui/Zendesk.tsx";
+// import Zendesk from "../../components/ui/Zendesk.tsx";
 
 export type IconItem = { icon: AvailableIcons };
 export type StringItem = {
@@ -235,7 +235,7 @@ function Footer(
           </div>
         </div>
       </div>
-      <Zendesk />
+      {/* <Zendesk /> */}
     </footer>
   );
 }
