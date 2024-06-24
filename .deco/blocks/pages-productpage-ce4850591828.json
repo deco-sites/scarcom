@@ -6,8 +6,6 @@
   },
   "sections": [
     {
-<<<<<<< HEAD
-=======
       "__resolveType": "commerce/sections/Seo/SeoPDP.tsx",
       "jsonLD": {
         "__resolveType": "PDP Loader"
@@ -17,7 +15,6 @@
       ]
     },
     {
->>>>>>> origin/main
       "__resolveType": "Header Global"
     },
     {

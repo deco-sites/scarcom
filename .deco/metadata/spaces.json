@@ -1589,11 +1589,7 @@
             "content": [
               {
                 "type": "stack",
-<<<<<<< HEAD
-                "width": 30,
-=======
                 "width": 41.66666666666667,
->>>>>>> origin/main
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1615,11 +1611,7 @@
               },
               {
                 "type": "stack",
-<<<<<<< HEAD
-                "width": 70,
-=======
                 "width": 58.333333333333336,
->>>>>>> origin/main
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -3721,46 +3713,8 @@
       }
     },
     {
-<<<<<<< HEAD
-      "id": "/.deco/blocks/pages-search-2f446eadce44.json",
-      "name": "Search",
-      "pinned": false,
-      "icon": "file",
-      "layout": [],
-      "tabs": {
-        "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Properties::list::Properties::%7B%7D": {
-          "name": "Properties",
-          "icon": "list",
-          "accepts": "function",
-          "render": "function",
-          "viewId": "Properties",
-          "width": 30,
-          "id": "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Properties::list::Properties::%7B%7D",
-          "state": {
-            "__signal": null
-          }
-        },
-        "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Preview::world::Preview::%7B%7D": {
-          "name": "Preview",
-          "icon": "world",
-          "accepts": "function",
-          "render": "function",
-          "viewId": "Preview",
-          "width": 70,
-          "id": "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Preview::world::Preview::%7B%7D",
-          "state": {
-            "__signal": null
-          }
-        }
-      }
-    },
-    {
-      "id": "/.deco/blocks/Categoria%20-%20Breadcrumb.json",
-      "name": "Categoria - Breadcrumb",
-=======
       "id": "/.deco/blocks/Preview%20website%2Fsections%2FAnalytics%2FAnalytics.tsx.json",
       "name": "Preview website/sections/Analytics/Analytics.tsx",
->>>>>>> origin/main
       "pinned": false,
       "icon": "package",
       "layout": {
@@ -3809,21 +3763,12 @@
                 "activeItemIndex": 0,
                 "content": [
                   {
-<<<<<<< HEAD
-                    "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Properties::list::Properties::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Properties::list::Properties::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Properties::list::Properties::%7B%7D"
-=======
                     "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Properties::list::Properties::%7B%7D",
                     "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Properties::list::Properties::%7B%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Properties::list::Properties::%7B%7D"
->>>>>>> origin/main
                     },
                     "width": 30,
                     "isClosable": true,
@@ -3840,21 +3785,12 @@
                 "activeItemIndex": 0,
                 "content": [
                   {
-<<<<<<< HEAD
-                    "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Preview::world::Preview::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Preview::world::Preview::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Preview::world::Preview::%7B%7D"
-=======
                     "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Preview::world::Preview::%7B%7D",
                     "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Preview::world::Preview::%7B%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
                       "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Preview::world::Preview::%7B%7D"
->>>>>>> origin/main
                     },
                     "width": 70,
                     "isClosable": true,
@@ -3872,40 +3808,25 @@
         "maximisedItemId": null
       },
       "tabs": {
-<<<<<<< HEAD
-        "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Properties::list::Properties::%7B%7D": {
-=======
         "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Properties::list::Properties::%7B%7D": {
->>>>>>> origin/main
           "name": "Properties",
           "icon": "list",
           "accepts": "function",
           "render": "function",
           "viewId": "Properties",
           "width": 30,
-<<<<<<< HEAD
-          "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Properties::list::Properties::%7B%7D",
-=======
           "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Properties::list::Properties::%7B%7D",
->>>>>>> origin/main
           "state": {
             "__signal": null
           }
         },
-<<<<<<< HEAD
-        "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Preview::world::Preview::%7B%7D": {
-=======
         "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Preview::world::Preview::%7B%7D": {
->>>>>>> origin/main
           "name": "Preview",
           "icon": "world",
           "accepts": "function",
           "render": "function",
           "viewId": "Preview",
           "width": 70,
-<<<<<<< HEAD
-          "id": "%2F.deco%2Fblocks%2FCategoria%2520-%2520Breadcrumb.json::Preview::world::Preview::%7B%7D",
-=======
           "id": "%2F.deco%2Fblocks%2FPreview%2520website%252Fsections%252FAnalytics%252FAnalytics.tsx.json::Preview::world::Preview::%7B%7D",
           "state": {
             "__signal": null
@@ -4029,7 +3950,6 @@
           "viewId": "Preview",
           "width": 70,
           "id": "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Preview::world::Preview::%7B%7D",
->>>>>>> origin/main
           "state": {
             "__signal": null
           }
