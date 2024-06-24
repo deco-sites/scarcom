@@ -42,10 +42,10 @@ function AsideMenu(
                 class={`
                   ${
                   currentUrl === item.href
-                    ? "bg-base-200 text-base-100 border-none"
+                    ? "bg-primary text-white border-none"
                     : ""
                 }
-                  btn btn-ghost btn-block rounded-full border-2 border-neutral-100 hover:bg-base-200 hover:text-base-100
+                  btn btn-ghost btn-block rounded-full border-2 border-neutral-100 hover:bg-primary hover:text-white
                 `}
                 href={item.href}
               >

@@ -27,6 +27,7 @@ export type AvailableIcons =
   | "Refresh"
   | "Menu"
   | "ChevronLeft"
+  | "DoubleChevronLeft"
   | "ChevronRight"
   | "ChevronUp"
   | "share"
@@ -61,7 +62,7 @@ export type AvailableIcons =
   | "checkIcon"
   | "SearchBar"
   | "ArrowRight"
-    "AllCategories";
+  | "AllCategories";
 
 interface Props extends JSX.SVGAttributes<SVGSVGElement> {
   /**
