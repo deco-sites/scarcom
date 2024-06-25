@@ -1,10 +1,8 @@
-import Button from "../../components/ui/Button.tsx";
-import Icon from "../../components/ui/Icon.tsx";
-import { sendEvent } from "../../sdk/analytics.tsx";
-import { useUI } from "../../sdk/useUI.ts";
+import Button from "$store/components/ui/Button.tsx";
+import Icon from "$store/components/ui/Icon.tsx";
+import { sendEvent } from "$store/sdk/analytics.tsx";
+import { useUI } from "$store/sdk/useUI.ts";
 import { useCart } from "apps/vtex/hooks/useCart.ts";
-import { useUser } from "apps/vtex/hooks/useUser.ts";
-
 function SearchButton() {
   const { displaySearchbar } = useUI();
 
@@ -19,57 +17,11 @@ function SearchButton() {
       <Icon
         class="text-primary"
         id="MagnifyingGlass"
-        width={20}
-        height={20}
-        strokeWidth={0.1}
+        width={24}
+        height={25}
+        strokeWidth={1}
       />
     </Button>
-  );
-}
-
-function UserButton() {
-  const { user } = useUser();
-  return (
-    <div class="max-lg:hidden rounded-full border-2 border-solid no-animation relative btn-square btn-ghost flex items-center justify-center group">
-      <Icon
-        class="text-primary"
-        id="User"
-        width={24}
-        height={24}
-      />
-      <div class="absolute hidden hover:flex group-hover:flex bg-accent top-[50px] shadow whitespace-nowrap p-[24px] flex-col z-10 rounded-xl gap-[6px]">
-        {user.value
-          ? (
-            <>
-              <a class="font-bold text-white text-xs" href="/my-account">
-                Meus Dados
-              </a>
-              <a
-                class="font-bold text-white text-xs"
-                href="/my-account/orders"
-              >
-                Meus Pedidos
-              </a>
-              <a
-                class="font-bold text-white text-xs"
-                href="/api/vtexid/pub/logout?scope=eeuro&returnUrl=https%3A%2F%2Fwww.eurorelogios.com.br%2F"
-              >
-                Sair
-              </a>
-            </>
-          )
-          : (
-            <a
-              class="font-bold text-white text-xs"
-              href="/my-account/login"
-            >
-              Entrar
-            </a>
-          )}
-        <div class="left-[70px] absolute -top-3 transform -translate-x-1/2 translate-y-1/2 rotate-45 w-4 h-4 bg-accent border-r border-b border-accent">
-        </div>
-      </div>
-    </div>
   );
 }
 
@@ -84,10 +36,28 @@ function MenuButton() {
         displayMenu.value = true;
       }}
     >
-      <Icon class="text-base-content" id="Menu" width={25} height={25} />
+      <Icon class="text-primary" id="Menu" width={25} height={25} />
     </Button>
   );
 }
+
+// function ChatButton() {
+//   return (
+//     <a
+//       class="btn-square btn-ghost flex items-center justify-center rounded-full"
+//       aria-label="chat icon button"
+//       href="javascript:$zopim.livechat.window.show();"
+//     >
+//       <Icon
+//         class="text-primary"
+//         id="User"
+//         width={24}
+//         height={25}
+//         strokeWidth={1}
+//       />
+//     </a>
+//   );
+// }
 
 function CartButton() {
   const { displayCart } = useUI();
@@ -124,15 +94,15 @@ function CartButton() {
     >
       <div class="indicator">
         {totalItems && (
-          <span class="indicator-item text-base-100 bg-accent w-4 h-4 rounded-full text-xs left-4 top-3 font-bold">
+          <span class="indicator-item text-base-100 bg-secondary w-4 h-4 rounded-t-full rounded-r-full text-xs left-3 top-0 font-bold">
             {totalItems > 9 ? "9+" : totalItems}
           </span>
         )}
         <Icon
-          class="text-primary"
+          class="text-base-content"
           id="ShoppingCart"
           width={24}
-          height={24}
+          height={25}
           strokeWidth={1}
         />
       </div>
@@ -141,7 +111,7 @@ function CartButton() {
 }
 
 function Buttons(
-  { variant }: { variant: "cart" | "search" | "menu" | "user" },
+  { variant }: { variant: "cart" | "search" | "menu" | "chat" },
 ) {
   if (variant === "cart") {
     return <CartButton />;
@@ -155,9 +125,9 @@ function Buttons(
     return <MenuButton />;
   }
 
-  if (variant === "user") {
-    return <UserButton />;
-  }
+  // if (variant === "chat") {
+  //   return <ChatButton />;
+  // }
 
   return null;
 }

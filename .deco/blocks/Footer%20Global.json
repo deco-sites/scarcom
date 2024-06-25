@@ -30,21 +30,46 @@
             "children": [
               {
                 "target": "_blank",
-                "label": "A Marca",
-                "href": "/a-marca"
+                "label": "Quem somos",
+                "href": "/institucional/quem-somos"
+              },
+              {
+                "target": "_blank",
+                "label": "Formas de Envio",
+                "href": "/institucional/formas-envio"
+              },
+              {
+                "target": "_blank",
+                "label": "Formas de Pagamento",
+                "href": "/institucional/formas-pagamento"
+              },
+              {
+                "target": "_blank",
+                "href": "/institucional/politica-privacidade",
+                "label": "Política de Privacidade"
               }
             ],
-            "label": "Institucional"
+            "label": "SOBRE"
           },
           {
             "children": [
               {
                 "target": "_blank",
-                "label": "Fale Conosco",
-                "href": "/fale-conosco"
+                "label": "Garantia",
+                "href": "/institucional/garantia"
+              },
+              {
+                "target": "_blank",
+                "label": "Segurança",
+                "href": "/institucional/seguranca"
+              },
+              {
+                "target": "_blank",
+                "href": "/institucional/trocas-devolucoes",
+                "label": "Trocas e devoluções"
               }
             ],
-            "label": "Atendimento"
+            "label": "TIRE SUAS DÚVIDAS"
           },
           {
             "children": [
@@ -77,7 +102,7 @@
             "href": "https://x.com/scarcom"
           }
         ],
-        "openingHours": "<p>Seg. à Sex. das 09:00h às 18:00h<br></p>",
+        "openingHours": "<p>Seg. à Sex. das 08:00h às 18:00h<br></p>",
         "payments": [
           {
             "alt": "Mastercard",
