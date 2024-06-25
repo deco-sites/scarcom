@@ -271,18 +271,6 @@
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
   },
-  "/.deco/blocks/pages-productpage-ce4850591828.json": {
-    "name": "Product Page",
-    "path": "/:slug/p",
-    "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
-  },
-  "/.deco/blocks/pages-search-2f446eadce44.json": {
-    "name": "Search",
-    "path": "/s",
-    "blockType": "pages",
-    "__resolveType": "website/pages/Page.tsx"
-  },
   "/.deco/blocks/plausible.json": {
     "blockType": "apps",
     "__resolveType": "decohub/apps/analytics.ts"

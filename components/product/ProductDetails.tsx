@@ -92,7 +92,6 @@ function ProductInfo({
 
   const especifications = page?.product?.isVariantOf?.additionalProperty;
 
-  // console.log("especifications normal", especifications);
   // deno-lint-ignore no-explicit-any
   const renderItem = (item: any) => {
     switch (item.name) {

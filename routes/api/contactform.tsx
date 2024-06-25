@@ -1,7 +1,7 @@
 // TODO: Why not using actions?
 
 import { Handlers } from "$fresh/server.ts";
-const PORTAL_SUBDOMAIN = "https://www.timecenter.com.br";
+const PORTAL_SUBDOMAIN = "https://www.scarcom.com.br";
 // Add here the scripts you want to proxy
 
 export interface ConcactForm {

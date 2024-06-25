@@ -6,13 +6,14 @@
   },
   "sections": [
     {
+      "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
       "jsonLD": {
-        "__resolveType": "PDP Loader"
-      },
-      "jsonLDs": [
-        {}
-      ],
-      "__resolveType": "commerce/sections/Seo/SeoPDP.tsx"
+        "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
+        "slug": {
+          "__resolveType": "website/functions/requestToParam.ts",
+          "param": "slug"
+        }
+      }
     },
     {
       "__resolveType": "Header Global"
@@ -27,9 +28,9 @@
             "sections": [
               {
                 "section": {
-                  "__resolveType": "site/sections/Product/ProductDetailsT04.tsx",
+                  "__resolveType": "site/sections/Product/ProductDetails.tsx",
                   "page": {
-                    "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
+                    "__resolveType": "vtex/loaders/legacy/productDetailsPage.ts",
                     "slug": {
                       "__resolveType": "website/functions/requestToParam.ts",
                       "param": "slug"
@@ -149,7 +150,7 @@
                 "shadow": "none",
                 "overFlow": "overflow-none",
                 "verticalSpacing": "top",
-                "label": "ProductDetailsT04",
+                "label": "ProductDetails",
                 "withContainer": true
               }
             ]

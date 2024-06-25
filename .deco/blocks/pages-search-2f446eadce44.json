@@ -12,17 +12,7 @@
       "__resolveType": "Header Global"
     },
     {
-      "__resolveType": "site/sections/Product/SearchResult.tsx",
-      "page": {
-        "__resolveType": "PLP Loader"
-      },
-      "layout": {
-        "columns": {
-          "mobile": 2,
-          "desktop": 4
-        },
-        "variant": "aside"
-      }
+      "__resolveType": "SearchResults Category"
     },
     {
       "__resolveType": "Footer Global"

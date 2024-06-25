@@ -44,7 +44,7 @@ function Sort({ sortOptions }: Props) {
     >
       <label
         tabIndex={0}
-        class="btn justify-between w-full lg:w-48 btn-sm font-normal text-base-200 h-[34px] border-2 border-[#E2E3E8] bg-white hover:bg-white"
+        class="btn justify-between w-full lg:w-48 btn-sm font-normal text-black h-[34px] border-2 border-[#E2E3E8] bg-white hover:bg-white"
       >
         {sort
           ? (

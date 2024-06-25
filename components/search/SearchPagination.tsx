@@ -32,7 +32,7 @@ export default function SearchPagination({ pageInfo }: Props) {
             aria-label="previous page link"
             rel="prev"
             href={`?${queryParams?.toString()}` ?? "#"}
-            class="min-w-10 w-10 h-10 max-h-max border-2 border-base-200 text-base-300 rounded-full flex items-center justify-center text-sm font-bold"
+            class="min-w-10 w-10 h-10 max-h-max border-2 border-black text-black rounded-full flex items-center justify-center text-sm font-bold"
           >
             {page}
           </a>,
@@ -43,7 +43,7 @@ export default function SearchPagination({ pageInfo }: Props) {
             aria-label="next page link"
             rel="next"
             href={`?${queryParams?.toString()}` ?? "#"}
-            class="min-w-10 w-10 h-10 border-2 border-base-200 text-base-300 rounded-full flex items-center justify-center text-sm font-bold"
+            class="min-w-10 w-10 h-10 border-2 border-black text-black rounded-full flex items-center justify-center text-sm font-bold"
           >
             {page}
           </a>,
