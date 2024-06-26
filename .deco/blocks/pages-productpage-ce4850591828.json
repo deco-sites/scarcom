@@ -169,7 +169,7 @@
                 "section": {
                   "__resolveType": "site/sections/Product/ProductDetails.tsx",
                   "page": {
-                    "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
+                    "__resolveType": "vtex/loaders/legacy/productDetailsPage.ts",
                     "slug": {
                       "__resolveType": "website/functions/requestToParam.ts",
                       "param": "slug"
@@ -187,7 +187,10 @@
                     "label": "Confira nossa política de frete e entregas",
                     "link": "/institucional/formas-de-entrega "
                   },
-                  "shareableNetworks": [],
+                  "shareableNetworks": [
+                    "Facebook",
+                    "Email"
+                  ],
                   "notFoundSection": {
                     "__resolveType": "site/sections/Product/ProductNotFound.tsx",
                     "title": "404",
