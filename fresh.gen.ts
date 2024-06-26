@@ -16,6 +16,9 @@ import * as $AddToCartButton_wake from "./islands/AddToCartButton/wake.tsx";
 import * as $BuyWarning from "./islands/BuyWarning.tsx";
 import * as $CloseButton from "./islands/CloseButton.tsx";
 import * as $Form from "./islands/Form.tsx";
+import * as $HeaderButton from "./islands/HeaderButton.tsx";
+import * as $HeaderModals from "./islands/HeaderModals.tsx";
+import * as $HeaderSearchbar from "./islands/HeaderSearchbar.tsx";
 import * as $Header_Buttons from "./islands/Header/Buttons.tsx";
 import * as $Header_Cart_linx from "./islands/Header/Cart/linx.tsx";
 import * as $Header_Cart_nuvemshop from "./islands/Header/Cart/nuvemshop.tsx";
@@ -23,9 +26,6 @@ import * as $Header_Cart_shopify from "./islands/Header/Cart/shopify.tsx";
 import * as $Header_Cart_vnda from "./islands/Header/Cart/vnda.tsx";
 import * as $Header_Cart_vtex from "./islands/Header/Cart/vtex.tsx";
 import * as $Header_Cart_wake from "./islands/Header/Cart/wake.tsx";
-import * as $HeaderButton from "./islands/HeaderButton.tsx";
-import * as $HeaderModals from "./islands/HeaderModals.tsx";
-import * as $HeaderSearchbar from "./islands/HeaderSearchbar.tsx";
 import * as $LgdpModal from "./islands/LgdpModal.tsx";
 import * as $Newsletter from "./islands/Newsletter.tsx";
 import * as $NewsletterModal from "./islands/NewsletterModal.tsx";
@@ -59,6 +59,9 @@ const manifest = {
     "./islands/BuyWarning.tsx": $BuyWarning,
     "./islands/CloseButton.tsx": $CloseButton,
     "./islands/Form.tsx": $Form,
+    "./islands/HeaderButton.tsx": $HeaderButton,
+    "./islands/HeaderModals.tsx": $HeaderModals,
+    "./islands/HeaderSearchbar.tsx": $HeaderSearchbar,
     "./islands/Header/Buttons.tsx": $Header_Buttons,
     "./islands/Header/Cart/linx.tsx": $Header_Cart_linx,
     "./islands/Header/Cart/nuvemshop.tsx": $Header_Cart_nuvemshop,
@@ -66,9 +69,6 @@ const manifest = {
     "./islands/Header/Cart/vnda.tsx": $Header_Cart_vnda,
     "./islands/Header/Cart/vtex.tsx": $Header_Cart_vtex,
     "./islands/Header/Cart/wake.tsx": $Header_Cart_wake,
-    "./islands/HeaderButton.tsx": $HeaderButton,
-    "./islands/HeaderModals.tsx": $HeaderModals,
-    "./islands/HeaderSearchbar.tsx": $HeaderSearchbar,
     "./islands/LgdpModal.tsx": $LgdpModal,
     "./islands/Newsletter.tsx": $Newsletter,
     "./islands/NewsletterModal.tsx": $NewsletterModal,

@@ -92,7 +92,6 @@ function ProductInfo({
 
   const especifications = page?.product?.isVariantOf?.additionalProperty;
 
-  // console.log("especifications normal", especifications);
   // deno-lint-ignore no-explicit-any
   const renderItem = (item: any) => {
     switch (item.name) {
@@ -284,7 +283,7 @@ function ProductInfo({
       {/* Description card */}
       <details className="collapse collapse-plus border-b border-[#E2E3E8] rounded-none">
         <summary className="collapse-title px-0">Detalhes do produto</summary>
-        <div className=" text-xs px-0 leading-tight collapse-content text-base-300">
+        <div className=" text-xs px-0 leading-tight collapse-content text-black">
           {
             /* <input type="checkbox" id="readmore" className="readmore-toggle" />
           <label htmlFor="readmore" className="readmore-label my-2 block">
@@ -334,7 +333,7 @@ function ProductInfo({
       {/* Share Product on Social Networks */}
       {shareableNetworks && (
         <div class="flex items-center gap-5 my-5">
-          <span class="text-xs text-[#585858">Compartilhar</span>
+          <span class="text-xs text-[#585858]">Compartilhar</span>
           <ul class="gap-2 flex items-center justify-between">
             {shareableNetworks.map((network) => (
               <li class="bg-[#585858] w-8 h-8 rounded-full hover:bg-base-content transition-all">

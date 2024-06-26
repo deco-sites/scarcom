@@ -2,7 +2,7 @@
 
 import { Handlers } from "$fresh/server.ts";
 
-const PORTAL_SUBDOMAIN = "https://www.timecenter.com.br";
+const PORTAL_SUBDOMAIN = "https://www.scarcom.com.br";
 
 export const handler: Handlers = {
   POST: async (req) => {

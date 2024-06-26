@@ -40,14 +40,14 @@ function QuantitySelector({ onChange, quantity, disabled, loading }: Props) {
           loading={loading}
         >
           <Icon
-            class="btn btn-primary btn-sm min-h-6 h-6 min-w-6 w-6 !px-0 text-info hover:text-neutral-100 transition-all rounded-full"
+            class="btn btn-primary btn-sm text-white min-h-6 h-6 min-w-6 w-6 !px-0 text-info hover:text-secundary transition-all rounded-full"
             id="Minus"
-            width={16}
-            height={16}
+            width={10}
+            height={10}
           />
         </Button>
         <input
-          class="text-center rounded-lg border-base-300 w-10 h-10 border-2 mx-2.5 text-sm font-bold text-base-content"
+          class="text-center rounded-lg border-black-300 w-10 h-10 border-2 mx-2.5 text-sm font-bold text-base-content"
           type="number"
           inputMode="numeric"
           pattern="[0-9]*"
@@ -64,10 +64,10 @@ function QuantitySelector({ onChange, quantity, disabled, loading }: Props) {
           loading={loading}
         >
           <Icon
-            class="btn btn-primary btn-sm min-h-6 h-6 min-w-6 w-6 !px-0 text-info hover:text-neutral-100 transition-all rounded-full"
+            class="btn btn-primary btn-sm text-white min-h-6 h-6 min-w-6 w-6 !px-0 text-info hover:text-secundary transition-all rounded-full"
             id="Plus"
-            width={16}
-            height={16}
+            width={10}
+            height={10}
           />
         </Button>
       </div>
