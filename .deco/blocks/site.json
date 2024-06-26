@@ -63,5 +63,8 @@
     "includeScriptsToHead": {
       "includes": []
     }
+  },
+  "flavor": {
+    "framework": "fresh"
   }
 }
