@@ -365,8 +365,8 @@
             ]
           },
           {
-            "href": "/escritorio",
-            "label": "Escritório",
+            "href": "/rede",
+            "label": "Rede",
             "variant": "CommonChild",
             "children": [
               {
@@ -420,8 +420,8 @@
             ]
           },
           {
-            "href": "/informatica",
-            "label": "Informática",
+            "href": "/armazenamento",
+            "label": "Armazenamento",
             "variant": "CommonChild",
             "children": [
               {
@@ -493,8 +493,8 @@
             ]
           },
           {
-            "href": "/artesanato",
-            "label": "Artesanato",
+            "href": "/memoria",
+            "label": "Memória",
             "variant": "CommonChild",
             "children": [
               {
@@ -560,8 +560,8 @@
             ]
           },
           {
-            "href": "/festas",
-            "label": "Festas",
+            "href": "/audio-e-video",
+            "label": "Áudio e Vídeo",
             "variant": "CommonChild",
             "children": [
               {
@@ -597,8 +597,8 @@
             ]
           },
           {
-            "href": "/descartaveis",
-            "label": "Descartáveis",
+            "href": "/energia",
+            "label": "Energia",
             "variant": "CommonChild",
             "children": [
               {
@@ -694,8 +694,8 @@
             ]
           },
           {
-            "href": "/lazer-e-utilidades",
-            "label": "Lazer e Utilidades",
+            "href": "/perifericos",
+            "label": "Periféricos",
             "variant": "CommonChild",
             "children": [
               {
@@ -767,8 +767,7 @@
             ]
           },
           {
-            "href": "/atacado",
-            "label": "Atacado",
+            "label": "Gamer",
             "variant": "CommonChild",
             "children": [
               {
@@ -789,7 +788,8 @@
                 "variant": "CommonChild",
                 "children": []
               }
-            ]
+            ],
+            "href": "/gamer"
           }
         ]
       },

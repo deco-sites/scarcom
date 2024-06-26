@@ -91,73 +91,7 @@
       "name": "Pages",
       "pinned": true,
       "icon": "files",
-      "layout": {
-        "settings": {
-          "hasHeaders": true,
-          "constrainDragToContainer": true,
-          "reorderEnabled": true,
-          "selectionEnabled": false,
-          "popoutWholeStack": false,
-          "blockedPopoutsThrowError": true,
-          "closePopoutsOnUnload": true,
-          "showPopoutIcon": false,
-          "showMaximiseIcon": false,
-          "showCloseIcon": false,
-          "responsiveMode": "onload"
-        },
-        "dimensions": {
-          "borderWidth": 8,
-          "minItemHeight": 10,
-          "minItemWidth": 10,
-          "headerHeight": 40,
-          "dragProxyWidth": 300,
-          "dragProxyHeight": 200
-        },
-        "labels": {
-          "close": "close",
-          "maximise": "maximise",
-          "minimise": "minimise",
-          "popout": "open in new window",
-          "popin": "pop in",
-          "tabDropdown": "additional tabs"
-        },
-        "content": [
-          {
-            "type": "row",
-            "isClosable": true,
-            "reorderEnabled": true,
-            "title": "",
-            "content": [
-              {
-                "type": "stack",
-                "width": 100,
-                "isClosable": true,
-                "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "pages::List::list::List::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-pages::List::list::List::%7B%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "pages::List::list::List::%7B%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "isClosable": true,
-        "reorderEnabled": true,
-        "title": "",
-        "openPopouts": [],
-        "maximisedItemId": null
-      },
+      "layout": [],
       "tabs": {
         "pages::List::list::List::%7B%7D": {
           "name": "List",
@@ -216,15 +150,15 @@
       "id": "releases",
       "name": "Releases",
       "pinned": true,
-      "icon": "rocket",
+      "icon": "rocket-launch",
       "layout": [],
       "tabs": {
-        "releases::releases::rocket::releases::%7B%7D": {
+        "releases::releases::rocket-launch::releases::%7B%7D": {
           "name": "releases",
-          "icon": "rocket",
+          "icon": "rocket-launch",
           "render": "function",
           "viewId": "releases",
-          "id": "releases::releases::rocket::releases::%7B%7D",
+          "id": "releases::releases::rocket-launch::releases::%7B%7D",
           "state": {
             "__signal": null
           }
@@ -237,94 +171,7 @@
       "name": "SEO",
       "pinned": true,
       "icon": "world-search",
-      "layout": {
-        "settings": {
-          "hasHeaders": true,
-          "constrainDragToContainer": true,
-          "reorderEnabled": true,
-          "selectionEnabled": false,
-          "popoutWholeStack": false,
-          "blockedPopoutsThrowError": true,
-          "closePopoutsOnUnload": true,
-          "showPopoutIcon": false,
-          "showMaximiseIcon": false,
-          "showCloseIcon": false,
-          "responsiveMode": "onload"
-        },
-        "dimensions": {
-          "borderWidth": 8,
-          "minItemHeight": 10,
-          "minItemWidth": 10,
-          "headerHeight": 40,
-          "dragProxyWidth": 300,
-          "dragProxyHeight": 200
-        },
-        "labels": {
-          "close": "close",
-          "maximise": "maximise",
-          "minimise": "minimise",
-          "popout": "open in new window",
-          "popin": "pop in",
-          "tabDropdown": "additional tabs"
-        },
-        "content": [
-          {
-            "type": "row",
-            "isClosable": true,
-            "reorderEnabled": true,
-            "title": "",
-            "content": [
-              {
-                "type": "stack",
-                "width": 50,
-                "isClosable": true,
-                "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "site-seo::Partial%20Form::pencil::Partial%20Form::%7B%22spaceId%22%3A%22%7B%5C%22path%5C%22%3A%5B%5C%22seo%5C%22%5D%2C%5C%22filepath%5C%22%3A%5C%22%2F.deco%2Fblocks%2Fsite.json%5C%22%7D%22%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-site-seo::Partial%20Form::pencil::Partial%20Form::%7B%22spaceId%22%3A%22%7B%5C%22path%5C%22%3A%5B%5C%22seo%5C%22%5D%2C%5C%22filepath%5C%22%3A%5C%22%2F.deco%2Fblocks%2Fsite.json%5C%22%7D%22%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "site-seo::Partial%20Form::pencil::Partial%20Form::%7B%22spaceId%22%3A%22%7B%5C%22path%5C%22%3A%5B%5C%22seo%5C%22%5D%2C%5C%22filepath%5C%22%3A%5C%22%2F.deco%2Fblocks%2Fsite.json%5C%22%7D%22%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
-              },
-              {
-                "type": "stack",
-                "width": 50,
-                "isClosable": true,
-                "reorderEnabled": true,
-                "title": "",
-                "activeItemIndex": 0,
-                "content": [
-                  {
-                    "id": "site-seo::Preview::world::Preview::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2Fsite.json%22%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-site-seo::Preview::world::Preview::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2Fsite.json%22%7D\" />",
-                    "type": "component",
-                    "componentName": "component",
-                    "componentState": {
-                      "id": "site-seo::Preview::world::Preview::%7B%22spaceId%22%3A%22%2F.deco%2Fblocks%2Fsite.json%22%7D"
-                    },
-                    "isClosable": true,
-                    "reorderEnabled": true
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "isClosable": true,
-        "reorderEnabled": true,
-        "title": "",
-        "openPopouts": [],
-        "maximisedItemId": null
-      },
+      "layout": [],
       "tabs": {
         "site-seo::Partial%20Form::pencil::Partial%20Form::%7B%22spaceId%22%3A%22%7B%5C%22path%5C%22%3A%5B%5C%22seo%5C%22%5D%2C%5C%22filepath%5C%22%3A%5C%22%2F.deco%2Fblocks%2Fsite.json%5C%22%7D%22%7D": {
           "name": "Partial Form",
@@ -528,15 +375,15 @@
       "id": "logs",
       "name": "Logs",
       "pinned": true,
-      "icon": "news",
+      "icon": "manage-search",
       "layout": [],
       "tabs": {
-        "logs::logs::news::logs::%7B%7D": {
+        "logs::logs::manage-search::logs::%7B%7D": {
           "name": "logs",
-          "icon": "news",
+          "icon": "manage-search",
           "render": "function",
           "viewId": "logs",
-          "id": "logs::logs::news::logs::%7B%7D",
+          "id": "logs::logs::manage-search::logs::%7B%7D",
           "state": {
             "__signal": null
           }
@@ -554,25 +401,25 @@
       "id": "settings",
       "name": "Settings",
       "pinned": true,
-      "icon": "adjustments-horizontal",
+      "icon": "settings",
       "layout": [],
       "tabs": {
-        "settings::settings::adjustments-horizontal::settings::%7B%7D": {
+        "settings::settings::settings::settings::%7B%7D": {
           "name": "settings",
-          "icon": "adjustments-horizontal",
+          "icon": "settings",
           "render": "function",
           "viewId": "settings",
-          "id": "settings::settings::adjustments-horizontal::settings::%7B%7D",
+          "id": "settings::settings::settings::settings::%7B%7D",
           "state": {
             "__signal": null
           }
         },
-        "settings::domains::adjustments-horizontal::domains::%7B%7D": {
+        "settings::domains::settings::domains::%7B%7D": {
           "name": "domains",
-          "icon": "adjustments-horizontal",
+          "icon": "settings",
           "render": "function",
           "viewId": "domains",
-          "id": "settings::domains::adjustments-horizontal::domains::%7B%7D",
+          "id": "settings::domains::settings::domains::%7B%7D",
           "state": {
             "__signal": null
           }
@@ -584,15 +431,15 @@
       "id": "assets",
       "name": "Assets",
       "pinned": true,
-      "icon": "photo",
+      "icon": "photo-library",
       "layout": [],
       "tabs": {
-        "assets::Assets::photo::Assets::%7B%7D": {
+        "assets::Assets::photo-library::Assets::%7B%7D": {
           "name": "Assets",
-          "icon": "photo",
+          "icon": "photo-library",
           "render": "function",
           "viewId": "Assets",
-          "id": "assets::Assets::photo::Assets::%7B%7D",
+          "id": "assets::Assets::photo-library::Assets::%7B%7D",
           "state": {
             "__signal": null
           }
@@ -697,8 +544,8 @@
       },
       "tags": [
         {
-          "label": "BETA",
-          "color": "positive"
+          "label": "Beta",
+          "color": "decorative"
         }
       ],
       "category": "Advanced"
@@ -826,7 +673,7 @@
       "id": "Publish",
       "name": "Publish",
       "pinned": false,
-      "icon": "rocket",
+      "icon": "rocket-launch",
       "layout": {
         "settings": {
           "hasHeaders": true,
@@ -873,12 +720,12 @@
                 "activeItemIndex": 0,
                 "content": [
                   {
-                    "id": "Publish::Environment::rocket::Environment::%7B%7D",
-                    "title": "<div class=\"contents text-base-700\" id=\"header-Publish::Environment::rocket::Environment::%7B%7D\" />",
+                    "id": "Publish::Environment::rocket-launch::Environment::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-Publish::Environment::rocket-launch::Environment::%7B%7D\" />",
                     "type": "component",
                     "componentName": "component",
                     "componentState": {
-                      "id": "Publish::Environment::rocket::Environment::%7B%7D"
+                      "id": "Publish::Environment::rocket-launch::Environment::%7B%7D"
                     },
                     "isClosable": true,
                     "reorderEnabled": true
@@ -895,12 +742,12 @@
         "maximisedItemId": null
       },
       "tabs": {
-        "Publish::Environment::rocket::Environment::%7B%7D": {
+        "Publish::Environment::rocket-launch::Environment::%7B%7D": {
           "name": "Environment",
-          "icon": "rocket",
+          "icon": "rocket-launch",
           "render": "function",
           "viewId": "Environment",
-          "id": "Publish::Environment::rocket::Environment::%7B%7D",
+          "id": "Publish::Environment::rocket-launch::Environment::%7B%7D",
           "state": {
             "__signal": null
           }
@@ -951,7 +798,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 41.66666666666667,
+                "width": 30,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -973,7 +820,7 @@
               },
               {
                 "type": "stack",
-                "width": 58.333333333333336,
+                "width": 70,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1050,8 +897,8 @@
       },
       "tags": [
         {
-          "label": "BETA",
-          "color": "positive"
+          "label": "Beta",
+          "color": "decorative"
         }
       ],
       "category": "Content"
@@ -1100,7 +947,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 33.061480552070265,
+                "width": 41.66666666666667,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1122,7 +969,7 @@
               },
               {
                 "type": "stack",
-                "width": 66.93851944792974,
+                "width": 58.333333333333336,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -1650,8 +1497,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-productpage-ce4850591828.json::Preview::world::Preview::%7B%7D": {
@@ -2775,7 +2621,7 @@
             "content": [
               {
                 "type": "stack",
-                "width": 30,
+                "width": 41.66666666666667,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -2797,7 +2643,7 @@
               },
               {
                 "type": "stack",
-                "width": 70,
+                "width": 58.333333333333336,
                 "isClosable": true,
                 "reorderEnabled": true,
                 "title": "",
@@ -2836,8 +2682,7 @@
           "width": 30,
           "id": "%2F.deco%2Fblocks%2Fpages-Termos%252520e%252520condi%2525C3%2525A7%2525C3%2525B5es-737186.json::Properties::list::Properties::%7B%7D",
           "state": {
-            "__signal": null,
-            "value": null
+            "__signal": null
           }
         },
         "%2F.deco%2Fblocks%2Fpages-Termos%252520e%252520condi%2525C3%2525A7%2525C3%2525B5es-737186.json::Preview::world::Preview::%7B%7D": {
@@ -3950,6 +3795,213 @@
           "viewId": "Preview",
           "width": 70,
           "id": "%2F.deco%2Fblocks%2Fpages-search-2f446eadce44.json::Preview::world::Preview::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        }
+      }
+    },
+    {
+      "id": "{\"oid\":\"d02a46b0df39124a43742642ba1942519120cf21\",\"short\":\"d02a46b\",\"commit\":{\"message\":\"Merge remote-tracking branch 'origin/main' into feat/change_header\\n\",\"parent\":[\"a0cc907498be6284d13acf82c24259c443415ace\",\"4ad5af302ffc1070930cea743540bfd7c8282259\"],\"tree\":\"4dacbededf2bd087b1ce293cdf6ce548989a8403\",\"author\":{\"name\":\"Murilo Gabriel\",\"email\":\"murilofer@yahoo.com.br\",\"timestamp\":1719265096,\"timezoneOffset\":180},\"committer\":{\"name\":\"Murilo Gabriel\",\"email\":\"murilofer@yahoo.com.br\",\"timestamp\":1719265096,\"timezoneOffset\":180}}}",
+      "name": "Release d02a46b",
+      "pinned": false,
+      "icon": "rocket",
+      "layout": {
+        "settings": {
+          "hasHeaders": true,
+          "constrainDragToContainer": true,
+          "reorderEnabled": true,
+          "selectionEnabled": false,
+          "popoutWholeStack": false,
+          "blockedPopoutsThrowError": true,
+          "closePopoutsOnUnload": true,
+          "showPopoutIcon": false,
+          "showMaximiseIcon": false,
+          "showCloseIcon": false,
+          "responsiveMode": "onload"
+        },
+        "dimensions": {
+          "borderWidth": 8,
+          "minItemHeight": 10,
+          "minItemWidth": 10,
+          "headerHeight": 40,
+          "dragProxyWidth": 300,
+          "dragProxyHeight": 200
+        },
+        "labels": {
+          "close": "close",
+          "maximise": "maximise",
+          "minimise": "minimise",
+          "popout": "open in new window",
+          "popin": "pop in",
+          "tabDropdown": "additional tabs"
+        },
+        "content": [
+          {
+            "type": "row",
+            "isClosable": true,
+            "reorderEnabled": true,
+            "title": "",
+            "content": [
+              {
+                "type": "stack",
+                "width": 100,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%7B%22oid%22%3A%22d02a46b0df39124a43742642ba1942519120cf21%22%2C%22short%22%3A%22d02a46b%22%2C%22commit%22%3A%7B%22message%22%3A%22Merge%20remote-tracking%20branch%20'origin%2Fmain'%20into%20feat%2Fchange_header%5Cn%22%2C%22parent%22%3A%5B%22a0cc907498be6284d13acf82c24259c443415ace%22%2C%224ad5af302ffc1070930cea743540bfd7c8282259%22%5D%2C%22tree%22%3A%224dacbededf2bd087b1ce293cdf6ce548989a8403%22%2C%22author%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket::Release::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%7B%22oid%22%3A%22d02a46b0df39124a43742642ba1942519120cf21%22%2C%22short%22%3A%22d02a46b%22%2C%22commit%22%3A%7B%22message%22%3A%22Merge%20remote-tracking%20branch%20'origin%2Fmain'%20into%20feat%2Fchange_header%5Cn%22%2C%22parent%22%3A%5B%22a0cc907498be6284d13acf82c24259c443415ace%22%2C%224ad5af302ffc1070930cea743540bfd7c8282259%22%5D%2C%22tree%22%3A%224dacbededf2bd087b1ce293cdf6ce548989a8403%22%2C%22author%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket::Release::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%7B%22oid%22%3A%22d02a46b0df39124a43742642ba1942519120cf21%22%2C%22short%22%3A%22d02a46b%22%2C%22commit%22%3A%7B%22message%22%3A%22Merge%20remote-tracking%20branch%20'origin%2Fmain'%20into%20feat%2Fchange_header%5Cn%22%2C%22parent%22%3A%5B%22a0cc907498be6284d13acf82c24259c443415ace%22%2C%224ad5af302ffc1070930cea743540bfd7c8282259%22%5D%2C%22tree%22%3A%224dacbededf2bd087b1ce293cdf6ce548989a8403%22%2C%22author%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket::Release::%7B%7D"
+                    },
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "isClosable": true,
+        "reorderEnabled": true,
+        "title": "",
+        "openPopouts": [],
+        "maximisedItemId": null
+      },
+      "tabs": {
+        "%7B%22oid%22%3A%22d02a46b0df39124a43742642ba1942519120cf21%22%2C%22short%22%3A%22d02a46b%22%2C%22commit%22%3A%7B%22message%22%3A%22Merge%20remote-tracking%20branch%20'origin%2Fmain'%20into%20feat%2Fchange_header%5Cn%22%2C%22parent%22%3A%5B%22a0cc907498be6284d13acf82c24259c443415ace%22%2C%224ad5af302ffc1070930cea743540bfd7c8282259%22%5D%2C%22tree%22%3A%224dacbededf2bd087b1ce293cdf6ce548989a8403%22%2C%22author%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket::Release::%7B%7D": {
+          "name": "Release",
+          "icon": "rocket",
+          "render": "function",
+          "viewId": "Release",
+          "id": "%7B%22oid%22%3A%22d02a46b0df39124a43742642ba1942519120cf21%22%2C%22short%22%3A%22d02a46b%22%2C%22commit%22%3A%7B%22message%22%3A%22Merge%20remote-tracking%20branch%20'origin%2Fmain'%20into%20feat%2Fchange_header%5Cn%22%2C%22parent%22%3A%5B%22a0cc907498be6284d13acf82c24259c443415ace%22%2C%224ad5af302ffc1070930cea743540bfd7c8282259%22%5D%2C%22tree%22%3A%224dacbededf2bd087b1ce293cdf6ce548989a8403%22%2C%22author%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%2C%22committer%22%3A%7B%22name%22%3A%22Murilo%20Gabriel%22%2C%22email%22%3A%22murilofer%40yahoo.com.br%22%2C%22timestamp%22%3A1719265096%2C%22timezoneOffset%22%3A180%7D%7D%7D::Release::rocket::Release::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        }
+      }
+    },
+    {
+      "id": "/.deco/blocks/site.json",
+      "name": "site",
+      "pinned": false,
+      "icon": "apps",
+      "layout": {
+        "settings": {
+          "hasHeaders": true,
+          "constrainDragToContainer": true,
+          "reorderEnabled": true,
+          "selectionEnabled": false,
+          "popoutWholeStack": false,
+          "blockedPopoutsThrowError": true,
+          "closePopoutsOnUnload": true,
+          "showPopoutIcon": false,
+          "showMaximiseIcon": false,
+          "showCloseIcon": false,
+          "responsiveMode": "onload"
+        },
+        "dimensions": {
+          "borderWidth": 8,
+          "minItemHeight": 10,
+          "minItemWidth": 10,
+          "headerHeight": 40,
+          "dragProxyWidth": 300,
+          "dragProxyHeight": 200
+        },
+        "labels": {
+          "close": "close",
+          "maximise": "maximise",
+          "minimise": "minimise",
+          "popout": "open in new window",
+          "popin": "pop in",
+          "tabDropdown": "additional tabs"
+        },
+        "content": [
+          {
+            "type": "row",
+            "isClosable": true,
+            "reorderEnabled": true,
+            "title": "",
+            "content": [
+              {
+                "type": "stack",
+                "width": 37.3134328358209,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%2F.deco%2Fblocks%2Fsite.json::Properties::list::Properties::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2Fsite.json::Properties::list::Properties::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2Fsite.json::Properties::list::Properties::%7B%7D"
+                    },
+                    "width": 30,
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              },
+              {
+                "type": "stack",
+                "width": 62.686567164179095,
+                "isClosable": true,
+                "reorderEnabled": true,
+                "title": "",
+                "activeItemIndex": 0,
+                "content": [
+                  {
+                    "id": "%2F.deco%2Fblocks%2Fsite.json::Preview::world::Preview::%7B%7D",
+                    "title": "<div class=\"contents text-base-700\" id=\"header-%2F.deco%2Fblocks%2Fsite.json::Preview::world::Preview::%7B%7D\" />",
+                    "type": "component",
+                    "componentName": "component",
+                    "componentState": {
+                      "id": "%2F.deco%2Fblocks%2Fsite.json::Preview::world::Preview::%7B%7D"
+                    },
+                    "width": 70,
+                    "isClosable": true,
+                    "reorderEnabled": true
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "isClosable": true,
+        "reorderEnabled": true,
+        "title": "",
+        "openPopouts": [],
+        "maximisedItemId": null
+      },
+      "tabs": {
+        "%2F.deco%2Fblocks%2Fsite.json::Properties::list::Properties::%7B%7D": {
+          "name": "Properties",
+          "icon": "list",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "Properties",
+          "width": 30,
+          "id": "%2F.deco%2Fblocks%2Fsite.json::Properties::list::Properties::%7B%7D",
+          "state": {
+            "__signal": null
+          }
+        },
+        "%2F.deco%2Fblocks%2Fsite.json::Preview::world::Preview::%7B%7D": {
+          "name": "Preview",
+          "icon": "world",
+          "accepts": "function",
+          "render": "function",
+          "viewId": "Preview",
+          "width": 70,
+          "id": "%2F.deco%2Fblocks%2Fsite.json::Preview::world::Preview::%7B%7D",
           "state": {
             "__signal": null
           }
