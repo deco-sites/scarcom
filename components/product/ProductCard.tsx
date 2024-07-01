@@ -85,10 +85,12 @@ function ProductCard({
 
   const hasVariant = isVariantOf?.hasVariant ?? [];
   const front = images && images[0];
-  const back = images &&
+  let back = images &&
     images.find((obj) => {
       return obj.name === "over";
     });
+  if (!back) back = images?.[1] ?? images?.[0];
+
   const { listPrice, price, installments, seller, availability } = useOffer(
     offers,
   );

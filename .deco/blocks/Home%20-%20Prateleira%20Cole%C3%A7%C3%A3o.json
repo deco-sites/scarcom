@@ -9,7 +9,7 @@
           "__resolveType": "vtex/loaders/legacy/productList.ts",
           "props": {
             "sort": "",
-            "count": 12,
+            "count": 15,
             "collection": "146"
           }
         },
@@ -32,11 +32,11 @@
             },
             {
               "screenWidth": 1170,
-              "itemsQuantity": 4
+              "itemsQuantity": 5
             },
             {
               "screenWidth": 1440,
-              "itemsQuantity": 4
+              "itemsQuantity": 5
             }
           ],
           "headerTailwind": "uppercase font-medium"
