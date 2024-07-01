@@ -1,4 +1,4 @@
-export { default } from "../../components/product/ProductShelf.tsx";
+export { default } from "../../islands/ProductShelf.tsx";
 
 export function LoadingFallback() {
   return (
