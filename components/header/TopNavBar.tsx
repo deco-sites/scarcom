@@ -90,7 +90,7 @@ function TopNavBar({ alerts = [], interval = 1 }: Props) {
             <div class="flex items-center">
               <TipItem {...alert} />
               <span
-                class="text-xs h-[25px] flex items-center ml-3"
+                class="text-sm h-[25px] flex items-center ml-3"
                 style={{ color: alert.textColor }}
               >
                 {alert.textAlert}
