@@ -15,25 +15,23 @@ import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalytic
 import { useId } from "preact/hooks";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
 
-
-interface MarginItem { 
-  0: string,
-  1: string,
-  2: string,
-  3: string,
-  4: string,
-  5: string,
+interface MarginItem {
+  0: string;
+  1: string;
+  2: string;
+  3: string;
+  4: string;
+  5: string;
 }
 
-const marginItem:MarginItem = {
+const marginItem: MarginItem = {
   0: "0px",
   1: "0px",
   2: "0px",
   3: "0px",
   4: "20px",
   5: "20px",
-}
-
+};
 
 export interface Props {
   products: LoaderReturnType<Product[] | null>;
@@ -69,12 +67,12 @@ interface ButtonsProps {
 }
 
 // deno-lint-ignore no-explicit-any
-function itemPerPage(itemsPerPage:any) {
+function itemPerPage(itemsPerPage: any) {
   return Object.entries(itemsPerPage).sort(([widthA], [widthB]) =>
     Number(widthB) - Number(widthA)
   )
     .find(([width]) => Number(width) <= globalThis.window.innerWidth) ?? [0, 1];
-} 
+}
 
 function ProductShelf({
   products,
@@ -92,14 +90,16 @@ function ProductShelf({
     return null;
   }
 
-  const [, perPage] = itemPerPage(layout?.itemsPerPage?.reduce(
-    (initial, { screenWidth, itemsQuantity }) => ({
-      ...initial,
-      [screenWidth?.toString() ?? "0"]: itemsQuantity ?? 1,
-    }),
-    {},
-  ))
-  
+  const [, perPage] = itemPerPage(
+    layout?.itemsPerPage?.reduce(
+      (initial, { screenWidth, itemsQuantity }) => ({
+        ...initial,
+        [screenWidth?.toString() ?? "0"]: itemsQuantity ?? 1,
+      }),
+      {},
+    ),
+  );
+
   return (
     <div class="relative w-full py-8 mb-6 flex flex-col gap-12 lg:gap-7 lg:py-10">
       <div class="flex items-center justify-between relative pb-3 border-b border-neutral-100">
@@ -130,7 +130,9 @@ function ProductShelf({
             <Slider.Item
               index={index}
               style={{
-                width: `calc((100% / ${perPage}) - ${marginItem[perPage as keyof  MarginItem]})`
+                width: `calc((100% / ${perPage}) - ${
+                  marginItem[perPage as keyof MarginItem]
+                })`,
               }}
               class="carousel-item w-[270px]"
             >
