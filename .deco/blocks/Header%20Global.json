@@ -93,7 +93,8 @@
       "overFlow": "overflow-none",
       "verticalSpacing": "top",
       "label": "Header",
-      "withContainer": true
+      "withContainer": true,
+      "backgroundColor": " "
     },
     {
       "section": {
