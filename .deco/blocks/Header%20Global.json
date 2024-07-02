@@ -256,52 +256,76 @@
             "variant": "CommonChild",
             "children": [
               {
-                "href": "/escritorio/acessorios?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Acessórios",
-                "label": "Acessórios",
+                "href": "/rede/access-point?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Access+Point",
+                "label": "Access Point",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/agendas-e-indices?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Agendas+e+Índices",
-                "label": "Agendas e Índices",
+                "href": "/rede/adaptadores-wireless?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Adaptadores+Wireless",
+                "label": "Adaptadores Wireless",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/apresentacao?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Apresentação",
-                "label": "Apresentação",
+                "href": "/rede/antena-wireless?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Antena+Wireless",
+                "label": "Antena Wireless",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/escrita-e-corretivo?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Escrita+e+Corretivo",
-                "label": "Escrita e Corretivo",
+                "variant": "CommonChild",
+                "children": [],
+                "label": "Cabo de Rede",
+                "href": "/rede/cabo-de-rede?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Cabo+de+Rede"
+              },
+              {
+                "href": "/rede/camera-ip?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Camera+IP",
+                "label": "Camera IP",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/moveis?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Móveis",
-                "label": "Móveis",
+                "href": "/rede/kvm?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=KVM",
+                "label": "KVM",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/organizacao?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Organização",
-                "label": "Organização",
+                "href": "/rede/placa-de-rede?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Placa+de+Rede",
+                "label": "Placa de Rede",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/papel?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Papel",
-                "label": "Papel",
+                "href": "/rede/powerline?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Powerline",
+                "label": "Powerline",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/escritorio/pastas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Pastas",
-                "label": "Pastas",
+                "children": [],
                 "variant": "CommonChild",
-                "children": []
+                "label": "Print Server",
+                "href": "/rede/print-server?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Print+Server"
+              },
+              {
+                "children": [],
+                "variant": "CommonChild",
+                "label": "Roteador",
+                "href": "/rede/roteador?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Roteador"
+              },
+              {
+                "children": [],
+                "variant": "CommonChild",
+                "href": "/rede/switch?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Switch",
+                "label": "Switch"
+              },
+              {
+                "children": [],
+                "variant": "CommonChild",
+                "label": "Telefonia IP",
+                "href": "/rede/telefonia-ip?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Telefonia+IP"
               }
             ]
           },
@@ -311,68 +335,50 @@
             "variant": "CommonChild",
             "children": [
               {
-                "href": "/informatica/audio?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Áudio",
-                "label": "Áudio",
+                "href": "/armazenamento/hd-externo?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+Externo",
+                "label": "HD Externo",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/informatica/calculadoras?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Calculadoras",
-                "label": "Calculadoras",
+                "href": "/armazenamento/hd-para-monitoramento?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+para+Monitoramento",
+                "label": "HD para Monitoramento",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/informatica/cd-dvd?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=CD%2FDVD",
-                "label": "CD/DVD",
+                "label": "HD para NAS",
+                "variant": "CommonChild",
+                "children": [],
+                "href": "/armazenamento/hd-para-nas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+para+NAS"
+              },
+              {
+                "href": "/armazenamento/hd-para-notebook?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+para+Notebook",
+                "variant": "CommonChild",
+                "children": [],
+                "label": "HD para Notebook"
+              },
+              {
+                "href": "/armazenamento/hd-para-pc?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+para+PC",
+                "label": "HD para PC",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/informatica/eletronicos?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Eletrônicos",
-                "label": "Eletrônicos",
+                "href": "/armazenamento/hd-para-servidor?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+para+Servidor",
+                "label": "HD para Servidor",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/informatica/estabilizadores?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Estabilizadores",
-                "label": "Estabilizadores",
+                "href": "/armazenamento/hd-ssd?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=HD+SSD",
+                "label": "HD SSD",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/informatica/impressoras?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Impressoras",
-                "label": "Impressoras",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/informatica/monitores?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Monitores",
-                "label": "Monitores",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/informatica/mouse-e-teclado?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mouse+e+Teclado",
-                "label": "Mouse e teclado",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/informatica/pen-drive?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Pen+Drive",
-                "label": "Pen Drive",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/informatica/cartuchos-e-fitas-para-impressora?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Cartuchos+e+Fitas+para+Impressora",
-                "label": "Cartuchos e fitas para impressora",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/informatica/acessorios?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Acessórios",
-                "label": "Acessórios",
+                "href": "/armazenamento/nas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=NAS",
+                "label": "NAS",
                 "variant": "CommonChild",
                 "children": []
               }
@@ -384,62 +390,38 @@
             "variant": "CommonChild",
             "children": [
               {
-                "href": "/artesanato/acessorios?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Acessórios",
-                "label": "Acessórios",
+                "href": "/memoria/memoria-ram-ddr2?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+DDR2",
+                "label": "Memória Ram DDR2",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/artesanato/argilas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Argilas",
-                "label": "Argilas",
+                "href": "/memoria/memoria-ram-ddr3?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+DDR3",
+                "label": "Memória Ram DDR3",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/artesanato/auxiliares?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Auxiliares",
-                "label": "Auxiliares",
+                "href": "/memoria/memoria-ram-ddr4?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+DDR4",
+                "label": "Memória Ram DDR4",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/artesanato/canetas-para-tecido?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Canetas+para+Tecido",
-                "label": "Canetas para Tecido",
+                "href": "/memoria/memoria-ram-para-notebook?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+Para+Notebook",
+                "label": "Memória Ram Para Notebook",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/artesanato/cavalete-para-pintura?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Cavalete+para+Pintura",
-                "label": "Cavalete para pintura",
+                "href": "/memoria/memoria-ram-para-pc?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+Para+PC",
+                "label": "Memória Ram Para PC",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/artesanato/colas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Colas",
-                "label": "Colas",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/artesanato/paineis-e-telas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Painéis+e+Telas",
-                "label": "Painéis e Telas",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/artesanato/pinceis-e-rolos?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Pincéis+e+Rolos",
-                "label": "Pincéis e Rolos",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/artesanato/tintas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Tintas",
-                "label": "Tintas",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/artesanato/verniz?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Verniz",
-                "label": "Verniz",
+                "href": "/memoria/memoria-ram-para-servidor?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Mem%c3%b3ria+Ram+para+Servidor",
+                "label": "Memória Ram para Servidor",
                 "variant": "CommonChild",
                 "children": []
               }
