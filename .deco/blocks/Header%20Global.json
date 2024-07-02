@@ -7,27 +7,21 @@
         "alerts": [
           {
             "idIcon": "",
-            "textAlert": "Frete grátis acima de R$ 450",
             "textColor": "#ffffff",
-            "alt": "Frete grátis acima de R$ 450"
+            "alt": "Atendimento Personalizado",
+            "textAlert": "Atendimento Personalizado"
           },
           {
             "idIcon": "",
-            "textAlert": "Frete grátis acima de R$ 450",
             "textColor": "#ffffff",
-            "alt": "Frete grátis acima de R$ 450"
+            "textAlert": "Frete Grátis acima de R$499,99",
+            "alt": "Frete Grátis acima de R$499,99"
           },
           {
             "idIcon": "",
-            "textAlert": "Frete grátis acima de R$ 450",
+            "textAlert": "Compra Segura ",
             "textColor": "#ffffff",
-            "alt": "Frete grátis acima de R$ 450"
-          },
-          {
-            "idIcon": "",
-            "textAlert": "Frete grátis acima de R$ 450",
-            "textColor": "#ffffff",
-            "alt": "Frete grátis acima de R$ 450"
+            "alt": "Compra Segura "
           }
         ],
         "interval": 5
