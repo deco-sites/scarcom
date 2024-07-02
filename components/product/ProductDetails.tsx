@@ -290,7 +290,11 @@ function ProductInfo({
             + Ler mais
           </label> */
           }
-          <p className="readmore-content" dangerouslySetInnerHTML={{ __html: description || "" }}></p>
+          <p
+            className="readmore-content"
+            dangerouslySetInnerHTML={{ __html: description || "" }}
+          >
+          </p>
         </div>
         <div className="text-xs px-0">
           <ul className="ml-3 pb-[10px]" style={"list-style:initial;"}>
