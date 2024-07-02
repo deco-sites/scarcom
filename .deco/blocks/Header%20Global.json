@@ -433,32 +433,32 @@
             "variant": "CommonChild",
             "children": [
               {
-                "href": "/festas/acessorios?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Acessórios",
-                "label": "Acessórios",
+                "href": "/a%C2%81udio-e-video/caixa-de-som?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Caixa+de+Som",
+                "label": "Caixa de Som",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/festas/baloes?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Balões",
-                "label": "Balões",
+                "href": "/a%C2%81udio-e-video/fone-de-ouvido?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Fone+de+Ouvido",
+                "label": "Fone de Ouvido",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/festas/bingo?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Bingo",
-                "label": "Bingo",
+                "href": "/a%C2%81udio-e-video/placa-de-captura-de-imagem?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Placa+de+Captura+de+Imagem",
+                "label": "Placa de Captura de Imagem",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/festas/decoracao?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Decoração",
-                "label": "Decoração",
+                "href": "/a%C2%81udio-e-video/placa-de-video?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Placa+de+V%c3%addeo",
+                "label": "Placa de Vídeo",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/festas/descartaveis?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Descartáveis",
-                "label": "Descartáveis",
+                "href": "/a%C2%81udio-e-video/webcam?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Webcam",
+                "label": "Webcam",
                 "variant": "CommonChild",
                 "children": []
               }
@@ -470,92 +470,32 @@
             "variant": "CommonChild",
             "children": [
               {
-                "href": "/descartaveis/bandejas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Bandejas",
-                "label": "Bandejas",
+                "href": "/energia/bateria-externa-para-nobreak?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Bateria+Externa+Para+Nobreak",
+                "label": "Bateria Externa para Nobreak",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/descartaveis/bobinas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Bobinas",
-                "label": "Bobinas",
+                "href": "/energia/bateria-interna-para-nobreak?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Bateria+Interna+para+Nobreak",
+                "label": "Bateria Interna para Nobreak",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/descartaveis/copos-tacas-e-tampas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Copos%2C+Taças+e+Tampas",
-                "label": "Copos, taças e tampas",
+                "href": "/energia/estabilizador?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Estabilizador",
+                "label": "Estabilizador",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/descartaveis/dispensers?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Dispensers",
-                "label": "Dispensers",
+                "href": "/energia/fonte-para-desktop?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Fonte+para+Desktop",
+                "label": "Fonte para Desktop",
                 "variant": "CommonChild",
                 "children": []
               },
               {
-                "href": "/descartaveis/embalagens?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Embalagens",
-                "label": "Embalagens",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/espetos-e-palitos?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Espetos+e+Palitos",
-                "label": "Espetos e palitos",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/filme-plastico?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Filme+Plástico",
-                "label": "Filme Plástico",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/luvas-toucas-e-mascaras?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Luvas%2C+Toucas+e+Máscaras",
-                "label": "Luvas, toucas e máscaras",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/marmitex?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Marmitex",
-                "label": "Marmitex",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/papel?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Papel",
-                "label": "Papel",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/potes?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Potes",
-                "label": "Potes",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/pratos?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Pratos",
-                "label": "Pratos",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/sacos-e-sacolas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Sacos+e+Sacolas",
-                "label": "Sacos e sacolas",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/talheres?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Talheres",
-                "label": "Talheres",
-                "variant": "CommonChild",
-                "children": []
-              },
-              {
-                "href": "/descartaveis/outros?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Outros",
-                "label": "Outros",
+                "href": "/energia/nobreak?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Nobreak",
+                "label": "Nobreak",
                 "variant": "CommonChild",
                 "children": []
               }
