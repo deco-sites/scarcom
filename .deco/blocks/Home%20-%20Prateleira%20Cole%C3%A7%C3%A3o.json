@@ -32,11 +32,11 @@
             },
             {
               "screenWidth": 1170,
-              "itemsQuantity": 5
+              "itemsQuantity": 4
             },
             {
               "screenWidth": 1440,
-              "itemsQuantity": 5
+              "itemsQuantity": 4
             }
           ],
           "headerTailwind": "uppercase font-medium"
