@@ -42,13 +42,15 @@ function HeaderLayout({ minicart, searchbar, logo }: Props) {
         <div class="flex items-center gap-5">
           <Buttons variant="menu" />
           <a href="/" class="" aria-label="Store logo">
-            {/* <Icon id="Logo" class="max-sm:hidden" width={236} height={47} />
+            {
+              /* <Icon id="Logo" class="max-sm:hidden" width={236} height={47} />
             <Icon
               id="Logo"
               class="sm:hidden max-w-[45vw]"
               width={176}
               height={35}
-            /> */}
+            /> */
+            }
 
             {logo?.desktop?.image && (
               <Image
@@ -81,7 +83,8 @@ function HeaderLayout({ minicart, searchbar, logo }: Props) {
         <div class="max-lg:hidden flex justify-between"></div>
         <div class="flex items-center w-auto lg:justify-between xl:gap-8 lg:gap-2">
           <div class="flex items-center xl:gap-4 lg:gap-2">
-            {/* <a
+            {
+              /* <a
               class="rounded-full border-2 border-solid no-animation btn-square btn-ghost flex items-center justify-center"
               href="/wishlist"
             >
@@ -92,7 +95,8 @@ function HeaderLayout({ minicart, searchbar, logo }: Props) {
                 height={24}
                 strokeWidth={1}
               />
-            </a> */}
+            </a> */
+            }
             <a
               class="max-lg:hidden rounded-full border-2 border-solid no-animation btn-square btn-ghost flex items-center justify-center"
               href="/my-account"
