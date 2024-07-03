@@ -16,10 +16,10 @@
               "mobile": "none",
               "desktop": "none"
             },
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
-            "alt": "relogioanel",
-            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
-            "href": "/relogioanel"
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/4f1dce61-ab61-46cd-878a-5693375cbe99",
+            "alt": "Telefone Videoconferencia IP 6 Linhas",
+            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1ccf20cd-b697-47eb-9de2-4b6b75a18621",
+            "href": "/grandstream-gxv3275/p"
           },
           {
             "backgroundColorHover": "primary",
@@ -31,10 +31,10 @@
               "mobile": "none",
               "desktop": "none"
             },
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
-            "alt": "relogioanel",
-            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
-            "href": "/relogioanel"
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/a424a085-22c2-40fc-984a-d4bec8130775",
+            "alt": "KVM Trendnet TK-803R com 8 portas ",
+            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/14d22cff-d43a-40ab-99dd-377f65b6e204",
+            "href": "/trendnet-tk-803r/p"
           },
           {
             "backgroundColorHover": "primary",
@@ -46,10 +46,10 @@
               "mobile": "none",
               "desktop": "none"
             },
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/3dba5285-e335-4d2f-8fc1-ae2b7c5dee65",
-            "alt": "relogioanel",
-            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ed6559bd-515b-4aa2-84b7-27e77864a2ef",
-            "href": "/relogioanel"
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/68342e9a-6caa-44b7-92c6-3a2b4e62cf9d",
+            "alt": "NAS 2 Bais Sem HD Gigabit e USB 3.0",
+            "imageMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/3b1783f5-2fc8-4bf3-85e5-482fcd3a4673",
+            "href": "/asustor-as1102tl/p"
           }
         ],
         "itemPerPageDesktop": 3,
