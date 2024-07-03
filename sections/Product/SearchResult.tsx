@@ -66,7 +66,7 @@ function Result({
   const newFilters = filters
     .filter(({ key }) => !hideFilter?.includes(key))
     .filter(({ values }) => isArray(values) && values.length)
-    .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
+    // .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
 
   const productsFound = (
     <h6 class="text-secondary uppercase font-medium text-base">
