@@ -210,7 +210,6 @@ function ProductInfo({
   };
 
   console.log(price);
-  
 
   return (
     <>
@@ -230,13 +229,13 @@ function ProductInfo({
       {/* Prices */}
       {availability === "https://schema.org/InStock" && (
         <div class="mt-5">
-           <span class="text-primary">
-              {" "}
-              <strong class="text-2xl text-primary">
-                {formatPrice(price! * 0.97, offers!.priceCurrency)}
-              </strong>{" "}
-              à vista ou
-            </span>
+          <span class="text-primary">
+            {" "}
+            <strong class="text-2xl text-primary">
+              {formatPrice(price! * 0.97, offers!.priceCurrency)}
+            </strong>{" "}
+            à vista ou
+          </span>
           <div class="flex flex-row gap-2 items-center">
             {listPrice !== price && (
               <span class="line-through text-base-300 text-xs">
