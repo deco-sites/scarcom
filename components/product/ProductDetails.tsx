@@ -35,6 +35,10 @@ export interface LabelBuyButton {
 
 export interface Props {
   page: LoaderReturnType<ProductDetailsPage | null>;
+  /**
+   * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
+   */
+  discountPercent?: number;
   discount?: DiscountBadgeProps;
   /**
    * @description Flags, displayed when  products are found
@@ -64,10 +68,12 @@ function ProductInfo({
   page,
   shipmentPolitics,
   shareableNetworks,
+  discountPercent,
 }: {
   page: ProductDetailsPage;
   shipmentPolitics?: Props["shipmentPolitics"];
   shareableNetworks?: Props["shareableNetworks"];
+  discountPercent?: number;
 }) {
   const { product } = page;
   const {
@@ -80,13 +86,13 @@ function ProductInfo({
     url,
     additionalProperty,
   } = product;
-  const { price, listPrice, seller, installments, availability } = useOffer(
-    offers,
-  );
+  const { price, listPrice, seller, installments, availability } =
+    useOffer(offers);
 
-  const referenceID = additionalProperty?.find(
-    ({ valueReference }) => valueReference == "ReferenceID",
-  )?.value ?? gtin;
+  const referenceID =
+    additionalProperty?.find(
+      ({ valueReference }) => valueReference == "ReferenceID"
+    )?.value ?? gtin;
 
   const especifications = page?.product?.isVariantOf?.additionalProperty;
 
@@ -208,8 +214,7 @@ function ProductInfo({
       )
     );
   };
-
-  console.log(price);
+  
 
   return (
     <>
@@ -229,13 +234,15 @@ function ProductInfo({
       {/* Prices */}
       {availability === "https://schema.org/InStock" && (
         <div class="mt-5">
-          <span class="text-primary">
-            {" "}
-            <strong class="text-2xl text-primary">
-              {formatPrice(price! * 0.97, offers!.priceCurrency)}
-            </strong>{" "}
-            à vista ou
-          </span>
+          {discountPercent ? (
+            <span class="text-primary">
+              {" "}
+              <strong class="text-2xl text-primary">
+                {formatPrice((price! - (price! * (discountPercent % 100)) / 100), offers!.priceCurrency)}
+              </strong>{" "}
+              à vista ou
+            </span>
+          ) : null}
           <div class="flex flex-row gap-2 items-center">
             {listPrice !== price && (
               <span class="line-through text-base-300 text-xs">
@@ -270,38 +277,35 @@ function ProductInfo({
       </div>
       {/* Add to Cart and Favorites button */}
       <div class="mt-4 mb-7 lg:mt-10 flex gap-[30px]">
-        {availability === "https://schema.org/InStock"
-          ? (
-            <>
-              {seller && (
-                <AddToCartActions
-                  productID={productID}
-                  seller={seller}
-                  price={price}
-                  listPrice={listPrice}
-                  productName={name ?? ""}
-                  productGroupID={product.isVariantOf?.productGroupID ?? ""}
-                />
-              )}
-            </>
-          )
-          : <OutOfStock productID={productID} />}
+        {availability === "https://schema.org/InStock" ? (
+          <>
+            {seller && (
+              <AddToCartActions
+                productID={productID}
+                seller={seller}
+                price={price}
+                listPrice={listPrice}
+                productName={name ?? ""}
+                productGroupID={product.isVariantOf?.productGroupID ?? ""}
+              />
+            )}
+          </>
+        ) : (
+          <OutOfStock productID={productID} />
+        )}
       </div>
       {/* Description card */}
       <details className="collapse collapse-plus border-b border-[#E2E3E8] rounded-none">
         <summary className="collapse-title px-0">Detalhes do produto</summary>
         <div className=" text-xs px-0 leading-tight collapse-content text-black">
-          {
-            /* <input type="checkbox" id="readmore" className="readmore-toggle" />
+          {/* <input type="checkbox" id="readmore" className="readmore-toggle" />
           <label htmlFor="readmore" className="readmore-label my-2 block">
             + Ler mais
-          </label> */
-          }
+          </label> */}
           <p
             className="readmore-content"
             dangerouslySetInnerHTML={{ __html: description || "" }}
-          >
-          </p>
+          ></p>
         </div>
         <div className="text-xs px-0">
           <ul className="ml-3 pb-[10px]" style={"list-style:initial;"}>
@@ -317,7 +321,7 @@ function ProductInfo({
                       >
                         {renderItem(item)}
                       </li>
-                    ),
+                    )
                 )}
               </>
             )}
@@ -367,8 +371,7 @@ function ProductInfo({
       )}
 
       {/* Analytics Event */}
-      {
-        /* <SendEventOnLoad
+      {/* <SendEventOnLoad
         event={{
           name: "view_item",
           params: {
@@ -382,8 +385,7 @@ function ProductInfo({
             ],
           },
         }}
-      /> */
-      }
+      /> */}
     </>
   );
 }
@@ -395,14 +397,15 @@ const useStableImages = (product: ProductDetailsPage["product"]) => {
   };
 
   const images = product.image ?? [];
-  const allImages = product.isVariantOf?.hasVariant
-    .flatMap((p) => p.image)
-    .reduce((acc, img) => {
-      if (img?.url) {
-        acc[imageNameFromURL(img.url)] = img.url;
-      }
-      return acc;
-    }, {} as Record<string, string>) ?? {};
+  const allImages =
+    product.isVariantOf?.hasVariant
+      .flatMap((p) => p.image)
+      .reduce((acc, img) => {
+        if (img?.url) {
+          acc[imageNameFromURL(img.url)] = img.url;
+        }
+        return acc;
+      }, {} as Record<string, string>) ?? {};
 
   return images.map((img) => {
     const name = imageNameFromURL(img.url);
@@ -418,6 +421,7 @@ function Details({
   shareableNetworks,
   highlights,
   discount,
+  discountPercent,
 }: {
   page: ProductDetailsPage;
   variant: Variant;
@@ -425,6 +429,7 @@ function Details({
   shareableNetworks?: Props["shareableNetworks"];
   highlights?: HighLight[];
   discount?: DiscountBadgeProps;
+  discountPercent?: number
 }) {
   const { product, breadcrumbList } = page;
   const id = `product-image-gallery:${useId()}`;
@@ -455,6 +460,7 @@ function Details({
               page={page}
               shipmentPolitics={shipmentPolitics}
               shareableNetworks={shareableNetworks}
+              discountPercent={discountPercent}
             />
           </div>
         </div>
@@ -505,27 +511,30 @@ function ProductDetails({
   notFoundSection: { Component: ProductNotFound, props: notFoundProps },
   highlights,
   discount,
+  discountPercent
 }: Props) {
-  const variant = maybeVar === "auto"
-    ? page?.product.image?.length && page?.product.image?.length < 2
-      ? "front-back"
-      : "slider"
-    : maybeVar;
+  const variant =
+    maybeVar === "auto"
+      ? page?.product.image?.length && page?.product.image?.length < 2
+        ? "front-back"
+        : "slider"
+      : maybeVar;
 
   return (
     <div class="py-0 lg:pb-10">
-      {page
-        ? (
-          <Details
-            page={page}
-            variant={variant}
-            shipmentPolitics={shipmentPolitics}
-            shareableNetworks={shareableNetworks}
-            highlights={highlights}
-            discount={discount}
-          />
-        )
-        : <ProductNotFound {...notFoundProps} />}
+      {page ? (
+        <Details
+          page={page}
+          variant={variant}
+          shipmentPolitics={shipmentPolitics}
+          shareableNetworks={shareableNetworks}
+          highlights={highlights}
+          discount={discount}
+          discountPercent={discountPercent}
+        />
+      ) : (
+        <ProductNotFound {...notFoundProps} />
+      )}
     </div>
   );
 }
