@@ -53,10 +53,10 @@ export interface Layout {
 
 interface Props {
   product: Product;
-   /**
+  /**
    * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
    */
-   discountPercent?: number;
+  discountPercent?: number;
   /** Preload card image */
   preload?: boolean;
   /**
@@ -89,7 +89,6 @@ function ProductCard({
   const { url, productID, name, image: images, offers, isVariantOf } = product;
 
   console.log(layout?.discountPercent, "--------------");
-  
 
   const productGroupID = isVariantOf?.productGroupID;
   const id = `product-card-${productID}`;
@@ -364,13 +363,21 @@ function ProductCard({
           )
           : (
             <div class="flex flex-col mt-2">
-              {layout?.discountPercent ?  (<div class="text-xs text-primary font-normal text-gray-800 mt-[5px]">
-                <span class="text-[1.0rem] text-primary font-bold">
-                  {formatPrice((price! - (price! * (layout?.discountPercent % 100)) / 100), offers!.priceCurrency)}
-                  {" "}
-                </span>
-                à vista ou
-              </div>) : null}
+              {layout?.discountPercent
+                ? (
+                  <div class="text-xs text-primary font-normal text-gray-800 mt-[5px]">
+                    <span class="text-[1.0rem] text-primary font-bold">
+                      {formatPrice(
+                        price! -
+                          (price! * (layout?.discountPercent % 100)) / 100,
+                        offers!.priceCurrency,
+                      )}
+                      {" "}
+                    </span>
+                    à vista ou
+                  </div>
+                )
+                : null}
               <div
                 class={`flex items-center gap-2.5 ${
                   l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
