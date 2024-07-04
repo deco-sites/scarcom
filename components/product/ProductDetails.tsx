@@ -5,8 +5,6 @@ import Image from "apps/website/components/Image.tsx";
 import OutOfStock from "$store/islands/OutOfStock.tsx";
 import { useOffer } from "$store/sdk/useOffer.ts";
 import { formatPrice } from "$store/sdk/format.ts";
-// import { SendEventOnLoad } from "$store/sdk/analytics.tsx";
-// import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
 import { LoaderReturnType } from "deco/mod.ts";
 import AddToCartActions from "$store/islands/AddToCartActions.tsx";
@@ -211,6 +209,9 @@ function ProductInfo({
     );
   };
 
+  console.log(price);
+  
+
   return (
     <>
       {/* Code and name */}
@@ -229,6 +230,13 @@ function ProductInfo({
       {/* Prices */}
       {availability === "https://schema.org/InStock" && (
         <div class="mt-5">
+           <span class="text-primary">
+              {" "}
+              <strong class="text-2xl text-primary">
+                {formatPrice(price! * 0.97, offers!.priceCurrency)}
+              </strong>{" "}
+              à vista ou
+            </span>
           <div class="flex flex-row gap-2 items-center">
             {listPrice !== price && (
               <span class="line-through text-base-300 text-xs">
