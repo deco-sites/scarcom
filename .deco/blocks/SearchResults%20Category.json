@@ -39,7 +39,8 @@
           "onMouseOver": {
             "image": "Change image",
             "showCta": true
-          }
+          },
+          "discountPercent": 10
         },
         "notFoundSection": {
           "__resolveType": "site/sections/Product/NotFound.tsx"

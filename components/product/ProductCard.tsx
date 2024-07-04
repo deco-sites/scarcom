@@ -25,6 +25,10 @@ export interface Layout {
     ctaVariation?: ButtonVariant;
     ctaMode?: "Go to Product Page" | "Add to Cart";
   };
+  /**
+   * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
+   */
+  discountPercent?: number;
   discount?: DiscountBadgeProps;
   elementsPositions?: {
     skuSelector?: "Top" | "Bottom";
@@ -49,6 +53,10 @@ export interface Layout {
 
 interface Props {
   product: Product;
+  /**
+   * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
+   */
+  discountPercent?: number;
   /** Preload card image */
   preload?: boolean;
   /**
@@ -79,6 +87,8 @@ function ProductCard({
   index,
 }: Props) {
   const { url, productID, name, image: images, offers, isVariantOf } = product;
+
+  console.log(layout?.discountPercent, "--------------");
 
   const productGroupID = isVariantOf?.productGroupID;
   const id = `product-card-${productID}`;
@@ -299,6 +309,7 @@ function ProductCard({
         </a>
       </figure>
       {/* Prices & Name */}
+
       <div class="flex-auto flex flex-col">
         {/* SKU Selector */}
         {(!l?.elementsPositions?.skuSelector ||
@@ -352,21 +363,36 @@ function ProductCard({
           )
           : (
             <div class="flex flex-col mt-2">
+              {layout?.discountPercent
+                ? (
+                  <div class="text-xs text-primary font-normal text-gray-800 mt-[5px]">
+                    <span class="text-[1.0rem] text-primary font-bold">
+                      {formatPrice(
+                        price! -
+                          (price! * (layout?.discountPercent % 100)) / 100,
+                        offers!.priceCurrency,
+                      )}
+                      {" "}
+                    </span>
+                    à vista ou
+                  </div>
+                )
+                : null}
               <div
                 class={`flex items-center gap-2.5 ${
                   l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
                 } ${align === "center" ? "justify-center" : "justify-start"}`}
               >
-                {listPrice !== price && (
+                {listPrice && price && listPrice > price && (
                   <p
-                    class={`line-through text-base-300 text-xs ${
+                    class={`line-through text-base-300 text-xs  ${
                       l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
                     }`}
                   >
                     {formatPrice(listPrice, offers!.priceCurrency!)}
                   </p>
                 )}
-                <p class="text-primary text-sm font-bold">
+                <p class="text-primary text-sm">
                   {formatPrice(price, offers!.priceCurrency!)}
                 </p>
               </div>

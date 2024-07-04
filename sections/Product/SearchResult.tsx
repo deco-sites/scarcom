@@ -65,8 +65,8 @@ function Result({
   const hideFilter = hideFilters?.split(",");
   const newFilters = filters
     .filter(({ key }) => !hideFilter?.includes(key))
-    .filter(({ values }) => isArray(values) && values.length)
-    // .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
+    .filter(({ values }) => isArray(values) && values.length);
+  // .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
 
   const productsFound = (
     <h6 class="text-secondary uppercase font-medium text-base">

@@ -5,8 +5,6 @@ import Image from "apps/website/components/Image.tsx";
 import OutOfStock from "$store/islands/OutOfStock.tsx";
 import { useOffer } from "$store/sdk/useOffer.ts";
 import { formatPrice } from "$store/sdk/format.ts";
-// import { SendEventOnLoad } from "$store/sdk/analytics.tsx";
-// import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
 import { LoaderReturnType } from "deco/mod.ts";
 import AddToCartActions from "$store/islands/AddToCartActions.tsx";
@@ -37,6 +35,10 @@ export interface LabelBuyButton {
 
 export interface Props {
   page: LoaderReturnType<ProductDetailsPage | null>;
+  /**
+   * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
+   */
+  discountPercent?: number;
   discount?: DiscountBadgeProps;
   /**
    * @description Flags, displayed when  products are found
@@ -66,10 +68,12 @@ function ProductInfo({
   page,
   shipmentPolitics,
   shareableNetworks,
+  discountPercent,
 }: {
   page: ProductDetailsPage;
   shipmentPolitics?: Props["shipmentPolitics"];
   shareableNetworks?: Props["shareableNetworks"];
+  discountPercent?: number;
 }) {
   const { product } = page;
   const {
@@ -229,6 +233,20 @@ function ProductInfo({
       {/* Prices */}
       {availability === "https://schema.org/InStock" && (
         <div class="mt-5">
+          {discountPercent
+            ? (
+              <span class="text-primary">
+                {" "}
+                <strong class="text-2xl text-primary">
+                  {formatPrice(
+                    price! - (price! * (discountPercent % 100)) / 100,
+                    offers!.priceCurrency,
+                  )}
+                </strong>{" "}
+                à vista ou
+              </span>
+            )
+            : null}
           <div class="flex flex-row gap-2 items-center">
             {listPrice !== price && (
               <span class="line-through text-base-300 text-xs">
@@ -411,6 +429,7 @@ function Details({
   shareableNetworks,
   highlights,
   discount,
+  discountPercent,
 }: {
   page: ProductDetailsPage;
   variant: Variant;
@@ -418,6 +437,7 @@ function Details({
   shareableNetworks?: Props["shareableNetworks"];
   highlights?: HighLight[];
   discount?: DiscountBadgeProps;
+  discountPercent?: number;
 }) {
   const { product, breadcrumbList } = page;
   const id = `product-image-gallery:${useId()}`;
@@ -448,6 +468,7 @@ function Details({
               page={page}
               shipmentPolitics={shipmentPolitics}
               shareableNetworks={shareableNetworks}
+              discountPercent={discountPercent}
             />
           </div>
         </div>
@@ -498,6 +519,7 @@ function ProductDetails({
   notFoundSection: { Component: ProductNotFound, props: notFoundProps },
   highlights,
   discount,
+  discountPercent,
 }: Props) {
   const variant = maybeVar === "auto"
     ? page?.product.image?.length && page?.product.image?.length < 2
@@ -516,6 +538,7 @@ function ProductDetails({
             shareableNetworks={shareableNetworks}
             highlights={highlights}
             discount={discount}
+            discountPercent={discountPercent}
           />
         )
         : <ProductNotFound {...notFoundProps} />}
