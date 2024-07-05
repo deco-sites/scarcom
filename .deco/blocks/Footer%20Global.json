@@ -170,7 +170,8 @@
     {
       "section": {
         "__resolveType": "site/sections/Social/WhatsApp.tsx",
-        "phone": 551132795555
+        "phone": 551132795555,
+        "target": "_blank"
       },
       "shadow": "none",
       "overFlow": "overflow-none",
