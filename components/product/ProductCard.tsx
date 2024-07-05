@@ -184,9 +184,7 @@ function ProductCard({
 
   const price2: number = price as number;
   const listPrice2: number = listPrice as number;
-
-  console.log(installments, ">>>>>>>>>>");
-
+  
   return (
     <div
       class={`card card-compact opacity-100 bg-opacity-100 group w-full ${

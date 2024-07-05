@@ -2,9 +2,10 @@ import Icon from "../../components/ui/Icon.tsx";
 
 export interface Props {
   phone?: number;
+  target?: "_blank" | "_blank"
 }
 
-function WhatsApp({ phone }: Props) {
+function WhatsApp({ phone, target = "_blank" }: Props) {
   if (!phone) {
     return null;
   }
@@ -12,6 +13,7 @@ function WhatsApp({ phone }: Props) {
   return (
     <a
       href={`https://api.whatsapp.com/send/?phone=${phone}&text&type=phone_number&app_absent=0`}
+      target={target}
       class="fixed bottom-6 right-6 z-40"
       aria-label="Chat on WhatsApp"
     >
