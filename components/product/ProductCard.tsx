@@ -95,15 +95,15 @@ function ProductCard({
 
   const hasVariant = isVariantOf?.hasVariant ?? [];
   const front = images && images[0];
-  let back = images &&
+  let back =
+    images &&
     images.find((obj) => {
       return obj.name === "over";
     });
   if (!back) back = images?.[1] ?? images?.[0];
 
-  const { listPrice, price, installments, seller, availability } = useOffer(
-    offers,
-  );
+  const { listPrice, price, installments, seller, availability } =
+    useOffer(offers);
 
   const possibilities = useVariantPossibilities(hasVariant, product);
   const variants = Object.entries(Object.values(possibilities)[0] ?? {});
@@ -131,16 +131,14 @@ function ProductCard({
       BUTTON_VARIANTS[variant ?? "primary"]
     }`;
 
-  const cta = layout?.basics?.ctaMode === "Go to Product Page"
-    ? (
+  const cta =
+    layout?.basics?.ctaMode === "Go to Product Page" ? (
       <a
         href={url && relative(url)}
         aria-label="view product"
-        class={`min-w-[162px] ${
-          addToCartButtonClassNames(
-            layout?.basics?.ctaVariation,
-          )
-        }`}
+        class={`min-w-[162px] ${addToCartButtonClassNames(
+          layout?.basics?.ctaVariation
+        )}`}
       >
         <span class="max-lg:hidden flex font-medium ">
           {l?.basics?.ctaText || "Ver produto"}
@@ -149,9 +147,7 @@ function ProductCard({
           {l?.basics?.mobileCtaText || "Add ao carrinho"}
         </span>
       </a>
-    )
-    : l?.basics?.mobileCtaText
-    ? (
+    ) : l?.basics?.mobileCtaText ? (
       <>
         <AddToCartButton
           url={url as string}
@@ -164,15 +160,12 @@ function ProductCard({
           sellerId={seller as string}
           skuId={product.sku}
           label={l?.basics?.mobileCtaText}
-          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${
-            addToCartButtonClassNames(
-              layout?.basics?.ctaVariation,
-            )
-          }`}
+          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${addToCartButtonClassNames(
+            layout?.basics?.ctaVariation
+          )}`}
         />
       </>
-    )
-    : (
+    ) : (
       <AddToCartButton
         quantity={1}
         name={product.name as string}
@@ -183,16 +176,16 @@ function ProductCard({
         sellerId={seller as string}
         skuId={product.sku}
         label={l?.basics?.ctaText}
-        classes={`hidden lg:flex lg:justify-center ${
-          addToCartButtonClassNames(
-            layout?.basics?.ctaVariation,
-          )
-        }`}
+        classes={`hidden lg:flex lg:justify-center ${addToCartButtonClassNames(
+          layout?.basics?.ctaVariation
+        )}`}
       />
     );
 
   const price2: number = price as number;
   const listPrice2: number = listPrice as number;
+
+  console.log(installments, ">>>>>>>>>>");
 
   return (
     <div
@@ -277,16 +270,16 @@ function ProductCard({
             class={`
               absolute rounded-none w-full
               ${
-              !l?.onMouseOver?.image ||
+                !l?.onMouseOver?.image ||
                 l?.onMouseOver?.image == "Change image"
-                ? "duration-100 transition-opacity opacity-100 lg:group-hover:opacity-0"
-                : ""
-            }
+                  ? "duration-100 transition-opacity opacity-100 lg:group-hover:opacity-0"
+                  : ""
+              }
               ${
-              l?.onMouseOver?.image == "Zoom image"
-                ? "duration-100 transition-scale scale-100 lg:group-hover:scale-105"
-                : ""
-            }
+                l?.onMouseOver?.image == "Zoom image"
+                  ? "duration-100 transition-scale scale-100 lg:group-hover:scale-105"
+                  : ""
+              }
             `}
             sizes="(max-width: 640px) 50vw, 20vw"
             preload={preload}
@@ -315,115 +308,101 @@ function ProductCard({
         {(!l?.elementsPositions?.skuSelector ||
           l?.elementsPositions?.skuSelector === "Top") && (
           <>
-            {l?.hide.skuSelector
-              ? (
-                ""
-              )
-              : (
-                <ul
-                  class={`flex items-center gap-2 w-full ${
-                    align === "center" ? "justify-center" : "justify-start"
-                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-                >
-                  {skuSelector}
-                </ul>
-              )}
+            {l?.hide.skuSelector ? (
+              ""
+            ) : (
+              <ul
+                class={`flex items-center gap-2 w-full ${
+                  align === "center" ? "justify-center" : "justify-start"
+                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+              >
+                {skuSelector}
+              </ul>
+            )}
           </>
         )}
 
-        {l?.hide.productName && l?.hide.productDescription
-          ? (
-            ""
-          )
-          : (
-            <div class="flex flex-col gap-0 mt-[15px]">
-              {l?.hide.productName
-                ? (
-                  ""
-                )
-                : (
-                  <h2 class="line-clamp-2 uppercase text-xs font-bold text-base-content">
-                    {isVariantOf?.name || name}
-                  </h2>
-                )}
-              {l?.hide.productDescription
-                ? (
-                  ""
-                )
-                : (
-                  <p class="truncate text-sm lg:text-sm text-neutral">
-                    {product.description}
-                  </p>
-                )}
-            </div>
-          )}
-        {l?.hide.allPrices
-          ? (
-            ""
-          )
-          : (
-            <div class="flex flex-col mt-2">
-              {layout?.discountPercent
-                ? (
-                  <div class="text-xs text-primary font-normal text-gray-800 mt-[5px]">
-                    <span class="text-[1.0rem] text-primary font-bold">
-                      {formatPrice(
-                        price! -
-                          (price! * (layout?.discountPercent % 100)) / 100,
-                        offers!.priceCurrency,
-                      )}
-                      {" "}
-                    </span>
-                    à vista ou
-                  </div>
-                )
-                : null}
-              <div
-                class={`flex items-center gap-2.5 ${
-                  l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
-                } ${align === "center" ? "justify-center" : "justify-start"}`}
-              >
-                {listPrice && price && listPrice > price && (
-                  <p
-                    class={`line-through text-base-300 text-xs  ${
-                      l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
-                    }`}
-                  >
-                    {formatPrice(listPrice, offers!.priceCurrency!)}
-                  </p>
-                )}
-                <p class="text-primary text-sm">
-                  {formatPrice(price, offers!.priceCurrency!)}
-                </p>
+        {l?.hide.productName && l?.hide.productDescription ? (
+          ""
+        ) : (
+          <div class="flex flex-col gap-0 mt-[15px]">
+            {l?.hide.productName ? (
+              ""
+            ) : (
+              <h2 class="line-clamp-2 uppercase text-xs font-bold text-base-content">
+                {isVariantOf?.name || name}
+              </h2>
+            )}
+            {l?.hide.productDescription ? (
+              ""
+            ) : (
+              <p class="truncate text-sm lg:text-sm text-neutral">
+                {product.description}
+              </p>
+            )}
+          </div>
+        )}
+        {l?.hide.allPrices ? (
+          ""
+        ) : (
+          <div class="flex flex-col mt-2">
+            {layout?.discountPercent ? (
+              <div class="text-xs text-primary font-normal text-gray-800 mt-[5px]">
+                <span class="text-[1.0rem] text-primary font-bold">
+                  {formatPrice(
+                    price! - (price! * (layout?.discountPercent % 100)) / 100,
+                    offers!.priceCurrency
+                  )}{" "}
+                </span>
+                à vista ou
               </div>
-              {l?.hide.installments
-                ? (
-                  ""
-                )
-                : (
-                  <div class="text-xs font-normal text-base-content mt-[5px]">
-                    ou {installments}
-                  </div>
-                )}
+            ) : null}
+            <div
+              class={`flex items-center gap-2.5 ${
+                l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
+              } ${align === "center" ? "justify-center" : "justify-start"}`}
+            >
+              {listPrice && price && listPrice > price && (
+                <p
+                  class={`line-through text-base-300 text-xs  ${
+                    l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
+                  }`}
+                >
+                  {formatPrice(listPrice, offers!.priceCurrency!)}
+                </p>
+              )}
+              <p class="text-primary text-sm">
+                {formatPrice(price, offers!.priceCurrency!)}
+              </p>
             </div>
-          )}
+            {l?.hide.installments ? (
+              ""
+            ) : (
+              <>
+                {installments ? (
+                  <div class="text-xs font-normal text-base-content mt-[5px]">
+                    em até {installments}
+                  </div>
+                ) : null}
+              </>
+            )}
+          </div>
+        )}
 
         {/* SKU Selector */}
         {l?.elementsPositions?.skuSelector === "Bottom" && (
           <>
-            {l?.hide.skuSelector
-              ? (
-                ""
-              )
-              : (
-                <ul
-                  class={`flex items-center gap-2 w-full ${
-                    align === "center" ? "justify-center" : "justify-start"
-                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-                >
-                  {skuSelector}
-                </ul>
-              )}
+            {l?.hide.skuSelector ? (
+              ""
+            ) : (
+              <ul
+                class={`flex items-center gap-2 w-full ${
+                  align === "center" ? "justify-center" : "justify-start"
+                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+              >
+                {skuSelector}
+              </ul>
+            )}
           </>
         )}
 
@@ -431,8 +410,8 @@ function ProductCard({
           class={`w-full flex flex-col mt-[10px]
           ${
             l?.onMouseOver?.showSkuSelector || l?.onMouseOver?.showCta
-              // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
-              ? "transition-opacity opacity-100"
+              ? // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
+                "transition-opacity opacity-100"
               : "lg:hidden"
           }
         `}
