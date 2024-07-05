@@ -68,7 +68,8 @@
             "image": "Change image",
             "showCta": false,
             "showSkuSelector": false
-          }
+          },
+          "discountPercent": 10
         }
       },
       "shadow": "none",
