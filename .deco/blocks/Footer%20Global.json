@@ -166,6 +166,16 @@
       "verticalSpacing": "top",
       "backgroundColor": "#F7F7F7",
       "label": "Copyright"
+    },
+    {
+      "section": {
+        "__resolveType": "site/sections/Social/WhatsApp.tsx",
+        "phone": 551132795555
+      },
+      "shadow": "none",
+      "overFlow": "overflow-none",
+      "verticalSpacing": "top",
+      "label": "WhatsApp"
     }
   ]
 }
