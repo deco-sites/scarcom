@@ -446,5 +446,9 @@
   "/.deco/blocks/Preview%20vtex%2Floaders%2FintelligentSearch%2Ftopsearches.ts.json": {
     "blockType": "loaders",
     "__resolveType": "vtex/loaders/intelligentSearch/topsearches.ts"
+  },
+  "/.deco/blocks/Analytics.json": {
+    "blockType": "sections",
+    "__resolveType": "website/sections/Analytics/Analytics.tsx"
   }
 }
