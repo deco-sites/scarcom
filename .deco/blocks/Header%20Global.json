@@ -22,6 +22,11 @@
             "textAlert": "Compra Segura ",
             "textColor": "#ffffff",
             "alt": "Compra Segura "
+          },
+          {
+            "idIcon": "",
+            "textAlert": "10% de desconto no boleto/PIX",
+            "textColor": "#ffffff"
           }
         ],
         "interval": 5
