@@ -33,7 +33,6 @@ export interface LabelBuyButton {
   };
 }
 
-
 export interface MeasurementChart {
   url: string;
 }
@@ -79,7 +78,7 @@ function ProductInfo({
   shipmentPolitics,
   shareableNetworks,
   discountPercent,
-  measurementChart
+  measurementChart,
 }: {
   page: ProductDetailsPage;
   shipmentPolitics?: Props["shipmentPolitics"];
@@ -273,7 +272,8 @@ function ProductInfo({
         </div>
       )}
       {/* Measurement chart */}
-      {(availability === "https://schema.org/InStock" && measurementChart?.url) && (
+      {(availability === "https://schema.org/InStock" &&
+        measurementChart?.url) && (
         <div class="mt-4 sm:mt-5">
           <a
             class="text-sm underline"

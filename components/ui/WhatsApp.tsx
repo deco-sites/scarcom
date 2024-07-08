@@ -2,7 +2,7 @@ import Icon from "../../components/ui/Icon.tsx";
 
 export interface Props {
   phone?: number;
-  target?: "_blank" | "_self"
+  target?: "_blank" | "_self";
 }
 
 function WhatsApp({ phone, target = "_blank" }: Props) {
