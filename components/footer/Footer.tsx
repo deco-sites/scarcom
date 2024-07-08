@@ -52,6 +52,7 @@ export interface FooterImage {
   alt: string;
   label: string;
   href: string;
+  target?: "_blank" | "_self" | "_parent" | "_top" | "framename";
 }
 
 export interface Props {
@@ -211,7 +212,10 @@ function Footer({
                   <li class="flex items-center gap-2">
                     <span class="text-black text-[10px]">{item.label}</span>
 
-                    <a href={item.href}>
+                    <a 
+                      href={item.href} 
+                      target={item?.target ? item?.target : undefined}
+                    >
                       <img
                         src={item.image}
                         alt={item.alt}
