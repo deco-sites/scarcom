@@ -33,6 +33,10 @@ export interface LabelBuyButton {
   };
 }
 
+export interface MeasurementChart {
+  url: string;
+}
+
 export interface Props {
   page: LoaderReturnType<ProductDetailsPage | null>;
   /**
@@ -49,6 +53,11 @@ export interface Props {
    * @description Ask for the developer to remove this option since this is here to help development only and should not be used in production
    */
   variant?: Variant;
+  /**
+   * @title Measurement Chart
+   * @description Add Url to Measurement Chart
+   */
+  measurementChart?: MeasurementChart;
   shipmentPolitics?: {
     label: string;
     link: string;
@@ -69,11 +78,13 @@ function ProductInfo({
   shipmentPolitics,
   shareableNetworks,
   discountPercent,
+  measurementChart,
 }: {
   page: ProductDetailsPage;
   shipmentPolitics?: Props["shipmentPolitics"];
   shareableNetworks?: Props["shareableNetworks"];
   discountPercent?: number;
+  measurementChart?: Props["measurementChart"];
 }) {
   const { product } = page;
   const {
@@ -261,11 +272,12 @@ function ProductInfo({
         </div>
       )}
       {/* Measurement chart */}
-      {availability === "https://schema.org/InStock" && (
+      {(availability === "https://schema.org/InStock" &&
+        measurementChart?.url) && (
         <div class="mt-4 sm:mt-5">
           <a
             class="text-sm underline"
-            href="https://technos.vtexcommercestable.com.br/api/dataentities/MI/documents/405a6e7f-cce7-11ed-83ab-02f9c48fe6b5/file/attachments/GuiaDeMedidasTechnos.pdf"
+            href={`${measurementChart?.url}`}
             target="_blank"
             data-gtm-vis-first-on-screen387253_693="1145"
             data-gtm-vis-total-visible-time387253_693="100"

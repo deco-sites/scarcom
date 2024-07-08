@@ -26,26 +26,19 @@ const isIcon = (item: Item): item is IconItem =>
 function SectionItem({ item }: { item: Item }) {
   return (
     <span>
-      {isIcon(item)
-        ? (
-          <div class="border border-solid py-3 px-2.5">
-            <Icon
-              id={item.icon}
-              width={25}
-              height={20}
-              strokeWidth={0.01}
-            />
-          </div>
-        )
-        : (
-          <a
-            href={item.href}
-            target={item?.target ? item?.target : undefined}
-            class="max-md:text-sm text-xs font-normal text-base hover:text-emphasis transition-all duration-500"
-          >
-            {item.label}
-          </a>
-        )}
+      {isIcon(item) ? (
+        <div class="border border-solid py-3 px-2.5">
+          <Icon id={item.icon} width={25} height={20} strokeWidth={0.01} />
+        </div>
+      ) : (
+        <a
+          href={item.href}
+          target={item?.target ? item?.target : undefined}
+          class="max-md:text-sm text-xs font-normal text-base hover:text-emphasis transition-all duration-500"
+        >
+          {item.label}
+        </a>
+      )}
     </span>
   );
 }
@@ -58,6 +51,7 @@ export interface FooterImage {
   image: ImageWidget;
   alt: string;
   label: string;
+  href: string;
 }
 
 export interface Props {
@@ -103,19 +97,17 @@ export interface Props {
   poweredby?: FooterImage[];
 }
 
-function Footer(
-  {
-    sections = [],
-    socialNetWorks,
-    logo,
-    openingHours,
-    email,
-    phone,
-    payments,
-    securities,
-    poweredby,
-  }: Props,
-) {
+function Footer({
+  sections = [],
+  socialNetWorks,
+  logo,
+  openingHours,
+  email,
+  phone,
+  payments,
+  securities,
+  poweredby,
+}: Props) {
   return (
     <footer class="">
       <div class="bg-white flex flex-col">
@@ -123,7 +115,7 @@ function Footer(
           <div class="pt-11 px-8 pb-10 max-lg:w-full bg-[#F7F7F7] rounded-[10px]">
             {/* <Icon id="Logo" width={120} height={30} /> */}
             {/* <Logo width={"120px"} height={"27px"} /> */}
-            {(logo?.image) && (
+            {logo?.image && (
               <Image
                 src={logo?.image}
                 width={logo?.width ?? 119}
@@ -217,17 +209,18 @@ function Footer(
               <ul class="flex items-center w-full lg:w-auto max-lg:justify-center flex-wrap gap-8">
                 {poweredby?.map((item) => (
                   <li class="flex items-center gap-2">
-                    <span class="text-black text-[10px]">
-                      {item.label}
-                    </span>
-                    <img
-                      src={item.image}
-                      alt={item.alt}
-                      width={89}
-                      height={20}
-                      class="w-auto h-auto"
-                      loading="lazy"
-                    />
+                    <span class="text-black text-[10px]">{item.label}</span>
+
+                    <a href={item.href}>
+                      <img
+                        src={item.image}
+                        alt={item.alt}
+                        width={89}
+                        height={20}
+                        class="w-auto h-auto"
+                        loading="lazy"
+                      />
+                    </a>
                   </li>
                 ))}
               </ul>
