@@ -43,6 +43,11 @@ export interface Props {
    * @description Discount Percent value To Pix, Boleto etc... , sample: 10 = 10%
    */
   discountPercent?: number;
+  /**
+   * @title Measurement Chart
+   * @description Add URL to Measurement Chart
+   */
+  measurementChart?:string;
   discount?: DiscountBadgeProps;
   /**
    * @description Flags, displayed when  products are found
@@ -53,11 +58,6 @@ export interface Props {
    * @description Ask for the developer to remove this option since this is here to help development only and should not be used in production
    */
   variant?: Variant;
-  /**
-   * @title Measurement Chart
-   * @description Add Url to Measurement Chart
-   */
-  measurementChart?: MeasurementChart;
   shipmentPolitics?: {
     label: string;
     link: string;
@@ -273,11 +273,11 @@ function ProductInfo({
       )}
       {/* Measurement chart */}
       {(availability === "https://schema.org/InStock" &&
-        measurementChart?.url) && (
+        measurementChart) && (
         <div class="mt-4 sm:mt-5">
           <a
             class="text-sm underline"
-            href={`${measurementChart?.url}`}
+            href={`${measurementChart}`}
             target="_blank"
             data-gtm-vis-first-on-screen387253_693="1145"
             data-gtm-vis-total-visible-time387253_693="100"
@@ -442,6 +442,7 @@ function Details({
   highlights,
   discount,
   discountPercent,
+  measurementChart,
 }: {
   page: ProductDetailsPage;
   variant: Variant;
@@ -450,6 +451,7 @@ function Details({
   highlights?: HighLight[];
   discount?: DiscountBadgeProps;
   discountPercent?: number;
+  measurementChart?: Props["measurementChart"];
 }) {
   const { product, breadcrumbList } = page;
   const id = `product-image-gallery:${useId()}`;
@@ -481,6 +483,7 @@ function Details({
               shipmentPolitics={shipmentPolitics}
               shareableNetworks={shareableNetworks}
               discountPercent={discountPercent}
+              measurementChart={measurementChart}
             />
           </div>
         </div>
@@ -532,6 +535,7 @@ function ProductDetails({
   highlights,
   discount,
   discountPercent,
+  measurementChart
 }: Props) {
   const variant = maybeVar === "auto"
     ? page?.product.image?.length && page?.product.image?.length < 2
@@ -551,6 +555,7 @@ function ProductDetails({
             highlights={highlights}
             discount={discount}
             discountPercent={discountPercent}
+            measurementChart={measurementChart}
           />
         )
         : <ProductNotFound {...notFoundProps} />}
