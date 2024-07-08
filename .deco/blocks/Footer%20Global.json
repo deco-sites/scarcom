@@ -139,17 +139,20 @@
           {
             "alt": "agencia n1",
             "label": "Created By",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0e25fd23-a9ff-4301-9a19-5ca1a273eae1"
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0e25fd23-a9ff-4301-9a19-5ca1a273eae1",
+            "href": "https://agencian1.com.br/"
           },
           {
             "alt": "Deco",
             "label": " ",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c1e3b475-c061-4780-bfc6-f435facf0797"
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c1e3b475-c061-4780-bfc6-f435facf0797",
+            "href": "https://deco.cx/"
           },
           {
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/685dcc4c-2b15-42ae-9d26-dc6915e1049c",
             "alt": "vtex",
-            "label": "Powered by"
+            "label": "Powered by",
+            "href": "https://vtex.com/br-pt"
           }
         ],
         "email": "atendimento@scarcom.com.br"
