@@ -7,8 +7,8 @@
         "__resolveType": "site/sections/Product/SearchResult.tsx",
         "page": {
           "__resolveType": "vtex/loaders/legacy/productListingPage.ts",
-          "sort": "OrderByPriceDESC",
-          "count": 13
+          "count": 13,
+          "sort": "OrderByPriceDESC"
         },
         "variant": "aside",
         "highlights": [],
@@ -43,7 +43,77 @@
           "discountPercent": 10
         },
         "notFoundSection": {
-          "__resolveType": "site/sections/Product/NotFound.tsx"
+          "__resolveType": "site/sections/Miscellaneous/NotFound.tsx",
+          "hints": {
+            "hints": [
+              "Verifique os termos digitados.",
+              "Tente utilizar uma única palavra.",
+              "Utilize termos genéricos na busca.",
+              "Procure utilizar sinônimos ao termo desejado."
+            ],
+            "title": "Confira algumas dicas para realizar sua busca:"
+          },
+          "shelf": {
+            "products": {
+              "__resolveType": "vtex/loaders/legacy/productList.ts",
+              "props": {
+                "sort": "OrderByPriceDESC",
+                "similars": true
+              }
+            },
+            "highlights": [],
+            "layout": {
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "itemsPerPage": [
+                {
+                  "screenWidth": 450,
+                  "itemsQuantity": 2
+                },
+                {
+                  "screenWidth": 786,
+                  "itemsQuantity": 3
+                },
+                {
+                  "screenWidth": 1170,
+                  "itemsQuantity": 4
+                },
+                {
+                  "screenWidth": 1440,
+                  "itemsQuantity": 4
+                }
+              ]
+            },
+            "showPaginationArrows": "Always",
+            "showPaginationDots": "Always",
+            "cardLayout": {
+              "basics": {
+                "contentAlignment": "Left",
+                "oldPriceSize": "Small",
+                "ctaVariation": "primary",
+                "ctaMode": "Go to Product Page"
+              },
+              "discount": {
+                "variant": "emphasis",
+                "alignHorizontal": "end",
+                "label": " "
+              },
+              "elementsPositions": {
+                "skuSelector": "Top",
+                "favoriteIcon": "Top right"
+              },
+              "hide": {},
+              "onMouseOver": {
+                "image": "Change image"
+              }
+            },
+            "seeMore": {
+              "url": " ",
+              "label": " "
+            }
+          },
+          "termDescription": " ",
+          "title": "  "
         }
       },
       "shadow": "none",
