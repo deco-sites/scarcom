@@ -8,7 +8,9 @@
         "page": {
           "__resolveType": "vtex/loaders/legacy/productListingPage.ts",
           "sort": "OrderByPriceDESC",
-          "count": 13
+          "count": 13,
+          "filters": "dynamic",
+          "pageOffset": 1
         },
         "variant": "aside",
         "highlights": [],
@@ -43,7 +45,53 @@
           "discountPercent": 10
         },
         "notFoundSection": {
-          "__resolveType": "site/sections/Product/NotFound.tsx"
+          "__resolveType": "site/sections/Miscellaneous/NotFound.tsx",
+          "hints": {
+            "hints": [],
+            "title": " "
+          },
+          "shelf": {
+            "products": {
+              "__resolveType": "vtex/loaders/legacy/productList.ts",
+              "props": {
+                "sort": "OrderByPriceDESC"
+              }
+            },
+            "highlights": [],
+            "layout": {
+              "headerAlignment": "center",
+              "headerfontSize": "Normal",
+              "itemsPerPage": []
+            },
+            "showPaginationArrows": "Always",
+            "showPaginationDots": "Always",
+            "cardLayout": {
+              "basics": {
+                "contentAlignment": "Left",
+                "oldPriceSize": "Small",
+                "ctaVariation": "primary",
+                "ctaMode": "Go to Product Page"
+              },
+              "discount": {
+                "variant": "emphasis",
+                "alignHorizontal": "end",
+                "label": " "
+              },
+              "elementsPositions": {
+                "skuSelector": "Top",
+                "favoriteIcon": "Top right"
+              },
+              "hide": {},
+              "onMouseOver": {
+                "image": "Change image"
+              }
+            },
+            "seeMore": {
+              "url": " ",
+              "label": "  "
+            }
+          },
+          "title": "  "
         }
       },
       "shadow": "none",
