@@ -221,32 +221,8 @@
                     "children": []
                   },
                   {
-                    "href": "/artesanato",
-                    "label": "Artesanato",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/festas",
-                    "label": "Festas",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/descartaveis",
-                    "label": "Descartáveis",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/lazer-e-utilidades",
-                    "label": "Lazer e Utilidades",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/atacado",
-                    "label": "Atacado",
+                    "href": "/software?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Software",
+                    "label": "Software",
                     "variant": "CommonChild",
                     "children": []
                   }
