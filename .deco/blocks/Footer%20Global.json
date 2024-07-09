@@ -6,8 +6,12 @@
       "section": {
         "__resolveType": "site/sections/Newsletter/Newsletter.tsx",
         "form": {
-          "email": {},
-          "name": {},
+          "email": {
+            "show": false
+          },
+          "name": {
+            "show": false
+          },
           "privacyContact": {},
           "button": {
             "variant": "primary"

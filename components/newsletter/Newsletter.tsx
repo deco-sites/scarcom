@@ -102,7 +102,7 @@ function InputCheckboxNewsletter(
         name={name}
         type="checkbox"
         style={{ width: "1.25rem" }}
-        class="input h-5 flex-shrink-0 block outline-none p-0"
+        class="input h-5 flex-shrink-0 block outline-none p-0 checked:bg-primary"
         required={required}
       />
       {!!posLabel && <p class="text-base-100">{posLabel}</p>}
@@ -125,20 +125,22 @@ function Form(props: Props) {
         privacyContact: false,
       };
 
+      
+
       loading.value = true;
 
-      if (form?.email?.show) {
+      if (!form?.email?.show) {
         formData.email =
           (e.currentTarget.elements.namedItem("email") as RadioNodeList)?.value;
       }
 
-      if (form?.name?.show) {
+      if (!form?.name?.show) {
         formData.name =
           (e.currentTarget.elements.namedItem("name") as RadioNodeList)
             ?.value;
       }
 
-      if (form?.privacyContact?.show) {
+      if (!form?.privacyContact?.show) {
         formData.privacyContact = (e.currentTarget.querySelector(
           'input[name="privacyContact"]',
         ) as HTMLInputElement)?.checked;
