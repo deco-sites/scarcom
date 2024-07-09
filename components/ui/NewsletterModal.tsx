@@ -3,7 +3,7 @@ import {
   ButtonVariant,
 } from "../../components/minicart/Cart.tsx";
 import Icon from "../../components/ui/Icon.tsx";
-import Logo from "../../components/ui/Logo.tsx";
+// import Logo from "../../components/ui/Logo.tsx";
 import { useSignal } from "@preact/signals";
 import { SectionProps } from "deco/types.ts";
 import type { JSX } from "preact";
@@ -13,6 +13,7 @@ import {
   INewsletterInputCheckboxProps,
   InputCheckboxNewsletterProps,
 } from "../../components/newsletter/Newsletter.tsx";
+import { ImageWidget } from "apps/admin/widgets.ts";
 export interface INewsletterInputProps {
   /**
    * @title Hide input?
@@ -43,6 +44,7 @@ export interface INewsletterFormProps {
 }
 
 export interface Props {
+  logo: ImageWidget;
   /**
    * @title Newsletter Form
    */
@@ -125,6 +127,7 @@ function NewsletterModal(
     text,
     modalSignExpiredDate,
     modalCloseExpiredDate,
+    logo
   }: SectionProps<
     ReturnType<typeof loader>
   >,
@@ -269,11 +272,14 @@ function NewsletterModal(
             )
             : (
               <>
-                <Logo
+                {/* <Logo
                   class="mx-auto mb-5 block"
                   width={131}
                   height={56}
-                />
+                /> */}
+                {
+                  logo && (<img class="w-full" src={logo} alt={"logo"} />)
+                }
                 <div
                   dangerouslySetInnerHTML={{ __html: text }}
                   class="text-base lg:text-xl text-center text-base-100 lg:pr-0 "
@@ -313,7 +319,6 @@ function NewsletterModal(
           </button>
         </form>
       </dialog>
-      )
     </>
   );
 }
