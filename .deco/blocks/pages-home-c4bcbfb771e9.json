@@ -36,6 +36,9 @@
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/f72f3e1e-d32f-4089-aeee-d7bd4988f573",
       "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/8fc15b20-982f-4d3b-85f8-00df57fd453e",
       "canonical": "/"
+    },
+    {
+      "__resolveType": "site/sections/Newsletter/NewsletterModal.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
