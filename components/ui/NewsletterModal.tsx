@@ -152,8 +152,6 @@ function NewsletterModal(
         privacyContact: false,
       };
 
-      console.log(form);
-
       loading.value = true;
 
       if (!form?.email?.show) {
