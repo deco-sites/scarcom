@@ -203,20 +203,20 @@
                 "variant": "CommonChild",
                 "children": [
                   {
-                    "href": "/papelaria",
-                    "label": "Papelaria",
+                    "href": "/computador?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Computador",
+                    "label": "Computador",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/escritorio",
-                    "label": "Escritório",
+                    "href": "/placa-mae?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Placa+m%c3%a3e",
+                    "label": "Placa mãe",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/informatica",
-                    "label": "Informática",
+                    "href": "/processador?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Processador",
+                    "label": "Processador",
                     "variant": "CommonChild",
                     "children": []
                   },
