@@ -152,20 +152,22 @@ function NewsletterModal(
         privacyContact: false,
       };
 
+      console.log(form);
+
       loading.value = true;
 
-      if (form?.email?.show) {
+      if (!form?.email?.show) {
         formData.email =
           (e.currentTarget.elements.namedItem("email") as RadioNodeList)?.value;
       }
 
-      if (form?.name?.show) {
+      if (!form?.name?.show) {
         formData.name =
           (e.currentTarget.elements.namedItem("name") as RadioNodeList)
             ?.value;
       }
 
-      if (form?.privacyContact?.show) {
+      if (!form?.privacyContact?.show) {
         formData.privacyContact = (e.currentTarget.querySelector(
           'input[name="privacyContact"]',
         ) as HTMLInputElement)?.checked;
