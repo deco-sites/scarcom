@@ -88,7 +88,7 @@ function InputNewsletter(
     <input
       name={name}
       type={type}
-      class="input text-[#585858] lg:h-9 h-9 px-5 join-item w-full mb-2.5 first:mt-5 border-2 border-neutral rounded-full placeholder:text-placeholder !outline-none lg:text-base text-xs"
+      class="input text-[#585858] lg:h-9 h-9 px-5 join-item w-full mb-2.5 first:mt-5 border-2 border-accent rounded-full placeholder:text-placeholder !outline-none lg:text-base text-xs"
       placeholder={placeholder}
       required={required}
     />
@@ -110,7 +110,7 @@ function InputCheckboxNewsletter(
         name={name}
         type="checkbox"
         style={{ width: "1.25rem" }}
-        class="input h-5 flex-shrink-0 block outline-none p-0"
+        class="input h-5 flex-shrink-0 block outline-none p-0 border-accent checked:bg-primary"
         required={required}
       />
       {!!posLabel && (
