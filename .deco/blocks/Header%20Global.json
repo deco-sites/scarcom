@@ -105,96 +105,96 @@
             "variant": "AllCategories",
             "children": [
               {
-                "href": "/mercearia",
-                "label": "Automaçg",
+                "href": "/automacao-comercial?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Automa%c3%a7%c3%a3o+Comercial",
+                "label": "Automação Comercial",
                 "variant": "CommonChild",
                 "children": [
                   {
-                    "href": "/mercearia/acucar-e-adocantes",
-                    "label": "Açucar e Adoçantes",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/mercearia/agua",
-                    "label": "Água",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/mercearia/cafe",
-                    "label": "Café",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/mercearia/confeitaria",
-                    "label": "Confeitaria",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/mercearia/doces",
-                    "label": "Doces",
-                    "variant": "CommonChild",
-                    "children": []
-                  },
-                  {
-                    "href": "/mercearia/isqueiros",
-                    "label": "Isqueiros",
+                    "href": "/automacao-comercial/leitor-de-codigo-de-barras?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Leitor+de+C%c3%b3digo+de+Barras",
+                    "label": "Leitor de Código de Barras",
                     "variant": "CommonChild",
                     "children": []
                   }
                 ]
               },
               {
-                "href": "/limpeza",
-                "label": "Limpeza",
+                "label": "Impressora",
                 "variant": "CommonChild",
                 "children": [
                   {
-                    "href": "/limpeza/higiene",
-                    "label": "Higiene",
+                    "href": "/impressora/cartucho-de-tinta?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Cartucho+de+Tinta",
+                    "label": "Cartucho de Tinta",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/limpeza/panos",
-                    "label": "Panos",
+                    "href": "/impressora/impressora-epson?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Impressora+Epson",
+                    "label": "Impressora Epson",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/limpeza/produtos-de-limpeza",
-                    "label": "Produtos de Limpeza",
+                    "href": "/impressora/impressora-hp?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Impressora+HP",
+                    "label": "Impressora HP",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/limpeza/utensilios",
-                    "label": "Utensilios",
+                    "href": "/impressora/impressora-multifuncional?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Impressora+Multifuncional",
+                    "label": "Impressora Multifuncional",
                     "variant": "CommonChild",
                     "children": []
+                  },
+                  {
+                    "children": [],
+                    "variant": "CommonChild",
+                    "label": "Scanner de Mesa",
+                    "href": "/impressora/scanner-de-mesa?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Scanner+de+Mesa"
+                  },
+                  {
+                    "children": [],
+                    "variant": "CommonChild",
+                    "label": "Toner",
+                    "href": "/impressora/toner?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Toner"
                   }
                 ],
-                "highlighted": false
+                "highlighted": false,
+                "href": "/impressora?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Impressora"
               },
               {
-                "href": "/faber-castell-premium",
-                "label": "Faber-Castell Premium",
+                "href": "/monitor?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Monitor",
+                "label": "Monitor",
                 "variant": "CommonChild",
                 "children": [
                   {
-                    "href": "/faber-castell-premium/art---graphic",
-                    "label": "Art & Graphic",
+                    "href": "/monitor/15-a-19-polegadas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=15+a+19+Polegadas",
+                    "label": "15 a 19 Polegadas",
                     "variant": "CommonChild",
                     "children": []
                   },
                   {
-                    "href": "/faber-castell-premium/creative-studio",
-                    "label": "Creative Studio",
+                    "href": "/monitor/20-a-23-polegadas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=20+a+23+Polegadas",
+                    "label": "20 a 23 Polegadas",
                     "variant": "CommonChild",
                     "children": []
+                  },
+                  {
+                    "children": [],
+                    "variant": "CommonChild",
+                    "label": "24 a 29 Polegadas",
+                    "href": "/monitor/24-a-29-polegadas?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=24+a+29+Polegadas"
+                  },
+                  {
+                    "children": [],
+                    "variant": "CommonChild",
+                    "label": "Adaptador de Vídeo",
+                    "href": "/monitor/adaptador-de-video?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Adaptador+de+V%c3%addeo"
+                  },
+                  {
+                    "children": [],
+                    "variant": "CommonChild",
+                    "label": "Projetor",
+                    "href": "/monitor/projetor?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Projetor"
                   }
                 ]
               },
