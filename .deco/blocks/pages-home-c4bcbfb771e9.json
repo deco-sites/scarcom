@@ -36,6 +36,27 @@
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/f72f3e1e-d32f-4089-aeee-d7bd4988f573",
       "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/8fc15b20-982f-4d3b-85f8-00df57fd453e",
       "canonical": "/"
+    },
+    {
+      "__resolveType": "site/sections/Newsletter/NewsletterModal.tsx",
+      "form": {
+        "email": {
+          "placeholder": "Digite seu e-mail"
+        },
+        "name": {
+          "placeholder": "Digite seu nome"
+        },
+        "button": {
+          "label": "CADASTRAR"
+        },
+        "privacyContact": {
+          "preLabel": " "
+        }
+      },
+      "modalSignExpiredDate": 36,
+      "modalCloseExpiredDate": 10,
+      "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/f72f3e1e-d32f-4089-aeee-d7bd4988f573",
+      "text": "<p><br data-mce-bogus=\"1\"></p>"
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
