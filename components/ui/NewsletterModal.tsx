@@ -258,7 +258,7 @@ function NewsletterModal(
               aria-label="Fechar"
             >
               <Icon
-                id="XMark"
+                id="Close"
                 width={20}
                 height={20}
               />
