@@ -41,6 +41,7 @@ export type AvailableIcons =
   | "Heart"
   | "MagnifyingGlass"
   | "XMark"
+  | "Close"
   | "Plus"
   | "Minus"
   | "MapPin"
