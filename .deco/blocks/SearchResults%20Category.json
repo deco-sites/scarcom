@@ -23,7 +23,9 @@
             "contentAlignment": "Center",
             "oldPriceSize": "Small",
             "ctaVariation": "primary",
-            "ctaMode": "Go to Product Page"
+            "ctaMode": "Add to Cart",
+            "ctaText": "Adicionar ao carrinho",
+            "mobileCtaText": "Adicionar ao carrinho"
           },
           "discount": {
             "variant": "emphasis",
