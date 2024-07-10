@@ -3,18 +3,6 @@ import { ProductListingPage } from "apps/commerce/types.ts";
 import Icon from "../../components/ui/Icon.tsx";
 
 const SORT_QUERY_PARAM = "sort";
-const SORT_QUERY_PARAM_LEGACY = "O";
-
-const SORT_TO_LEGACY_SORT = [
-  "OrderByPriceDESC",
-  "OrderByPriceASC",
-  "OrderByTopSaleDESC",
-  "OrderByNameDESC",
-  "OrderByNameASC",
-  "OrderByReleaseDateDESC",
-  "OrderByBestDiscountDESC",
-  "OrderByScoreDESC",
-];
 
 const useSort = () =>
   useMemo(() => {
@@ -25,12 +13,8 @@ const useSort = () =>
 // TODO: Replace with "search utils"
 const applySort = (searchParam: string) => {
   const urlSearchParams = new URLSearchParams(window.location.search);
-  const isLegacy = SORT_TO_LEGACY_SORT.includes(searchParam);
 
-  urlSearchParams.set(
-    isLegacy ? SORT_QUERY_PARAM_LEGACY : SORT_QUERY_PARAM,
-    searchParam,
-  );
+  urlSearchParams.set(SORT_QUERY_PARAM, searchParam);
   window.location.search = urlSearchParams.toString();
 };
 

@@ -27,7 +27,7 @@
     "neutral": "#f9f9f9",
     "primary": "#005488",
     "warning": "#e08e00",
-    "base-100": "#ffffff",
+    "base-100": "#FFFFFF",
     "tertiary": "#848689",
     "secondary": "#F99400"
   },
@@ -52,8 +52,10 @@
     },
     "base-200": "#ffffff",
     "base-300": "#ffffff",
-    "neutral-content": "#f9f9f9"
+    "neutral-content": "#f9f9f9",
+    "primary-content": "#000000",
+    "secondary-content": "#000000"
   },
   "mode": "dark",
-  "colorScheme": "light"
+  "colorScheme": "dark"
 }
