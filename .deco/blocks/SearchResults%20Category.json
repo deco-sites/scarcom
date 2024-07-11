@@ -8,7 +8,7 @@
         "page": {
           "__resolveType": "vtex/loaders/legacy/productListingPage.ts",
           "sort": "OrderByPriceDESC",
-          "count": 13,
+          "count": 15,
           "filters": "dynamic",
           "pageOffset": 1
         },
