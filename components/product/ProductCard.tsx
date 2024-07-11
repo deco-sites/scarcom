@@ -273,7 +273,7 @@ function ProductCard({
             width={WIDTH}
             height={HEIGHT}
             class={`
-              absolute rounded-none w-full
+              absolute rounded-none w-full max-h-full object-contain	
               ${
               !l?.onMouseOver?.image ||
                 l?.onMouseOver?.image == "Change image"
@@ -298,7 +298,7 @@ function ProductCard({
               alt={back?.alternateName ?? (front ? front.alternateName : "")}
               width={WIDTH}
               height={HEIGHT}
-              class="absolute transition-opacity rounded-none w-full opacity-0 lg:group-hover:opacity-100"
+              class="absolute transition-opacity rounded-none w-full max-h-full object-contain opacity-0 lg:group-hover:opacity-100"
               sizes="(max-width: 640px) 50vw, 20vw"
               loading="lazy"
               decoding="async"
