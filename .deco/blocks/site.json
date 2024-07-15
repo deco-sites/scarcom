@@ -16,7 +16,11 @@
   "global": [
     {
       "__resolveType": "website/sections/Analytics/Analytics.tsx",
-      "dangerouslyRunOnMainThread": true
+      "dangerouslyRunOnMainThread": true,
+      "trackingIds": [],
+      "googleAnalyticsIds": [
+        "G-73Z9CV9QQV"
+      ]
     },
     {
       "__resolveType": "algolia/sections/Analytics/Algolia.tsx"
