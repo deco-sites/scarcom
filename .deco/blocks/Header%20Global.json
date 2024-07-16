@@ -209,6 +209,12 @@
                     "children": []
                   },
                   {
+                    "href": "/perifericos",
+                    "label": "Periféricos",
+                    "variant": "CommonChild",
+                    "children": []
+                  },
+                  {
                     "href": "/placa-mae?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Placa+m%c3%a3e",
                     "label": "Placa mãe",
                     "variant": "CommonChild",
@@ -221,10 +227,10 @@
                     "children": []
                   },
                   {
-                    "href": "/software?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Software",
-                    "label": "Software",
+                    "children": [],
                     "variant": "CommonChild",
-                    "children": []
+                    "label": "Software",
+                    "href": "/software?&utmi_p=_&utmi_pc=Navegador+Todos+Departamento&utmi_cp=Software"
                   }
                 ]
               }
