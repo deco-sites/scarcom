@@ -2,6 +2,7 @@ import type {
   AggregateOffer,
   UnitPriceSpecification,
 } from "apps/commerce/types.ts";
+import { formatPrice } from "deco-sites/scarcom/sdk/format.ts";
 
 const bestInstallment = (
   acc: UnitPriceSpecification | null,
@@ -36,6 +37,7 @@ const bestInstallment = (
 const installmentToString = (
   installment: UnitPriceSpecification,
   sellingPrice: number,
+  priceCurrency?: string,
 ) => {
   const { billingDuration, billingIncrement, price } = installment;
 
@@ -44,8 +46,9 @@ const installmentToString = (
   }
 
   const withTaxes = sellingPrice < price;
+  const installmentValue = formatPrice(billingIncrement, priceCurrency!);
 
-  return `${billingDuration}x de R$ ${billingIncrement} ${
+  return `${billingDuration}x de R$ ${installmentValue} ${
     withTaxes ? "com juros" : "sem juros"
   }`;
 };
@@ -59,6 +62,8 @@ export const useOffer = (aggregateOffer?: AggregateOffer) => {
   const seller = offer?.seller;
   const price = offer?.price;
   const availability = offer?.availability;
+  const priceCurrency = aggregateOffer?.priceCurrency;
+
 
   return {
     price,
@@ -66,7 +71,7 @@ export const useOffer = (aggregateOffer?: AggregateOffer) => {
     availability,
     seller,
     installments: installment && price
-      ? installmentToString(installment, price)
+      ? installmentToString(installment, price, priceCurrency)
       : null,
   };
 };

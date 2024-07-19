@@ -127,7 +127,7 @@ function NewsletterModal(
     text,
     modalSignExpiredDate,
     modalCloseExpiredDate,
-    logo
+    logo,
   }: SectionProps<
     ReturnType<typeof loader>
   >,
@@ -272,14 +272,14 @@ function NewsletterModal(
             )
             : (
               <>
-                {/* <Logo
+                {
+                  /* <Logo
                   class="mx-auto mb-5 block"
                   width={131}
                   height={56}
-                /> */}
-                {
-                  logo && (<img class="w-full" src={logo} alt={"logo"} />)
+                /> */
                 }
+                {logo && <img class="w-full" src={logo} alt={"logo"} />}
                 <div
                   dangerouslySetInnerHTML={{ __html: text }}
                   class="text-base lg:text-xl text-center text-base-100 lg:pr-0 "

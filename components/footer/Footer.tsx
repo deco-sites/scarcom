@@ -26,19 +26,21 @@ const isIcon = (item: Item): item is IconItem =>
 function SectionItem({ item }: { item: Item }) {
   return (
     <span>
-      {isIcon(item) ? (
-        <div class="border border-solid py-3 px-2.5">
-          <Icon id={item.icon} width={25} height={20} strokeWidth={0.01} />
-        </div>
-      ) : (
-        <a
-          href={item.href}
-          target={item?.target ? item?.target : undefined}
-          class="max-md:text-sm text-xs font-normal text-base hover:text-emphasis transition-all duration-500"
-        >
-          {item.label}
-        </a>
-      )}
+      {isIcon(item)
+        ? (
+          <div class="border border-solid py-3 px-2.5">
+            <Icon id={item.icon} width={25} height={20} strokeWidth={0.01} />
+          </div>
+        )
+        : (
+          <a
+            href={item.href}
+            target={item?.target ? item?.target : undefined}
+            class="max-md:text-sm text-xs font-normal text-base hover:text-emphasis transition-all duration-500"
+          >
+            {item.label}
+          </a>
+        )}
     </span>
   );
 }
@@ -212,8 +214,8 @@ function Footer({
                   <li class="flex items-center gap-2">
                     <span class="text-black text-[10px]">{item.label}</span>
 
-                    <a 
-                      href={item.href} 
+                    <a
+                      href={item.href}
                       target={item?.target ? item?.target : undefined}
                     >
                       <img
