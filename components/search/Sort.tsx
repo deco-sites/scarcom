@@ -27,8 +27,7 @@ const applySort = (searchParam: string) => {
   const urlSearchParams = new URLSearchParams(window.location.search);
   const isLegacy = SORT_TO_LEGACY_SORT.includes(searchParam);
 
-
-  if(isLegacy) urlSearchParams.set(SORT_QUERY_PARAM_LEGACY, searchParam);
+  if (isLegacy) urlSearchParams.set(SORT_QUERY_PARAM_LEGACY, searchParam);
   urlSearchParams.set(SORT_QUERY_PARAM, searchParam);
 
   window.location.search = urlSearchParams.toString();
@@ -59,11 +58,10 @@ const labelsLegacy = {
 type LabelKey = keyof typeof labels;
 type LabelLegacyKey = keyof typeof labelsLegacy;
 
-
 export type Props = Pick<ProductListingPage, "sortOptions">;
 
 function Sort({ sortOptions }: Props) {
-  const sort = useSort();  
+  const sort = useSort();
 
   return (
     <div

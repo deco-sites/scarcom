@@ -125,8 +125,6 @@ function Form(props: Props) {
         privacyContact: false,
       };
 
-      
-
       loading.value = true;
 
       if (!form?.email?.show) {

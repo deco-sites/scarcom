@@ -47,7 +47,7 @@ export interface Props {
    * @title Measurement Chart
    * @description Add URL to Measurement Chart
    */
-  measurementChart?:string;
+  measurementChart?: string;
   discount?: DiscountBadgeProps;
   /**
    * @description Flags, displayed when  products are found
@@ -535,7 +535,7 @@ function ProductDetails({
   highlights,
   discount,
   discountPercent,
-  measurementChart
+  measurementChart,
 }: Props) {
   const variant = maybeVar === "auto"
     ? page?.product.image?.length && page?.product.image?.length < 2
