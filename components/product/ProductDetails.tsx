@@ -231,7 +231,7 @@ function ProductInfo({
       {/* Code and name */}
       <div class="mt-4 sm:mt-0">
         <h1>
-          <span class="uppercase font-medium text-base-content text-xl lg:text-2xl">
+          <span class="font-medium text-base-content text-xl lg:text-2xl">
             {isVariantOf?.name}
           </span>
         </h1>

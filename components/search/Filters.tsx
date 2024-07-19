@@ -90,6 +90,14 @@ function FilterValues({ key, values }: FilterToggle) {
   );
 }
 
+const filterNames = {
+  "Brands": "Marcas",
+  "Categories": "Categorias",
+  "Departments": "Departamentos",
+}
+
+type LabelKey = keyof typeof filterNames;
+
 function Filters({ filters }: Props) {
   const _filters = filters.filter(isToggle).filter((filter) =>
     !filter.key.includes("category-")
@@ -122,7 +130,7 @@ function Filters({ filters }: Props) {
         <li class="flex flex-col gap-4">
           <details class="collapse collapse-plus" open>
             <summary class="collapse-title uppercase text-base-content text-base font-medium min-h-0 px-0 py-2.5 border-b mb-4 border-primary-content">
-              {filter.label}
+              {filterNames[filter?.label as LabelKey] ?? filter.label}
             </summary>
             <div class="collapse-content px-0">
               <FilterValues {...filter} />
