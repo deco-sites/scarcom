@@ -340,7 +340,7 @@ function ProductCard({
                   ""
                 )
                 : (
-                  <h2 class="line-clamp-2 uppercase text-xs font-bold text-base-content">
+                  <h2 class="line-clamp-2 text-xs font-bold text-base-content">
                     {isVariantOf?.name || name}
                   </h2>
                 )}
