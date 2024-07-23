@@ -94,7 +94,7 @@ const filterNames = {
   "Brands": "Marcas",
   "Categories": "Categorias",
   "Departments": "Departamentos",
-}
+};
 
 type LabelKey = keyof typeof filterNames;
 

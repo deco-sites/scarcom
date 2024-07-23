@@ -64,7 +64,6 @@ export const useOffer = (aggregateOffer?: AggregateOffer) => {
   const availability = offer?.availability;
   const priceCurrency = aggregateOffer?.priceCurrency;
 
-
   return {
     price,
     listPrice: listPrice?.price,
