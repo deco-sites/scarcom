@@ -23,6 +23,7 @@ export interface Props {
       width?: number;
       height?: number;
     };
+    alt?: string;
   };
 
   /**
@@ -42,24 +43,15 @@ function HeaderLayout({ minicart, searchbar, logo }: Props) {
         <div class="flex items-center gap-5">
           <Buttons variant="menu" />
           <a href="/" class="" aria-label="Store logo">
-            {
-              /* <Icon id="Logo" class="max-sm:hidden" width={236} height={47} />
-            <Icon
-              id="Logo"
-              class="sm:hidden max-w-[45vw]"
-              width={176}
-              height={35}
-            /> */
-            }
-
+            
             {logo?.desktop?.image && (
               <Image
                 class="max-sm:hidden"
                 src={logo?.desktop?.image}
                 width={logo?.desktop?.width ?? 236}
                 height={logo?.desktop?.height ?? 47}
-                alt="Logo"
-                title="Logo"
+                alt={logo?.alt ?? "Logo"}
+                title={logo?.alt ?? "Logo"}
               />
             )}
 

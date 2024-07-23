@@ -49,7 +49,8 @@
           },
           "mobile": {
             "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c2ae8f96-74d9-4d4b-8e42-02939499160d"
-          }
+          },
+          "alt": "Scarcom"
         },
         "navItems": [],
         "minicart": {
