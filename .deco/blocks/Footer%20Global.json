@@ -80,7 +80,7 @@
               {
                 "target": "_blank",
                 "label": "Meu perfil",
-                "href": "/login"
+                "href": "/account"
               }
             ],
             "label": "MINHA CONTA"
