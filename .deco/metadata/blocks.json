@@ -456,5 +456,17 @@
     "path": "/my-account",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Login-511162.json": {
+    "name": "Login",
+    "path": "/my-account/login",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Orders-357894.json": {
+    "name": "Orders",
+    "path": "/my-account/orders",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
