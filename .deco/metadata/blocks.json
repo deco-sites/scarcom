@@ -450,5 +450,11 @@
   "/.deco/blocks/Analytics.json": {
     "blockType": "sections",
     "__resolveType": "website/sections/Analytics/Analytics.tsx"
+  },
+  "/.deco/blocks/pages-Account-531967.json": {
+    "name": "Account",
+    "path": "/my-account",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
