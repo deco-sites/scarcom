@@ -465,11 +465,7 @@
     "blockType": "apps",
     "__resolveType": "site/apps/deco/vtex.ts"
   },
-  "/.deco/blocks/deco-weather.json": {
-    "blockType": "apps",
-    "__resolveType": "site/apps/deco/weather.ts"
-  }
-}ks/deco-vtex.json": {
+  "/.deco-vtex.json": {
     "blockType": "apps",
     "__resolveType": "site/apps/deco/vtex.ts"
   },
