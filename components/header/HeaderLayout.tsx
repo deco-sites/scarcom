@@ -43,7 +43,6 @@ function HeaderLayout({ minicart, searchbar, logo }: Props) {
         <div class="flex items-center gap-5">
           <Buttons variant="menu" />
           <a href="/" class="" aria-label="Store logo">
-            
             {logo?.desktop?.image && (
               <Image
                 class="max-sm:hidden"
