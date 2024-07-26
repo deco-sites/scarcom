@@ -1,3 +1,5 @@
+/* Content copied from "checkout5-custom.css" at 2024-07-24T16:27:26.386Z */
+
 @import"https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap";html {
     overflow: visible
   }
@@ -37,6 +39,11 @@
     body:not(.checkout-email) .orderform-template-holder {
         width:100%
     }
+  }
+
+  .checkout-header,
+  .checkout-footer {
+    display: none!important;
   }
   
   .checkout__header-container {
@@ -104,7 +111,7 @@
   }
   
   .checkout__header-container .checkout__header-security-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -112,7 +119,7 @@
     margin-left: 10px;
     color: #2D386E;
     text-transform: capitalize;
-    font-family: "Poppins"
+    font-family: "Roboto"
   }
   
   @media(max-width: 1024px) {
@@ -179,7 +186,7 @@
   }
   
   .checkout-footer__container .checkout-footer__tipbar-container .checkout-footer__tipbar-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -217,6 +224,10 @@
     flex-direction: column;
     gap: 20px
   }
+  .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__site-map-items {
+    display: flex;
+    gap: 20px
+  }
   
   .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__site-map-item:nth-of-type(2) {
     /* margin-left:180px; */
@@ -234,7 +245,7 @@
   }
   
   .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__site-map-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -314,7 +325,7 @@
   }
   
   .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__created-by-text,.checkout-footer__container .checkout-footer__site-map-container .checkout-footer__powered-by-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -357,7 +368,7 @@
   }
   
   .checkout-footer__container .checkout-footer__info-container .checkout-footer__copyright {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -367,8 +378,9 @@
   
   .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__copyright__companies {
     display: flex;
-    align-items: center;
-    gap: 20px
+    align-items: self-start;
+    gap: 20px;
+    flex-direction: column;
   }
   
   .checkout-footer__container .checkout-footer__site-map-container .checkout-footer__copyright__companies .checkout-footer__copyright__n1,.checkout-footer__container .checkout-footer__site-map-container .checkout-footer__copyright__companies .checkout-footer__copyright__vtex {
@@ -462,7 +474,7 @@
   }
   
   #client-profile-data .client-profile-data .accordion-heading span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -471,7 +483,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -497,7 +509,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pf label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -507,12 +519,12 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pf input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     width: 100%;
     height: 36px;
     border: 1.5px solid #dfdfe4;
@@ -524,7 +536,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pf input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -547,7 +559,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pf .help {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -582,7 +594,7 @@
     color: #2D386E;
     background-color: #fff;
     border: 1px solid #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700;
     font-size: 10px;
     letter-spacing: .04em;
@@ -598,7 +610,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pj h5 {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -607,7 +619,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pj label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -625,12 +637,12 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pj .corporate-info-box input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     width: 100%;
     height: 36px;
     border: 1.5px solid #dfdfe4;
@@ -642,7 +654,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pj .corporate-info-box input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -681,7 +693,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .box-client-info-pj .corporate-info-box .state-inscription-box label span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -734,7 +746,7 @@
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .newsletter span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -776,21 +788,21 @@
   #client-profile-data .client-profile-data.active .accordion-inner .btn-submit-wrapper .btn {
     padding: 11px 30px;
     margin: 0;
-    background: #2D386E;
+    background: #F99400;
     border-radius: initial;
     border: none;
     transition: all .15s !important;
     color: #fff;
     box-shadow: none;
     width: 100%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700;
     border-radius: 100px;
   }
   
   #client-profile-data .client-profile-data.active .accordion-inner .btn-submit-wrapper .btn:hover {
     color: #fff;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#2D386E;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#F99400;
   }
   
   #client-profile-data .client-profile-data.filled {
@@ -803,7 +815,7 @@
   }
   
   #client-profile-data .client-profile-data.filled .accordion-inner {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -904,7 +916,7 @@
   }
   
   #shipping-data .accordion-group.shipping-data .accordion-heading span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -918,7 +930,7 @@
   }
   
   #shipping-data .accordion-group.shipping-data .accordion-inner .shipping-summary-info {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -926,7 +938,7 @@
   }
   
   #shipping-data .shipping-summary-placeholder * {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -941,7 +953,7 @@
   
   #shipping-data .shipping-summary-placeholder .link-change-shipping {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -966,7 +978,7 @@
   
   #shipping-data .shipping-summary-placeholder .link-change-shipping:hover {
     color: #fff;
-    background: #2D386E
+    background: #F99400
   }
   
   #shipping-data .shipping-data.active {
@@ -994,7 +1006,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .shp-method-option {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -1018,7 +1030,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ship-postalCode label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1028,12 +1040,12 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ship-postalCode input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     width: 100%;
     height: 36px;
     border: 1.5px solid #dfdfe4;
@@ -1048,7 +1060,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ship-postalCode input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1081,7 +1093,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ship-postalCode small a {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1107,7 +1119,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ask-for-geolocation-ask .ask-for-geolocation-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1117,7 +1129,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .ask-for-geolocation-ask .ask-for-geolocation-subtitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1131,7 +1143,7 @@
   
   #shipping-data .shipping-data.active .accordion-inner .ask-for-geolocation-ask .ask-for-geolocation-subtitle::before {
     content: "Procure por endereÃ§os que vocÃª frequenta e vamos localizar os pontos prÃ³ximos";
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1157,7 +1169,7 @@
     transition: all .15s !important;
     color: #fff;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1188,7 +1200,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .shp-alert #unavailable-delivery-disclaimer {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1203,7 +1215,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .shp-alert #unavailable-delivery-disclaimer a {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1217,7 +1229,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-shippingSectionTitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -1245,7 +1257,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-leanShippingGroupList label div {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1265,7 +1277,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-leanShippingGroupList label .shp-option-text-price {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -1274,7 +1286,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .address-summary {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1298,7 +1310,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-address label,#shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-teste label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1307,12 +1319,12 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-address input,#shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-teste input,#shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-address select {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     width: 100%;
     height: 36px;
     border: 1.5px solid #dfdfe4;
@@ -1324,7 +1336,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-address input::placeholder,#shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-teste input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1347,7 +1359,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-address .help,#shipping-data .shipping-data.active .accordion-inner .vtex-omnishipping-1-x-teste .help {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1385,20 +1397,20 @@
   #shipping-data .shipping-data.active .accordion-inner .btn-go-to-payment-wrapper>button {
     padding: 11px 30px;
     margin: 0;
-    background: #2D386E;
+    background: #F99400;
     border-radius: initial;
     border: none;
     transition: all .15s !important;
     color: #fff;
     box-shadow: none;
     width: 100%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     border-radius: 100px;
   }
   
   #shipping-data .shipping-data.active .accordion-inner .btn-go-to-payment-wrapper>button:hover {
     color: #fff;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#2D386E;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#F99400;
   }
   
   #shipping-data .shipping-data.active .accordion-inner .delivery-group-content .pickup-point-info {
@@ -1413,7 +1425,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .delivery-group-content .pickup-point-name {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1443,7 +1455,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .delivery-group-content .button-details-pickup-point {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1459,7 +1471,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .delivery-group-content .address-summary span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -1467,7 +1479,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .delivery-group-content .button-change-pickup-point {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1570,7 +1582,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .address-list .address-edit button {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1641,7 +1653,7 @@
   }
   
   #shipping-data .shipping-data.active .accordion-inner .address-list .address-create button {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1700,7 +1712,7 @@
     transition: all .15s !important;
     color: #fff;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1776,7 +1788,7 @@
   }
   
   #payment-data .accordion-heading span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -1816,7 +1828,7 @@
   }
   
   #payment-data .accordion-group.filled .accordion-inner p {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1844,7 +1856,7 @@
   
   #payment-data .accordion-group.active .accordion-heading .accordion-toggle-active::after {
     content: "Selecione a forma de pagamento desejada para a realização da compra.";
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -1965,7 +1977,7 @@
   }
   
   #payment-data .accordion-group.active .gift-card-section .payment-discounts-options label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -1982,7 +1994,7 @@
   }
   
   #payment-data .accordion-group.active .gift-card-section .payment-discounts-options input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -2003,7 +2015,7 @@
   }
   
   #payment-data .accordion-group.active .gift-card-section .payment-discounts-options button {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -2014,7 +2026,7 @@
     color: #fff;
     transition: all .15s !important;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2039,7 +2051,7 @@
   }
   
   #payment-data .accordion-group.active .link-payment-discounts-cod,#payment-data .accordion-group.active .payment-group-item {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     font-size: 14px;
     height: 57px;
@@ -2084,7 +2096,7 @@
   }
   
   #payment-data .accordion-group.active .payment-group-item .payment-group-item-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     font-size: 14px;
     width: 100%;
@@ -2153,7 +2165,7 @@
   }
   
   #payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .payment-description {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2163,7 +2175,7 @@
   }
   
   #payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .installments {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -2172,7 +2184,7 @@
   }
   
   #payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .bankInvoicePaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .promissoryPaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom201PaymentGroupPaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom202PaymentGroupPaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom203PaymentGroupPaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom204PaymentGroupPaymentGroup h3,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .cardPromissoryPaymentGroup h3 {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2184,7 +2196,7 @@
   }
   
   #payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .bankInvoicePaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .bankInvoicePaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .promissoryPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .promissoryPaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom201PaymentGroupPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom201PaymentGroupPaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom202PaymentGroupPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom202PaymentGroupPaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom203PaymentGroupPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom203PaymentGroupPaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom204PaymentGroupPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .custom204PaymentGroupPaymentGroup .sight,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .cardPromissoryPaymentGroup .payment-description,#payment-data .accordion-group.active .steps-view[data-bind="visible: showPaymentOptions"] .cardPromissoryPaymentGroup .sight {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -2193,7 +2205,7 @@
   }
   
   .iframe-debit-card-payment-group::before {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -2216,7 +2228,7 @@
   
   @media screen and (max-width: 300px) {
     .iframe-debit-card-payment-group::before {
-        font-family:"Poppins";
+        font-family:"Roboto";
         font-style: normal;
         font-weight: 700;
         font-size: 16px;
@@ -2229,7 +2241,7 @@
   }
   
   .iframe-debit-card-payment-group .FormFieldLabel {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2562,7 +2574,7 @@
   }
   
   .iframe-debit-card-payment-group .ChangeNumberOfPayments a {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2668,7 +2680,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed h2 {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -2745,7 +2757,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .hproduct .product-name {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2769,7 +2781,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .hproduct .quantity.badge {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2792,7 +2804,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .hproduct .description {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2838,7 +2850,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .hproduct .description .shipping-date {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -2858,7 +2870,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed #go-to-cart-button {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -2938,7 +2950,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .summary-template-holder .summary-totalizers .table tbody tr,.cart-template.mini-cart .cart-fixed .summary-template-holder .summary-totalizers .table tfoot tr {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -2966,7 +2978,7 @@
   }
   
   .cart-template.mini-cart .cart-fixed .summary-template-holder .summary-totalizers .table tfoot td {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -3013,13 +3025,13 @@
   .cart-template.mini-cart .cart-fixed .payment-confirmation-wrap button {
     padding: 11px 30px;
     margin: 0;
-    background: #2D386E;
+    background: #F99400;
     border-radius: initial;
     border: none;
     transition: all .15s !important;
     color: #fff;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -3032,7 +3044,7 @@
   
   .cart-template.mini-cart .cart-fixed .payment-confirmation-wrap button:hover {
     color: #fff;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#2D386E;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#F99400;
   }
   
   .cart-template.mini-cart .cart-fixed .payment-confirmation-wrap .icon-lock {
@@ -3052,7 +3064,7 @@
   }
   
   .cart-template.mini-cart .item-unavailable span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3132,7 +3144,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .vtex-pickup-points-modal-3-x-searching {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -3158,7 +3170,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-search-alone-title,.shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .vtex-pickup-points-modal-3-x-errorWrapper .vtex-pickup-points-modal-3-x-errorTitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -3188,7 +3200,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-search-alone-subtitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3246,7 +3258,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .vtex-pickup-points-modal-3-x-errorWrapper .vtex-pickup-points-modal-3-x-errorSubtitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3257,7 +3269,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .vtex-pickup-points-modal-3-x-errorWrapper #pkpmodal-back-to-search.vtex-pickup-points-modal-3-x-errorBackButton.pkpmodal-back-to-search.pkp-modal-btn-lg {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -3268,7 +3280,7 @@
     color: #fff;
     transition: all .15s !important;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3328,7 +3340,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-header .pkpmodal-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -3369,7 +3381,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-location-summary .pkpmodal-location-summary-btn {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3378,7 +3390,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-location-summary .pkpmodal-location-reset {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3406,7 +3418,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-points-list .vtex-pickup-points-modal-3-x-pickupListTitle {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3417,7 +3429,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-points-list #pkpmodal-show-list-btn {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -3512,7 +3524,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-points-item .pkpmodal-pickup-point-name {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3532,7 +3544,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-points-item .address-summary span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3541,7 +3553,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-points-item .pkpmodal-pickup-point-available {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3555,7 +3567,7 @@
     font-weight: 700;
     font-size: 10px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     color: #2D386E;
     padding: 0;
     margin: 0;
@@ -3587,7 +3599,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkp-modal-btn-lg {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -3598,7 +3610,7 @@
     color: #fff;
     transition: all .15s !important;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3634,7 +3646,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-back-lnk {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3680,7 +3692,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-header-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -3808,7 +3820,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-store .pkpmodal-pickup-point-name {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3828,7 +3840,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-store .address-summary span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3837,7 +3849,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-store .pkpmodal-pickup-point-available {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3851,7 +3863,7 @@
     font-weight: 700;
     font-size: 10px;
     line-height: 130%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     color: #2D386E;
     padding: 0;
     margin: 0;
@@ -3892,7 +3904,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-group {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3903,7 +3915,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-info-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3925,7 +3937,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-hours td {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -3944,7 +3956,7 @@
   }
   
   .shipping-container .vtex-pickup-points-modal-3-x-pkpmodal .pkpmodal-info-bar .pkpmodal-details .pkpmodal-details-confirm-btn {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -3955,7 +3967,7 @@
     color: #fff;
     transition: all .15s !important;
     box-shadow: none;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -3983,7 +3995,7 @@
   }
   
   .empty-cart-content .empty-cart-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -3999,7 +4011,7 @@
   }
   
   .empty-cart-content .empty-cart-message {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4068,8 +4080,8 @@
   }
   
   body .container-cart .cart thead th {
-    font-family: "Poppins";
-    font-weight: 400;
+    font-family: "Roboto";
+    font-weight: 700;
     font-size: 14px;
     background: #8F8F9F;
     color: #fff;
@@ -4110,9 +4122,9 @@
   }
   
   body .container-cart .cart tbody td {
-    color: #1E0E62;
-    font-family: "Poppins";
-    font-weight: 400;
+    color: #333637;
+    font-family: "Roboto";
+    font-weight: 700;
     line-height: 21px;
     letter-spacing: 0em;
     text-align: center;
@@ -4154,13 +4166,13 @@
   }
   
   body .container-cart .product-item .product-name>a {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 21px;
     letter-spacing: 0em;
     text-align: left;
-    color: #1E0E62;
+    color: #333637;
   }
   
   @media(max-width: 490px) {
@@ -4184,10 +4196,10 @@
   }
   
   body .container-cart .product-item .shipping-date span {
-    color: #1C1C1D;
-    font-family: "Poppins";
-    font-size: 10px;
-    font-weight: 700;
+    color: #333637;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
     line-height: 14px;
     letter-spacing: .04em;
     text-align: center
@@ -4208,12 +4220,12 @@
   }
   
   body .container-cart .product-item .product-price span {
-    color: #8f8f9f
+    color: #8F8F9F;
   }
   
   @media(max-width: 1024px) {
     body .container-cart .product-item .product-price .best-price span {
-        font-family:"Poppins";
+        font-family:"Roboto";
         font-style: normal;
         font-weight: 700;
         font-size: 12px;
@@ -4234,7 +4246,7 @@
   }
   
   body .container-cart .product-item .quantity input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
@@ -4257,7 +4269,7 @@
   }
   
   body .container-cart .product-item .quantity input ::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 12px;
     font-weight: 700;
     line-height: 18px;
@@ -4374,7 +4386,7 @@
   }
   
   body .container-cart .srp-main-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 700;
     line-height: 21px;
@@ -4392,7 +4404,7 @@
   }
   
   body .container-cart .srp-description {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
@@ -4409,12 +4421,12 @@
   }
   
   body .container-cart .srp-data button {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
     margin: 0;
-    background: #2D386E;
+    background: #F99400;
     border-radius: 0;
     border: none;
     color: #fff;
@@ -4426,11 +4438,11 @@
   
   body .container-cart .srp-data button:hover {
     color: #fff;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#2D386E
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#F99400
   }
   
   body .container-cart .srp-data .srp-result .srp-delivery-header span:first-child,body .container-cart .srp-data .srp-result .srp-pickup-header span:first-child {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     font-size: 14px;
     color: #2D386E
@@ -4441,7 +4453,7 @@
   }
   
   body .container-cart .srp-data .srp-result .srp-delivery-header span:last-child a,body .container-cart .srp-data .srp-result .srp-pickup-header span:last-child a {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -4457,7 +4469,7 @@
   }
   
   body .container-cart .srp-data .srp-result .shp-alert span,body .container-cart .srp-data .srp-result .shp-alert .srp-text,body .container-cart .srp-data .srp-result .srp-unavailable span,body .container-cart .srp-data .srp-result .srp-unavailable .srp-text {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -4479,7 +4491,7 @@
   }
   
   body .container-cart .srp-toggle .srp-toggle__current {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -4499,7 +4511,7 @@
   }
   
   body .container-cart .srp-toggle label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -4521,7 +4533,7 @@
   }
   
   body .container-cart .srp-postal-code .ship-postalCode label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -4529,7 +4541,7 @@
   }
   
   body .container-cart .srp-postal-code .ship-postalCode input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4542,7 +4554,7 @@
   }
   
   body .container-cart .srp-postal-code .ship-postalCode input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4572,7 +4584,7 @@
   }
   
   body .container-cart .srp-delivery-info .srp-shipping-current-single div {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -4581,7 +4593,7 @@
   }
   
   body .container-cart .srp-delivery-info .srp-shipping-current-single .srp-shipping-current-single__price {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -4590,7 +4602,7 @@
   }
   
   body .container-cart .srp-pickup-info .srp-items {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -4603,7 +4615,7 @@
   }
   
   body .container-cart .srp-pickup-info .srp-address-title {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -4622,7 +4634,7 @@
   }
   
   body .container-cart .srp-pickup-info .srp-shipping-current-single div {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -4631,7 +4643,7 @@
   }
   
   body .container-cart .srp-pickup-info .srp-shipping-current-single .srp-shipping-current-single__price {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -4689,13 +4701,14 @@
   }
   
   body .container-cart .coupon-fieldset .coupon-label label {
-    color: #2D386E;
-    font-family: "Poppins";
+    color: #005488;
+    font-family: "Roboto";
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0em;
     text-align: center;
     font-size: 14px;
+    text-transform: uppercase;
   }
   
   body .container-cart .coupon-fieldset .coupon-fields {
@@ -4714,7 +4727,7 @@
   }
   
   body .container-cart .coupon-fieldset .coupon-fields .info {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -4732,7 +4745,7 @@
   
   body .container-cart .coupon-fieldset .coupon-fields .info small a {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -4762,7 +4775,7 @@
   }
   
   body .container-cart .coupon-fieldset .coupon-value {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4776,7 +4789,7 @@
   }
   
   body .container-cart .coupon-fieldset .coupon-value::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4786,7 +4799,7 @@
   
   body .container-cart .coupon-fieldset .btn {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -4818,7 +4831,7 @@
   body .container-cart .coupon-fieldset .btn::before {
     content: "OK";
     font-size: 12px !important;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700
   }
   
@@ -4836,7 +4849,7 @@
   }
   
   body .container-cart .codigoVendedor .cartCodigo__label label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0em;
@@ -4850,7 +4863,7 @@
   }
   
   body .container-cart .codigoVendedor-fields #cart-codigo {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4863,7 +4876,7 @@
   }
   
   body .container-cart .codigoVendedor-fields #cart-codigo::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -4873,7 +4886,7 @@
   
   body .container-cart .codigoVendedor-fields .btn {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -4904,7 +4917,7 @@
   body .container-cart .codigoVendedor-fields .btn::before {
     content: "ativar";
     font-size: 12px !important;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700
   }
   
@@ -4940,12 +4953,12 @@
   }
   
   body .container-cart .accordion-group .info,body .container-cart .accordion-group .monetary {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 140%;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     width: auto;
     padding: 0;
@@ -4963,7 +4976,7 @@
   }
   
   body .container-cart .accordion-group tfoot tr .info,body .container-cart .accordion-group tfoot tr .monetary {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700;
     line-height: 21px;
     letter-spacing: 0em;
@@ -5018,7 +5031,7 @@
   
   body .container-cart .cart-links-bottom .link-choose-more-products {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -5037,7 +5050,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     line-height: 20px;
@@ -5054,13 +5067,13 @@
   
   body .container-cart .cart-links-bottom .link-choose-more-products:hover {
     color: #fff;
-    background: #2D386E
+    background: #F99400;
   }
   
   body .container-cart .cart-links-bottom .btn-place-order {
     padding: 11px 30px;
     margin: 0;
-    background: #2D386E;
+    background: #F99400;
     border-radius: initial;
     border: none;
     transition: all .15s !important;
@@ -5070,7 +5083,7 @@
     max-width: 100%;
     box-sizing: border-box;
     margin-bottom: 10px;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     letter-spacing: .04em;
@@ -5079,7 +5092,7 @@
   
   body .container-cart .cart-links-bottom .btn-place-order:hover {
     color: #fff;
-    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#2D386E
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)),#F99400
   }
   
   body .container-cart .extensions-checkout-buttons-container {
@@ -5087,7 +5100,7 @@
   }
   
   body #orderform-to-cart {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -5118,7 +5131,7 @@
   }
   
   body .client-pre-email .client-pre-email-h label {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -5173,7 +5186,7 @@
   }
   
   body .client-pre-email .client-email .btn {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 14px;
     font-weight: 700;
     padding: 16px 35px;
@@ -5203,7 +5216,7 @@
   }
   
   body .client-pre-email .client-email .btn span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
@@ -5215,7 +5228,7 @@
   }
   
   body .client-pre-email .client-email input {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -5231,7 +5244,7 @@
   }
   
   body .client-pre-email .client-email input::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -5297,7 +5310,7 @@
   }
   
   body .client-pre-email .emailInfo h3 {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -5317,7 +5330,7 @@
   }
   
   body .client-pre-email .emailInfo span {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -5525,7 +5538,7 @@
     line-height: 18px;
     color: #b8b8bc;
     transition: color .2s ease-in-out;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
     line-height: 24px;
@@ -5584,7 +5597,7 @@
   
   .shareCart .shareTitle .shareCart-text {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -5598,7 +5611,7 @@
   }
   
   .shareCart .share-container .url-container {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -5611,7 +5624,7 @@
   }
   
   .shareCart .share-container .url-container::placeholder {
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -5621,7 +5634,7 @@
   
   .shareCart .share-container .btn-share {
     color: #2D386E;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 400;
     line-height: 21px;
     letter-spacing: 0em;
@@ -5643,7 +5656,7 @@
     justify-content: center;
     font-size: 0;
     font-size: 12px !important;
-    font-family: "Poppins";
+    font-family: "Roboto";
     font-weight: 700
   }
   
@@ -5663,3 +5676,6 @@
   #payment-group-custom201PaymentGroupPaymentGroup, #payment-group-creditDirectSalePaymentGroup, #payment-group-debitDirectSalePaymentGroup {
     display: none!important;
   }
+
+
+  /* @import url('/arquivos/7w-style-checkout.css'); */
