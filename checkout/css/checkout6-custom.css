@@ -1,6 +1,13 @@
 /* Content copied from "checkout5-custom.css" at 2024-07-24T16:27:26.386Z */
 
-@import"https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap";@import"https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap";html {
+@import"https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap";
+@import"https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap";
+@import"https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap";
+@import"https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;700&display=swap";
+@import"https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap";
+@import"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap";
+
+html {
   overflow: visible
 }
 
