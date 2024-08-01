@@ -25,8 +25,8 @@ function Coupon() {
   };
 
   return (
-    <div class="flex justify-between items-center px-4 lg:px-0 mb-6 w-full gap-4">
-      <span class="max-lg:hidden text-sm text-base-300">Desconto</span>
+    <div class="flex justify-between items-center lg:px-0 mb-6 w-full gap-4">
+      <span class="text-sm text-base-content">Desconto</span>
       <form class="flex gap-2 w-full justify-between lg:justify-end">
         <input
           id="coupon"

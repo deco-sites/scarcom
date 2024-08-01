@@ -11,7 +11,8 @@ import * as $$$$$$$$$$$5 from "./apps/deco/implementation.ts";
 import * as $$$$$$$$$$$6 from "./apps/deco/vtex.ts";
 import * as $$$$$$$$$$$7 from "./apps/deco/weather.ts";
 import * as $$$$$$$$$$$8 from "./apps/deco/workflows.ts";
-import * as $$$$$$$$$$$9 from "./apps/site.ts";
+import * as $$$$$$$$$$$9 from "./apps/decohub.ts";
+import * as $$$$$$$$$$$10 from "./apps/site.ts";
 import * as $$$2 from "./loaders/availableIcons.ts";
 import * as $$$3 from "./loaders/icons.ts";
 import * as $$$0 from "./loaders/Layouts/ProductCard.tsx";
@@ -178,7 +179,8 @@ const manifest = {
     "site/apps/deco/vtex.ts": $$$$$$$$$$$6,
     "site/apps/deco/weather.ts": $$$$$$$$$$$7,
     "site/apps/deco/workflows.ts": $$$$$$$$$$$8,
-    "site/apps/site.ts": $$$$$$$$$$$9,
+    "site/apps/decohub.ts": $$$$$$$$$$$9,
+    "site/apps/site.ts": $$$$$$$$$$$10,
   },
   "name": "site",
   "baseUrl": import.meta.url,
