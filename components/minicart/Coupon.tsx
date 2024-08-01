@@ -32,7 +32,7 @@ function Coupon() {
           id="coupon"
           name="coupon"
           ref={ref}
-          class="border-2 border-neutral outline-none rounded-full placeholder-neutral p-3 h-9 text-xs w-[75%]"
+          class="border-2 border-accent outline-none rounded-full placeholder-neutral p-3 h-9 text-xs w-[75%]"
           type="text"
           value={coupon ?? ""}
           placeholder={"Cupom"}
