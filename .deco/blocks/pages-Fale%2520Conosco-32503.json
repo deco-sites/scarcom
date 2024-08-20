@@ -25,7 +25,7 @@
           "shadow": "none",
           "overFlow": "overflow-none",
           "verticalSpacing": "both",
-          "label": "Institutional Page",
+          "label": "/institucional/contato",
           "withContainer": true
         }
       ]
