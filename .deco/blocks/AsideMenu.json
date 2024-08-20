@@ -28,11 +28,6 @@
     },
     {
       "target": "_self",
-      "label": "Nossas Lojas",
-      "href": "/institucional/nossas-lojas"
-    },
-    {
-      "target": "_self",
       "label": "Fale Conosco",
       "href": "/institucional/contato"
     }
