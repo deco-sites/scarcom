@@ -16,7 +16,7 @@ export type ResultSearch = EditableProps & {
 };
 
 const ResultSearch = (
-  { valueSearch, notFound, cardLayout, suggestions, loading, IdCollection }:
+  { valueSearch, notFound, cardLayout, suggestions, loading, IdCollection:_ }:
     ResultSearch,
 ) => {
   if (valueSearch !== "" && suggestions?.value != null) {
@@ -98,9 +98,8 @@ const ResultSearch = (
                         <ProductCard
                           product={product}
                           layout={cardLayout}
-                          class={"lg:!p-0"}
-                          IdCollection={IdCollection}
-                          tagWarningWidth="70%"
+                          // IdCollection={IdCollection}
+                          // tagWarningWidth="70%"
                         />
                       </Slider.Item>
                     ))}

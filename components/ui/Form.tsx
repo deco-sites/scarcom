@@ -24,11 +24,13 @@ export interface FormProps {
   mensagem: string;
 }
 
-function Form(props: Props) {
+function Form(_: Props) {
   const loading = useSignal(false);
   const success = useSignal(false);
 
-  const handleSubmit: JSX.GenericEventHandler<HTMLFormElement> = async (e) => {
+  const handleSubmit = async (
+    e: JSX.TargetedEvent<HTMLFormElement, SubmitEvent>,
+  ) => {
     e.preventDefault();
 
     try {
@@ -62,8 +64,8 @@ function Form(props: Props) {
       const mensagem = (
         e.currentTarget.elements.namedItem("mensagem") as RadioNodeList
       )?.value;
-      const loja = (e.currentTarget.elements.namedItem("loja") as RadioNodeList)
-        ?.value;
+      // const loja = (e.currentTarget.elements.namedItem("loja") as RadioNodeList)
+      //   ?.value;
 
       const form: FormProps = {
         // assunto,

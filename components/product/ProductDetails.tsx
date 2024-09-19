@@ -12,15 +12,12 @@ import Icon from "$store/components/ui/Icon.tsx";
 import { getShareLink } from "$store/sdk/shareLinks.tsx";
 import SliderProductShowcase from "$store/islands/SliderProductShowcase.tsx";
 import { HighLight } from "$store/components/product/ProductHighlights.tsx";
-
 import ProductSelector from "./ProductVariantSelector.tsx";
-import { Section } from "deco/blocks/section.ts";
 import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
-
+import { type Section as Section } from "@deco/deco/blocks";
+import LogComponent from "deco-sites/scarcom/islands/LogComponent.tsx";
 export type Variant = "front-back" | "slider" | "auto";
-
 export type ShareableNetwork = "Facebook" | "Twitter" | "Email" | "WhatsApp";
-
 export interface LabelBuyButton {
   mobile: {
     /**
@@ -32,11 +29,9 @@ export interface LabelBuyButton {
     label: string;
   };
 }
-
 export interface MeasurementChart {
   url: string;
 }
-
 export interface Props {
   page: LoaderReturnType<ProductDetailsPage | null>;
   /**
@@ -68,24 +63,24 @@ export interface Props {
    */
   notFoundSection: Section;
 }
-
 const WIDTH = 500;
 const HEIGHT = 500;
 const ASPECT_RATIO = `${WIDTH} / ${HEIGHT}`;
-
-function ProductInfo({
-  page,
-  shipmentPolitics,
-  shareableNetworks,
-  discountPercent,
-  measurementChart,
-}: {
-  page: ProductDetailsPage;
-  shipmentPolitics?: Props["shipmentPolitics"];
-  shareableNetworks?: Props["shareableNetworks"];
-  discountPercent?: number;
-  measurementChart?: Props["measurementChart"];
-}) {
+function ProductInfo(
+  {
+    page,
+    shipmentPolitics,
+    shareableNetworks,
+    discountPercent,
+    measurementChart,
+  }: {
+    page: ProductDetailsPage;
+    shipmentPolitics?: Props["shipmentPolitics"];
+    shareableNetworks?: Props["shareableNetworks"];
+    discountPercent?: number;
+    measurementChart?: Props["measurementChart"];
+  },
+) {
   const { product } = page;
   const {
     description,
@@ -100,145 +95,124 @@ function ProductInfo({
   const { price, listPrice, seller, installments, availability } = useOffer(
     offers,
   );
-
-  const referenceID = additionalProperty?.find(
-    ({ valueReference }) => valueReference == "ReferenceID",
-  )?.value ?? gtin;
-
+  const referenceID =
+    additionalProperty?.find(({ valueReference }) =>
+      valueReference == "ReferenceID"
+    )?.value ?? gtin;
   const especifications = page?.product?.isVariantOf?.additionalProperty;
-
   // deno-lint-ignore no-explicit-any
   const renderItem = (item: any) => {
     switch (item.name) {
       case "Gênero":
-        return (
-          item.value && (
-            <>
-              Gênero<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Gênero<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Banho":
-        return (
-          item.value && (
-            <>
-              Banho<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Banho<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Cor da Caixa":
-        return (
-          item.value && (
-            <>
-              Cor (caixa)<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Cor (caixa)<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Cor da pulseira":
-        return (
-          item.value && (
-            <>
-              Cor (pulseira)<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Cor (pulseira)<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Tipo":
-        return (
-          item.value && (
-            <>
-              Tipo<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Tipo<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Formato":
-        return (
-          item.value && (
-            <>
-              Formato<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Formato<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Fecho (tipo)":
-        return (
-          item.value && (
-            <>
-              Fecho (tipo)<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Fecho (tipo)<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Maquinismo":
-        return (
-          item.value && (
-            <>
-              Maquinismo <p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Maquinismo <p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Material da Pulseira":
-        return (
-          item.value && (
-            <>
-              Material (pulseira)
-              <p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Material (pulseira)
+            <p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Resistente a Água":
-        return (
-          item.value && (
-            <>
-              Resistencia a agua<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Resistencia a agua<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Largura da Caixa (cm)":
-        return (
-          item.value && (
-            <>
-              Largura da Caixa<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Largura da Caixa<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       case "Garantia":
-        return (
-          item.value && (
-            <>
-              Garantia<p className="font-light">&nbsp;{item.value}</p>
-            </>
-          )
-        );
+        return (item.value && (
+          <>
+            Garantia<p className="font-light">&nbsp;{item.value}</p>
+          </>
+        ));
       default:
         return null;
     }
   };
-
   const renderItemByName = (itemName: string) => {
     const item = especifications?.find((spec) => spec.name === itemName);
-    return (
-      item && (
-        <li
-          key={itemName}
-          className="flex ml-[10px] text-[#A8A8A8] font-semibold"
-        >
-          {renderItem(item)}
-        </li>
-      )
-    );
+    return (item && (
+      <li
+        key={itemName}
+        className="flex ml-[10px] text-[#A8A8A8] font-semibold"
+      >
+        {renderItem(item)}
+      </li>
+    ));
   };
-
   return (
     <>
       {/* Code and name */}
       <div class="mt-4 sm:mt-0">
+        <LogComponent data={product} />
         <h1>
           <span class="font-medium text-base-content text-xl lg:text-2xl">
             {isVariantOf?.name}
           </span>
         </h1>
-        <div>
-          <span class="text-xs font-normal text-[#585858]">
-            Ref: {referenceID}
-          </span>
+        <div className="mt-[12px]">
+          <div class="flex flex-col items-start gap-[4px]">
+            <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+              <strong class="text-[#015388]">Ref.:</strong> {referenceID}
+            </p>
+            {product?.isVariantOf?.model && (
+              <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+                <strong class="text-[#015388]">Modelo:</strong>{" "}
+                {product?.isVariantOf?.model}
+              </p>
+            )}
+          </div>
         </div>
       </div>
       {/* Prices */}
@@ -316,9 +290,9 @@ function ProductInfo({
         <div className=" text-xs px-0 leading-tight collapse-content text-black">
           {
             /* <input type="checkbox" id="readmore" className="readmore-toggle" />
-          <label htmlFor="readmore" className="readmore-label my-2 block">
-            + Ler mais
-          </label> */
+      <label htmlFor="readmore" className="readmore-label my-2 block">
+        + Ler mais
+      </label> */
           }
           <p
             className="readmore-content"
@@ -331,16 +305,15 @@ function ProductInfo({
             {especifications && (
               <>
                 {renderItemByName("Gênero")}
-                {especifications.map(
-                  (item, index) =>
-                    item.name !== "Gênero" && (
-                      <li
-                        key={index}
-                        className="flex ml-[10px] text-[#A8A8A8] font-semibold"
-                      >
-                        {renderItem(item)}
-                      </li>
-                    ),
+                {especifications.map((item, index) =>
+                  item.name !== "Gênero" && (
+                    <li
+                      key={index}
+                      className="flex ml-[10px] text-[#A8A8A8] font-semibold"
+                    >
+                      {renderItem(item)}
+                    </li>
+                  )
                 )}
               </>
             )}
@@ -410,13 +383,11 @@ function ProductInfo({
     </>
   );
 }
-
 const useStableImages = (product: ProductDetailsPage["product"]) => {
   const imageNameFromURL = (url = "") => {
     const segments = new URL(url).pathname.split("/");
     return segments[segments.length - 1];
   };
-
   const images = product.image ?? [];
   const allImages = product.isVariantOf?.hasVariant
     .flatMap((p) => p.image)
@@ -426,37 +397,35 @@ const useStableImages = (product: ProductDetailsPage["product"]) => {
       }
       return acc;
     }, {} as Record<string, string>) ?? {};
-
   return images.map((img) => {
     const name = imageNameFromURL(img.url);
-
     return { ...img, url: allImages[name] ?? img.url };
   });
 };
-
-function Details({
-  page,
-  variant,
-  shipmentPolitics,
-  shareableNetworks,
-  highlights,
-  discount,
-  discountPercent,
-  measurementChart,
-}: {
-  page: ProductDetailsPage;
-  variant: Variant;
-  shipmentPolitics?: Props["shipmentPolitics"];
-  shareableNetworks?: Props["shareableNetworks"];
-  highlights?: HighLight[];
-  discount?: DiscountBadgeProps;
-  discountPercent?: number;
-  measurementChart?: Props["measurementChart"];
-}) {
+function Details(
+  {
+    page,
+    variant,
+    shipmentPolitics,
+    shareableNetworks,
+    highlights,
+    discount,
+    discountPercent,
+    measurementChart,
+  }: {
+    page: ProductDetailsPage;
+    variant: Variant;
+    shipmentPolitics?: Props["shipmentPolitics"];
+    shareableNetworks?: Props["shareableNetworks"];
+    highlights?: HighLight[];
+    discount?: DiscountBadgeProps;
+    discountPercent?: number;
+    measurementChart?: Props["measurementChart"];
+  },
+) {
   const { product, breadcrumbList } = page;
   const id = `product-image-gallery:${useId()}`;
   const images = useStableImages(product);
-
   /**
    * Product slider variant
    */
@@ -490,7 +459,6 @@ function Details({
       </>
     );
   }
-
   /**
    * Product front-back variant.
    *
@@ -525,7 +493,6 @@ function Details({
     </div>
   );
 }
-
 function ProductDetails({
   page,
   variant: maybeVar = "auto",
@@ -542,7 +509,6 @@ function ProductDetails({
       ? "front-back"
       : "slider"
     : maybeVar;
-
   return (
     <div class="py-0 lg:pb-10">
       {page
@@ -562,5 +528,4 @@ function ProductDetails({
     </div>
   );
 }
-
 export default ProductDetails;

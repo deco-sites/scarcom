@@ -1,4 +1,5 @@
 import QuantitySelector from "../../components/ui/QuantitySelector.tsx";
+import RequestQuote from "deco-sites/scarcom/islands/RequestQuote.tsx";
 import { useState } from "preact/hooks";
 import useIsMobile from "../../components/hooks/useIsMobile.tsx";
 import AddToCartButton from "../../components/product/AddToCartButton.tsx";
@@ -19,10 +20,10 @@ export default function AddToCartActions(
 ) {
   const [quantity, setQuantity] = useState(1);
   const mobile = useIsMobile();
-  const discount = price && listPrice ? listPrice - price : 0;
+  // const discount = price && listPrice ? listPrice - price : 0;
 
   return (
-    <div class="flex w-full gap-[30px] ">
+    <div class="flex flex-col lg:flex-row lg:items-center lg:justify-start w-full gap-[30px] lg:gap-[10px]">
       <QuantitySelector
         quantity={quantity}
         onChange={(_quantity) => {
@@ -42,18 +43,21 @@ export default function AddToCartActions(
         />
       </> */
       }
-      <AddToCartButton
-        skuId={productID}
-        sellerId={seller}
-        price={price ?? 0}
-        discount={price && listPrice ? listPrice - price : 0}
-        name={productName}
-        productGroupId={productGroupID}
-        quantity={quantity}
-        label={mobile ? "comprar" : "Comprar agora"}
-        showIcon
-        classes="btn btn-md btn-primary uppercase transition-all  hover:text-neutral-100 font-bold text-info"
-      />
+      <div class="flex gap-[12px]">
+        <AddToCartButton
+          skuId={productID}
+          sellerId={seller}
+          price={price ?? 0}
+          discount={price && listPrice ? listPrice - price : 0}
+          name={productName}
+          productGroupId={productGroupID}
+          quantity={quantity}
+          label={mobile ? "comprar" : "comprar"}
+          showIcon
+          classes="btn btn-md btn-primary uppercase transition-all  hover:text-neutral-100 font-bold text-info"
+        />
+        <RequestQuote productName={productName} />
+      </div>
     </div>
   );
 }

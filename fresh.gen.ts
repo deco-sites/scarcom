@@ -15,6 +15,7 @@ import * as $AddToCartButton_vtex from "./islands/AddToCartButton/vtex.tsx";
 import * as $AddToCartButton_wake from "./islands/AddToCartButton/wake.tsx";
 import * as $BuyWarning from "./islands/BuyWarning.tsx";
 import * as $CloseButton from "./islands/CloseButton.tsx";
+import * as $DetailsControl from "./islands/DetailsControl.tsx";
 import * as $Form from "./islands/Form.tsx";
 import * as $HeaderButton from "./islands/HeaderButton.tsx";
 import * as $HeaderModals from "./islands/HeaderModals.tsx";
@@ -27,11 +28,13 @@ import * as $Header_Cart_vnda from "./islands/Header/Cart/vnda.tsx";
 import * as $Header_Cart_vtex from "./islands/Header/Cart/vtex.tsx";
 import * as $Header_Cart_wake from "./islands/Header/Cart/wake.tsx";
 import * as $LgdpModal from "./islands/LgdpModal.tsx";
+import * as $LogComponent from "./islands/LogComponent.tsx";
 import * as $Newsletter from "./islands/Newsletter.tsx";
 import * as $NewsletterModal from "./islands/NewsletterModal.tsx";
 import * as $OutOfStock from "./islands/OutOfStock.tsx";
 import * as $ProductImageZoom from "./islands/ProductImageZoom.tsx";
 import * as $ProductShelf from "./islands/ProductShelf.tsx";
+import * as $RequestQuote from "./islands/RequestQuote.tsx";
 import * as $SearchControls from "./islands/SearchControls.tsx";
 import * as $ShippingSimulation from "./islands/ShippingSimulation.tsx";
 import * as $ShowMore from "./islands/ShowMore.tsx";
@@ -59,6 +62,7 @@ const manifest = {
     "./islands/AddToCartButton/wake.tsx": $AddToCartButton_wake,
     "./islands/BuyWarning.tsx": $BuyWarning,
     "./islands/CloseButton.tsx": $CloseButton,
+    "./islands/DetailsControl.tsx": $DetailsControl,
     "./islands/Form.tsx": $Form,
     "./islands/HeaderButton.tsx": $HeaderButton,
     "./islands/HeaderModals.tsx": $HeaderModals,
@@ -71,11 +75,13 @@ const manifest = {
     "./islands/Header/Cart/vtex.tsx": $Header_Cart_vtex,
     "./islands/Header/Cart/wake.tsx": $Header_Cart_wake,
     "./islands/LgdpModal.tsx": $LgdpModal,
+    "./islands/LogComponent.tsx": $LogComponent,
     "./islands/Newsletter.tsx": $Newsletter,
     "./islands/NewsletterModal.tsx": $NewsletterModal,
     "./islands/OutOfStock.tsx": $OutOfStock,
     "./islands/ProductImageZoom.tsx": $ProductImageZoom,
     "./islands/ProductShelf.tsx": $ProductShelf,
+    "./islands/RequestQuote.tsx": $RequestQuote,
     "./islands/SearchControls.tsx": $SearchControls,
     "./islands/ShippingSimulation.tsx": $ShippingSimulation,
     "./islands/ShowMore.tsx": $ShowMore,
