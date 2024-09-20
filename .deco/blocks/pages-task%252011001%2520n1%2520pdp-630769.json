@@ -343,6 +343,29 @@
             }
           ],
           "productId": "155885"
+        },
+        {
+          "contentDetails": [
+            {
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
+              "alt": "Texto Simples Exemplo",
+              "title": "Lorem ipsum dolor sit amet",
+              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>"
+            },
+            {
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3a9d7455-3d5b-4239-b8d1-d4a7a3444610/Image-2.png",
+              "alt": "Texto Alternativo Exemplo",
+              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
+              "title": "Lorem ipsum dolor sit amet"
+            },
+            {
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
+              "alt": "Texto Alternativo Exemplo",
+              "title": "Lorem ipsum dolor sit amet",
+              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>"
+            }
+          ],
+          "productId": "154529"
         }
       ]
     },

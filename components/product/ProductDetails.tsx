@@ -83,7 +83,6 @@ function ProductInfo(
 ) {
   const { product } = page;
   const {
-    description,
     productID,
     offers,
     name,
@@ -99,98 +98,98 @@ function ProductInfo(
     additionalProperty?.find(({ valueReference }) =>
       valueReference == "ReferenceID"
     )?.value ?? gtin;
-  const especifications = page?.product?.isVariantOf?.additionalProperty;
-  // deno-lint-ignore no-explicit-any
-  const renderItem = (item: any) => {
-    switch (item.name) {
-      case "Gênero":
-        return (item.value && (
-          <>
-            Gênero<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Banho":
-        return (item.value && (
-          <>
-            Banho<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Cor da Caixa":
-        return (item.value && (
-          <>
-            Cor (caixa)<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Cor da pulseira":
-        return (item.value && (
-          <>
-            Cor (pulseira)<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Tipo":
-        return (item.value && (
-          <>
-            Tipo<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Formato":
-        return (item.value && (
-          <>
-            Formato<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Fecho (tipo)":
-        return (item.value && (
-          <>
-            Fecho (tipo)<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Maquinismo":
-        return (item.value && (
-          <>
-            Maquinismo <p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Material da Pulseira":
-        return (item.value && (
-          <>
-            Material (pulseira)
-            <p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Resistente a Água":
-        return (item.value && (
-          <>
-            Resistencia a agua<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Largura da Caixa (cm)":
-        return (item.value && (
-          <>
-            Largura da Caixa<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      case "Garantia":
-        return (item.value && (
-          <>
-            Garantia<p className="font-light">&nbsp;{item.value}</p>
-          </>
-        ));
-      default:
-        return null;
-    }
-  };
-  const renderItemByName = (itemName: string) => {
-    const item = especifications?.find((spec) => spec.name === itemName);
-    return (item && (
-      <li
-        key={itemName}
-        className="flex ml-[10px] text-[#A8A8A8] font-semibold"
-      >
-        {renderItem(item)}
-      </li>
-    ));
-  };
+  // const especifications = page?.product?.isVariantOf?.additionalProperty;
+  
+  // const renderItem = (item: any) => {
+  //   switch (item.name) {
+  //     case "Gênero":
+  //       return (item.value && (
+  //         <>
+  //           Gênero<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Banho":
+  //       return (item.value && (
+  //         <>
+  //           Banho<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Cor da Caixa":
+  //       return (item.value && (
+  //         <>
+  //           Cor (caixa)<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Cor da pulseira":
+  //       return (item.value && (
+  //         <>
+  //           Cor (pulseira)<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Tipo":
+  //       return (item.value && (
+  //         <>
+  //           Tipo<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Formato":
+  //       return (item.value && (
+  //         <>
+  //           Formato<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Fecho (tipo)":
+  //       return (item.value && (
+  //         <>
+  //           Fecho (tipo)<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Maquinismo":
+  //       return (item.value && (
+  //         <>
+  //           Maquinismo <p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Material da Pulseira":
+  //       return (item.value && (
+  //         <>
+  //           Material (pulseira)
+  //           <p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Resistente a Água":
+  //       return (item.value && (
+  //         <>
+  //           Resistencia a agua<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Largura da Caixa (cm)":
+  //       return (item.value && (
+  //         <>
+  //           Largura da Caixa<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     case "Garantia":
+  //       return (item.value && (
+  //         <>
+  //           Garantia<p className="font-light">&nbsp;{item.value}</p>
+  //         </>
+  //       ));
+  //     default:
+  //       return null;
+  //   }
+  // };
+  // const renderItemByName = (itemName: string) => {
+  //   const item = especifications?.find((spec) => spec.name === itemName);
+  //   return (item && (
+  //     <li
+  //       key={itemName}
+  //       className="flex ml-[10px] text-[#A8A8A8] font-semibold"
+  //     >
+  //       {renderItem(item)}
+  //     </li>
+  //   ));
+  // };
   return (
     <>
       {/* Code and name */}
@@ -209,7 +208,13 @@ function ProductInfo(
             {product?.isVariantOf?.model && (
               <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
                 <strong class="text-[#015388]">Modelo:</strong>{" "}
-                {product?.isVariantOf?.model}
+                {product?.brand?.name}
+              </p>
+            )}
+            {product?.isVariantOf?.model && (
+              <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+                <strong class="text-[#015388]">EAN:</strong>{" "}
+                {product?.gtin}
               </p>
             )}
           </div>
@@ -284,42 +289,6 @@ function ProductInfo(
           )
           : <OutOfStock productID={productID} />}
       </div>
-      {/* Description card */}
-      <details className="collapse collapse-plus border-b border-[#E2E3E8] rounded-none">
-        <summary className="collapse-title px-0">Detalhes do produto</summary>
-        <div className=" text-xs px-0 leading-tight collapse-content text-black">
-          {
-            /* <input type="checkbox" id="readmore" className="readmore-toggle" />
-      <label htmlFor="readmore" className="readmore-label my-2 block">
-        + Ler mais
-      </label> */
-          }
-          <p
-            className="readmore-content"
-            dangerouslySetInnerHTML={{ __html: description || "" }}
-          >
-          </p>
-        </div>
-        <div className="text-xs px-0">
-          <ul className="ml-3 pb-[10px]" style={"list-style:initial;"}>
-            {especifications && (
-              <>
-                {renderItemByName("Gênero")}
-                {especifications.map((item, index) =>
-                  item.name !== "Gênero" && (
-                    <li
-                      key={index}
-                      className="flex ml-[10px] text-[#A8A8A8] font-semibold"
-                    >
-                      {renderItem(item)}
-                    </li>
-                  )
-                )}
-              </>
-            )}
-          </ul>
-        </div>
-      </details>
       {/* Shipping Simulation */}
       <div className="collapse collapse-plus">
         <input type="checkbox" />

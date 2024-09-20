@@ -16,7 +16,7 @@ export type ResultSearch = EditableProps & {
 };
 
 const ResultSearch = (
-  { valueSearch, notFound, cardLayout, suggestions, loading, IdCollection:_ }:
+  { valueSearch, notFound, cardLayout, suggestions, loading, IdCollection: _ }:
     ResultSearch,
 ) => {
   if (valueSearch !== "" && suggestions?.value != null) {

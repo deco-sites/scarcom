@@ -23,7 +23,7 @@ export default function AddToCartActions(
   // const discount = price && listPrice ? listPrice - price : 0;
 
   return (
-    <div class="flex flex-col lg:flex-row lg:items-center lg:justify-start w-full gap-[30px] lg:gap-[10px]">
+    <div class="flex flex-col xl:flex-row lg:items-center lg:justify-start w-full gap-[30px] lg:gap-[6px]">
       <QuantitySelector
         quantity={quantity}
         onChange={(_quantity) => {
@@ -43,7 +43,7 @@ export default function AddToCartActions(
         />
       </> */
       }
-      <div class="flex gap-[12px]">
+      <div class="flex gap-[6px]">
         <AddToCartButton
           skuId={productID}
           sellerId={seller}
