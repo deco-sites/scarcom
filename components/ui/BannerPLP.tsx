@@ -1,21 +1,18 @@
-import { SectionProps } from "deco/types.ts";
 import Image from "apps/website/components/Image.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import { Picture, Source } from "apps/website/components/Picture.tsx";
-
+import { type SectionProps as SectionProps } from "@deco/deco";
 /**
  * @titleBy matcher
  */
 export interface Banner {
   /** @description RegExp to enable this banner on the current URL. Use /feminino/* to display this banner on feminino category  */
   matcher: string;
-
   text?: {
     /** @description text to be rendered on top of the image */
     title?: string;
     /** @description text to be rendered on top of the image */
     subtitle?: string;
-
     mobileTextPosition?: BannerTextPostion;
     desktopTextPosition?: BannerTextPostion;
   };
@@ -30,35 +27,26 @@ export interface Banner {
   /** @description when user clicks on the image, go to this link */
   href?: string;
 }
-
-export type BannerTextPostion =
-  | "left"
-  | "center"
-  | "right";
-
+export type BannerTextPostion = "left" | "center" | "right";
 const DESKTOP_TEXT_POSITION = {
   left: "md:items-start",
   center: "md:items-center",
   right: "md:items-end",
 };
-
 const MOBILE_TEXT_POSITION = {
   left: "items-start",
   center: "items-center",
   right: "items-end",
 };
-
 function Banner({ banner }: SectionProps<ReturnType<typeof loader>>) {
   if (!banner) {
     return null;
   }
-
   const {
     text: { title, subtitle, desktopTextPosition, mobileTextPosition } = {},
     image,
     href,
   } = banner;
-
   return (
     <a
       href={href ?? "#"}
@@ -102,17 +90,13 @@ function Banner({ banner }: SectionProps<ReturnType<typeof loader>>) {
     </a>
   );
 }
-
 export interface Props {
   banners?: Banner[];
 }
-
 export const loader = ({ banners = [] }: Props, req: Request) => {
   const banner = banners.find(({ matcher }) =>
     new URLPattern({ pathname: matcher }).test(req.url)
   );
-
   return { banner };
 };
-
 export default Banner;

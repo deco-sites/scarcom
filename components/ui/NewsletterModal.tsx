@@ -5,7 +5,6 @@ import {
 import Icon from "../../components/ui/Icon.tsx";
 // import Logo from "../../components/ui/Logo.tsx";
 import { useSignal } from "@preact/signals";
-import { SectionProps } from "deco/types.ts";
 import type { JSX } from "preact";
 import { useEffect, useRef } from "preact/compat";
 import { getCookies } from "std/http/mod.ts";
@@ -14,6 +13,7 @@ import {
   InputCheckboxNewsletterProps,
 } from "../../components/newsletter/Newsletter.tsx";
 import { ImageWidget } from "apps/admin/widgets.ts";
+import { type SectionProps as SectionProps } from "@deco/deco";
 export interface INewsletterInputProps {
   /**
    * @title Hide input?
@@ -24,7 +24,6 @@ export interface INewsletterInputProps {
    */
   placeholder?: string;
 }
-
 export interface INewsletterFormProps {
   email: INewsletterInputProps;
   name: INewsletterInputProps;
@@ -42,7 +41,6 @@ export interface INewsletterFormProps {
     label?: string;
   };
 }
-
 export interface Props {
   logo: ImageWidget;
   /**
@@ -54,33 +52,27 @@ export interface Props {
    * @format html
    */
   text: string;
-
   /**
    * @title Days to reopen modal if it is registered
    */
   modalSignExpiredDate: number;
-
   /**
    * @title Days to reopen moda if it is closed
    */
   modalCloseExpiredDate: number;
 }
-
 interface InputNewletterProps {
   name: string;
   placeholder: string;
   type: string;
   required: boolean;
 }
-
 export const loader = (props: Props, req: Request) => {
   const cookies = getCookies(req.headers);
   const cookieEmpty = req.method === "POST";
   const isOpen = cookieEmpty ? false : Boolean(!cookies["DecoNewsletterModal"]);
-
   return { ...props, isOpen };
 };
-
 function InputNewsletter(
   { name, placeholder, required, type }: InputNewletterProps,
 ) {
@@ -94,7 +86,6 @@ function InputNewsletter(
     />
   );
 }
-
 function InputCheckboxNewsletter(
   { name, required, posLabel, preLabel }: InputCheckboxNewsletterProps,
 ) {
@@ -119,58 +110,43 @@ function InputCheckboxNewsletter(
     </label>
   );
 }
-
 function NewsletterModal(
-  {
-    isOpen,
-    form,
-    text,
-    modalSignExpiredDate,
-    modalCloseExpiredDate,
-    logo,
-  }: SectionProps<
-    ReturnType<typeof loader>
-  >,
+  { isOpen, form, text, modalSignExpiredDate, modalCloseExpiredDate, logo }:
+    SectionProps<ReturnType<typeof loader>>,
 ) {
   const modalRef = useRef<HTMLDialogElement>(null);
   const loading = useSignal(false);
   const success = useSignal(false);
-
   useEffect(() => {
     if (isOpen) {
       modalRef.current?.showModal();
     }
   }, [isOpen]);
-
-  const handleSubmit: JSX.GenericEventHandler<HTMLFormElement> = async (e) => {
+  const handleSubmit = async (
+    e: JSX.TargetedEvent<HTMLFormElement, SubmitEvent>,
+  ) => {
     e.preventDefault();
-
     try {
       const formData = {
         email: "",
         name: "",
         privacyContact: false,
       };
-
       loading.value = true;
-
       if (!form?.email?.show) {
         formData.email =
           (e.currentTarget.elements.namedItem("email") as RadioNodeList)?.value;
       }
-
       if (!form?.name?.show) {
         formData.name =
           (e.currentTarget.elements.namedItem("name") as RadioNodeList)
             ?.value;
       }
-
       if (!form?.privacyContact?.show) {
         formData.privacyContact = (e.currentTarget.querySelector(
           'input[name="privacyContact"]',
         ) as HTMLInputElement)?.checked;
       }
-
       await fetch("/api/optin", {
         method: "POST",
         body: JSON.stringify(formData),
@@ -182,32 +158,26 @@ function NewsletterModal(
     } finally {
       loading.value = false;
       success.value = true;
-
       setCookieOnCloseModal("registered", modalSignExpiredDate);
-
       setTimeout(() => {
         success.value = false;
         modalRef.current?.close();
       }, 2000);
     }
   };
-
   const setCookieOnCloseModal = (
     cookieValue: string,
     expirationSeconds: number,
   ) => {
     // deno-lint-ignore no-var
     var date = new Date();
-
     date.setTime(date.getTime() + (expirationSeconds * 24 * 60 * 60 * 1000));
     // deno-lint-ignore no-var
     var expires = "expires=" + date.toUTCString();
-
     document.cookie = "DecoNewsletterModal" + "=" + cookieValue + ";" +
       expires +
       ";path=/";
   };
-
   const emailInput = !form?.email?.show
     ? (
       <InputNewsletter
@@ -218,7 +188,6 @@ function NewsletterModal(
       />
     )
     : null;
-
   const nameInput = !form?.name?.show
     ? (
       <InputNewsletter
@@ -229,7 +198,6 @@ function NewsletterModal(
       />
     )
     : null;
-
   const privacyContactInput = !form?.privacyContact?.show
     ? (
       <InputCheckboxNewsletter
@@ -240,7 +208,6 @@ function NewsletterModal(
       />
     )
     : null;
-
   return (
     <>
       <dialog
@@ -257,11 +224,7 @@ function NewsletterModal(
               class="btn btn-sm btn-circle btn-ghost focus:outline-none bg-transparent"
               aria-label="Fechar"
             >
-              <Icon
-                id="Close"
-                width={20}
-                height={20}
-              />
+              <Icon id="Close" width={20} height={20} />
             </button>
           </div>
           {success.value
@@ -274,20 +237,17 @@ function NewsletterModal(
               <>
                 {
                   /* <Logo
-                  class="mx-auto mb-5 block"
-                  width={131}
-                  height={56}
-                /> */
+                class="mx-auto mb-5 block"
+                width={131}
+                height={56}
+              /> */
                 }
                 {logo && <img class="w-full" src={logo} alt={"logo"} />}
                 <div
                   dangerouslySetInnerHTML={{ __html: text }}
                   class="text-base lg:text-xl text-center text-base-100 lg:pr-0 "
                 />
-                <form
-                  class="w-full form-control"
-                  onSubmit={handleSubmit}
-                >
+                <form class="w-full form-control" onSubmit={handleSubmit}>
                   <div class="text-center">
                     {nameInput}
                     {emailInput}
@@ -322,5 +282,4 @@ function NewsletterModal(
     </>
   );
 }
-
 export default NewsletterModal;

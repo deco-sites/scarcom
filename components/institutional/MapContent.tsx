@@ -1,5 +1,4 @@
-import { Section } from "deco/blocks/section.ts";
-
+import { type Section as Section } from "@deco/deco/blocks";
 export interface Props {
   /**
    * @description Content will be rendered as iframe .
@@ -7,7 +6,6 @@ export interface Props {
   url?: string;
   asideMenu: Section;
 }
-
 function MapContent(
   { url, asideMenu: { Component: AsideComponent, props: asideProps } }: Props,
 ) {
@@ -27,5 +25,4 @@ function MapContent(
     </div>
   );
 }
-
 export default MapContent;

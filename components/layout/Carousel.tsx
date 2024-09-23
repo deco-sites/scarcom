@@ -1,11 +1,10 @@
-import type { Section } from "deco/blocks/section.ts";
 import { ComponentChildren, toChildArray } from "preact";
 import { useId } from "preact/hooks";
 import Icon from "../../components/ui/Icon.tsx";
 import Slider from "../../components/ui/Slider.tsx";
 import { buttonClasses, ButtonColor, grid } from "../../constants.tsx";
 import { clx } from "../../sdk/clx.ts";
-
+import { type Section as Section } from "@deco/deco/blocks";
 interface Layout {
   /** @description For desktop in px. */
   itemWidth?: number;
@@ -20,7 +19,6 @@ interface Layout {
     indicators?: boolean;
   };
 }
-
 /**
  * @title Carousel
  */
@@ -34,20 +32,16 @@ export interface Props {
     controlsOutline?: boolean;
   };
 }
-
 function Section({ interval = 0, layout, style, children }: Props) {
   const id = useId();
   const items = toChildArray(children);
-
   if (!items.length) {
     return null;
   }
-
   const controlClx = clx(
     buttonClasses[style?.controlsColor || "Default"],
     style?.controlsOutline && "btn-outline",
   );
-
   return (
     <>
       <div
@@ -127,5 +121,4 @@ function Section({ interval = 0, layout, style, children }: Props) {
     </>
   );
 }
-
 export default Section;

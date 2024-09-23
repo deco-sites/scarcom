@@ -28,6 +28,7 @@ export interface Alerts {
   alt?: string;
   /** @default */
   idIcon?: IconId;
+  url?: string;
 }
 
 function TipItem(alert: Alerts) {
@@ -84,19 +85,35 @@ function TopNavBar({ alerts = [], interval = 1 }: Props) {
       </div>
 
       {/*  desktop version */}
-      <div class="h-7 max-lg:hidden">
-        <div class="flex justify-center gap-28">
-          {alerts.map((alert) => (
-            <div class="flex items-center">
-              <TipItem {...alert} />
+      <div class="h-7 max-lg:hidden container">
+        <div class="flex justify-between">
+          {
+            <a href={alerts[0].url} class="flex items-center">
               <span
                 class="text-sm h-[25px] flex items-center ml-3"
-                style={{ color: alert.textColor }}
+                style={{ color: alerts[0].textColor }}
               >
-                {alert.textAlert}
+                {alerts[0].textAlert}
               </span>
-            </div>
-          ))}
+            </a>
+          }
+          <div class="flex gap-[40px]">
+            {alerts.map((alert, index) => {
+              if (index === 0) return null;
+
+              return (
+                <a href={alert.url} class="flex items-center">
+                  <TipItem {...alert} />
+                  <span
+                    class="text-sm h-[25px] flex items-center ml-3"
+                    style={{ color: alert.textColor }}
+                  >
+                    {alert.textAlert}
+                  </span>
+                </a>
+              );
+            })}
+          </div>
         </div>
       </div>
     </>

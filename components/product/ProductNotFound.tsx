@@ -1,9 +1,8 @@
-import { SectionProps } from "deco/types.ts";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import ProductShelf, {
   Props as ProductShelfProps,
 } from "../../components/product/ProductShelf.tsx";
-
+import { type SectionProps as SectionProps } from "@deco/deco";
 export interface Props {
   /**
    * @description Title to be displayed in the not found section
@@ -24,7 +23,6 @@ export interface Props {
   image: ImageWidget;
   shelf?: ProductShelfProps;
 }
-
 export const loader = (ctx: Props, req: Request) => {
   const params = new URLSearchParams(req.url.split("?")[1]);
   const term = params.get("q");
@@ -33,14 +31,15 @@ export const loader = (ctx: Props, req: Request) => {
     searchTerm: term,
   };
 };
-
-export default function ProductNotFound({
-  subTitle = "Página não encontrada",
-  description,
-  title = "404",
-  image,
-  shelf,
-}: SectionProps<typeof loader>) {
+export default function ProductNotFound(
+  {
+    subTitle = "Página não encontrada",
+    description,
+    title = "404",
+    image,
+    shelf,
+  }: SectionProps<typeof loader>,
+) {
   return (
     <div class="w-full">
       <div class="flex flex-col gap-[10px] lg:flex-row lg:justify-around lg:mt-[30px] lg:mb-[60px]">
@@ -52,11 +51,7 @@ export default function ProductNotFound({
             {subTitle}
           </p>
           {description
-            ? (
-              <div
-                dangerouslySetInnerHTML={{ __html: description }}
-              />
-            )
+            ? <div dangerouslySetInnerHTML={{ __html: description }} />
             : null}
         </div>
         <div class="bg-transparent w-full lg:w-[40%] max-[1024px]:h-52 p-5 flex flex-col gap-[10px] text-white rounded-[20px] relative lg:justify-center lg:p-[60px] lg:rounded-r-none">
@@ -72,11 +67,7 @@ export default function ProductNotFound({
         </div>
       </div>
       <div class="mb-12">
-        {shelf && (
-          <ProductShelf
-            {...shelf}
-          />
-        )}
+        {shelf && <ProductShelf {...shelf} />}
       </div>
     </div>
   );
