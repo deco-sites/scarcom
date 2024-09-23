@@ -99,7 +99,7 @@ function ProductInfo(
       valueReference == "ReferenceID"
     )?.value ?? gtin;
   // const especifications = page?.product?.isVariantOf?.additionalProperty;
-  
+
   // const renderItem = (item: any) => {
   //   switch (item.name) {
   //     case "Gênero":
@@ -213,8 +213,7 @@ function ProductInfo(
             )}
             {product?.isVariantOf?.model && (
               <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
-                <strong class="text-[#015388]">EAN:</strong>{" "}
-                {product?.gtin}
+                <strong class="text-[#015388]">EAN:</strong> {product?.gtin}
               </p>
             )}
           </div>
