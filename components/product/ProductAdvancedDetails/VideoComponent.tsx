@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from "preact/hooks";
+import { useEffect, useRef, useState } from "preact/hooks";
 
 export interface Props {
   /** @description Iframe do YouTube ou do Vimeo. Usar 1920 como width(Largura) */
@@ -6,7 +6,6 @@ export interface Props {
 }
 
 const VideoComponent = ({ videoHtml }: Props) => {
-
   const [current_width, set_current_width] = useState(1920);
   const container_ref = useRef<HTMLDivElement>(null);
 
