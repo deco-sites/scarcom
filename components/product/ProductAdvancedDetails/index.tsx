@@ -5,8 +5,17 @@ import { type SectionProps as SectionProps } from "@deco/deco";
 import DetailsControl from "deco-sites/scarcom/islands/DetailsControl.tsx";
 
 export interface IContentDetailsProps {
+  /** @title Imagem ou Video ? */
+  /** @description Escolha entre imagem de banner ou video */
+  mediaType: "IMAGE" | "VIDEO";
+
   /** @title Imagem */
   banner: ImageWidget;
+
+  /** @title Link video */
+  /** @description Copiar Iframe do YouTube ou do Vimeo. Usar 100% como width(Largura) */
+  videoHtml?: string;
+
   /** @title Texto alternativo da Imagem */
   alt: string;
   /** @title Título */
