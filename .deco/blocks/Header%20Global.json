@@ -9,24 +9,36 @@
             "idIcon": "",
             "textColor": "#ffffff",
             "alt": "Atendimento Personalizado",
-            "textAlert": "Atendimento Personalizado"
+            "textAlert": "Bem vindo à SCARCOM",
+            "url": "/",
+            "target": "_self"
           },
           {
             "idIcon": "",
             "textColor": "#ffffff",
-            "textAlert": "Frete Grátis acima de R$499,99",
-            "alt": "Frete Grátis acima de R$499,99"
+            "textAlert": "(11) 3279-5555",
+            "alt": "tel icon wpp",
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/0b37ba9e-58a2-4a94-918b-dbf4d9847403/WhatsappLogo.svg",
+            "url": "https://api.whatsapp.com/send/?phone=551132795555&text&type=phone_number&app_absent=0",
+            "target": "_blank"
           },
           {
             "idIcon": "",
-            "textAlert": "Compra Segura ",
+            "textAlert": "scarcom-info",
             "textColor": "#ffffff",
-            "alt": "Compra Segura "
+            "alt": "scarcom-info Icon",
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/2444cd63-7dc7-4084-92ee-3385e24252f0/SkypeLogo.svg",
+            "url": "skype:scarcom-info?call",
+            "target": "_self"
           },
           {
             "idIcon": "",
-            "textAlert": "10% de desconto no boleto/PIX",
-            "textColor": "#ffffff"
+            "textAlert": "atendimento@scarcom.com.br",
+            "textColor": "#ffffff",
+            "alt": "atendimento@scarcom.com.br",
+            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/43ba4a41-5c17-47fe-a94b-bc3429f17821/Link--SVG.svg",
+            "url": "mailto:atendimento@scarcom.com.br",
+            "target": "_self"
           }
         ],
         "interval": 5

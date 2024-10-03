@@ -1,6 +1,5 @@
-import { Section } from "deco/blocks/section.ts";
 import { useId } from "../../sdk/useId.ts";
-
+import { type Section as Section } from "@deco/deco/blocks";
 const animationClasses = {
   "fade-in": "animate-fade-in",
   "fade-in-bottom": "animate-fade-in-bottom",
@@ -8,11 +7,9 @@ const animationClasses = {
   "slide-right": "animate-slide-right",
   "zoom-in": "animate-zoom-in",
 };
-
 interface Children {
   section: Section;
 }
-
 interface Props {
   animationType?:
     | "fade-in"
@@ -26,17 +23,13 @@ interface Props {
   duration?: string;
   children: Children;
 }
-
 function Animation(
   { children, animationType = "fade-in", duration = "0.3" }: Props,
 ) {
   const { section } = children;
-
   const { Component, props } = section;
   const id = useId();
-
   const animationClass = animationClasses[animationType];
-
   return (
     <>
       <style
@@ -72,9 +65,7 @@ function Animation(
     </>
   );
 }
-
 export default Animation;
-
 const animationByType = {
   "fade-in": `    
         @keyframes fade-in {
@@ -152,11 +143,9 @@ const animationByType = {
         }
     `,
 };
-
 export function Preview() {
-  const animationClass = animationClasses["slide-left"];
+  // const animationClass = animationClasses["slide-left"];
   const id = useId();
-
   return (
     <div>
       <style

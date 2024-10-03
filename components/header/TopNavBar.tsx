@@ -28,6 +28,17 @@ export interface Alerts {
   alt?: string;
   /** @default */
   idIcon?: IconId;
+
+  /**
+   * @title URL
+   * @description Link para direcionar a página desejada
+   */
+  url?: string;
+  /**
+   * @title Opcoes de link
+   * @description Abrirá link de página interna ou externa ( _blank = externa e _self = interna ).
+   */
+  target?: "_blank" | "_self";
 }
 
 function TipItem(alert: Alerts) {
@@ -67,7 +78,11 @@ function TopNavBar({ alerts = [], interval = 1 }: Props) {
         <Slider class="carousel carousel-center w-full col-span-full row-span-full scrollbar-none gap-6">
           {alerts.map((alert, index) => (
             <Slider.Item index={index} class="carousel-item w-full">
-              <div class="flex justify-center items-center w-screen">
+              <a
+                href={alert.url}
+                target={alert.target}
+                class="flex justify-center items-center w-screen"
+              >
                 <TipItem {...alert} />
                 <span
                   class="text-[10px] h-[25px] flex items-center ml-3 lg:text-xs"
@@ -75,7 +90,7 @@ function TopNavBar({ alerts = [], interval = 1 }: Props) {
                 >
                   {alert.textAlert}
                 </span>
-              </div>
+              </a>
             </Slider.Item>
           ))}
         </Slider>
@@ -84,19 +99,43 @@ function TopNavBar({ alerts = [], interval = 1 }: Props) {
       </div>
 
       {/*  desktop version */}
-      <div class="h-7 max-lg:hidden">
-        <div class="flex justify-center gap-28">
-          {alerts.map((alert) => (
-            <div class="flex items-center">
-              <TipItem {...alert} />
+      <div class="h-7 max-lg:hidden container">
+        <div class="flex justify-between">
+          {
+            <a
+              href={alerts[0].url}
+              target={alerts[0].target}
+              class="flex items-center"
+            >
               <span
                 class="text-sm h-[25px] flex items-center ml-3"
-                style={{ color: alert.textColor }}
+                style={{ color: alerts[0].textColor }}
               >
-                {alert.textAlert}
+                {alerts[0].textAlert}
               </span>
-            </div>
-          ))}
+            </a>
+          }
+          <div class="flex gap-[40px]">
+            {alerts.map((alert, index) => {
+              if (index === 0) return null;
+
+              return (
+                <a
+                  href={alert.url}
+                  target={alert.target}
+                  class="flex items-center"
+                >
+                  <TipItem {...alert} />
+                  <span
+                    class="text-sm h-[25px] flex items-center ml-3"
+                    style={{ color: alert.textColor }}
+                  >
+                    {alert.textAlert}
+                  </span>
+                </a>
+              );
+            })}
+          </div>
         </div>
       </div>
     </>

@@ -1,17 +1,17 @@
 import { Head } from "$fresh/runtime.ts";
-import { Section } from "deco/blocks/section.ts";
-
+import { type Section as Section } from "@deco/deco/blocks";
 export interface Props {
   title: string;
   asideMenu: Section;
   content: Section;
 }
-
-function InstitutionalPage({
-  asideMenu: { Component: AsideComponent, props: asideProps },
-  content: { Component: ContentComponent, props: contentProps },
-  title,
-}: Props) {
+function InstitutionalPage(
+  {
+    asideMenu: { Component: AsideComponent, props: asideProps },
+    content: { Component: ContentComponent, props: contentProps },
+    title,
+  }: Props,
+) {
   return (
     <>
       <Head>
@@ -62,5 +62,4 @@ function InstitutionalPage({
     </>
   );
 }
-
 export default InstitutionalPage;

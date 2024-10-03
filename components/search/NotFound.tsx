@@ -1,10 +1,9 @@
-import { SectionProps } from "deco/types.ts";
 import Icon from "../../components/ui/Icon.tsx";
 import Searchbar from "../../components/search/Searchbar.tsx";
 import ProductShelf, {
   Props as ProductShelfProps,
 } from "../../components/product/ProductShelf.tsx";
-
+import { type SectionProps as SectionProps } from "@deco/deco";
 export interface Props {
   /**
    * @description Title to be displayed in the not found section
@@ -24,7 +23,6 @@ export interface Props {
   };
   shelf?: ProductShelfProps;
 }
-
 export const loader = (ctx: Props, req: Request) => {
   const params = new URLSearchParams(req.url.split("?")[1]);
   const term = params.get("q");
@@ -33,14 +31,15 @@ export const loader = (ctx: Props, req: Request) => {
     searchTerm: term,
   };
 };
-
-export default function NotFound({
-  termDescription = "Resultados de busca encontrados para:",
-  title = "Ops!",
-  hints,
-  searchTerm,
-  shelf,
-}: SectionProps<typeof loader>) {
+export default function NotFound(
+  {
+    termDescription = "Resultados de busca encontrados para:",
+    title = "Ops!",
+    hints,
+    searchTerm,
+    shelf,
+  }: SectionProps<typeof loader>,
+) {
   return (
     <div class="w-full">
       <div class="flex flex-col gap-[10px] lg:flex-row lg:justify-around lg:mt-[30px] lg:mb-[60px]">
@@ -91,11 +90,7 @@ export default function NotFound({
         )}
       </div>
       <div class="mb-12">
-        {shelf && (
-          <ProductShelf
-            {...shelf}
-          />
-        )}
+        {shelf && <ProductShelf {...shelf} />}
       </div>
     </div>
   );

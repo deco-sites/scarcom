@@ -8,18 +8,16 @@ import type { ProductListingPage } from "apps/commerce/types.ts";
 import Sort from "../../islands/Sort.tsx";
 import SearchPagination from "../../components/search/SearchPagination.tsx";
 import { DiscountBadgeColors } from "../../components/product/DiscountBadge.tsx";
-import { Section } from "deco/blocks/section.ts";
 import { Layout } from "../../components/product/ProductCard.tsx";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
 import { isArray } from "https://deno.land/x/djwt@v2.8/util.ts";
 import { SendEventOnView } from "../../components/Analytics.tsx";
 import { useId } from "../../sdk/useId.ts";
-
+import { type Section as Section } from "@deco/deco/blocks";
 export interface DiscountBadgeProps {
   label: string;
   variant: DiscountBadgeColors;
 }
-
 export interface Props {
   page: LoaderReturnType<ProductListingPage | null>;
   /**
@@ -49,28 +47,27 @@ export interface Props {
    */
   notFoundSection: Section;
 }
-
-function Result({
-  page,
-  variant,
-  layout,
-  startingPage = 0,
-  hideFilter: hideFilters,
-  highlights,
-}: Omit<Omit<Props, "page">, "notFoundSection"> & {
-  page: ProductListingPage;
-}) {
+function Result(
+  {
+    page,
+    variant,
+    layout,
+    startingPage = 0,
+    hideFilter: hideFilters,
+    highlights,
+  }: Omit<Omit<Props, "page">, "notFoundSection"> & {
+    page: ProductListingPage;
+  },
+) {
   const { products, filters, breadcrumb, pageInfo, sortOptions } = page;
   const perPage = pageInfo?.recordPerPage || products.length;
   const id = useId();
   const zeroIndexedOffsetPage = pageInfo.currentPage - startingPage;
   const offset = zeroIndexedOffsetPage * perPage;
-
   const hideFilter = hideFilters?.split(",");
   const newFilters = filters.filter(({ key }) => !hideFilter?.includes(key))
     .filter(({ values }) => (isArray(values) && values.length))
     .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
-
   const productsFound = (
     <h6 class="text-secondary uppercase font-medium text-base">
       {pageInfo.records} Produtos encontrados
@@ -143,7 +140,6 @@ function Result({
     </>
   );
 }
-
 function SearchResult(
   {
     page,
@@ -154,8 +150,6 @@ function SearchResult(
   if (!page || !page.products || page.products.length === 0) {
     return <NotFoundSection {...notFoundProps} />;
   }
-
   return <Result {...props} page={page} />;
 }
-
 export default SearchResult;
