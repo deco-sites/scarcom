@@ -15,7 +15,9 @@ import * as $AddToCartButton_vtex from "./islands/AddToCartButton/vtex.tsx";
 import * as $AddToCartButton_wake from "./islands/AddToCartButton/wake.tsx";
 import * as $BuyWarning from "./islands/BuyWarning.tsx";
 import * as $CloseButton from "./islands/CloseButton.tsx";
+import * as $CustomerForm from "./islands/CustomerForm.tsx";
 import * as $DetailsControl from "./islands/DetailsControl.tsx";
+import * as $ExchangeForm from "./islands/ExchangeForm.tsx";
 import * as $Form from "./islands/Form.tsx";
 import * as $HeaderButton from "./islands/HeaderButton.tsx";
 import * as $HeaderModals from "./islands/HeaderModals.tsx";
@@ -62,7 +64,9 @@ const manifest = {
     "./islands/AddToCartButton/wake.tsx": $AddToCartButton_wake,
     "./islands/BuyWarning.tsx": $BuyWarning,
     "./islands/CloseButton.tsx": $CloseButton,
+    "./islands/CustomerForm.tsx": $CustomerForm,
     "./islands/DetailsControl.tsx": $DetailsControl,
+    "./islands/ExchangeForm.tsx": $ExchangeForm,
     "./islands/Form.tsx": $Form,
     "./islands/HeaderButton.tsx": $HeaderButton,
     "./islands/HeaderModals.tsx": $HeaderModals,

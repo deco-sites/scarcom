@@ -5,7 +5,7 @@ export interface Props {
   videoHtml?: string;
 }
 
-const VideoComponent = ({ videoHtml }: Props) => {
+const VideoComponent = ({ videoHtml = "" }: Props) => {
   const [current_width, set_current_width] = useState(1920);
   const container_ref = useRef<HTMLDivElement>(null);
 
@@ -27,7 +27,7 @@ const VideoComponent = ({ videoHtml }: Props) => {
         height: height_correct,
         maxHeight: height_correct,
       }}
-      className="vtex-PostList--video"
+      class="w-full h-full"
       dangerouslySetInnerHTML={{ __html: videoHtml }}
     />
   );

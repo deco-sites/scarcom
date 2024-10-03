@@ -2,16 +2,20 @@ import { useSignal } from "@preact/signals";
 import type { JSX } from "preact";
 
 export interface Props {
+  /**
+   * @title Titulo do Formulário
+   * @description Coloque sua Titulo do Formulário.
+   */
   titleForm?: string;
   /**
-   * @title newsletter message text?
-   * @format html
+   * @title Success Message
+   * @description Coloque sua menssagem de sucesso.
    */
   successMessage?: string;
 }
 
 export interface FormProps {
-  name: string;
+  nome: string;
   assunto: string;
   email: string;
   telefoneDDD: string;
@@ -19,12 +23,11 @@ export interface FormProps {
   celularDDD: string;
   celular: string;
   pedido: string;
-  // loja: string;
-  cpf: string;
+  cnpj: string;
   mensagem: string;
 }
 
-function Form(_: Props) {
+function CustomerForm(props: Props) {
   const loading = useSignal(false);
   const success = useSignal(false);
 
@@ -39,7 +42,7 @@ function Form(_: Props) {
       const assunto = (
         e.currentTarget.elements.namedItem("assunto") as RadioNodeList
       )?.value;
-      const name = (e.currentTarget.elements.namedItem("nome") as RadioNodeList)
+      const nome = (e.currentTarget.elements.namedItem("nome") as RadioNodeList)
         ?.value;
       const email = (
         e.currentTarget.elements.namedItem("email") as RadioNodeList
@@ -59,40 +62,26 @@ function Form(_: Props) {
       const pedido = (
         e.currentTarget.elements.namedItem("pedido") as RadioNodeList
       )?.value;
-      const cpf = (e.currentTarget.elements.namedItem("cpf") as RadioNodeList)
+      const cnpj = (e.currentTarget.elements.namedItem("cnpj") as RadioNodeList)
         ?.value;
       const mensagem = (
         e.currentTarget.elements.namedItem("mensagem") as RadioNodeList
       )?.value;
-      // const loja = (e.currentTarget.elements.namedItem("loja") as RadioNodeList)
-      //   ?.value;
 
       const form: FormProps = {
-        // assunto,
-        // name,
-        // email,
-        // telefoneDDD,
-        // telefone,
-        // celularDDD,
-        // celular,
-        // pedido,
-        // loja,
-        // cpf,
-        // mensagem,
-
         assunto,
         celular,
         celularDDD,
-        cpf,
+        cnpj,
         email,
         mensagem,
-        name,
+        nome,
         pedido,
         telefone,
         telefoneDDD,
       };
 
-      const response = await fetch("/api/contactform", {
+      const response = await fetch("", {
         method: "POST",
         body: JSON.stringify(form),
         headers: {
@@ -113,11 +102,15 @@ function Form(_: Props) {
   };
 
   return (
-    <div class="mb-32">
+    <div class="my-16 container">
+      <h1 class="text-secondary text-[28px] font-medium leading-[36.4px] mb-5 border-b border-neutral-100 pb-[10px] md:block">
+        {props.titleForm ?? "Formulário de Cadastro"}
+      </h1>
       {success.value
         ? (
           <div class="text-base text-center lg:text-xl text-accent min-h-[400px]">
-            Sua mensagem foi enviada, obrigado por entrar em contato conosco.
+            {props.successMessage ??
+              "Sua mensagem foi enviada, obrigado por entrar em contato conosco."}
           </div>
         )
         : (
@@ -267,15 +260,15 @@ function Form(_: Props) {
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="cpf"
+                  htmlFor="cnpj"
                 >
-                  CPF
+                  CNPJ
                 </label>
                 <div class="flex gap-[10px]">
                   <input
-                    id="cpf"
-                    placeholder="Digite seu CPF"
-                    name="cpf"
+                    id="cnpj"
+                    placeholder="Digite seu CNPJ"
+                    name="cnpj"
                     type="text"
                     class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100"
                   />
@@ -286,7 +279,7 @@ function Form(_: Props) {
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="cpf"
+                  htmlFor="order"
                 >
                   Número do Pedido
                 </label>
@@ -327,4 +320,4 @@ function Form(_: Props) {
   );
 }
 
-export default Form;
+export default CustomerForm;
