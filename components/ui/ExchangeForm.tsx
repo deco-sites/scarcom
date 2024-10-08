@@ -23,7 +23,7 @@ export interface FormProps {
   celularDDD: string;
   celular: string;
   pedido: string;
-  cpf: string;
+  cpfCliente: string;
   mensagem: string;
   loja: string;
 }
@@ -41,7 +41,7 @@ function ExchangeForm(props: Props) {
     celularDDD: (form.elements.namedItem("celularDDD") as RadioNodeList)?.value,
     celular: (form.elements.namedItem("celular") as RadioNodeList)?.value,
     pedido: (form.elements.namedItem("pedido") as RadioNodeList)?.value,
-    cpf: (form.elements.namedItem("cpf") as RadioNodeList)?.value,
+    cpfCliente: (form.elements.namedItem("cpfCliente") as RadioNodeList)?.value,
     mensagem: (form.elements.namedItem("mensagem") as RadioNodeList)?.value,
     loja: (form.elements.namedItem("loja") as RadioNodeList)?.value,
   });
@@ -53,7 +53,9 @@ function ExchangeForm(props: Props) {
     try {
       const form = getFormData(e.currentTarget);
 
-      const response = await fetch("/api/dataentities/RF/documents", {
+      console.log("Dados coletados", form);
+
+      const response = await fetch("/api/dataentities/EF/documents", {
         method: "POST",
         body: JSON.stringify(form),
         headers: {
@@ -63,6 +65,7 @@ function ExchangeForm(props: Props) {
       });
 
       console.log("response", response);
+      console.log("response body", response.body);
       
       if (!response.ok) {
         throw new Error("Erro ao enviar formulário.");
@@ -86,7 +89,7 @@ function ExchangeForm(props: Props) {
       {success.value ? (
         <div class="text-base text-center lg:text-xl text-accent min-h-[400px]">
           {props.successMessage ??
-            "Sua mensagem foi enviada, obrigado por entrar em contato conosco."}
+            "Sua mensagem foi enviada, obrigado por entrar em contato conosco!"}
         </div>
       ) : (
         <form onSubmit={handleSubmit} class="text-sm flex flex-col gap-5">
@@ -100,7 +103,7 @@ function ExchangeForm(props: Props) {
               </label>
               <div class="flex gap-[10px]">
                 <select
-                  
+                  required
                   id="assunto"
                   name="assunto"
                   class="select select-bordered select-xs h-[34px] w-full border-2 border-neutral-100 text-currentColor font-semibold font-normal"
@@ -130,7 +133,7 @@ function ExchangeForm(props: Props) {
                 Nome*
               </label>
               <input
-                
+                required
                 id="nome"
                 placeholder="Digite seu nome"
                 name="nome"
@@ -146,7 +149,7 @@ function ExchangeForm(props: Props) {
                 Email*
               </label>
               <input
-                
+                required
                 id="email"
                 placeholder="Digite seu e-mail"
                 name="email"
@@ -165,7 +168,8 @@ function ExchangeForm(props: Props) {
               </label>
               <div class="flex gap-[10px]">
                 <input
-                  
+                  maxLength={3}
+                  required
                   placeholder="DDD"
                   id="telefoneDDD"
                   name="telefoneDDD"
@@ -173,7 +177,8 @@ function ExchangeForm(props: Props) {
                   class="input input-bordered input-xs h-[34px] w-16 border-2 border-neutral-100"
                 />
                 <input
-                  
+                  required
+                  maxLength={9}
                   placeholder="Digite seu telefone"
                   name="telefone"
                   type="text"
@@ -190,6 +195,7 @@ function ExchangeForm(props: Props) {
               </label>
               <div class="flex gap-[10px]">
                 <input
+                  maxLength={3}
                   placeholder="DDD"
                   id="celularDDD"
                   name="celularDDD"
@@ -197,6 +203,7 @@ function ExchangeForm(props: Props) {
                   class="input input-bordered input-xs h-[34px] w-16 border-2 border-neutral-100"
                 />
                 <input
+                  maxLength={9}
                   placeholder="Digite seu celular"
                   name="celular"
                   type="text"
@@ -215,7 +222,6 @@ function ExchangeForm(props: Props) {
               </label>
               <div class="flex gap-[10px]">
                 <select
-                  
                   id="loja"
                   name="loja"
                   class="select select-bordered select-xs h-[34px] w-full border-2 border-neutral-100 text-currentColor font-semibold font-normal"
@@ -231,15 +237,15 @@ function ExchangeForm(props: Props) {
             <div class="form-control gap-[10px] w-full">
               <label
                 class="font-medium text-currentColor font-semibold"
-                htmlFor="cpf"
+                htmlFor="cpfCliente"
               >
                 CPF
               </label>
               <div class="flex gap-[10px]">
                 <input
-                  id="cpf"
+                  id="cpfCliente"
                   placeholder="Digite seu CPF"
-                  name="cpf"
+                  name="cpfCliente"
                   type="text"
                   class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100 !outline-none"
                 />
@@ -273,7 +279,7 @@ function ExchangeForm(props: Props) {
               Mensagem*
             </label>
             <textarea
-              
+              required
               id="mensagem"
               placeholder="Digite aqui sua mensagem"
               name="mensagem"
