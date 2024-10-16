@@ -4,47 +4,55 @@ import type { JSX } from "preact";
 export interface Props {
   /**
    * @title Titulo do Formulário
-   * @description Coloque sua Titulo do Formulário.
+   * @description Coloque seu Titulo do Formulário.
    */
   titleForm?: string;
+  
   /**
    * @title Success Message
    * @description Coloque sua menssagem de sucesso.
    */
   successMessage?: string;
+  
+  /**
+   * @title Form Data
+   * @description Os dados do formulário.
+   */
+  formData?: FormProps;
 }
 
 export interface FormProps {
-  nome: string;
-  assunto: string;
-  email: string;
-  telefoneDDD: string;
-  telefone: string;
-  celularDDD: string;
-  celular: string;
-  pedido: string;
-  cpfCliente: string;
-  mensagem: string;
-  loja: string;
+  nome?: string;
+  assunto?: string;
+  email?: string;
+  telefoneDDD?: string;
+  telefone?: string;
+  celularDDD?: string;
+  celular?: string;
+  pedido?: string;
+  cpfCliente?: string;
+  mensagem?: string;
+  produto?: string;
 }
 
 function ExchangeForm(props: Props) {
-  const loading = useSignal(false);
+  const loading = useSignal(false); 
   const success = useSignal(false);
 
+  console.log("props formData", props.formData?.assunto);
+  
   const getFormData = (form: HTMLFormElement): FormProps => ({
     assunto: (form.elements.namedItem("assunto") as RadioNodeList)?.value,
     nome: (form.elements.namedItem("nome") as RadioNodeList)?.value,
     email: (form.elements.namedItem("email") as RadioNodeList)?.value,
-    telefoneDDD: (form.elements.namedItem("telefoneDDD") as RadioNodeList)
-      ?.value,
+    telefoneDDD: (form.elements.namedItem("telefoneDDD") as RadioNodeList)?.value,
     telefone: (form.elements.namedItem("telefone") as RadioNodeList)?.value,
     celularDDD: (form.elements.namedItem("celularDDD") as RadioNodeList)?.value,
     celular: (form.elements.namedItem("celular") as RadioNodeList)?.value,
     pedido: (form.elements.namedItem("pedido") as RadioNodeList)?.value,
     cpfCliente: (form.elements.namedItem("cpfCliente") as RadioNodeList)?.value,
     mensagem: (form.elements.namedItem("mensagem") as RadioNodeList)?.value,
-    loja: (form.elements.namedItem("loja") as RadioNodeList)?.value,
+    produto: (form.elements.namedItem("produto") as RadioNodeList)?.value,
   });
 
   const handleSubmit = async (
@@ -115,14 +123,11 @@ function ExchangeForm(props: Props) {
                     <option disabled selected>
                       Tipo de solicitação
                     </option>
-                    <option value="Esclarecer uma dúvida">
-                      Esclarecer uma dúvida
+                    <option value="Troca em garantia">
+                      Troca em garantia
                     </option>
-                    <option value="Troca e devolução">
-                      Troca e devolução
-                    </option>
-                    <option value="Cancelamento">
-                      Cancelamento
+                    <option value="Devolução por arrependimento">
+                      Devolução por arrependimento
                     </option>
                   </select>
                 </div>
@@ -134,7 +139,7 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="nome"
                 >
-                  Nome*
+                  Nome/ Razão Social*
                 </label>
                 <input
                   required
@@ -168,12 +173,11 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="telefoneDDD"
                 >
-                  Telefone*
+                  Telefone
                 </label>
                 <div class="flex gap-[10px]">
                   <input
                     maxLength={3}
-                    required
                     placeholder="DDD"
                     id="telefoneDDD"
                     name="telefoneDDD"
@@ -181,7 +185,6 @@ function ExchangeForm(props: Props) {
                     class="input input-bordered input-xs h-[34px] w-16 border-2 border-neutral-100"
                   />
                   <input
-                    required
                     maxLength={9}
                     placeholder="Digite seu telefone"
                     name="telefone"
@@ -195,7 +198,7 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="celularDDD"
                 >
-                  Celular
+                  Celular/WhatsApp
                 </label>
                 <div class="flex gap-[10px]">
                   <input
@@ -220,36 +223,34 @@ function ExchangeForm(props: Props) {
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="loja"
+                  htmlFor="cpfCliente"
                 >
-                  Selecione a loja
+                   CPF/CNPJ*
                 </label>
                 <div class="flex gap-[10px]">
-                  <select
-                    id="loja"
-                    name="loja"
-                    class="select select-bordered select-xs h-[34px] w-full border-2 border-neutral-100 text-currentColor font-semibold font-normal"
-                  >
-                    <option disabled selected>
-                      Selecione a loja
-                    </option>
-                    <option value="virtual">Loja virtual</option>
-                    <option value="fisica">Loja física</option>
-                  </select>
+                  <input
+                    required
+                    id="cpfCliente"
+                    placeholder="Digite seu CPF"
+                    name="cpfCliente"
+                    type="text"
+                    class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100 !outline-none"
+                  />
                 </div>
               </div>
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="cpfCliente"
+                  htmlFor="pedido"
                 >
-                  CPF
+                  Número do pedido trocar por NOTA FISCAL*
                 </label>
                 <div class="flex gap-[10px]">
-                  <input
-                    id="cpfCliente"
-                    placeholder="Digite seu CPF"
-                    name="cpfCliente"
+                  <input 
+                    required
+                    id="pedido"
+                    placeholder="Digite o número do seu pedido"
+                    name="pedido"
                     type="text"
                     class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100 !outline-none"
                   />
@@ -260,15 +261,16 @@ function ExchangeForm(props: Props) {
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="pedido"
+                  htmlFor="produto"
                 >
-                  Número do Pedido
+                  Produto que deseja atendimento*
                 </label>
                 <div class="flex gap-[10px]">
                   <input
-                    id="pedido"
-                    placeholder="Digite o número do seu pedido"
-                    name="pedido"
+                    required
+                    id="produto"
+                    placeholder="Digite o nome do produto"
+                    name="produto"
                     type="text"
                     class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100 !outline-none"
                   />
@@ -280,7 +282,7 @@ function ExchangeForm(props: Props) {
                 class="font-medium text-currentColor font-semibold"
                 htmlFor="mensagem"
               >
-                Mensagem*
+                Descreva sobre o ocorrido com o produto*
               </label>
               <textarea
                 required
