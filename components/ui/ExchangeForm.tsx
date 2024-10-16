@@ -7,13 +7,13 @@ export interface Props {
    * @description Coloque seu Titulo do Formulário.
    */
   titleForm?: string;
-  
+
   /**
    * @title Success Message
    * @description Coloque sua menssagem de sucesso.
    */
   successMessage?: string;
-  
+
   /**
    * @title Form Data
    * @description Os dados do formulário.
@@ -36,16 +36,17 @@ export interface FormProps {
 }
 
 function ExchangeForm(props: Props) {
-  const loading = useSignal(false); 
+  const loading = useSignal(false);
   const success = useSignal(false);
 
   console.log("props formData", props.formData?.assunto);
-  
+
   const getFormData = (form: HTMLFormElement): FormProps => ({
     assunto: (form.elements.namedItem("assunto") as RadioNodeList)?.value,
     nome: (form.elements.namedItem("nome") as RadioNodeList)?.value,
     email: (form.elements.namedItem("email") as RadioNodeList)?.value,
-    telefoneDDD: (form.elements.namedItem("telefoneDDD") as RadioNodeList)?.value,
+    telefoneDDD: (form.elements.namedItem("telefoneDDD") as RadioNodeList)
+      ?.value,
     telefone: (form.elements.namedItem("telefone") as RadioNodeList)?.value,
     celularDDD: (form.elements.namedItem("celularDDD") as RadioNodeList)?.value,
     celular: (form.elements.namedItem("celular") as RadioNodeList)?.value,
@@ -225,7 +226,7 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="cpfCliente"
                 >
-                   CPF/CNPJ*
+                  CPF/CNPJ*
                 </label>
                 <div class="flex gap-[10px]">
                   <input
@@ -246,7 +247,7 @@ function ExchangeForm(props: Props) {
                   Número do pedido trocar por NOTA FISCAL*
                 </label>
                 <div class="flex gap-[10px]">
-                  <input 
+                  <input
                     required
                     id="pedido"
                     placeholder="Digite o número do seu pedido"
