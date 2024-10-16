@@ -351,19 +351,23 @@ function CustomerForm(props: Props) {
   const success = useSignal(false);
 
   const getFormData = (form: HTMLFormElement): FormProps => ({
-    razaoSocial: (form.elements.namedItem("razaoSocial") as RadioNodeList)?.value,
+    razaoSocial: (form.elements.namedItem("razaoSocial") as RadioNodeList)
+      ?.value,
     cnpj: (form.elements.namedItem("cnpj") as RadioNodeList)?.value,
-    inscricaoSocial: (form.elements.namedItem("inscricaoSocial") as RadioNodeList)?.value,
+    inscricaoSocial:
+      (form.elements.namedItem("inscricaoSocial") as RadioNodeList)?.value,
     cep: (form.elements.namedItem("cep") as RadioNodeList)?.value,
     logradouro: (form.elements.namedItem("logradouro") as RadioNodeList)?.value,
     numero: (form.elements.namedItem("numero") as RadioNodeList)?.value,
-    complemento: (form.elements.namedItem("complemento") as RadioNodeList)?.value,
+    complemento: (form.elements.namedItem("complemento") as RadioNodeList)
+      ?.value,
     bairro: (form.elements.namedItem("bairro") as RadioNodeList)?.value,
     cidade: (form.elements.namedItem("cidade") as RadioNodeList)?.value,
     estado: (form.elements.namedItem("estado") as RadioNodeList)?.value,
     telefone: (form.elements.namedItem("telefone") as RadioNodeList)?.value,
     email: (form.elements.namedItem("email") as RadioNodeList)?.value,
-    contatoFinanceiro: (form.elements.namedItem("contatoFinanceiro") as RadioNodeList)?.value,
+    contatoFinanceiro:
+      (form.elements.namedItem("contatoFinanceiro") as RadioNodeList)?.value,
   });
 
   const handleSubmit = async (
@@ -414,7 +418,10 @@ function CustomerForm(props: Props) {
           <form onSubmit={handleSubmit} class="text-sm flex flex-col gap-5">
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="razaoSocial">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="razaoSocial"
+                >
                   Razão Social*
                 </label>
                 <input
@@ -427,7 +434,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="cnpj">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="cnpj"
+                >
                   CNPJ*
                 </label>
                 <input
@@ -443,7 +453,10 @@ function CustomerForm(props: Props) {
 
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="inscricaoSocial">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="inscricaoSocial"
+                >
                   Inscrição Social*
                 </label>
                 <input
@@ -456,7 +469,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="cep">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="cep"
+                >
                   CEP*
                 </label>
                 <input
@@ -469,7 +485,7 @@ function CustomerForm(props: Props) {
                 />
               </div>
             </div>
-            
+
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
                 <h3 class="font-medium text-currentColor font-semibold">
@@ -480,7 +496,10 @@ function CustomerForm(props: Props) {
 
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="logradouro">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="logradouro"
+                >
                   Logradouro*
                 </label>
                 <input
@@ -493,7 +512,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="numero">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="numero"
+                >
                   Número*
                 </label>
                 <input
@@ -506,7 +528,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="complemento">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="complemento"
+                >
                   Complemento
                 </label>
                 <input
@@ -521,7 +546,10 @@ function CustomerForm(props: Props) {
 
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="estado">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="estado"
+                >
                   Estado*
                 </label>
                 <input
@@ -534,7 +562,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="cidade">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="cidade"
+                >
                   Cidade*
                 </label>
                 <input
@@ -547,7 +578,10 @@ function CustomerForm(props: Props) {
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-currentColor font-semibold" htmlFor="bairro">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="bairro"
+                >
                   Bairro*
                 </label>
                 <input
@@ -562,7 +596,10 @@ function CustomerForm(props: Props) {
             </div>
 
             <div class="form-control gap-[10px] w-full">
-              <label class="font-medium text-currentColor font-semibold" htmlFor="telefone">
+              <label
+                class="font-medium text-currentColor font-semibold"
+                htmlFor="telefone"
+              >
                 Telefone*
               </label>
               <input
@@ -572,12 +609,14 @@ function CustomerForm(props: Props) {
                 name="telefone"
                 type="text"
                 class="input input-bordered input-xs h-[34px] border-2 border-neutral-100 !outline-none"
-
               />
             </div>
 
             <div class="form-control gap-[10px] w-full">
-              <label class="font-medium text-currentColor font-semibold" htmlFor="email">
+              <label
+                class="font-medium text-currentColor font-semibold"
+                htmlFor="email"
+              >
                 Email*
               </label>
               <input
@@ -591,7 +630,10 @@ function CustomerForm(props: Props) {
             </div>
 
             <div class="form-control gap-[10px] w-full">
-              <label class="font-medium text-currentColor font-semibold" htmlFor="contatoFinanceiro">
+              <label
+                class="font-medium text-currentColor font-semibold"
+                htmlFor="contatoFinanceiro"
+              >
                 Contato Financeiro*
               </label>
               <input
