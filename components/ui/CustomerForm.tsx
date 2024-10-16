@@ -235,7 +235,7 @@ function CustomerForm(props: Props) {
             </div>
 
             <div class="flex flex-col gap-5 lg:flex-row">
-            <div class="form-control gap-[10px] w-full">
+              <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="bairro"
