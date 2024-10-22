@@ -199,10 +199,11 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="celularDDD"
                 >
-                  Celular/WhatsApp
+                  Celular/WhatsApp*
                 </label>
                 <div class="flex gap-[10px]">
                   <input
+                    required
                     maxLength={3}
                     placeholder="DDD"
                     id="celularDDD"
@@ -244,13 +245,13 @@ function ExchangeForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="pedido"
                 >
-                  Número do pedido trocar por NOTA FISCAL*
+                  Nota Fiscal*
                 </label>
                 <div class="flex gap-[10px]">
                   <input
                     required
                     id="pedido"
-                    placeholder="Digite o número do seu pedido"
+                    placeholder="Digite o número da Nota Fiscal"
                     name="pedido"
                     type="text"
                     class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100 !outline-none"

@@ -23,7 +23,7 @@ export interface Props {
 export interface FormProps {
   razaoSocial: string;
   cnpj: string;
-  inscricaoSocial: string;
+  inscricaoEstadual: string;
   cep: string;
   logradouro: string;
   numero: string;
@@ -44,8 +44,8 @@ function CustomerForm(props: Props) {
     razaoSocial: (form.elements.namedItem("razaoSocial") as RadioNodeList)
       ?.value,
     cnpj: (form.elements.namedItem("cnpj") as RadioNodeList)?.value,
-    inscricaoSocial:
-      (form.elements.namedItem("inscricaoSocial") as RadioNodeList)?.value,
+    inscricaoEstadual:
+      (form.elements.namedItem("inscricaoEstadual") as RadioNodeList)?.value,
     cep: (form.elements.namedItem("cep") as RadioNodeList)?.value,
     logradouro: (form.elements.namedItem("logradouro") as RadioNodeList)?.value,
     numero: (form.elements.namedItem("numero") as RadioNodeList)?.value,
@@ -145,15 +145,15 @@ function CustomerForm(props: Props) {
               <div class="form-control gap-[10px] w-full">
                 <label
                   class="font-medium text-currentColor font-semibold"
-                  htmlFor="inscricaoSocial"
+                  htmlFor="inscricaoEstadual"
                 >
-                  Inscrição Social*
+                  Inscrição Estadual*
                 </label>
                 <input
                   required
-                  id="inscricaoSocial"
-                  placeholder="Digite a inscrição social"
-                  name="inscricaoSocial"
+                  id="inscricaoEstadual"
+                  placeholder="Digite a inscrição Estadual"
+                  name="inscricaoEstadual"
                   type="text"
                   class="input input-bordered input-xs h-[34px] border-2 border-neutral-100 !outline-none"
                 />
@@ -190,12 +190,12 @@ function CustomerForm(props: Props) {
                   class="font-medium text-currentColor font-semibold"
                   htmlFor="logradouro"
                 >
-                  Logradouro*
+                  Rua/Avenida*
                 </label>
                 <input
                   required
                   id="logradouro"
-                  placeholder="Digite o logradouro"
+                  placeholder="Digite a Rua/Avenida"
                   name="logradouro"
                   type="text"
                   class="input input-bordered input-xs h-[34px] border-2 border-neutral-100 !outline-none"
