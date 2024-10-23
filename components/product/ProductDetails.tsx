@@ -15,7 +15,6 @@ import { HighLight } from "$store/components/product/ProductHighlights.tsx";
 import ProductSelector from "./ProductVariantSelector.tsx";
 import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
 import { type Section as Section } from "@deco/deco/blocks";
-import LogComponent from "deco-sites/scarcom/islands/LogComponent.tsx";
 export type Variant = "front-back" | "slider" | "auto";
 export type ShareableNetwork = "Facebook" | "Twitter" | "Email" | "WhatsApp";
 export interface LabelBuyButton {
@@ -194,7 +193,7 @@ function ProductInfo(
     <>
       {/* Code and name */}
       <div class="mt-4 sm:mt-0">
-        <LogComponent data={product} />
+        {/* <LogComponent data={product} /> */}
         <h1>
           <span class="font-medium text-base-content text-xl lg:text-2xl">
             {isVariantOf?.name}

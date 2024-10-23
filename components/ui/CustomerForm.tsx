@@ -68,7 +68,6 @@ function CustomerForm(props: Props) {
 
     try {
       const form = getFormData(e.currentTarget);
-      console.log("Dados coletados", form);
 
       const response = await fetch("/api/dataentities/CR/documents", {
         method: "POST",

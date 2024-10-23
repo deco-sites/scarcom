@@ -39,7 +39,7 @@
     "@core/asyncutil": "jsr:@core/asyncutil@^1.0.2"
   },
   "tasks": {
-    "local": "DECO_ENV_NAME=thiago-pereira2 deno task start",
+    "local": "DECO_ENV_NAME=murilo-ferreira2 deno task start",
     "start": "deno run -A --unstable-http --env https://deco.cx/run -- deno task dev",
     "gen": "deno run -A dev.ts --gen-only",
     "play": "USE_LOCAL_STORAGE_ONLY=true deno task start",

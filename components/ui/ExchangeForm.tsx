@@ -39,8 +39,6 @@ function ExchangeForm(props: Props) {
   const loading = useSignal(false);
   const success = useSignal(false);
 
-  console.log("props formData", props.formData?.assunto);
-
   const getFormData = (form: HTMLFormElement): FormProps => ({
     assunto: (form.elements.namedItem("assunto") as RadioNodeList)?.value,
     nome: (form.elements.namedItem("nome") as RadioNodeList)?.value,
@@ -65,8 +63,6 @@ function ExchangeForm(props: Props) {
     try {
       const form = getFormData(e.currentTarget);
 
-      console.log("Dados coletados", form);
-
       const response = await fetch("/api/dataentities/EF/documents", {
         method: "POST",
         body: JSON.stringify(form),
@@ -75,9 +71,6 @@ function ExchangeForm(props: Props) {
           "accept": "application/json",
         },
       });
-
-      console.log("response", response);
-      console.log("response body", response.body);
 
       if (!response.ok) {
         throw new Error("Erro ao enviar formulário.");
