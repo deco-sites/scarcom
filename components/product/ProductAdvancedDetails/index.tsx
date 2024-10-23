@@ -40,6 +40,12 @@ export interface Props {
 export function loader(props: Props, _req: Request, _: AppContext) {
   const { advancedDetailList, page } = props;
   const productId = page?.product.productID;
+  const productname = page?.product.name;
+
+  console.log("productId", productId);
+  console.log("productname", productname);
+  
+
   if (!productId || !advancedDetailList) {
     return { success: false };
   }
