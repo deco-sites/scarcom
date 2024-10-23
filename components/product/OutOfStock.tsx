@@ -23,7 +23,9 @@ function Notify({ productID }: Props) {
   const loading = useSignal(false);
   const open = useSignal(false);
 
-  const handleSubmit: JSX.GenericEventHandler<HTMLFormElement> = async (e) => {
+  const handleSubmit = async (
+    e: JSX.TargetedEvent<HTMLFormElement, SubmitEvent>,
+  ) => {
     e.preventDefault();
 
     try {

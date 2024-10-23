@@ -1,7 +1,7 @@
 import Loading from "$store/components/ui/Loading.tsx";
 import Modal from "$store/components/ui/Modal.tsx";
 import { useUI } from "$store/sdk/useUI.ts";
-import { lazy, Suspense } from "preact/compat";
+import { Suspense } from "preact/compat";
 
 import type { Props as MenuProps } from "$store/components/header/Menu.tsx";
 import Menu from "$store/components/header/Menu.tsx";

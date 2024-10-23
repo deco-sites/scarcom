@@ -24,11 +24,13 @@ export interface FormProps {
   mensagem: string;
 }
 
-function Form(props: Props) {
+function Form(_: Props) {
   const loading = useSignal(false);
   const success = useSignal(false);
 
-  const handleSubmit: JSX.GenericEventHandler<HTMLFormElement> = async (e) => {
+  const handleSubmit = async (
+    e: JSX.TargetedEvent<HTMLFormElement, SubmitEvent>,
+  ) => {
     e.preventDefault();
 
     try {
@@ -62,8 +64,8 @@ function Form(props: Props) {
       const mensagem = (
         e.currentTarget.elements.namedItem("mensagem") as RadioNodeList
       )?.value;
-      const loja = (e.currentTarget.elements.namedItem("loja") as RadioNodeList)
-        ?.value;
+      // const loja = (e.currentTarget.elements.namedItem("loja") as RadioNodeList)
+      //   ?.value;
 
       const form: FormProps = {
         // assunto,
@@ -100,6 +102,7 @@ function Form(props: Props) {
       });
 
       console.log(response);
+      
     } finally {
       loading.value = false;
       success.value = true;
@@ -122,7 +125,10 @@ function Form(props: Props) {
           <form onSubmit={handleSubmit} class="text-sm flex flex-col gap-5">
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="assunto">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="assunto"
+                >
                   Assunto*
                 </label>
                 <div class="flex gap-[10px]">
@@ -130,7 +136,7 @@ function Form(props: Props) {
                     required
                     id="assunto"
                     name="assunto"
-                    class="select select-bordered select-xs h-[34px] w-full border-2 border-base-200 text-base-300 font-normal"
+                    class="select select-bordered select-xs h-[34px] w-full border-2 border-neutral-100 text-currentColor font-semibold font-normal"
                   >
                     <option disabled selected>
                       Tipo de solicitação
@@ -154,7 +160,10 @@ function Form(props: Props) {
             </div>
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="nome">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="nome"
+                >
                   Nome*
                 </label>
                 <input
@@ -163,11 +172,14 @@ function Form(props: Props) {
                   placeholder="Digite seu nome"
                   name="nome"
                   type="text"
-                  class="input input-bordered input-xs h-[34px] border-2 border-base-200"
+                  class="input input-bordered input-xs h-[34px] border-2 border-neutral-100 outline-none"
                 />
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="email">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="email"
+                >
                   Email*
                 </label>
                 <input
@@ -176,13 +188,16 @@ function Form(props: Props) {
                   placeholder="Digite seu e-mail"
                   name="email"
                   type="email"
-                  class="input input-bordered input-xs h-[34px] border-2 border-base-200"
+                  class="input input-bordered input-xs h-[34px] border-2 border-neutral-100 outline-none"
                 />
               </div>
             </div>
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="telefoneDDD">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="telefoneDDD"
+                >
                   Telefone*
                 </label>
                 <div class="flex gap-[10px]">
@@ -192,19 +207,22 @@ function Form(props: Props) {
                     id="telefoneDDD"
                     name="telefoneDDD"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-16 border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-16 border-2 border-neutral-100"
                   />
                   <input
                     required
                     placeholder="Digite seu telefone"
                     name="telefone"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-full border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100"
                   />
                 </div>
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="celularDDD">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="celularDDD"
+                >
                   Celular
                 </label>
                 <div class="flex gap-[10px]">
@@ -213,20 +231,23 @@ function Form(props: Props) {
                     id="celularDDD"
                     name="celularDDD"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-16 border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-16 border-2 border-neutral-100"
                   />
                   <input
                     placeholder="Digite seu celular"
                     name="celular"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-full border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100"
                   />
                 </div>
               </div>
             </div>
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="loja">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="loja"
+                >
                   Selecione a loja
                 </label>
                 <div class="flex gap-[10px]">
@@ -234,7 +255,7 @@ function Form(props: Props) {
                     required
                     id="loja"
                     name="loja"
-                    class="select select-bordered select-xs h-[34px] w-full border-2 border-base-200 text-base-300 font-normal"
+                    class="select select-bordered select-xs h-[34px] w-full border-2 border-neutral-100 text-currentColor font-semibold font-normal"
                   >
                     <option disabled selected>
                       Selecione a loja
@@ -245,7 +266,10 @@ function Form(props: Props) {
                 </div>
               </div>
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="cpf">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="cpf"
+                >
                   CPF
                 </label>
                 <div class="flex gap-[10px]">
@@ -254,14 +278,17 @@ function Form(props: Props) {
                     placeholder="Digite seu CPF"
                     name="cpf"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-full border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100"
                   />
                 </div>
               </div>
             </div>
             <div class="flex flex-col gap-5 lg:flex-row">
               <div class="form-control gap-[10px] w-full">
-                <label class="font-medium text-base-300" htmlFor="cpf">
+                <label
+                  class="font-medium text-currentColor font-semibold"
+                  htmlFor="cpf"
+                >
                   Número do Pedido
                 </label>
                 <div class="flex gap-[10px]">
@@ -270,13 +297,16 @@ function Form(props: Props) {
                     placeholder="Digite o númerpo do seu pedido"
                     name="pedido"
                     type="text"
-                    class="input input-bordered input-xs h-[34px] w-full border-2 border-base-200"
+                    class="input input-bordered input-xs h-[34px] w-full border-2 border-neutral-100"
                   />
                 </div>
               </div>
             </div>
             <div class="form-control gap-[10px]">
-              <label class="font-medium text-base-300" htmlFor="message">
+              <label
+                class="font-medium text-currentColor font-semibold"
+                htmlFor="message"
+              >
                 Comentários
               </label>
               <textarea
@@ -284,7 +314,7 @@ function Form(props: Props) {
                 placeholder="Deixe um comentário e, caso deseje cancelar sua compra, informe o motivo do cancelamento e o número do seu pedido.*"
                 name="mensagem"
                 type="text"
-                class="textarea h-28 textarea-bordered resize-none rounded-box w-full border-2 border-base-200"
+                class="textarea h-28 textarea-bordered resize-none w-full border-2 border-neutral-100"
               />
             </div>
             <div>

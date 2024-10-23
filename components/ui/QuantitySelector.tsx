@@ -12,17 +12,17 @@ const QUANTITY_MAX_VALUE = 100;
 
 // Remove default browser behavior: https://www.w3schools.com/howto/howto_css_hide_arrow_number.asp
 // TODO: Figure out how to add it via tailwind config.
-const innerStyle = `
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
-}
+// const innerStyle = `
+// input::-webkit-outer-spin-button,
+// input::-webkit-inner-spin-button {
+//   -webkit-appearance: none;
+//   margin: 0;
+// }
 
-input[type="number"] {
-  -moz-appearance: textfield;
-}
-`;
+// input[type="number"] {
+//   -moz-appearance: textfield;
+// }
+// `;
 
 function QuantitySelector({ onChange, quantity, disabled, loading }: Props) {
   const decrement = () => onChange?.(Math.max(0, quantity - 1));
@@ -47,7 +47,7 @@ function QuantitySelector({ onChange, quantity, disabled, loading }: Props) {
           />
         </Button>
         <input
-          class="text-center rounded-lg border-black-300 w-10 h-10 border-2 mx-2.5 text-sm font-bold text-base-content"
+          class="text-center rounded-lg border-black-300 w-10 h-10 border-2 mx-1.5 text-sm font-bold text-base-content"
           type="number"
           inputMode="numeric"
           pattern="[0-9]*"

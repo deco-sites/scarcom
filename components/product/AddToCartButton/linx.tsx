@@ -14,9 +14,11 @@ function AddToCartButton({ productGroupID, productID, eventParams }: Props) {
       eventParams={eventParams}
       onAddItem={() =>
         addItem({
-          ProductID: productGroupID,
-          SkuID: productID,
-          Quantity: 1,
+          Products: [{
+            ProductID: productGroupID,
+            SkuID: productID,
+            Quantity: 1,
+          }],
         })}
     />
   );
