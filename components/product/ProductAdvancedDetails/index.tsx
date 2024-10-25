@@ -39,16 +39,18 @@ export interface Props {
 
 export function loader(props: Props, _req: Request, _: AppContext) {
   const { advancedDetailList } = props;
-  const productId = props.page?.product.productID;  
+  const productId = props.page?.product.productID;
 
   if (!productId) {
     return { success: false };
   }
-  const productExistInList = (advancedDetailList || []).filter((advancedDetail) => {
-    return advancedDetail.productId === productId;
-  });
+  const productExistInList = (advancedDetailList || []).filter(
+    (advancedDetail) => {
+      return advancedDetail.productId === productId;
+    },
+  );
 
-  if (productExistInList.length > 0 ) {
+  if (productExistInList.length > 0) {
     return {
       success: true,
       contentDetails: productExistInList[0].contentDetails,
@@ -63,7 +65,6 @@ export function loader(props: Props, _req: Request, _: AppContext) {
 }
 
 function ProductAdvancedDetails(props: SectionProps<typeof loader>) {
-
   return (
     <div className="container w-full m-auto px-5 my-5 lg:my-10">
       <DetailsControl

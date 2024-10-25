@@ -102,7 +102,6 @@ function Form(_: Props) {
       });
 
       console.log(response);
-      
     } finally {
       loading.value = false;
       success.value = true;
