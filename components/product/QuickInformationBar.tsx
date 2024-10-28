@@ -43,7 +43,11 @@ function QuickInformationBar({ elements, shortLogo }: Props) {
           <div class="flex flex-col gap-[20px] w-full px-[10px] lg:max-w-none lg:w-auto lg:gap-[60px] lg:flex-row">
             {elements?.map((element) => {
               return (
-                <a href={element.url} target={element.target ? "_self" : "_blank"} class="flex flex-row gap-[10px]">
+                <a
+                  href={element.url}
+                  target={element.target ? "_self" : "_blank"}
+                  class="flex flex-row gap-[10px]"
+                >
                   <img class="" src={element.icon} alt="Icon Contact" />
                   <div class="flex flex-col">
                     <strong class="not-italic font-semibold text-[16px] leading-[20px] text-[#133449]">

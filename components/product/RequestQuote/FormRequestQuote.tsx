@@ -124,9 +124,10 @@ function FormRequestQuote({ stateModal, productName }: {
 
   return (
     <>
-      <div 
+      <div
         onClick={() => stateModal(false)}
-        class="fixed top-0 left-0 w-screen h-screen z-40 flex items-center justify-center bg-[#042F4BCC]">
+        class="fixed top-0 left-0 w-screen h-screen z-40 flex items-center justify-center bg-[#042F4BCC]"
+      >
       </div>
 
       <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-fit h-fit z-50 flex items-center justify-center">
@@ -198,8 +199,9 @@ function FormRequestQuote({ stateModal, productName }: {
                         onChange={(e) => setUserName(e.currentTarget.value)}
                         value={userName}
                         placeholder="Digite seu nome"
-                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${errors.userName ? inputErrorStyle : inputNormalStyle
-                          } rounded-[16px] w-full`}
+                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${
+                          errors.userName ? inputErrorStyle : inputNormalStyle
+                        } rounded-[16px] w-full`}
                         id="name"
                       />
                     </div>
@@ -215,8 +217,9 @@ function FormRequestQuote({ stateModal, productName }: {
                         onChange={(e) => setSurName(e.currentTarget.value)}
                         value={surname}
                         placeholder="Digite seu sobrenome"
-                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${errors.surname ? inputErrorStyle : inputNormalStyle
-                          } rounded-[16px] w-full`}
+                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${
+                          errors.surname ? inputErrorStyle : inputNormalStyle
+                        } rounded-[16px] w-full`}
                         id="surname"
                       />
                     </div>
@@ -234,8 +237,9 @@ function FormRequestQuote({ stateModal, productName }: {
                         onChange={(e) => setTel(e.currentTarget.value)}
                         value={tel}
                         placeholder="(xx) xxxxx-xxxx"
-                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${errors.tel ? inputErrorStyle : inputNormalStyle
-                          } rounded-[16px] w-full`}
+                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${
+                          errors.tel ? inputErrorStyle : inputNormalStyle
+                        } rounded-[16px] w-full`}
                         id="tel"
                       />
                     </div>
@@ -251,8 +255,9 @@ function FormRequestQuote({ stateModal, productName }: {
                         onChange={(e) => setEmail(e.currentTarget.value)}
                         value={email}
                         placeholder="Seu melhor e-mail"
-                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${errors.email ? inputErrorStyle : inputNormalStyle
-                          } rounded-[16px] w-full`}
+                        class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${
+                          errors.email ? inputErrorStyle : inputNormalStyle
+                        } rounded-[16px] w-full`}
                         id="email"
                       />
                     </div>
@@ -269,8 +274,9 @@ function FormRequestQuote({ stateModal, productName }: {
                       onChange={(e) => setQuantity(e.currentTarget.value)}
                       value={quantity}
                       type="number"
-                      class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${errors.quantity ? inputErrorStyle : inputNormalStyle
-                        } rounded-[16px] w-full`}
+                      class={`not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E] flex flex-row items-center px-[20px] py-[11px] h-[42px] bg-white border ${
+                        errors.quantity ? inputErrorStyle : inputNormalStyle
+                      } rounded-[16px] w-full`}
                       id="quantity"
                     />
                   </div>
@@ -286,8 +292,9 @@ function FormRequestQuote({ stateModal, productName }: {
                       onChange={(e) => setObs(e.currentTarget.value)}
                       value={obs}
                       id="observer"
-                      class={`w-full flex flex-row items-start px-[20px] py-[11px] h-[175px] bg-white border ${errors.obs ? inputErrorStyle : inputNormalStyle
-                        } rounded-[16px] not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E]`}
+                      class={`w-full flex flex-row items-start px-[20px] py-[11px] h-[175px] bg-white border ${
+                        errors.obs ? inputErrorStyle : inputNormalStyle
+                      } rounded-[16px] not-italic font-normal text-[14px] leading-[20px] text-[#9B9B9E]`}
                     />
                   </div>
                 </div>
@@ -305,10 +312,8 @@ function FormRequestQuote({ stateModal, productName }: {
             <SendingSuccessfullyModal stateModal={stateModal} />
           )}
         </div>
-
       </div>
     </>
-
   );
 }
 
