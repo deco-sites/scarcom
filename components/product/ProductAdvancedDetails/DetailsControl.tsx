@@ -7,7 +7,7 @@ import { useState } from "preact/hooks";
 function DetailsControl(
   { contentDetails, page }: {
     contentDetails?: IContentDetailsProps[];
-    page: ProductDetailsPage;
+    page?: ProductDetailsPage;
   },
 ) {
   const [tab, setTab] = useState<"description" | "specification">(
@@ -17,47 +17,62 @@ function DetailsControl(
   return (
     <div>
       <div class="flex flex-row items-center justify-center gap-[40px] px-[20px] py-[12px] border-b border-[#D3DBE8] mb-[18px] lg:justify-start lg:pl-0">
-        <button
-          class={`
+        {contentDetails &&
+          (
+            <button
+              class={`
                         not-italic text-[20px] leading-[23px] uppercase relative lg:text-[24px] lg:leading-[28px]
                         ${
-            tab === "description"
-              ? "font-bold text-[#015388]"
-              : "font-normal text-[#848689]"
-          }
+                tab === "description"
+                  ? "font-bold text-[#015388]"
+                  : "font-normal text-[#848689]"
+              }
                     `}
-          onClick={() => setTab("description")}
-        >
-          Descrição{" "}
-          {(tab === "description") && (
-            <div class="w-full flex bg-[#015388] h-[5px] rounded-[13px] absolute bottom-[-15px]" />
+              onClick={() => setTab("description")}
+            >
+              Descrição{" "}
+              {(tab === "description") && (
+                <div class="w-full flex bg-[#015388] h-[5px] rounded-[13px] absolute bottom-[-15px]" />
+              )}
+            </button>
           )}
-        </button>
-        <button
-          class={`
+
+        {page &&
+          (
+            <button
+              class={`
                         not-italic text-[20px] leading-[23px] uppercase relative lg:text-[24px] lg:leading-[28px]
                         ${
-            tab === "specification"
-              ? "font-bold text-[#015388]"
-              : "font-normal text-[#848689]"
-          }
+                tab === "specification" || !contentDetails
+                  ? "font-bold text-[#015388]"
+                  : "font-normal text-[#848689]"
+              }
                     `}
-          onClick={() => setTab("specification")}
-        >
-          Especificações
-          {(tab === "specification") && (
-            <div class="w-full flex bg-[#015388] h-[5px] rounded-[13px] absolute bottom-[-15px]" />
+              onClick={() => setTab("specification")}
+            >
+              {contentDetails ? "Especificações" : "Descrição"}
+              {(tab === "specification" || !contentDetails) && (
+                <div class="w-full flex bg-[#015388] h-[5px] rounded-[13px] absolute bottom-[-15px]" />
+              )}
+            </button>
           )}
-        </button>
       </div>
-      <AdvancedDetails
-        state={tab === "description"}
-        contentDetails={contentDetails}
-      />
-      <SpecificationsTab
-        state={tab === "specification"}
-        page={page}
-      />
+
+      {contentDetails &&
+        (
+          <AdvancedDetails
+            state={tab === "description"}
+            contentDetails={contentDetails}
+          />
+        )}
+
+      {page &&
+        (
+          <SpecificationsTab
+            state={tab === "specification" || !contentDetails}
+            page={page}
+          />
+        )}
     </div>
   );
 }

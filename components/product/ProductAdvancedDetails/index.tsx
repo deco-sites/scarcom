@@ -34,39 +34,37 @@ export interface IAdvancedDetailListProps {
 export interface Props {
   /** @title Lista dos produtos */
   advancedDetailList?: IAdvancedDetailListProps[];
-  page: ProductDetailsPage | null;
+  page: ProductDetailsPage;
 }
 
 export function loader(props: Props, _req: Request, _: AppContext) {
-  const { advancedDetailList, page } = props;
-  const productId = page?.product.productID;
-  const productname = page?.product.name;
+  const { advancedDetailList } = props;
+  const productId = props.page?.product.productID;
 
-  console.log("productId", productId);
-  console.log("productname", productname);
-  
-
-  if (!productId || !advancedDetailList) {
+  if (!productId) {
     return { success: false };
   }
-  const productExistInList = advancedDetailList.filter((advancedDetail) => {
-    return advancedDetail.productId === productId;
-  });
-  if (productExistInList.length === 0) {
-    return { success: false };
+  const productExistInList = (advancedDetailList || []).filter(
+    (advancedDetail) => {
+      return advancedDetail.productId === productId;
+    },
+  );
+
+  if (productExistInList.length > 0) {
+    return {
+      success: true,
+      contentDetails: productExistInList[0].contentDetails,
+      page: props.page,
+    };
   }
+
   return {
     success: true,
-    contentDetails: productExistInList[0].contentDetails,
-    page,
+    page: props.page,
   };
 }
 
 function ProductAdvancedDetails(props: SectionProps<typeof loader>) {
-  if (
-    !props.success || !props.contentDetails || props.contentDetails.length === 0
-  ) return null;
-
   return (
     <div className="container w-full m-auto px-5 my-5 lg:my-10">
       <DetailsControl
