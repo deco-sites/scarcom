@@ -8,7 +8,7 @@ function SpecificationsTab(
   return (
     <div class={` ${state ? "flex" : "hidden"}`}>
       <div
-        class="not-italic font-semibold text-[14px] leading-[16px] text-[#848689]"
+        class="not-italic text-[14px] leading-[16px] text-[#848689]"
         dangerouslySetInnerHTML={{ __html: description ? description : "" }}
       />
     </div>

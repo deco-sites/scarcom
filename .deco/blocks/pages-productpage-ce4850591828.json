@@ -384,19 +384,22 @@
           "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/fb364f9d-e552-4d01-9137-2f9cc11e6538/wpp-icone.svg",
           "title": "Telefone/Whatsapp:",
           "contact": "(11) 3279-5555",
-          "url": "https://wa.me/551132795555"
+          "url": "https://wa.me/551132795555",
+          "target": false
         },
         {
           "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/cf1f3f68-06cf-4330-b0e2-538e46ead502/skype-icone.svg",
           "title": "Skype:",
           "contact": "scarcom-info",
-          "url": "skype:scarcom-info?call"
+          "url": "skype:scarcom-info?call",
+          "target": true
         },
         {
           "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/20f042af-e92b-4df3-a2a0-aed2fc916ecd/email-icone.svg",
           "title": "E-mail:",
           "contact": "atendimento@scarcom.com.br",
-          "url": "mailto:atendimento@scarcom.com.br"
+          "url": "mailto:atendimento@scarcom.com.br",
+          "target": true
         }
       ],
       "shortLogo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/f54678cc-74e1-4c75-9352-ce1e279e75fa/logo.svg"
