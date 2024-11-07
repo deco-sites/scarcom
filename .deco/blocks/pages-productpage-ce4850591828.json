@@ -1,6 +1,6 @@
 {
   "name": "Product Page",
-  "path": "/:slug/p",
+  "path": "/conference_cam_logitech_rally_system_ultra_hd_ptz_960-001233/p",
   "default": {
     "possiblePaths": []
   },
@@ -325,8 +325,8 @@
           "contentDetails": [
             {
               "alt": "Imagem Simples",
-              "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p><p></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p>",
-              "title": "Lorem ipsum dolor sit amet",
+              "text": "<p>Garanta que todos sejam vistos e ouvidos em todas as videochamadas com o Logitech Rally Plus. O Rally Plus define o padrão para sistemas de câmera de conferência conectados por USB em salas grandes. Ele une design e materiais de alta qualidade a um desempenho incomparável em áudio e vídeo.</p>",
+              "title": "SISTEMA MODULAR DE VIDEOCONFERÊNCIA PARA SALAS GRANDES E MUITO GRANDES ",
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
               "mediaType": "VIDEO",
               "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
