@@ -1,6 +1,6 @@
 {
   "name": "Product Page",
-  "path": "/conference_cam_logitech_rally_system_ultra_hd_ptz_960-001233/p",
+  "path": "/:slug/p",
   "default": {
     "possiblePaths": []
   },
