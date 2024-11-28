@@ -1,2 +1,10 @@
 User-agent: *
-Allow: *
+Disallow: /checkout
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Adsbot-Google
+Allow: /checkout
+Allow: /
