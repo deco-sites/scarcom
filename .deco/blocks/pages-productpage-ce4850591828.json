@@ -345,7 +345,7 @@
               "mediaType": "IMAGE"
             }
           ],
-          "productId": "153444"
+          "productId": "155114"
         },
         {
           "contentDetails": [
@@ -373,6 +373,14 @@
             }
           ],
           "productId": "154529"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "VIDEO"
+            }
+          ],
+          "productId": "155114"
         }
       ]
     },
@@ -421,5 +429,5 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "01233"
+  "name": "75"
 }
