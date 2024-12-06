@@ -24,7 +24,8 @@
       "verticalSpacing": "top",
       "label": "Newslettter",
       "withContainer": true,
-      "backgroundColor": "#F99400"
+      "backgroundColor": "#F99400",
+      "spacing": 0
     },
     {
       "section": {
@@ -172,7 +173,8 @@
       "overFlow": "overflow-none",
       "verticalSpacing": "top",
       "backgroundColor": "#F7F7F7",
-      "label": "Copyright"
+      "label": "Copyright",
+      "spacing": 0
     },
     {
       "section": {
@@ -183,7 +185,8 @@
       "shadow": "none",
       "overFlow": "overflow-none",
       "verticalSpacing": "top",
-      "label": "WhatsApp"
+      "label": "WhatsApp",
+      "spacing": 0
     }
   ]
 }
