@@ -324,11 +324,11 @@
           "contentDetails": [
             {
               "alt": "Imagem Simples",
-              "text": "<p>Garanta que todos sejam vistos e ouvidos em todas as videochamadas com o Logitech Rally Plus. O Rally Plus define o padrão para sistemas de câmera de conferência conectados por USB em salas grandes. Ele une design e materiais de alta qualidade a um desempenho incomparável em áudio e vídeo.</p>",
-              "title": "SISTEMA MODULAR DE VIDEOCONFERÊNCIA PARA SALAS GRANDES E MUITO GRANDES ",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
+              "text": "<p><span style=\"color: rgb(19, 19, 19); font-size: 14px\">O AP Wi-Fi 6 Long-Range (U6-LR) é um equipamento de alto desempenho que provê cobertura Wi-Fi 6 e suporte a quatro streams em redes corporativas. Ele entrega uma taxa agregada de até 3 Gbps em seus rádios, sendo um rádio 5 GHz (4x4 MU-MIMO e OFDMA) e um rádio 2,4 GHz (4x4 MIMO).</span></p>",
+              "title": "Acess Point AX3000 POE WI-FI 6 Gigabit Dual Band Ubiquiti U6-LR",
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3094b0da-1cb9-4f8a-9e6c-0476b9b3af23/U6-LR.jpeg",
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>&autoplay=1&mute=1&loop=1"
+              "videoHtml": "<iframe width=\"\" height=\"\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1\"></iframe>"
             },
             {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3a9d7455-3d5b-4239-b8d1-d4a7a3444610/Image-2.png",
@@ -345,7 +345,7 @@
               "mediaType": "IMAGE"
             }
           ],
-          "productId": "155114"
+          "productId": "155350"
         },
         {
           "contentDetails": [
@@ -429,5 +429,5 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "75"
+  "name": "155114"
 }
