@@ -328,7 +328,7 @@
               "title": "Acess Point AX3000 POE WI-FI 6 Gigabit Dual Band Ubiquiti U6-LR",
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?si=Jz3w0o6w0FMIGkBO\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen&autoplay=1&mute=1&loop=1 ></iframe> "
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1\"></iframe>"
             },
             {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/f3a8e8b9-aa44-4d0d-aba8-7ca9754402f0/u6.webp",
@@ -359,11 +359,10 @@
               "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3a9d7455-3d5b-4239-b8d1-d4a7a3444610/Image-2.png",
               "alt": "Texto Alternativo Exemplo",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
               "title": "Lorem ipsum dolor sit amet",
-              "mediaType": "IMAGE"
+              "mediaType": "VIDEO"
             },
             {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
@@ -373,7 +372,7 @@
               "mediaType": "IMAGE"
             }
           ],
-          "productId": "154529"
+          "productId": "155350"
         },
         {
           "contentDetails": [
