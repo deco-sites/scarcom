@@ -328,7 +328,7 @@
               "title": "Acess Point AX3000 POE WI-FI 6 Gigabit Dual Band Ubiquiti U6-LR",
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1\"></iframe>"
+              "videoHtml": "<p style=\"height: 200px; overflow: hidden;\"><iframe style=\"width: 355px; height: 200px;\" width=\"355\" height=\"200\"  src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop” title=\"YouTube video player\" frameborder=\"0\"  allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></p>"
             },
             {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
