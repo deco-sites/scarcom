@@ -331,18 +331,10 @@
               "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop=1&autoplay=1&fs=0&controls=0&modestbranding=1\"></iframe>"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/f3a8e8b9-aa44-4d0d-aba8-7ca9754402f0/u6.webp",
-              "text": "<p><span style=\"color: rgb(132, 134, 137); font-size: 14px\">Ele entrega uma taxa agregada de até 3 Gbps em seus rádios, sendo um rádio 5 GHz (4x4 MU-MIMO e OFDMA) e um rádio 2,4 GHz (4x4 MIMO).</span><br><span style=\"color: rgb(132, 134, 137); font-size: 14px\">Ele possui uma antena maior com superior padrão de irradiação para expandir a área de cobertura.</span><br><span style=\"color: rgb(132, 134, 137); font-size: 14px\">O U6-LR é resistente à água e poeira, podendo ser montado em ambientes internos (indoor) ou externos (semi-outdoor com proteção IP54), tornando possível camuflar sua instalação para ter Wi-Fi de excelente qualidade em qualquer ambiente, sem estragar a estética.</span></p>",
-              "title": "Rádio 5 GHz (4x4 MU-MIMO e OFDMA) e rádio 2,4 GHz (4x4 MIMO).",
-              "alt": "Acess Point AX3000 POE WI-FI 6 Gigabit Dual Band Ubiquiti U6-LR . 2",
-              "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/mBGxTRlglgo?si=blw7bu70K8NxCWoN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>&autoplay=1&mute=1&loop=1 "
-            },
-            {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
-              "alt": "Image Alt",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
               "title": "Lorem ipsum dolor sit amet",
+              "alt": "Image Alt",
               "mediaType": "IMAGE"
             }
           ],
