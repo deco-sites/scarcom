@@ -6,9 +6,9 @@ import Icon from "../../components/ui/Icon.tsx";
 import Header from "../../components/ui/SectionHeader.tsx";
 import Slider from "../../components/ui/Slider.tsx";
 import { useId } from "../../sdk/useId.ts";
-import { useOffer } from "../../sdk/useOffer.ts";
 // import { usePlatform } from "../../sdk/usePlatform.tsx";
 import { usePartialSection as usePartialSection } from "@deco/deco/hooks";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 /** @titleBy title */
 interface Tab {
   title: string;

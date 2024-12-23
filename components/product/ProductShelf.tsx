@@ -9,11 +9,11 @@ import Icon from "../../components/ui/Icon.tsx";
 import Header from "../../components/ui/SectionHeader.tsx";
 import Slider from "../../components/ui/Slider.tsx";
 import { SendEventOnView } from "../../components/Analytics.tsx";
-import { useOffer } from "../../sdk/useOffer.ts";
 import type { Product } from "apps/commerce/types.ts";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import { useId } from "preact/hooks";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 
 interface MarginItem {
   0: string;

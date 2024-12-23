@@ -7,7 +7,6 @@ import AddToCartButton from "../../islands/AddToCartButton.tsx";
 import WishlistIcon from "../../islands/WishlistButton.tsx";
 //   import { sendEventOnClick } from "../../sdk/analytics.tsx";
 import { formatPrice } from "../../sdk/format.ts";
-import { useOffer } from "../../sdk/useOffer.ts";
 import { useVariantPossibilities } from "../../sdk/useVariantPossiblities.ts";
 import type { Product } from "apps/commerce/types.ts";
 // import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
@@ -15,6 +14,7 @@ import Image from "apps/website/components/Image.tsx";
 import DiscountBadge, { DiscountBadgeProps } from "./DiscountBadge.tsx";
 import ProductHighlights from "../../components/product/ProductHighlights.tsx";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 
 export interface Layout {
   basics?: {
@@ -85,7 +85,7 @@ function ProductCard({
     images.find((obj) => {
       return obj.name === "over";
     });
-  const { listPrice, price, installments, seller, availability } = useOffer(
+  const { listPrice, price, installment_text, seller, availability_quantity } = useOffer(
     offers,
   );
   const possibilities = useVariantPossibilities(hasVariant, product);
@@ -150,7 +150,7 @@ function ProductCard({
       <>
         <AddToCartButton
           url={url as string}
-          availability={availability as string}
+          availability={availability_quantity as string}
           quantity={1}
           name={product.name as string}
           discount={price && listPrice ? listPrice - price : 0}
@@ -363,7 +363,7 @@ function ProductCard({
                 )
                 : (
                   <div class="text-xs font-normal text-base-content mt-[5px]">
-                    ou {installments}
+                    ou {installment_text}
                   </div>
                 )}
             </div>

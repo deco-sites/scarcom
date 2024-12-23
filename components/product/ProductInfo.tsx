@@ -12,11 +12,11 @@ import WishlistButtonVtex from "../../islands/WishlistButton/vtex.tsx";
 import WishlistButtonWake from "../../islands/WishlistButton/wake.tsx";
 import { formatPrice } from "../../sdk/format.ts";
 import { useId } from "../../sdk/useId.ts";
-import { useOffer } from "../../sdk/useOffer.ts";
 import { usePlatform } from "../../sdk/usePlatform.tsx";
 import { ProductDetailsPage } from "apps/commerce/types.ts";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import ProductSelector from "./ProductVariantSelector.tsx";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 
 interface Props {
   page: ProductDetailsPage | null;
@@ -52,8 +52,8 @@ function ProductInfo({ page, layout }: Props) {
     price = 0,
     listPrice,
     seller = "1",
-    installments,
-    availability,
+    installment_text,
+    availability_quantity,
   } = useOffer(offers);
   const productGroupID = isVariantOf?.productGroupID ?? "";
   const breadcrumb = {
@@ -99,7 +99,7 @@ function ProductInfo({ page, layout }: Props) {
             {formatPrice(price, offers?.priceCurrency)}
           </span>
         </div>
-        <span class="text-sm text-base-300">{installments}</span>
+        <span class="text-sm text-base-300">{installment_text}</span>
       </div>
       {/* Sku Selector */}
       <div class="mt-4 sm:mt-6">
@@ -107,7 +107,7 @@ function ProductInfo({ page, layout }: Props) {
       </div>
       {/* Add to Cart and Favorites button */}
       <div class="mt-4 sm:mt-10 flex flex-col gap-2">
-        {availability === "https://schema.org/InStock"
+        {availability_quantity === "https://schema.org/InStock"
           ? (
             <>
               {platform === "vtex" && (

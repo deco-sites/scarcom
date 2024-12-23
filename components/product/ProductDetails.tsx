@@ -3,7 +3,6 @@ import ShippingSimulation from "$store/islands/ShippingSimulation.tsx";
 import Breadcrumb from "$store/components/ui/Breadcrumb.tsx";
 import Image from "apps/website/components/Image.tsx";
 import OutOfStock from "$store/islands/OutOfStock.tsx";
-import { useOffer } from "$store/sdk/useOffer.ts";
 import { formatPrice } from "$store/sdk/format.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
 import { LoaderReturnType } from "deco/mod.ts";
@@ -15,6 +14,7 @@ import { HighLight } from "$store/components/product/ProductHighlights.tsx";
 import ProductSelector from "./ProductVariantSelector.tsx";
 import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
 import { type Section as Section } from "@deco/deco/blocks";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 export type Variant = "front-back" | "slider" | "auto";
 export type ShareableNetwork = "Facebook" | "Twitter" | "Email" | "WhatsApp";
 export interface LabelBuyButton {
@@ -90,7 +90,7 @@ function ProductInfo(
     url,
     additionalProperty,
   } = product;
-  const { price, listPrice, seller, installments, availability } = useOffer(
+  const { price, listPrice, seller, installment_text, availability_quantity } = useOffer(
     offers,
   );
   const referenceID =
@@ -219,7 +219,7 @@ function ProductInfo(
         </div>
       </div>
       {/* Prices */}
-      {availability === "https://schema.org/InStock" && (
+      {availability_quantity === "https://schema.org/InStock" && (
         <div class="mt-5">
           {discountPercent
             ? (
@@ -245,11 +245,11 @@ function ProductInfo(
               {formatPrice(price, offers!.priceCurrency!)}
             </span>
           </div>
-          <span>{installments}</span>
+          <span>{installment_text}</span>
         </div>
       )}
       {/* Measurement chart */}
-      {(availability === "https://schema.org/InStock" &&
+      {(availability_quantity === "https://schema.org/InStock" &&
         measurementChart) && (
         <div class="mt-4 sm:mt-5">
           <a
@@ -270,7 +270,7 @@ function ProductInfo(
       </div>
       {/* Add to Cart and Favorites button */}
       <div class="mt-4 mb-7 lg:mt-10 flex gap-[30px]">
-        {availability === "https://schema.org/InStock"
+        {availability_quantity === "https://schema.org/InStock"
           ? (
             <>
               {seller && (

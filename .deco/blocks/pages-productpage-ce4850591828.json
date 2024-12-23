@@ -183,7 +183,7 @@
                 "section": {
                   "__resolveType": "site/sections/Product/ProductDetails.tsx",
                   "page": {
-                    "__resolveType": "vtex/loaders/legacy/productDetailsPage.ts",
+                    "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
                     "slug": {
                       "__resolveType": "website/functions/requestToParam.ts",
                       "param": "slug"

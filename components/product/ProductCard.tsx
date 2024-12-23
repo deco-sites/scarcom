@@ -7,7 +7,6 @@ import AddToCartButton from "$store/islands/AddToCartButton.tsx";
 import WishlistIcon from "$store/islands/WishlistButton.tsx";
 import { SendEventOnClick } from "../../components/Analytics.tsx";
 import { formatPrice } from "$store/sdk/format.ts";
-import { useOffer } from "$store/sdk/useOffer.ts";
 import { useVariantPossibilities } from "$store/sdk/useVariantPossiblities.ts";
 import type { Product } from "apps/commerce/types.ts";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
@@ -15,6 +14,7 @@ import Image from "apps/website/components/Image.tsx";
 import DiscountBadge, { DiscountBadgeProps } from "./DiscountBadge.tsx";
 import ProductHighlights from "$store/components/product/ProductHighlights.tsx";
 import { HighLight } from "$store/components/product/ProductHighlights.tsx";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 
 export interface Layout {
   basics?: {
@@ -99,7 +99,7 @@ function ProductCard({
     });
   if (!back) back = images?.[1] ?? images?.[0];
 
-  const { listPrice, price, installments, seller, availability } = useOffer(
+  const { listPrice, price, installment_text, seller, availability_quantity } = useOffer(
     offers,
   );
 
@@ -153,7 +153,7 @@ function ProductCard({
       <>
         <AddToCartButton
           url={url as string}
-          availability={availability as string}
+          availability={availability_quantity as string}
           quantity={1}
           name={product.name as string}
           discount={price && listPrice ? listPrice - price : 0}
@@ -174,7 +174,7 @@ function ProductCard({
       <AddToCartButton
         quantity={1}
         name={product.name as string}
-        availability={availability as string}
+        availability={availability_quantity as string}
         discount={price && listPrice ? listPrice - price : 0}
         productGroupId={product.isVariantOf?.productGroupID ?? ""}
         price={price as number}
@@ -400,10 +400,10 @@ function ProductCard({
                 )
                 : (
                   <>
-                    {installments
+                    {installment_text
                       ? (
                         <div class="text-xs font-normal text-base-content mt-[5px]">
-                          em até {installments}
+                          em até {installment_text}
                         </div>
                       )
                       : null}
