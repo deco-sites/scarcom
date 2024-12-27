@@ -85,9 +85,10 @@ function ProductCard({
     images.find((obj) => {
       return obj.name === "over";
     });
-  const { listPrice, price, installment_text, seller, availability_quantity } = useOffer(
-    offers,
-  );
+  const { listPrice, price, installment_text, seller, availability_quantity } =
+    useOffer(
+      offers,
+    );
   const possibilities = useVariantPossibilities(hasVariant, product);
   const variants = Object.entries(Object.values(possibilities)[0] ?? {});
   // const clickEvent = {

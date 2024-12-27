@@ -90,9 +90,10 @@ function ProductInfo(
     url,
     additionalProperty,
   } = product;
-  const { price, listPrice, seller, installment_text, availability_quantity } = useOffer(
-    offers,
-  );
+  const { price, listPrice, seller, installment_text, availability_quantity } =
+    useOffer(
+      offers,
+    );
   const referenceID =
     additionalProperty?.find(({ valueReference }) =>
       valueReference == "ReferenceID"
