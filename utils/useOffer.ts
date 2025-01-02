@@ -28,7 +28,8 @@ const bestInstallment = (
 const installmentToString = (
   installment: UnitPriceSpecification,
   sellingPrice: number,
-  priceCurrency?: string) => {
+  priceCurrency?: string,
+) => {
   const { billingDuration, billingIncrement, price } = installment;
 
   if (!billingDuration || !billingIncrement) {
@@ -89,7 +90,9 @@ export const useOffer = (aggregateOffer?: AggregateOffer) => {
     has_discount: (listPrice?.price || price) > price,
     availability,
     seller,
-    installment_text: installment && price ? installmentToString(installment, price, priceCurrency) : null,
+    installment_text: installment && price
+      ? installmentToString(installment, price, priceCurrency)
+      : null,
     installment: installment || null,
     listSellerPriceDiscountPercent,
     availability_quantity,

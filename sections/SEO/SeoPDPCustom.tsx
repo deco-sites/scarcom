@@ -1,4 +1,4 @@
-import SeoPDP from "apps/commerce/sections/Seo/SeoPDPV2.tsx";
+import Seo from "apps/website/components/Seo.tsx";
 import { ProductDetailsPage } from "apps/commerce/types.ts";
 import { canonicalFromBreadcrumblist } from "apps/commerce/utils/canonical.ts";
 import { AppContext } from "apps/commerce/mod.ts";
@@ -16,6 +16,11 @@ export interface Props {
   title?: string;
   /** @title Description Override */
   description?: string;
+  /**
+   * @title Disable indexing
+   * @description In testing, you can use this to prevent search engines from indexing your site
+   */
+  noIndexing?: boolean;
 }
 
 export function loader(props: Props, _req: Request, ctx: AppContext) {
@@ -34,12 +39,12 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
 
   const title = renderTemplateString(
     titleTemplate,
-    titleProp || jsonLD?.seo?.title || "",
+    titleProp || jsonLD?.seo?.title || ctx.seo?.title || "",
   );
 
   const description = renderTemplateString(
     descriptionTemplate,
-    descriptionProp || jsonLD?.seo?.description || "",
+    descriptionProp || jsonLD?.seo?.description || ctx.seo?.description || "",
   );
 
   const image = jsonLD?.product.image?.[0]?.url;
@@ -49,7 +54,7 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
     : jsonLD?.breadcrumbList
     ? canonicalFromBreadcrumblist(jsonLD?.breadcrumbList)
     : undefined;
-  const noIndexing = !jsonLD;
+    const noIndexing = props.noIndexing || !jsonLD || jsonLD.seo?.noIndexing;
 
   if (omitVariants && jsonLD?.product.isVariantOf?.hasVariant) {
     jsonLD.product.isVariantOf.hasVariant = [];
@@ -98,7 +103,18 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
 }
 
 function Section(props: Props): SEOSection {
-  return <SeoPDP {...props} />;
+  // deno-lint-ignore ban-ts-comment
+  // @ts-ignore
+  console.log("NO INDEX", props.noIndexing)
+  return <>
+  <p>Oi retornou 8... {props.noIndexing}</p>
+  <script>
+    console.log("Oi")
+  </script>
+  <Seo {...props} />
+  </>;
 }
+
+export { default as Preview } from "apps/website/components/_seo/Preview.tsx";
 
 export default Section;

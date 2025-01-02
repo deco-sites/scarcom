@@ -5,14 +5,15 @@
   },
   "sections": [
     {
-      "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
+      "__resolveType": "site/sections/SEO/SeoPDPCustom.tsx",
       "jsonLD": {
         "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
         "slug": {
           "__resolveType": "website/functions/requestToParam.ts",
           "param": "slug"
         }
-      }
+      },
+      "omitVariants": true
     },
     {
       "__resolveType": "Header Global"
@@ -29,7 +30,7 @@
                 "section": {
                   "__resolveType": "site/sections/Product/ProductDetails.tsx",
                   "page": {
-                    "__resolveType": "vtex/loaders/legacy/productDetailsPage.ts",
+                    "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
                     "slug": {
                       "__resolveType": "website/functions/requestToParam.ts",
                       "param": "slug"
@@ -49,169 +50,11 @@
                   },
                   "shareableNetworks": [
                     "Facebook",
-                    "Email"
-                  ],
-                  "productBenefits": [
-                    {
-                      "label": "<p>Acumule pontos usando o cupom: <strong>LIVELO</strong></p>",
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/e9398105-08e5-4c16-ade5-8d6ab5ddfb7a",
-                      "name": "livelo"
-                    },
-                    {
-                      "name": "10% de desconto",
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1bea79af-265e-4dfe-b7cd-673c965e313d",
-                      "label": "<p><strong>10% de desconto&nbsp; </strong>na sua primeira compra</p>"
-                    },
-                    {
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/f82cdbd7-dfef-420e-8898-30581be1c567",
-                      "name": "Frete grátis acima de R$ 450",
-                      "label": "<p><strong>Frete grátis&nbsp;</strong>acima de R$ 450</p>"
-                    },
-                    {
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1db406cb-ab3f-4bcc-8f34-22709bbac4c1",
-                      "name": "5% de desconto pagando com PIX",
-                      "label": "<p><strong>5% de desconto</strong> pagando com <strong>PIX</strong></p>"
-                    }
-                  ],
-                  "notFoundSection": {
-                    "__resolveType": "site/sections/Product/ProductNotFound.tsx",
-                    "shelf": {
-                      "products": {
-                        "__resolveType": "vtex/loaders/legacy/productList.ts",
-                        "props": {
-                          "sort": "OrderByPriceDESC"
-                        }
-                      },
-                      "highlights": [],
-                      "layout": {
-                        "headerAlignment": "center",
-                        "headerfontSize": "Normal",
-                        "itemsPerPage": [
-                          {
-                            "screenWidth": 425,
-                            "itemsQuantity": 2
-                          },
-                          {
-                            "screenWidth": 786,
-                            "itemsQuantity": 3
-                          },
-                          {
-                            "screenWidth": 1170,
-                            "itemsQuantity": 4
-                          },
-                          {
-                            "screenWidth": 1440,
-                            "itemsQuantity": 4
-                          }
-                        ]
-                      },
-                      "showPaginationArrows": "Always",
-                      "showPaginationDots": "Always",
-                      "cardLayout": {
-                        "basics": {
-                          "contentAlignment": "Center",
-                          "oldPriceSize": "Small",
-                          "ctaVariation": "primary",
-                          "ctaMode": "Add to Cart",
-                          "ctaText": "Adicionar ao carrinho",
-                          "mobileCtaText": "Adicionar ao carrinho"
-                        },
-                        "discount": {
-                          "variant": "emphasis",
-                          "alignHorizontal": "end",
-                          "label": " "
-                        },
-                        "elementsPositions": {
-                          "skuSelector": "Top",
-                          "favoriteIcon": "Top right"
-                        },
-                        "hide": {
-                          "productDescription": true,
-                          "skuSelector": true
-                        },
-                        "onMouseOver": {
-                          "image": "Change image",
-                          "showCta": true
-                        }
-                      },
-                      "seeMore": {
-                        "url": " ",
-                        "label": " "
-                      },
-                      "title": "Sugestões para você"
-                    },
-                    "title": "404",
-                    "subTitle": "Página não encontrada",
-                    "description": "<p><br data-mce-bogus=\"1\"></p>",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c2ae8f96-74d9-4d4b-8e42-02939499160d"
-                  },
-                  "discountPercent": 10,
-                  "elements": [
-                    {
-                      "text": "Atendimento personalizado",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9231f1c5-ac5a-4d97-842d-52d79d29d8ce/fon-icone.svg"
-                    },
-                    {
-                      "text": "faturamento e prazo para empresas",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/73a1b103-2259-44a8-afd4-a07113b3298e/file-icone.svg"
-                    },
-                    {
-                      "text": "Desde 2009 levando solução para nossos clientes",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/8aed5f50-c0f6-478c-8c1e-711ddb14d689/idea-icone.svg"
-                    }
-                  ]
-                },
-                "shadow": "none",
-                "overFlow": "overflow-none",
-                "verticalSpacing": "top",
-                "label": "ProductDetails",
-                "withContainer": true
-              }
-            ]
-          },
-          "rule": {
-            "__resolveType": "website/matchers/random.ts",
-            "traffic": 0.5
-          }
-        },
-        {
-          "value": {
-            "__resolveType": "site/sections/Container.tsx",
-            "label": "\"Container\"",
-            "sections": [
-              {
-                "section": {
-                  "__resolveType": "site/sections/Product/ProductDetails.tsx",
-                  "page": {
-                    "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
-                    "slug": {
-                      "__resolveType": "website/functions/requestToParam.ts",
-                      "param": "slug"
-                    }
-                  },
-                  "discount": {
-                    "variant": "emphasis",
-                    "alignHorizontal": "end",
-                    "columnStart": 2,
-                    "label": " "
-                  },
-                  "highlights": [],
-                  "variant": "slider",
-                  "shipmentPolitics": {
-                    "label": "Confira nossa política de frete e entregas",
-                    "link": "/institucional/formas-de-entrega "
-                  },
-                  "shareableNetworks": [
-                    "Facebook",
                     "Email",
                     "WhatsApp"
                   ],
                   "notFoundSection": {
                     "__resolveType": "site/sections/Product/ProductNotFound.tsx",
-                    "title": "404",
-                    "subTitle": "Página não encontrada",
-                    "description": "<p>A página que você esta procurando não<br>existe ou não esta mais disponível em<br>nosso site.</p>",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca",
                     "shelf": {
                       "products": {
                         "__resolveType": "vtex/loaders/legacy/productList.ts",
@@ -271,7 +114,11 @@
                         "label": "/"
                       },
                       "title": "Sugestões para você"
-                    }
+                    },
+                    "title": "404",
+                    "subTitle": "Página não encontrada",
+                    "description": "<p>A página que você esta procurando não<br>existe ou não esta mais disponível em<br>nosso site.</p>",
+                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca"
                   },
                   "discountPercent": 10
                 },
@@ -412,18 +259,19 @@
     },
     {
       "__resolveType": "Footer Global"
-    },
-    {
-      "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
-      "jsonLD": {
-        "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
-        "slug": {
-          "__resolveType": "website/functions/requestToParam.ts",
-          "param": "slug"
-        }
-      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "155114"
+  "name": "155114",
+  "seo": {
+    "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
+    "jsonLD": {
+      "__resolveType": "vtex/loaders/intelligentSearch/productDetailsPage.ts",
+      "slug": {
+        "__resolveType": "website/functions/requestToParam.ts",
+        "param": "slug"
+      }
+    },
+    "omitVariants": true
+  }
 }
