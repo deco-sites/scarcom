@@ -54,7 +54,7 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
     : jsonLD?.breadcrumbList
     ? canonicalFromBreadcrumblist(jsonLD?.breadcrumbList)
     : undefined;
-    const noIndexing = props.noIndexing || !jsonLD || jsonLD.seo?.noIndexing;
+  const noIndexing = props.noIndexing || !jsonLD || jsonLD.seo?.noIndexing;
 
   if (omitVariants && jsonLD?.product.isVariantOf?.hasVariant) {
     jsonLD.product.isVariantOf.hasVariant = [];
@@ -103,16 +103,7 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
 }
 
 function Section(props: Props): SEOSection {
-  // deno-lint-ignore ban-ts-comment
-  // @ts-ignore
-  console.log("NO INDEX", props.noIndexing)
-  return <>
-  <p>Oi retornou 8... {props.noIndexing}</p>
-  <script>
-    console.log("Oi")
-  </script>
-  <Seo {...props} />
-  </>;
+  return <Seo {...props} />;
 }
 
 export { default as Preview } from "apps/website/components/_seo/Preview.tsx";
