@@ -1,10 +1,10 @@
 import Image from "apps/website/components/Image.tsx";
 import Slider from "../../components/ui/Slider.tsx";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
-import { useOffer } from "../../sdk/useOffer.ts";
 import DiscountBadge, { DiscountBadgeProps } from "./DiscountBadge.tsx";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
 import ProductHighlights from "../../components/product/ProductHighlights.tsx";
+import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
 
 const WIDTH = 500;
 const HEIGHT = 500;
