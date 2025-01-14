@@ -106,6 +106,4 @@ function Section(props: Props): SEOSection {
   return <Seo {...props} />;
 }
 
-export { default as Preview } from "apps/website/components/_seo/Preview.tsx";
-
 export default Section;
