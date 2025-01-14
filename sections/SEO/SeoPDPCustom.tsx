@@ -76,8 +76,7 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
 
   if (jsonLD?.product.offers?.offers) {
     if (
-      jsonLD.product.offers.offers[0].priceSpecification[0].priceType ===
-        "https://schema.org/ListPrice"
+      jsonLD.product.offers.offers[0].priceSpecification[0].priceType === "https://schema.org/ListPrice"
     ) {
       jsonLD.product.offers.offers[0].priceSpecification[0].price = listPrice;
     }
