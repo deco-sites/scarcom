@@ -1,5 +1,5 @@
 import Icon from "../../components/ui/Icon.tsx";
-import Searchbar from "../../components/search/Searchbar.tsx";
+import Searchbar from "../../islands/Searchbar.tsx";
 import ProductShelf, {
   Props as ProductShelfProps,
 } from "../../components/product/ProductShelf.tsx";
