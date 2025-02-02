@@ -215,9 +215,15 @@
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "https://youtu.be/Q36umi7m7yQ",
-              "text": "<p style=\"text-align: start\">A Rally Camera incorpora lentes e sensor de 4K de alto nível da Logitech e um excelente design apropriado para qualquer ambiente profissional. Com um elegante acabamento em preto fosco e metal cinza-ardósia, a Rally Camera pode ser colocada sobre mesas, tripés ou fixada à uma parede (equipamento incluído). Em instalações suspensas, a câmera detecta quando está invertida e corrige automaticamente o sentido da imagem e os controles da câmera.</p>",
-              "title": "DESIGN ELEGANTE INDUSTRIAL"
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q36umi7m7yQ?si=-7xk4WzDDC3shPO-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p style=\"text-align: start\">O controle de câmera Logitech RightSightTM move a lente automaticamente e ajusta as lentes para enquadrar confortavelmente os participantes da reunião em salas de qualquer formato ou tamanho.</p><p style=\"text-align: start\"><em><br>Disponível para Windows® 10e macOS</em><br></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sync.logitech.com/hub/collabosguides/post/rightsight-and-rightsound-t3Qfm6iJtUl3NXy\"><strong>OBTENHA O RIGHTSIGHT</strong></a> </p>",
+              "title": "VEJA TODO MUNDO COM ENQUADRAMENTO PERFEITO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/e84bab13-c06c-4f03-87b0-1d48e52c913a/rally-feature-5.webp",
+              "text": "<p style=\"text-align: start\">Quando a câmera Rally não está em uso, a lente fica, por padrão, parada apontando para baixo. Isso permite determinar visualmente que a câmera não pode “ver” nada na sala de reunião quando está inativa. A lente levanta e se coloca na posição predefinida quando participa da reunião e para automaticamente quando a reunião termina. Além disso, sempre que o vídeo estiver no modo silencioso durante uma reunião, uma luz de status vermelha se acederá para confirmar a privacidade visual.</p>",
+              "title": "GARANTIA DE PRIVACIDADE"
             }
           ],
           "productId": "155114"
@@ -247,18 +253,6 @@
             }
           ],
           "productId": "155350"
-        },
-        {
-          "contentDetails": [
-            {
-              "mediaType": "VIDEO",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7bbdbe4a-25ee-4057-b81d-3bc0b59e54b5/videoframe_18400.png",
-              "alt": "Tutorial de instalação",
-              "title": "Tutorial de instalação",
-              "text": "<table style=\"width: 0px\"><colgroup></colgroup><tbody><tr><th colspan=\"100%\" rowspan=\"1\"><p>Mecânica</p></th></tr><tr><td colspan=\"0\" rowspan=\"1\"><p><strong>Dimensões</strong></p></td><td colspan=\"0\" rowspan=\"1\"><p>Ø220 x 48 mm (Ø8.7 x 1.9\")</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"0\" rowspan=\"1\"><p><strong>Peso</strong></p></td><td colspan=\"0\" rowspan=\"1\"><p>Sem suporte: 800 g (1.8 lb)<br>Com suporte: 930 g (2.1 lb)</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"0\" rowspan=\"1\"><p><strong>Material do invólucro</strong></p></td><td colspan=\"0\" rowspan=\"1\"><p>Policarbonato</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"0\" rowspan=\"1\"><p><strong>Material do suporte</strong></p></td><td colspan=\"0\" rowspan=\"1\"><p>Aço inoxidável (SUS304)</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"0\" rowspan=\"1\"><p><strong>Proteção contra intempéries</strong></p></td><td colspan=\"0\" rowspan=\"1\"><p>IP54</p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>"
-            }
-          ],
-          "productId": "155114"
         }
       ]
     },
