@@ -215,7 +215,7 @@
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q36umi7m7yQ?si=-7xk4WzDDC3shPO-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q36umi7m7yQ?si=-7xk4WzDDC3shPO-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>&autoplay=1&mute=1&loop=1",
               "text": "<p style=\"text-align: start\">O controle de câmera Logitech RightSightTM move a lente automaticamente e ajusta as lentes para enquadrar confortavelmente os participantes da reunião em salas de qualquer formato ou tamanho.</p><p style=\"text-align: start\"><em><br>Disponível para Windows® 10e macOS</em><br></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sync.logitech.com/hub/collabosguides/post/rightsight-and-rightsound-t3Qfm6iJtUl3NXy\"><strong>OBTENHA O RIGHTSIGHT</strong></a> </p>",
               "title": "VEJA TODO MUNDO COM ENQUADRAMENTO PERFEITO"
             },
