@@ -164,6 +164,36 @@
         "slug": {
           "__resolveType": "website/functions/requestToParam.ts",
           "param": "slug"
+        },
+        "seo": null,
+        "product": {
+          "video": null,
+          "image": null,
+          "isAccessoryOrSparePartFor": null,
+          "offers": {
+            "hasMerchantReturnPolicy": {
+              "video": null,
+              "image": null,
+              "returnShippingFeesAmount": {
+                "video": null,
+                "image": null
+              }
+            }
+          },
+          "isVariantOf": {
+            "video": null,
+            "image": null
+          },
+          "isSimilarTo": null,
+          "isRelatedTo": null,
+          "brand": {
+            "video": null,
+            "image": null
+          }
+        },
+        "breadcrumbList": {
+          "video": null,
+          "image": null
         }
       },
       "advancedDetailList": [
@@ -194,7 +224,7 @@
               "alt": "Texto Simples Exemplo",
               "title": "Lorem ipsum dolor sit amet",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
-              "mediaType": "VIDEO",
+              "mediaType": "IMAGE",
               "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
@@ -204,7 +234,7 @@
               "mediaType": "VIDEO"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9ed3616b-18ff-4cdf-8fbc-bd5ea69cbe69/rally-plus-overview.webp",
               "alt": "Texto Alternativo Exemplo",
               "title": "Lorem ipsum dolor sit amet",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
