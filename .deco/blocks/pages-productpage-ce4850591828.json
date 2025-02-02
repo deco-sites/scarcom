@@ -228,6 +228,36 @@
             }
           ],
           "productId": "155114"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
+              "text": "<p>O Access Point PoE Wi-Fi 6 Unifi U6-LR da Ubiquiti é um dispositivo de alto desempenho projetado para oferecer uma conectividade Wi-Fi excepcional em ambientes internos.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bb46eeea-78c0-49bb-a39f-072ea2117e74/Captura-de-Tela-2025-02-02-as-20.37.38.png",
+              "text": "<p>Com sua tecnologia, ele suporta o padrão Wi-Fi 6 em 5 GHz (4x4) e o padrão Wi-Fi 4 em 2.4 GHz (4x4), permitindo uma experiência de rede rápida e confiável. </p><p><br>Com um throughput agregado de 3 Gbps, o Access Point U6-LR proporciona uma conexão estável e de alta velocidade para atender às demandas de redes domésticas ou empresariais.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d162aca1-6f09-428d-b4d3-e34d3acacd68/Captura-de-Tela-2025-02-02-as-20.41.09.png",
+              "text": "<p>Sua antena com irradiação horizontal de maior cobertura amplia o alcance do sinal, garantindo uma cobertura abrangente em toda a área.   <br><br>O dispositivo possui uma porta RJ-45 GbE (PoE In), permitindo alimentação por meio de Power over Ethernet Plus (PoE+). Portanto, ele deve ser alimentado por um switch PoE+ no padrão 802.3at ou por um injetor* PoE de 48V/0.5A.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/aa6f1b74-9b4b-41f2-822c-573df3ab3a22/Captura-de-Tela-2025-02-02-as-20.43.55.png",
+              "text": "<p>O Access Point U6-LR é gerenciado pela aplicação UniFi Network, versão 6.0.34 ou superior. Com a interface intuitiva da UniFi Network, os usuários podem facilmente configurar, monitorar e controlar várias unidades do Access Point em uma rede unificada. Isso permite um gerenciamento eficiente e simplificado, garantindo o melhor desempenho e segurança da rede.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b30d043b-5615-4fd0-af24-832f4dd9659c/Captura-de-Tela-2025-02-02-as-20.48.42.png",
+              "text": "<p>Em resumo, o Access Point PoE Wi-Fi 6 Unifi U6-LR da Ubiquiti é uma solução avançada e confiável para redes Wi-Fi, oferecendo alto desempenho, alcance estendido, alimentação por PoE+ e gerenciamento fácil através da aplicação UniFi Network.   </p><p><br>É ideal para residências, escritórios e ambientes empresariais que exigem conectividade de rede de alta qualidade.     </p><p><br>(*) ATENÇÃO: Esse produto não acompanha o injetor PoE.</p>"
+            }
+          ],
+          "productId": "155350"
         }
       ]
     },
@@ -266,7 +296,7 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "155114",
+  "name": "155350",
   "seo": {
     "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
     "jsonLD": {
