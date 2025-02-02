@@ -201,21 +201,26 @@
           "contentDetails": [
             {
               "alt": "Imagem Simples",
-              "text": "<p><strong><span style=\"color: rgb(19, 19, 19); font-size: 14px\">O AP Wi-Fi 6 Long-Range (U6-LR)</span></strong><span style=\"color: rgb(19, 19, 19); font-size: 14px\"> é um equipamento de alto desempenho que provê cobertura Wi-Fi 6 e suporte a quatro streams em redes corporativas. Ele entrega uma taxa agregada de até 3 Gbps em seus rádios, sendo um rádio 5 GHz (4x4 MU-MIMO e OFDMA) e um rádio 2,4 GHz (4x4 MIMO).</span></p>",
-              "title": "Acess Point AX3000 POE WI-FI 6 Gigabit Dual Band Ubiquiti U6-LR",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
-              "mediaType": "VIDEO",
-              "videoHtml": "<p style=\"height: 200px; overflow: hidden;\"><iframe style=\"width: 355px; height: 200px;\" width=\"355\" height=\"200\"  src=\"https://www.youtube.com/embed/mBGxTRlglgo?loop” title=\"YouTube video player\" frameborder=\"0\"  allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></p>"
+              "text": "<p style=\"text-align: start\">Com o sistema de imagens Ultra HD, a Rally Camera oferece vídeos incrivelmente nítidos, cores excepcionais e precisão ótica excepcional em resoluções de até 4K. A tecnologia Logitech RightLightTM otimiza o equilíbrio de luz para priorizar a aparência dos rostos e renderizar a aparência natural dos tons de pele, mesmo em condições de pouca luz ou de contraluz.</p>",
+              "title": "VÍDEO COM QUALIDADE DE ESTÚDIO",
+              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9ed3616b-18ff-4cdf-8fbc-bd5ea69cbe69/rally-plus-overview.webp",
+              "mediaType": "IMAGE"
             },
             {
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
-              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
-              "title": "Lorem ipsum dolor sit amet",
+              "text": "<p style=\"text-align: start\">A Rally Camera incorpora lentes e sensor de 4K de alto nível da Logitech e um excelente design apropriado para qualquer ambiente profissional. Com um elegante acabamento em preto fosco e metal cinza-ardósia, a Rally Camera pode ser colocada sobre mesas, tripés ou fixada à uma parede (equipamento incluído). Em instalações suspensas, a câmera detecta quando está invertida e corrige automaticamente o sentido da imagem e os controles da câmera.</p>",
+              "title": "DESIGN ELEGANTE INDUSTRIAL",
               "alt": "Image Alt",
               "mediaType": "IMAGE"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "https://youtu.be/Q36umi7m7yQ",
+              "text": "<p style=\"text-align: start\">A Rally Camera incorpora lentes e sensor de 4K de alto nível da Logitech e um excelente design apropriado para qualquer ambiente profissional. Com um elegante acabamento em preto fosco e metal cinza-ardósia, a Rally Camera pode ser colocada sobre mesas, tripés ou fixada à uma parede (equipamento incluído). Em instalações suspensas, a câmera detecta quando está invertida e corrige automaticamente o sentido da imagem e os controles da câmera.</p>",
+              "title": "DESIGN ELEGANTE INDUSTRIAL"
             }
           ],
-          "productId": "155350"
+          "productId": "155114"
         },
         {
           "contentDetails": [
