@@ -227,32 +227,6 @@
             }
           ],
           "productId": "155114"
-        },
-        {
-          "contentDetails": [
-            {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
-              "alt": "Texto Simples Exemplo",
-              "title": "Lorem ipsum dolor sit amet",
-              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
-              "mediaType": "IMAGE",
-              "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
-            },
-            {
-              "alt": "Texto Alternativo Exemplo",
-              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
-              "title": "Lorem ipsum dolor sit amet",
-              "mediaType": "VIDEO"
-            },
-            {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9ed3616b-18ff-4cdf-8fbc-bd5ea69cbe69/rally-plus-overview.webp",
-              "alt": "Texto Alternativo Exemplo",
-              "title": "Lorem ipsum dolor sit amet",
-              "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
-              "mediaType": "IMAGE"
-            }
-          ],
-          "productId": "155350"
         }
       ]
     },
