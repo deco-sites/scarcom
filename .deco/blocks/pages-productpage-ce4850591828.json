@@ -236,8 +236,8 @@
               "mediaType": "VIDEO",
               "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
               "text": "<p>O Access Point PoE Wi-Fi 6 Unifi U6-LR da Ubiquiti é um dispositivo de alto desempenho projetado para oferecer uma conectividade Wi-Fi excepcional em ambientes internos.</p>",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cTdyN3-MUm0?si=oDtr0W12mybNwG_C\" title=\"YouTube video player\" frameborder=\"0\"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "Ubiquiti U6-LR n wi-fi excepcional"
+              "alt": "Ubiquiti U6-LR n wi-fi excepcional",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ Q36umi7m7yQ?si=oDtr0W12mybNwG_C\" title=\"YouTube video player\" frameborder=\"0\"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "IMAGE",
