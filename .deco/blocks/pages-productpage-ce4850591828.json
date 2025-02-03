@@ -303,6 +303,13 @@
               "alt": "video conferencia Logitech encontre o produto adequado",
               "title": "ENCONTRE PRODUTOS ADEQUADOS A VOCÊ ",
               "text": "<p><strong>BCC950  </strong><br>Câmera Web, viva-voz e controle remoto para grupos de 1 a 4 pessoas</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/762d3e96-50db-4a4d-afdc-746a1b377b5d/Captura-de-Tela-2025-02-03-as-14.59.03.png",
+              "alt": "Manual recursos datasheet ficha técnica ConferenceCam BCC950",
+              "title": "Explore mais a BCC950",
+              "text": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.logitech.com/content/dam/logitech/pt_br/video-collaboration/pdf/bcc950datasheet.pdf\"><strong><u>Ficha técnica - BCC950</u></strong></a></p>"
             }
           ],
           "productId": "677"
@@ -344,7 +351,7 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "155350",
+  "name": "677",
   "seo": {
     "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
     "jsonLD": {
