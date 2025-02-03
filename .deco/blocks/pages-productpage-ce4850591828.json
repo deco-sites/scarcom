@@ -313,6 +313,39 @@
             }
           ],
           "productId": "677"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bf9ca839-2224-4b10-a028-faae0dcf7bc2/Captura-de-Tela-2025-02-03-as-15.23.15.png",
+              "alt": "Connect Logitech ConferenceCam portátil com viva-boz Bluetooth para salas de reunião, escritório doméstico e em viagens",
+              "text": "<p>ConferenceCam portátil com viva-voz Bluetooth para sala de reuniões, escritório doméstico e em viagens.</p>",
+              "title": "CONNECT"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/f18fb7a1-f7cf-4c7e-933b-4177894dd336/Captura-de-Tela-2025-02-03-as-15.28.44.png",
+              "text": "<p>Simplifique as videoconferências para que todos possam configurar e executar uma reunião em qualquer lugar. Acessível, para que você possa equipar todas as salas de reuniões com vídeo. Projetada para salas de reunião pequenas e escritórios em casa, a Logitech Connect é também compacta e móvel, para que você possa carregá-la pelo ambiente de trabalho e ao redor do mundo. A Connect está sempre pronta para sua próxima chamada de videoconferência.</p>",
+              "alt": "videoconferência connect projetada para salas de reunião pequenas e escritórios em casa",
+              "title": "VÍDEO FLEXÍVEL ONDE QUER QUE VOCÊ TRABALHE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/77bdc9e4-36aa-4525-8e3c-5b7458e9cde1/Captura-de-Tela-2025-02-03-as-15.33.43.png",
+              "alt": "Logitech Connect fácil configuração",
+              "text": "<p> A Logitech Connect vai além de seu design premiado — videoconferência tão simples de usar que qualquer pessoa pode configurá-la e tão econômica que você pode usar vídeo em todas as salas de reunião. Projetado para uso em mesa e espaços pequenos, esta solução de videoconferência oferece um campo de visão de 90° com pan e tilt, zoom de 4x e ótica precisa facilitando a visualização de todas as pessoas na sala.</p>",
+              "title": "PERFEITO PARA ESPAÇOS PEQUENOS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/7add018d-e66b-43a0-85d8-4e15f5712a33/camara-video-conferencia-connect-logitech-bluetooth-vi-voz211-48447dc229adc7983c16082978577514-1024-1024.webp",
+              "text": "<p>Leve a videoconferência com você. Leve a Connect para todas as reuniões ou embale-a durante as viagens, assim você nunca perde a oportunidade de se encontrar “cara a cara”. Ocupando um tamanho de apenas 75 mm na mesa, a Connect cabe praticamente em qualquer lugar. Até mesmo o controle portátil foi criado para facilitar a portabilidade, encaixando como uma capa de lente para que não se perca na mala.</p>",
+              "alt": "videoconferência connect pequena portátil apenas 75mm",
+              "title": "DESIGN COMPACTO E COMPLETO"
+            }
+          ],
+          "productId": "5781"
         }
       ]
     },
@@ -351,7 +384,6 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "677",
   "seo": {
     "__resolveType": "commerce/sections/Seo/SeoPDPV2.tsx",
     "jsonLD": {
@@ -362,5 +394,6 @@
       }
     },
     "omitVariants": true
-  }
+  },
+  "name": "5781"
 }
