@@ -215,8 +215,8 @@
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q36umi7m7yQ?si=-7xk4WzDDC3shPO-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>&autoplay=1&mute=1&loop=1",
-              "text": "<p style=\"text-align: start\">O controle de câmera Logitech RightSightTM move a lente automaticamente e ajusta as lentes para enquadrar confortavelmente os participantes da reunião em salas de qualquer formato ou tamanho.</p><p style=\"text-align: start\"><em><br>Disponível para Windows® 10e macOS</em><br></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sync.logitech.com/hub/collabosguides/post/rightsight-and-rightsound-t3Qfm6iJtUl3NXy\"><strong>OBTENHA O RIGHTSIGHT</strong></a> </p>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q36umi7m7yQ?&autoplay=1&loop&mute=1=1si=-7xk4WzDDC3shPO-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p style=\"text-align: start\">O controle de câmera Logitech RightSightTM move a lente automaticamente e ajusta as lentes para enquadrar confortavelmente os participantes da reunião em salas de qualquer formato ou tamanho.</p><p style=\"text-align: start\"><em><br>Disponível para Windows® 10e macOS</em><br></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sync.logitech.com/hub/collabosguides/post/rightsight-and-rightsound-t3Qfm6iJtUl3NXy\"><strong><u>OBTENHA O RIGHTSIGHT</u></strong></a></p>",
               "title": "VEJA TODO MUNDO COM ENQUADRAMENTO PERFEITO",
               "banner": "https://data.decoassets.com/scarcom/00f5f2c7-8e34-4057-a23a-731db1f63e29/Imagem-02-02-2025-as-20.04.jpeg"
             },
@@ -259,6 +259,53 @@
             }
           ],
           "productId": "155350"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9ab36b57-7b25-47e6-9cba-e063b952d64f/Captura-de-Tela-2025-02-03-as-14.13.21.png",
+              "alt": "BCC950 vídeo conferência ",
+              "title": "BCC950",
+              "text": "<p>A solução de videoconferência para desktops em escritórios privados, domésticos e para a maioria dos espaços semiprivados</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/734707dd-8442-4627-b863-9c3b6e48e152/Captura-de-Tela-2025-02-03-as-14.18.12.png",
+              "alt": "A BCC950 oferece áudio em banda larga",
+              "text": "<p>Basta conectar e usar. A BCC950 oferece áudio em banda larga a partir de um viva-voz full duplex e vídeo HD com uma câmera motorizada. Em outras palavras, é tudo que você precisa para realizar rapidamente uma pequena videoconferência com até 4 pessoas em uma sala.<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.logitech.com/content/dam/logitech/en/video-collaboration/pdf/logitech-fov-diagram-web.pdf\"><strong><u>LAYOUTS DE SALA RECOMENDADOS</u></strong></a></p>",
+              "title": "DESIGN MULTIFUNCIONAL"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/43bea14c-7f9d-46ab-a843-49b1f140805c/Captura-de-Tela-2025-02-03-as-14.22.49.png",
+              "text": "<p>Com um tamanho compacto e câmera motorizada posicionada no nível dos olhos, a BCC950 foi projetada para pequenos grupos. O caixa de som omnidirecional e o microfone com cancelamento de ruído permitem que todos os participantes da reunião possam ouvir e ser ouvidos com clareza a até 2,4 m de distância. A BCC950 foi projetada para uso em escritórios privados, escritórios domésticos ou praticamente qualquer espaço semiprivado.</p>",
+              "alt": "BCC950 para pequenos grupos",
+              "title": "PERFEITO PARA EQUIPES PRODUTIVAS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/6b229006-a6d8-4828-a08e-b98ec79f669a/Captura-de-Tela-2025-02-03-as-14.24.47.png",
+              "alt": "BCC950 Videoconferencia compatível com a maioria dos aplicativos",
+              "text": "<p>A BCC950 oferece uma conexão USB plug-and-play para computadores Windows® e Mac e compatível com a maioria dos aplicativos de videoconferência, incluindo Skype® for Business, Zoom®, BlueJeans, Broadsoft, Cisco Jabber™, Fuze, LifeSize Cloud e Vidyo.<br><br> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.logitech.com/pt-br/business/partners/collaboration-program.html\"><strong><u>PROGRAMA DE COLABORAÇÃO DA LOGITECH</u></strong></a></p>",
+              "title": "COMPATÍVEL COM A MAIORIA DOS APLICATIVOS VC PROGRAMA DE COLABORAÇÃO DA LOGITECH"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/1bfb4137-79c9-47cb-a847-7c3907258e35/Captura-de-Tela-2025-02-03-as-14.37.05.png",
+              "text": "<p>O contato olho no olho ajuda a criar melhores relações, especialmente quando precisar estabelecer uma nova relação, oferecer apoio a um cliente ou colaborar com uma equipe descentralizada. Graças a uma câmera motorizada e um suporte de extensão inovador, a BCC950 torna a videoconferência mais fácil e natural.</p>",
+              "alt": "BCC  videoconferência câmera motorizada",
+              "title": "OLHO NO OLHO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/0f9597b3-a532-464a-a0a0-ba922723e790/Captura-de-Tela-2025-02-03-as-14.45.48.png",
+              "alt": "video conferencia Logitech encontre o produto adequado",
+              "title": "ENCONTRE PRODUTOS ADEQUADOS A VOCÊ ",
+              "text": "<p><strong>BCC950  </strong><br>Câmera Web, viva-voz e controle remoto para grupos de 1 a 4 pessoas</p>"
+            }
+          ],
+          "productId": "677"
         }
       ]
     },
