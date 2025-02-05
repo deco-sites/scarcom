@@ -438,6 +438,54 @@
         {
           "contentDetails": [],
           "productId": "154629"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/452f7380-373a-44b1-b814-d943a7e09cfb/Captura-de-Tela-2025-02-05-as-15.06.18.png",
+              "alt": "RALLY BAR Barra de vídeo all-in-one para salas médias e grandes",
+              "title": "RALLY BAR",
+              "text": "<p>Barra de vídeo all-in-one para salas médias e grandes</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c63365bb-3f65-438d-a4c4-c4b5d5a40d90/Captura-de-Tela-2025-02-05-as-15.06.01.png",
+              "alt": "Logitech Rally Bar videoconferências all-in-one",
+              "title": "Videoconferências all-in-one ",
+              "text": "<p> A Logitech Rally Bar é a barra de vídeo superior para salas de reunião médias e grandes. Descubra as videoconferências all-in-one incrivelmente simples com tecnologia de IA integrada, sistema óptico excelente e áudio poderoso.</p>"
+            },
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://data.decoassets.com/scarcom/452f7380-373a-44b1-b814-d943a7e09cfb/Captura-de-Tela-2025-02-05-as-15.06.18.png",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7fdpUAMLNLw?si=3S0XmmaCLW4ao8L7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "RALLY BAR videoconferência all-in-one ",
+              "text": "<p>Conheça a configuração de videoconferência all-in-one incrivelmente simples com excelente sistema óptico, áudio baseado em inteligência artificial, gerenciamento remoto com o Logitech Sync e muito mais.</p>",
+              "title": "BARRA DE VÍDEO ALL-IN-ONE PARA SALAS MÉDIAS E GRANDES"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b251c38b-523f-4a77-bd95-4190905bd4e1/Captura-de-Tela-2025-02-05-as-15.20.59.png",
+              "text": "<p>Instale até quatro <strong><u>RALLY MIC POD</u></strong> para ampliar o alcance de captação de áudio e garantir acesso conveniente aos controles para desativar o microfone.</p><p></p><p></p>",
+              "title": "AMPLIE A CONVERSA",
+              "alt": "RALLY MIC PODS "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9eea747f-5164-49b8-bfb8-b48808e95b5b/Captura-de-Tela-2025-02-05-as-15.25.31.png",
+              "alt": "Rally bar Vídeo com inteligência artificia",
+              "title": "GARANTA QUE TODOS SEJAM VISTOS E OUVIDOS",
+              "text": "<p>Vídeo com inteligência artificial, captação avançada de som, eliminação de ruídos e melhorias contínuas no software que proporcionam uma experiência de reunião nítida e natural para os participantes remotos.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c64b803f-1d5a-4a99-a252-8c6c906b8d5e/Captura-de-Tela-2025-02-05-as-15.27.13.png",
+              "alt": "Rally bar GERENCIE REMOTAMENTE COM O SYNC",
+              "title": "GERENCIE REMOTAMENTE COM O SYNC",
+              "text": "<p>Monitore a integridade da sala e do dispositivo, instale atualizações e altere configurações, tudo em uma única plataforma baseada na nuvem.</p>"
+            }
+          ],
+          "productId": "153494"
         }
       ]
     },
