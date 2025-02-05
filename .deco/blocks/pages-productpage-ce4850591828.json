@@ -348,6 +348,46 @@
             }
           ],
           "productId": "5781"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/21f4df92-87a6-4f98-9569-186978cfd1cb/Captura-de-Tela-2025-02-05-as-12.03.21.png",
+              "alt": "videoconferência Group Logitech sala médio grande porte",
+              "title": "GROUP",
+              "text": "<p>Solução acessível de videoconferência para salas de reunião de porte médio e grande</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b2eaeec2-3e94-4fd7-9991-a12559adb6c2/Captura-de-Tela-2025-02-05-as-12.03.31.png",
+              "alt": "videoconferência group logitech sala grande",
+              "title": "PERFEITA PARA SALAS GRANDES ",
+              "text": "<p>GROUP, nossa solução de videoconferência para salas que comportam de 14 a 20 pessoas, fornece áudio nítido e vídeo de alta definição, permitindo que qualquer local de reunião seja um espaço de conferência por vídeo. Com recursos avançados como cancelamento de eco acústico, tecnologia de redução de ruído e controles intuitivos, agora é mais fácil do que nunca incluir todos na conversa</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c9cd2183-a00f-49a3-b7cd-5d1d56457516/Captura-de-Tela-2025-02-05-as-12.03.40.png",
+              "alt": "videoconferência group logitech plug-and-play",
+              "text": "<p>A conectividade plug-and-play via USB torna a GROUP fácil de se implementar e usar. Basta conectar a GROUP ao computador da sala de conferência ou seu laptop usando a porta USB, e pronto. Use a GROUP com qualquer software de videoconferência, incluindo aqueles que você já usa. Para ter chamadas de áudio com ótimo som, emparelhe seu dispositivo móvel através da tecnologia sem fio Bluetooth® com o viva-voz GROUP.</p>",
+              "title": "SIMPLICIDADE DO PLUG-AND-PLAY"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/5287a539-7ff8-4a37-98ac-6d618fbe9413/Captura-de-Tela-2025-02-05-as-12.05.21.png",
+              "alt": "videoconferência group logitech alta definição",
+              "text": "<p>Dê mais foco para as suas reuniões com as lentes superiores da GROUP, com zoom de 10x sem perda e desempenho HD 1080p/30. Enquadre perfeitamente os apresentadores e os quadros com controle de pan/tilt e aumente o zoom para fornecer mais detalhe e mais claridade. O campo de visão diagonal de 90º da GROUP proporciona uma cobertura ideal para salas de conferência médias e grandes, com pan e tilt motorizadas para uma abrangência de parede a parede, do teto ao chão.</p>",
+              "title": "VÍDEO DE ALTA DEFINIÇÃO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9a1ff443-e2fc-4df6-859b-db8b4a3792fd/Captura-de-Tela-2025-02-05-as-12.05.31.png",
+              "title": "ÁUDIO COM SOM NATURAL",
+              "text": "<p>Todos ouvem e podem ser ouvidos com o viva-voz full-duplex da GROUP, que oferece um som realista que é claro, nítido e altamente compreensível. A tecnologia de cancelamento de eco acústico e de redução de ruídos faz com que as conversas tenham um som natural, reduzindo a reverberação e o ruído do ambiente.</p>",
+              "alt": "videoconferencia group logitech ÁUDIO COM SOM NATURAL"
+            }
+          ],
+          "productId": "153729"
         }
       ]
     },
@@ -396,6 +436,5 @@
       }
     },
     "omitVariants": true
-  },
-  "name": "155350"
+  }
 }
