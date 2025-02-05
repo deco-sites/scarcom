@@ -429,13 +429,14 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/e33b4f5f-950c-4eec-bed5-ab3dc96c5b6e/Captura-de-Tela-2025-02-05-as-13.19.51.png",
               "title": "ENCONTRE O MELHOR PRODUTO PARA VOCÊ",
-              "text": "<p></p>"
+              "text": "<p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.logitech.com/content/dam/logitech/pt_br/video-collaboration/pdf/ptz-pro-2-datasheet.pdf\"><strong><u>FICHA TÉCNICA</u></strong></a></p><p></p>"
             }
           ],
           "productId": "154629"
         },
         {
-          "contentDetails": []
+          "contentDetails": [],
+          "productId": "154629"
         }
       ]
     },
