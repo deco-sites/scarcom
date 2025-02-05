@@ -483,9 +483,21 @@
               "alt": "Rally bar GERENCIE REMOTAMENTE COM O SYNC",
               "title": "GERENCIE REMOTAMENTE COM O SYNC",
               "text": "<p>Monitore a integridade da sala e do dispositivo, instale atualizações e altere configurações, tudo em uma única plataforma baseada na nuvem.</p>"
+            },
+            {
+              "mediaType": "IMAGE"
             }
           ],
           "productId": "153494"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c64b803f-1d5a-4a99-a252-8c6c906b8d5e/Captura-de-Tela-2025-02-05-as-15.27.13.png"
+            }
+          ],
+          "productId": "155924"
         }
       ]
     },
@@ -534,5 +546,6 @@
       }
     },
     "omitVariants": true
-  }
+  },
+  "name": "Product Page"
 }
