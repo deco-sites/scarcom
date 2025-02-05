@@ -227,8 +227,7 @@
               "text": "<p style=\"text-align: start\">Quando a câmera Rally não está em uso, a lente fica, por padrão, parada apontando para baixo. Isso permite determinar visualmente que a câmera não pode “ver” nada na sala de reunião quando está inativa. A lente levanta e se coloca na posição predefinida quando participa da reunião e para automaticamente quando a reunião termina. Além disso, sempre que o vídeo estiver no modo silencioso durante uma reunião, uma luz de status vermelha se acederá para confirmar a privacidade visual.</p>",
               "title": "GARANTIA DE PRIVACIDADE"
             }
-          ],
-          "productId": "155114"
+          ]
         },
         {
           "contentDetails": [
@@ -388,6 +387,55 @@
             }
           ],
           "productId": "153729"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/467cf5b1-47cd-4f7c-868c-97142b1cf302/ptz-pro2.png",
+              "alt": "Câmera de vídeo HD 1080p PTZ PRO 2 Logitech",
+              "title": "PTZ PRO 2",
+              "text": "<p>Câmera  de vídeo HD 1080p com panorâmica/inclinação e zoom aprimorados</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/45244761-dd96-40e6-95d6-6cfa7d69ce87/ptz-pro.png",
+              "alt": "Logitech PTZ Pro lentes opticas",
+              "text": "<p>A Logitech PTZ Pro 2 oferece incomparáveis vídeos realistas para criar a sensação de que você e a outra pessoa estejam sentados na mesma sala, mesmo se estiverem a milhões de quilômetros de distância. Os aprimoramentos técnicos acentuam as imagens nítidas com resolução clara da câmera, com reprodução de cor excelente e precisão óptica excepcional. Com metade do preço dos modelos similares, a PTZ Pro 2 é claramente a opção mais inteligente.</p>",
+              "title": "UM PASSO À FRENTE EM DESEMPENHO E LENTES ÓPTICAS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2676485e-3c52-42f0-8486-6e267f096000/camera_para_video_conferencia_logitech_ptz_pro_2_960-001184p2.png",
+              "alt": "PTZ Pro 2 Logitech para salas, auditórios e salões de reunião",
+              "text": "<p>PTZ Pro 2 é perfeita para salas, auditórios e salões de reunião. Capture uma imagem com um campo de visão diagonal de 90° ou coloque o foco nos apresentadores, comentaristas ou no quadro com o controle flexível de panorama e inclinação (pan e tilt). Uma lente de zoom 10x com foco automático enquadra perfeitamente os participantes, além de oferecer detalhe e clareza para os participantes e sistemas de gravação.</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.logitech.com/content/dam/logitech/en/video-collaboration/pdf/logitech-fov-diagram-web.pdf\"><strong><u><span>LAYOUTS DE SALA RECOMENDADOS</span></u></strong></a></p>",
+              "title": "CAPTURE A AÇÃO EM ALTA DEFINIÇÃO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/004669c0-ce07-415b-a445-898dbf439f35/ptz-pro4.png",
+              "text": "<p>A conectividade plug-and-play USB faz com que a PTZ Pro 2 seja muito fácil de instalar e usar. Basta conectar a PTZ Pro 2 ao computador da sala de conferência ou seu laptop usando a porta USB, e pronto. Projetado para manter a compatibilidade com aplicativos de videoconferência em computadores com Windows® e Mac, a PTZ Pro 2 complementa qualquer sistema de áudio ou viva-voz.</p>",
+              "alt": "PTZ Pro logitech FÁCIL DE CONFIGURAR E USAR",
+              "title": "FÁCIL DE CONFIGURAR E USAR"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/41ea0152-ae99-4b99-9527-83d14f0d9ea1/ptz-pro5.png",
+              "alt": "PTZ Pro 2 Logitech operada com controle remoto",
+              "title": "OPERADA DE PERTO OU DE LONGE",
+              "text": "<p>Panorâmica, inclinação e zoom (pan, tilt e zoom) com controle portátil para que tudo esteja visível na sala de conferência, no auditório, na sala de aula ou no espaço de trabalho. A câmera também pode ser operada de um local remoto fazendo download do software.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/e33b4f5f-950c-4eec-bed5-ab3dc96c5b6e/Captura-de-Tela-2025-02-05-as-13.19.51.png",
+              "title": "ENCONTRE O MELHOR PRODUTO PARA VOCÊ",
+              "text": "<p></p>"
+            }
+          ],
+          "productId": "154629"
+        },
+        {
+          "contentDetails": []
         }
       ]
     },
