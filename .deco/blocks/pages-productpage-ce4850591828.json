@@ -486,6 +486,60 @@
             }
           ],
           "productId": "155924"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/21bce3cf-1428-47c3-82c0-5920dc0abe65/Captura-de-Tela-2025-02-06-as-11.32.13.png",
+              "alt": "Câmera de conferência Meetup",
+              "title": "MEETUP",
+              "text": "<p>Câmera de conferência completa com lente ultra-grande angulat para salas pequenas</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/964715ca-cce1-4aed-8a1c-4511cc814030/Captura-de-Tela-2025-02-06-as-11.32.45.png",
+              "alt": "Câmera de conferência Meetup all-in-one",
+              "text": "<p>Projetada para salas pequenas e outros espaços menores, a MeetUp oferece grandes recursos em um formato compacto.</p>",
+              "title": "Dsign All-In-One"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ad8a9de0-9807-4d0b-83ed-fce4442a598b/Captura-de-Tela-2025-02-06-as-11.36.37.png",
+              "alt": "Meetup logitech videoconferência plug-and-play",
+              "text": "<p>A MeetUp se conecta a um computador ou laptop via USB para fácil instalação e videoconferência plug-and-play.</p>",
+              "title": "Configuração Simples"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/35bbc1bd-e337-4954-b596-6de25410d48c/Captura-de-Tela-2025-02-06-as-11.38.21.png",
+              "alt": "Meetup logitech camera de conferencia com suportes convenientes",
+              "text": "<p>Dimensões compactas e opções de montagem versáteis economizam espaço e diminuem o cabeamento aparente.</p>",
+              "title": "Suportes Convenientes "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ec2c4ad6-1948-485c-9350-5c2fb89640d1/Captura-de-Tela-2025-02-06-as-11.41.37.png",
+              "alt": "meetup logitech camera de conferencia alinhamento da voz",
+              "text": "<p>O alinhamento da voz e do vídeo na frente da sala é apenas o primeiro passo para conversas naturais. As tecnologias RightSound™ incluem um conjunto de microfones com formação de feixe que captura a fala, enquanto nivela automaticamente as vozes mais altas e mais baixas e elimina o ruído.</p>",
+              "title": "Fale Facilmente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/060aacf9-191e-4ac7-890c-e633f37acf9a/Captura-de-Tela-2025-02-06-as-11.44.46.png",
+              "alt": "Rightsense",
+              "text": "<p>As tecnologias proativas Logitech RightSense™ melhoram, facilitam e automatizam as reuniões por vídeo. O RightSight usa IA para detectar e enquadrar as pessoas para criar experiências de reunião mais imersivas, o RightSound otimiza a voz humana e aprimora a clareza da conversa e a tecnologia RightLight melhora a imagem em vídeo de todos os participantes, não importam como condições de iluminação. Com o RightSense integrado, as reuniões por vídeo são naturalmente mais atrativas e eficientes, sem necessidade de calibração, intervenção manual ou suporte.</p>",
+              "title": "REUNIÕES POR VÍDEO ATRATIVAS. AUTOMATICAMENTE."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/24a5f8ad-1be9-4f63-a964-69d14a45f8ec/Captura-de-Tela-2025-02-06-as-11.47.00.png",
+              "alt": "MeetUp ajusta automaticamente visao da camera",
+              "title": "Visão por computador",
+              "text": "<p>Com a visão por computador do RightSight™, a MeetUp ajusta automaticamente a posição da câmera e o zoom para encontrar e enquadrar todos na sala.</p>"
+            }
+          ],
+          "productId": "154381"
         }
       ]
     },
