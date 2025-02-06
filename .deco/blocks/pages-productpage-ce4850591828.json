@@ -650,7 +650,38 @@
           "contentDetails": [
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/2abeee33-30ab-4031-be0f-a521ad0df7a1/microfone-rally.png"
+              "banner": "https://data.decoassets.com/scarcom/2abeee33-30ab-4031-be0f-a521ad0df7a1/microfone-rally.png",
+              "title": "Microfone Para Câmera de Conferência ",
+              "text": "<p>Microfones modulares com RightSound™ para Rally, Rally Bar e Rally Bar Mini</p>",
+              "alt": "Microfone Para Câmera de Conferência Logitech"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/331cbc61-3584-46f7-94e4-0d8a5ff99127/Captura-de-Tela-2025-02-06-as-18.03.03.png",
+              "title": "BOA APARÊNCIA E ÓTIMO SOM",
+              "text": "<p>Com um design elegante e discreto e materiais premium, esses microfones reproduzem um som claro, natural e coloquial. Os pods individuais contêm vários elementos de formação de feixes para capturar a fala, não distrações. Em salas maiores, implante pods de microfone adicionais para estender a matriz de microfone formação de feixe por toda a sala.</p>",
+              "alt": "Microfone para Conferencecam Logitech Rally "
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQB8HmlVuUE?si=BbDcoQct-v-FPIEx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "title": "OUÇA CADA VOZ COM CLAREZA",
+              "text": "<p>Enquanto os microfones comuns captam qualquer som, esses microfones ouvem vozes. Com as tecnologias RightSound™ para nivelar automaticamente as vozes, suprimir ruídos e cancelar eco, as conversas parecem incrivelmente animadas e naturais.</p>",
+              "alt": "Microfone para câmera de conferencia Com as tecnologias RightSound™"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b251c38b-523f-4a77-bd95-4190905bd4e1/Captura-de-Tela-2025-02-05-as-15.20.59.png",
+              "title": "CABEAMENTO SIMPLIFICADO",
+              "text": "<p>Mic pods podem ser encadeados em série para cobertura total em salas com mesas longas. Para mesas em forma de U ou cabeamento de fio único através de ilhós, o acessório Rally Mic Pod Hub fornece três conexões para posicionamento ideal e para trazer o controle de mudo para fácil alcance.</p>",
+              "alt": "Microfone camera de videoconferencia CABEAMENTO SIMPLIFICADO"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/llLRya51mIE?si=OPmeFAWnp7mgc5e3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Microfone para camera de videoconferencia da logitech",
+              "text": "<p>Graças à união de tecnologia avançada e qualidade de construção robusta, os Rally Mic Pods oferecem alcance notável e sensibilidade requintada. Materiais atenciosos resistem a impressões digitais e manchas, enquanto um ícone de LED com código de cores fornece uma confirmação visual clara quando silenciado.  <br><br><strong>Mostrado com&nbsp;Mic Pod Mount&nbsp;opcional</strong></p>",
+              "title": " DESIGN ELEGANTE"
             }
           ],
           "productId": "155923"
