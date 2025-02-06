@@ -645,6 +645,15 @@
             }
           ],
           "productId": "155925"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2abeee33-30ab-4031-be0f-a521ad0df7a1/microfone-rally.png"
+            }
+          ],
+          "productId": "155923"
         }
       ]
     },
