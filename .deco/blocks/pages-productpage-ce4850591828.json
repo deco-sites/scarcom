@@ -568,6 +568,54 @@
             }
           ],
           "productId": "154381"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://data.decoassets.com/scarcom/87fef656-8e04-4009-ae35-b53d573df20c/Captura-de-Tela-2025-02-06-as-15.06.47.png",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IEVYORSoNJ8?si=fIilrE7j7vA_7Yjw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Loch TAP controlador de videoconferencia",
+              "text": "<p>Simplifique a entrada dos participantes nas videoconferências por meio de um controlador por toque com compartilhamento de conteúdo por cabo HDMI e sem fio.</p>",
+              "title": "LOGITECH TAP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/78064d05-dd6f-431f-b4dd-7d2ebb7d58f7/Captura-de-Tela-2025-02-06-as-15.32.42.png",
+              "text": "<p>Transforme seu espaço em uma sala do Google Meet™ ou uma sala do Microsoft Teams Rooms no Windows® com o Logitech Tap. Ofereça um toque para participar, integração de calendário, compartilhamento de conteúdo fácil e uma experiência consistente em todas as salas.</p>",
+              "alt": "LOGITECH TAP",
+              "title": "IMPLANTE SOLUÇÕES PARA SALAS COM FACILIDADE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/77a23a34-c584-40b9-973b-58ba2818fd34/Captura-de-Tela-2025-02-06-as-15.33.34.png",
+              "alt": "LOGITECH TAP CONFIGURAÇÃO ORGANIZADA E CONVENIENTE",
+              "text": "<p>APARÊNCIA IDEAL  <br><br>Com um monitor amplo de 10,1”, design simples e sensor de movimento com disponibilidade constante, o Tap tem uma aparência elegante e discreta em qualquer sala.</p>",
+              "title": "CONFIGURAÇÃO ORGANIZADA E CONVENIENTE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c7e3cf35-1bd7-4cd1-a379-ea479fab1509/TAP-LOGITECH.png",
+              "text": "<p>Passe os cabos pela parte de trás ou inferior. Mantenha conexões firmes com mecanismos integrados de alívio de tensão e retenção.</p>",
+              "alt": "LOGITECH TAP MEETING ROOM CABEAMENTO SIMPLES E SEGURO",
+              "title": "CABEAMENTO SIMPLES E SEGURO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/fe764981-671b-4c54-9221-cd9b24533fb0/Captura-de-Tela-2025-02-06-as-15.40.33.png",
+              "text": "<p>Instale o Tap em praticamente qualquer lugar da sala com os suportes com elevação e para mesa, que se encaixam em orifícios padrão sobre a mesa e giram até 180° para maior visibilidade e conveniência. Se preferir, use o suporte de parede para economizar espaço na mesa em salas pequenas.</p>",
+              "title": "VÁRIAS OPÇÕES DE MONTAGEM",
+              "alt": "LOGITECH TAP MEETING VÁRIAS OPÇÕES DE MONTAGEM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d84b24ac-719a-4c87-a7b5-42f2724bf17c/Captura-de-Tela-2025-02-06-as-15.43.43.png",
+              "text": "<p>Cabeamento flexível permite que você posicione o Tap perto dos participantes, simplificando sua operação, e instale o PC host em um gabinete, sob uma mesa ou atrás de uma tela</p>",
+              "title": "INSTALAÇÃO ORGANIZADA",
+              "alt": "LOGITECH TAP MEETING INSTALAÇAO ORGANIZADA"
+            }
+          ],
+          "productId": "155925"
         }
       ]
     },
