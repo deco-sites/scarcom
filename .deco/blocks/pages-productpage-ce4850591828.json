@@ -634,6 +634,14 @@
               "title": "SIMPLES DE GERENCIAR",
               "text": "<p>Com o Logitech Sync, você pode monitorar e gerenciar o Tap com seus outros dispositivos de salas de reunião a partir de uma única plataforma.</p>",
               "alt": "TAP logitech simples de gerenciar"
+            },
+            {
+              "mediaType": "IMAGE",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hBDj-_e2gU0?si=wsNEDqGexi839of-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Facilidade de conexão com um toque.</p>",
+              "banner": "https://data.decoassets.com/scarcom/f5b3ac35-014f-4629-9d6d-64fa92b7c394/Captura-de-Tela-2025-02-06-as-16.53.32.png",
+              "alt": "Tap Logitech Facilidade de conexão com um toque.",
+              "title": "TAP LOGITECH"
             }
           ],
           "productId": "155925"
