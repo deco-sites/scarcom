@@ -537,6 +537,33 @@
               "alt": "MeetUp ajusta automaticamente visao da camera",
               "title": "Visão por computador",
               "text": "<p>Com a visão por computador do RightSight™, a MeetUp ajusta automaticamente a posição da câmera e o zoom para encontrar e enquadrar todos na sala.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/90849c05-f238-48cd-821c-e7be37baccab/Captura-de-Tela-2025-02-06-as-12.06.31.png",
+              "alt": "Meetup logitech economize espaço",
+              "text": "<p>Montada no monitor como uma barra de som, a MeetUp permite tirar o viva-voz da mesa para reduzir o cabeamento no meio da sala e maximizar o espaço útil.</p>",
+              "title": "Economize espaço"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/82315e77-abbc-4aa4-a9df-f0716742e9ac/Captura-de-Tela-2025-02-06-as-12.14.16.png",
+              "alt": "Meetup Logitech fácil de gerenciar",
+              "text": "<p>Com gerenciamento de dispositivos do Logitech Sync<br><br>Monitore e gerencie os dispositivos da sala de reuniões a partir de uma única plataforma com o Logitech Sync. E receba insights sobre como as salas estão sendo utilizadas.</p>",
+              "title": "SIMPLES DE GERENCIAR  "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d8039c3c-10c5-4240-ae2d-96966103462f/Captura-de-Tela-2025-02-06-as-12.16.57.png",
+              "alt": "Mup logitech software otimizado",
+              "title": "SOLUÇÕES PARA SALAS COM A MEETUP",
+              "text": "<p>Obtenha tudo o que você precisa para criar salas pequenas de reuniões por vídeo, incluindo a Logitech MeetUp, uma plataforma de computação (como um mini PC, sistema de computação Meet ou Logitech RoomMate), software otimizado para salas e o controle remoto tátil Logitech Tap.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/31fcc113-7949-421e-9982-f205c5a246c5/Meetup.png",
+              "alt": "Meetup logitech funcionalidades adicionais",
+              "title": "FUNCIONALIDADES ADICIONAIS"
             }
           ],
           "productId": "154381"
