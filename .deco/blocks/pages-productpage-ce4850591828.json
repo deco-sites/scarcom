@@ -910,7 +910,31 @@
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/b6bb54c4-6652-4535-9e4d-426429d258b2/logitech-yeti.png"
+              "banner": "https://data.decoassets.com/scarcom/3e18949d-c3e1-49ad-9c70-056bb5415b88/Captura-de-Tela-2025-02-07-as-18.08.49.png",
+              "title": "CONTROLES DE ESTÚDIO, DIRETO NO MICROFONE",
+              "text": "<p>O Yeti inclui controles de estúdio que dão a você o controle de todos os níveis do processo de gravação. Monitore sua voz pelo microfone, sem latência, com saída para fone de ouvido. Ajuste a sensibilidade do microfone com o controle de ganho ou faça uma pausa rápida tocando no botão \"sem áudio\" instantâneo.</p>",
+              "alt": "Yeti Microfone USB premium com controles de estúdio"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9f620148-6290-44ea-9717-285d93ef05d7/Captura-de-Tela-2025-02-07-as-18.10.31.png",
+              "title": "SUPORTE ANTIVIBRAÇÃO INTERNO PARA SOM NÍTIDO",
+              "text": "<p>O suporte antivibração interno do Yeti protege a matriz de três cápsulas e ajuda a manter seu conteúdo nítido e focado na sua voz.</p>",
+              "alt": "Yeti Microfone USB premium antivibração interno"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/990618a3-e601-4413-a2aa-e615bfdb1cfc/Captura-de-Tela-2025-02-07-as-17.42.05.png",
+              "title": "A SIMPLICIDADE DO PLUG AND PLAY",
+              "text": "<p>O Yeti está pronto para quando a inspiração bater. Conecte o microfone Yeti diretamente ao computador ou notebook com o cabo USB incluído e pronto. Agora você pode gravar e transmitir imediatamente. Não precisa de drivers.</p>",
+              "alt": "Microfone Yeti com plug and play"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/8e936f05-3551-46bd-911e-6b876672d434/Captura-de-Tela-2025-02-07-as-18.14.40.png",
+              "title": "FACILIDADE DE STREAMING COM O DESIGN INOVADOR",
+              "text": "<p> O suporte simples, mas inovador do Yeti pode ser ajustado no ângulo perfeito para captar sua voz. Ou você pode remover o suporte e colocar o Yeti em um braço articulado de mesa como o Compass. Seja para transmitir batalhas PvP, gravar seu próximo vídeo do YouTube ou no Just Chatting, o formato icônico do Yeti é facilmente reconhecido na câmera e inspira sua criatividade para revelar sua melhor performance.</p>",
+              "alt": "Microfone yeti logitech facilidade de streaming "
             }
           ],
           "productId": "155227"
