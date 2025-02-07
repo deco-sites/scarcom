@@ -685,6 +685,39 @@
             }
           ],
           "productId": "155923"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/67392388-8f88-42cd-a942-429ac0a8be17/Captura-de-Tela-2025-02-07-as-11.07.51.png",
+              "alt": "Microfone de expansão para MeetUp logitech",
+              "title": "Microfone extensor para Meet Up",
+              "text": "<p>Microfone adicional com controle de mudo para alcance de áudio estendido</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/41da23a7-924f-496b-a08b-5172f4db92d9/Captura-de-Tela-2025-02-07-as-11.18.21.png",
+              "alt": "Microfone de expansão da Logitech para MeetUp otimizados para até 4 metro",
+              "text": "<p>O microfone de expansão da Logitech para MeetUp oferece mais flexibilidade em salas cheias.&nbsp;Os microfones com conformação em feixe para&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sites-scarcom--staging.decocdn.com/logitech-meet-up-960-001101/p?skuId=154381\"><strong><u>MeetUp</u></strong></a>&nbsp;são otimizados para até 4 metros. Para ampliar esse alcance até 5 metros, adicione um Microfone de expansão. Independente de onde as pessoas estiverem sentadas, à mesa, contra a parede ou de pé, com o Microfone de expansão para <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sites-scarcom--staging.decocdn.com/logitech-meet-up-960-001101/p?skuId=154381\"><strong><u>MeetUp</u></strong></a> todos serão ouvidos.</p>",
+              "title": "SOM SUPERIOR EM SALAS GRANDES"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/12f268af-c0c2-43c6-b3fc-0ef9f48a3d07/Captura-de-Tela-2025-02-07-as-11.20.33.png",
+              "alt": "microfone de expansão da Logitech para MeetUp flexibilidade em configurações diferentes de sala",
+              "title": "OUÇA CLARAMENTE ATÉ 5 METROS",
+              "text": "<p>Como as salas de reuniões variam no tamanho, nós criamos o Microfone de expansão para fornecer a flexibilidade adicional em configurações diferentes de sala. O Microfone de expansão estende o alcance de microfone da MeetUp para 5 metros.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/41f3d90e-2eab-4cfd-a2a0-3df3da6c81e7/microfone-de-expansao1.png",
+              "title": "SILENCIE FACILMENTE AS CHAMADAS",
+              "text": "<p>Um botão para desativar o microfone permite que as pessoas que sentam na ponta da mesa interrompam o áudio de todo o sistema viva-voz. A luz indicadora mostra quando o microfone está mudo, quando uma chamada está ativa e quando o pareamento sem fio por Bluetooth® foi iniciado.</p>",
+              "alt": "microfone de expansão da Logitech para MeetUp com interruptor de audio"
+            }
+          ],
+          "productId": "154750"
         }
       ]
     },
