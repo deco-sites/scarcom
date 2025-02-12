@@ -1126,6 +1126,73 @@
             }
           ],
           "productId": "4978"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b1710221-e525-48ec-82ee-62485496d58e/Captura-de-Tela-2025-02-12-as-11.55.57.png",
+              "text": "<p><strong>Portas 2.5G PoE+ para WiFi 6:</strong> 8× portas de 2.5 Gbps quebram a barreira do gigabit e desbloqueiam todo o potencial dos APs WiFi 6. <br><strong>Uplink ultrarrápido de 10G:</strong> 2× Slots SFP + de 10 Gbps permitem conectividade de alta largura de banda e capacidade de comutação sem bloqueio. <br><strong>PoE Budget de 240 W:</strong> 8× portas PoE+ compatíveis com 802.3at/af com fornecimento de energia total de 240 W*. <br><strong>Integrado ao Omada SDN:</strong> Provisionamento Zero-Touch(ZTP)**, Gerenciamento Centralizado em Nuvem e Monitoramento Inteligente. </p>",
+              "alt": "Switch Gerenciável L2+ de 10 Portas com 8 Portas de 2.5 Gbps PoE+ e 2 Slots SFP+ de 10Gbps",
+              "title": "SG3210XHP-M2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/7f3eb088-6a0c-4ca1-9b57-64c9fc737814/SG3210XHP-M2-3.png",
+              "text": "<p><strong>Gerenciamento Centralizado:</strong> Acesso via nuvem e aplicativo Omada para fácil gerenciamento e maior conveniência. <br><strong>Roteamento Estático:</strong> Ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos da rede. <br><strong>Alto Nível de Segurança: </strong>Ligação de Portas IP-MAC, ACL, Segurança de Portas, Defesa contra DoS, Storm Control, DHCP Snooping, 802.1X, Autenticação Radius e muito mais. <br><strong>Otimização de Aplicações de Voz e Vídeo: </strong>L2/L3/L4 QoS e IGMP snooping. <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático.</p>",
+              "alt": "Switch Gerenciável L2+ de 10 Portas com 8 Portas de 2.5 Gbps PoE+ e 2 Slots SFP+ de 10Gbps Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/95dcdc2f-31f1-4d7e-b6f9-50cc92c752bb/Captura-de-Tela-2025-02-12-as-11.26.47.png",
+              "text": "<p>Com 8 × portas PoE + de 2.5 Gbps, o switch é capaz de expansão e implantação de rede futura, fornecendo largura de banda suficiente para 6 APs WiFi de entrada. Projetado para usar um único cabo Ethernet para transmissão de dados e energia, suportando budget PoE total de energia de até 240 W * e instalação flexível para caber em vários cenários de aplicação.</p>",
+              "title": "Desbloqueie Todo o Potencial do WiFi 6 com Portas Multi-Gigabit PoE+",
+              "alt": "SG3210XHP-M2 WiFi 6 com Portas Multi-Gigabit PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9fc28671-fcd7-4f31-a2e6-20b5b4f40d74/SG3210XHP-M2.png",
+              "text": "<p>2× slots SFP+ de 10 Gbps fornecem desempenho de comutação sem bloqueio e latência ultrabaixa, de forma que conexões rápidas e confiáveis com servidores e outros comutadores são facilmente construídas..</p>",
+              "title": "Switch Corporativo com Uplink de 10G",
+              "alt": "SG3210XHP-M2 Switch Corporativo com Uplink de 10G"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2789b48b-58db-4d51-9f1e-af254ef2c91c/Captura-de-Tela-2025-02-12-as-11.49.13.png",
+              "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento de nuvem 100% centralizado. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões sem fio e com fio transparentes são fornecidas, sendo ideais para uso em hospitalidade, educação, varejo, escritórios e muito mais.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais</u></strong></a></p>",
+              "alt": "SG3210XHP-M2 Software-Defined Networking (SDN) com Acesso a Nuvem",
+              "title": "Software-Defined Networking (SDN) com Acesso a Nuvem"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/7699bbe9-d2c6-427d-bc33-8347d23c1247/Captura-de-Tela-2025-02-12-as-11.52.38.png",
+              "text": "<p>Os recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control and DHCP Snooping para defesa contra várias ameaças de rede. Uma lista integrada de ataques de DoS comuns está disponível, tornando mais fácil do que nunca evitá-los. Além disso, o recurso Listas de Controle de Acesso (ACL, L2 a L4) restringe o acesso a recursos de rede confidenciais ao negar pacotes com base no endereço MAC de origem e destino, endereço IP, portas TCP/UDP ou ID da VLAN. O acesso dos usuários à rede pode ser controlado por meio da autenticação 802.1X, que funciona com um servidor RADIUS/Tacacs+ para conceder acesso apenas quando credenciais de usuário válidas são fornecidas.</p>",
+              "title": "Rede Segura",
+              "alt": "SG3210XHP-M2 com recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control and DHCP Snooping para defesa contra várias ameaças de rede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2f160d4d-29d4-400a-88ce-1ed5c8500ba2/01_normal_1606737679022z.jpg",
+              "title": "Recursos de Nível Empresarial",
+              "text": "<p>Uma linha completa de recursos L2+ é suportada, incluindo 802.1Q VLAN, Espelhamento de Portas, STP/RSTP/MSTP, Protocolo de Controle de Agregação de Links e Controle de Fluxo 802.3x. O IGMP Snooping avançado garante que o switch encaminhe fluxos multicast de maneira inteligente apenas para os assinantes apropriados, eliminando o tráfego desnecessário, enquanto o controle e filtragem IGMP restringem cada assinante em um nível de porta para evitar o acesso multicast não autorizado. O roteamento estático é uma maneira simples de segmentar a rede e rotear o tráfego internamente utilizando o switch para uma maior eficiência.</p>",
+              "alt": "SG3210XHP-M2 Recursos de Nível Empresarial"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d9c6d0c5-e6b4-4d6e-9138-2fb8182f8648/03_normal_1606737689605f.jpg",
+              "alt": "SG3210XHP-M2 QoS Avançado O tráfego de voz e vídeo pode ser priorizado",
+              "text": "<p>O tráfego de voz e vídeo pode ser priorizado com base no endereço IP, endereço MAC, número da porta TCP, número da porta UDP e muito mais. Com o recurso de QoS (Quality of Service), os serviços de voz e vídeo permanecem sem problemas, mesmo quando a largura de banda é deficiente.</p>",
+              "title": "QoS Avançado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b55ffbd7-c9cf-48a3-9fd1-93a15efb1b85/02_normal_1606737701477c.jpg",
+              "text": "<p>As funções IPv6 como Dual IPv4/IPv6 Stack, MLD Snooping, IPv6 ACL, DHCPv6 Snooping, Interface IPv6, Path Maximum Transmission Unit (PMTU) Discovery e IPv6 Neighbour Discover garantem que sua rede está pronta para a Rede de Última Geração (NGN - Next Generation Network) sem a necessidade de atualizar seu hardware.</p>",
+              "title": "Suporte IPv6",
+              "alt": "SG3210XHP-M2 Suporte IPv6 "
+            }
+          ],
+          "productId": "155583"
         }
       ]
     },
