@@ -1371,6 +1371,60 @@
             }
           ],
           "productId": "155685"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/cbe8fb67-95d4-4d97-b8b0-ae68099eeb95/SX6632YF_01_large_20240109113052q.jpg",
+              "videoHtml": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
+              "alt": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
+              "text": "<ul><li><p style=\"text-align: justify\">26× slots SFP+ de 10G e 6× slots SFP28 de 25G </p></li><li><p style=\"text-align: justify\">Capacidade de comutação de 820 Gbps Empilhamento físico para redundância e desempenho integrados </p></li><li><p style=\"text-align: justify\">Recursos de camada 3: RIP, OSPF, ECMP, VRRP, PIM-DM, Servidor/Relé DHCP </p></li><li><p style=\"text-align: justify\">Estratégias de segurança: ACL, Segurança de Porta, Defesa contra DoS, 802.1X </p></li><li><p style=\"text-align: justify\">Alta disponibilidade com duas fontes de alimentação substituíveis em campo*, VRRP e ERPS </p></li><li><p style=\"text-align: justify\">Gerenciamento centralizado na nuvem via controlador Omada SDN </p></li><li><p style=\"text-align: justify\">Gerenciamento autônomo via web, CLI, SNMP e RMON*</p></li></ul>",
+              "title": "SX6632YF "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/7d521dc4-558f-44ca-8e84-8d3b0b5fdcfe/SX6632YF_02_large_20240109113106q.jpg",
+              "alt": "SX6632YF ",
+              "title": "O Que Este Produto Faz",
+              "text": "<p>O Omada SX6632YF é um switch gerenciado verdadeiramente L3 com portas de fibra completa que oferece roteamento L3, velocidade de 25 Gbps com fio, empilhamento e fontes de alimentação redundantes, atendendo às demandas da camada de convergência. Ele vem com 6× slots SFP28 de 25 Gbps, 26× slots SFP+ de 10 Gbps e empilhamento físico. Integrado com recursos robustos de segurança e gerenciamento abrangente, este switch garante desempenho confiável para redes de pequenas e médias empresas, empresas e ISPs.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/be52feb1-7a11-438f-ac5c-0aab6f1df193/SX6632YF_03_large_20240109113115o.jpg",
+              "text": "<p>Os slots 6× SFP28 de 25 Gbps e 26× slots SFP+ de 10 Gbps oferecem até 820 Gbps de capacidade de comutação por unidade. Até 8 unidades de empilhamento físico com capacidade de comutação de até 6560 Gbps capacitam a estrutura de rede com redundância e desempenho integrados.</p>",
+              "title": "Conectividade de Alta Velocidade e Empilhamento Poderoso",
+              "alt": "SX6632YF Conectividade de Alta Velocidade e Empilhamento "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/39b9a435-0615-42d0-ae37-6c841ec782a0/SX6632YF_04_large_20240109113127g.jpg",
+              "alt": "SX6632YF Altamente Disponível",
+              "title": "Altamente Disponível",
+              "text": "<p>Fontes de alimentação redundantes internas fixas* e VRRP tornam-no uma escolha ideal para arquitetura de rede confiável. ERPS oferece proteção e recuperação rápidas em uma topologia de anel.<br><br><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">*Acompanha um módulo PSM550-AC por padrão, e outra fonte de alimentação redundante substituível em campo requer uma compra separada.</span></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/3911d094-452d-4a9b-aaf4-e4d5b1ed79e1/SX6632YF_05_large_20240109113139f.jpg",
+              "alt": "SX6632YF Funções de Segurança Aprimoradas",
+              "title": "Funções de Segurança Aprimoradas",
+              "text": "<p>Defenda-se contra uma variedade de ameaças de rede com suporte ACL (IPv4 e IPv6), Inspeção Dinâmica de ARP, IEEE 802.1X, MAB, Segurança de Porta e Shell Seguro.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/8ffdc4f5-63b2-4b53-95c2-5ebfe497a896/Captura-de-Tela-2025-02-12-as-15.14.12.png",
+              "alt": "SX6632YF",
+              "title": "Omada SDN",
+              "text": "<p>A integração ao sistema Omada traz gerenciamento centralizado na nuvem e uma série de recursos de gerenciamento, como Provisionamento Zero-Touch (ZTP).† A plataforma de Rede Definida por Software (SDN) Omada integra dispositivos de rede, incluindo pontos de acesso, switches e roteadores, proporcionando gerenciamento centralizado na nuvem a partir de uma única interface.  Além da capacidade de ser gerenciado centralmente via web ou pelo aplicativo Omada, o SX6632YF também é fácil de gerenciar por meio de uma Interface Gráfica do Usuário (GUI) baseada na web intuitiva ou uma Interface de Linha de Comando (CLI) padrão do setor. Para ambos os métodos de gerenciamento, o tráfego é protegido por criptografia SSL ou SSH. O suporte SNMP (v1/v2c/v3) e RMON permite que o switch seja sondado para obter informações de status valiosas e enviar traps para eventos anormais.<br><br><span style=\"font-size: 8pt\">†</span><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">Essas funções requerem o uso do Controlador Omada SDN. O Provisionamento Zero-Touch requer o uso do Controlador Baseado na Nuvem Omada. Por favor, visite&nbsp;</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.tp-link.com/br/omada-cloud-based-controller/product-list/\"><span style=\"font-size: 8pt\">www.tp-link.com/br/omada-cloud-based-controller/product-list/</span></a><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">&nbsp;para confirmar quais modelos são compatíveis com o Controlador Baseado na Nuvem Omada.</span></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d15eb4d6-7fa2-4bb0-9b6e-f6dc3bbb0967/Captura-de-Tela-2025-02-12-as-17.20.49.png",
+              "alt": "SX6632YF  vem na caixa o que acompanha",
+              "title": "NA CAIXA"
+            }
+          ],
+          "productId": "156020"
         }
       ]
     },
