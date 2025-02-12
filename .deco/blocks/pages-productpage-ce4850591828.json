@@ -1165,7 +1165,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/7699bbe9-d2c6-427d-bc33-8347d23c1247/Captura-de-Tela-2025-02-12-as-11.52.38.png",
+              "banner": "https://data.decoassets.com/scarcom/c1dfa95a-0542-46c4-9a99-58a90324c8df/Captura-de-Tela-2025-02-12-as-12.18.05.png",
               "text": "<p>Os recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control and DHCP Snooping para defesa contra várias ameaças de rede. Uma lista integrada de ataques de DoS comuns está disponível, tornando mais fácil do que nunca evitá-los. Além disso, o recurso Listas de Controle de Acesso (ACL, L2 a L4) restringe o acesso a recursos de rede confidenciais ao negar pacotes com base no endereço MAC de origem e destino, endereço IP, portas TCP/UDP ou ID da VLAN. O acesso dos usuários à rede pode ser controlado por meio da autenticação 802.1X, que funciona com um servidor RADIUS/Tacacs+ para conceder acesso apenas quando credenciais de usuário válidas são fornecidas.</p>",
               "title": "Rede Segura",
               "alt": "SG3210XHP-M2 com recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control and DHCP Snooping para defesa contra várias ameaças de rede"
