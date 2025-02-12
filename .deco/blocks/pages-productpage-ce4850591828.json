@@ -1264,6 +1264,25 @@
               "text": "<p>As funções IPv6 como Dual IPv4/IPv6 Stack, MLD Snooping, IPv6 ACL, DHCPv6 Snooping, Interface IPv6, Path Maximum Transmission Unit (PMTU) Discovery e IPv6 Neighbour Discover garantem que sua rede está pronta para a Rede de Última Geração (NGN - Next Generation Network) sem a necessidade de atualizar seu hardware.</p>",
               "title": "Suporte IPv6 ",
               "alt": "Suporte IPv6"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bb0f9f04-cfae-4791-a84b-926a52184383/Captura-de-Tela-2025-02-12-as-14.42.20.png",
+              "alt": "SG3428XMP recursos",
+              "text": "<p>RJ45 Console port <br>24× Gigabit PoEt RJ45 ports <br>4× 10 Gbps SEP+ slots  <br>Micro-USB Console port <br>384 W total Pot budget, up to 30 W PoE per port</p>",
+              "title": "RECURSOS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/0280dcb1-0951-42da-b654-5158646a1fe0/Captura-de-Tela-2025-02-12-as-14.42.32.png",
+              "title": "Power input  Metal Casing  Phvsical securitv lock  Static routing, ERPS",
+              "text": "<p>Power input  <br>Metal Casing  <br>Phvsical securitv lock  <br>Static routing, ERPS</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/1573e677-ea1d-408c-ba5d-77fccc071da7/SG3428XMP-6.png",
+              "text": "<p>Rackmountable </p>",
+              "alt": "SG3428XMP Rackmountable "
             }
           ],
           "productId": "155584"
