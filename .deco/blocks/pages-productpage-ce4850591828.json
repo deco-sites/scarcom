@@ -438,14 +438,6 @@
         {
           "contentDetails": [
             {
-              "mediaType": "IMAGE"
-            }
-          ],
-          "productId": "154629"
-        },
-        {
-          "contentDetails": [
-            {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/452f7380-373a-44b1-b814-d943a7e09cfb/Captura-de-Tela-2025-02-05-as-15.06.18.png",
               "alt": "RALLY BAR Barra de vídeo all-in-one para salas médias e grandes",
@@ -504,8 +496,8 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/964715ca-cce1-4aed-8a1c-4511cc814030/Captura-de-Tela-2025-02-06-as-11.32.45.png",
               "alt": "Câmera de conferência Meetup all-in-one",
-              "text": "<p>Projetada para salas pequenas e outros espaços menores, a MeetUp oferece grandes recursos em um formato compacto.</p>",
-              "title": "Dsign All-In-One"
+              "title": "Dsign All-In-One",
+              "text": "<p>Projetada para salas pequenas e outros espaços menores, a MeetUp oferece grandes recursos em um formato compacto.</p>"
             },
             {
               "mediaType": "IMAGE",
@@ -517,23 +509,23 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/35bbc1bd-e337-4954-b596-6de25410d48c/Captura-de-Tela-2025-02-06-as-11.38.21.png",
-              "alt": "Meetup logitech camera de conferencia com suportes convenientes",
               "text": "<p>Dimensões compactas e opções de montagem versáteis economizam espaço e diminuem o cabeamento aparente.</p>",
-              "title": "Suportes Convenientes "
+              "title": "Suportes Convenientes ",
+              "alt": "Meetup logitech camera de conferencia com suportes convenientes"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/ec2c4ad6-1948-485c-9350-5c2fb89640d1/Captura-de-Tela-2025-02-06-as-11.41.37.png",
               "alt": "meetup logitech camera de conferencia alinhamento da voz",
-              "text": "<p>O alinhamento da voz e do vídeo na frente da sala é apenas o primeiro passo para conversas naturais. As tecnologias RightSound™ incluem um conjunto de microfones com formação de feixe que captura a fala, enquanto nivela automaticamente as vozes mais altas e mais baixas e elimina o ruído.</p>",
-              "title": "Fale Facilmente"
+              "title": "Fale Facilmente",
+              "text": "<p>O alinhamento da voz e do vídeo na frente da sala é apenas o primeiro passo para conversas naturais. As tecnologias RightSound™ incluem um conjunto de microfones com formação de feixe que captura a fala, enquanto nivela automaticamente as vozes mais altas e mais baixas e elimina o ruído.</p>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/060aacf9-191e-4ac7-890c-e633f37acf9a/Captura-de-Tela-2025-02-06-as-11.44.46.png",
               "alt": "Rightsense",
-              "text": "<p>As tecnologias proativas Logitech RightSense™ melhoram, facilitam e automatizam as reuniões por vídeo. O RightSight usa IA para detectar e enquadrar as pessoas para criar experiências de reunião mais imersivas, o RightSound otimiza a voz humana e aprimora a clareza da conversa e a tecnologia RightLight melhora a imagem em vídeo de todos os participantes, não importam como condições de iluminação. Com o RightSense integrado, as reuniões por vídeo são naturalmente mais atrativas e eficientes, sem necessidade de calibração, intervenção manual ou suporte.</p>",
-              "title": "REUNIÕES POR VÍDEO ATRATIVAS. AUTOMATICAMENTE."
+              "title": "REUNIÕES POR VÍDEO ATRATIVAS. AUTOMATICAMENTE.",
+              "text": "<p>As tecnologias proativas Logitech RightSense™ melhoram, facilitam e automatizam as reuniões por vídeo. O RightSight usa IA para detectar e enquadrar as pessoas para criar experiências de reunião mais imersivas, o RightSound otimiza a voz humana e aprimora a clareza da conversa e a tecnologia RightLight melhora a imagem em vídeo de todos os participantes, não importam como condições de iluminação. Com o RightSense integrado, as reuniões por vídeo são naturalmente mais atrativas e eficientes, sem necessidade de calibração, intervenção manual ou suporte.</p>"
             },
             {
               "mediaType": "IMAGE",
@@ -578,16 +570,16 @@
             {
               "mediaType": "VIDEO",
               "banner": "https://data.decoassets.com/scarcom/87fef656-8e04-4009-ae35-b53d573df20c/Captura-de-Tela-2025-02-06-as-15.06.47.png",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IEVYORSoNJ8?si=fIilrE7j7vA_7Yjw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
               "alt": "Loch TAP controlador de videoconferencia",
+              "title": "LOGITECH TAP",
               "text": "<p>Simplifique a entrada dos participantes nas videoconferências por meio de um controlador por toque com compartilhamento de conteúdo por cabo HDMI e sem fio.</p>",
-              "title": "LOGITECH TAP"
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IEVYORSoNJ8?si=fIilrE7j7vA_7Yjw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/78064d05-dd6f-431f-b4dd-7d2ebb7d58f7/Captura-de-Tela-2025-02-06-as-15.32.42.png",
-              "text": "<p>Transforme seu espaço em uma sala do Google Meet™ ou uma sala do Microsoft Teams Rooms no Windows® com o Logitech Tap. Ofereça um toque para participar, integração de calendário, compartilhamento de conteúdo fácil e uma experiência consistente em todas as salas.</p>",
               "alt": "LOGITECH TAP",
+              "text": "<p>Transforme seu espaço em uma sala do Google Meet™ ou uma sala do Microsoft Teams Rooms no Windows® com o Logitech Tap. Ofereça um toque para participar, integração de calendário, compartilhamento de conteúdo fácil e uma experiência consistente em todas as salas.</p>",
               "title": "IMPLANTE SOLUÇÕES PARA SALAS COM FACILIDADE"
             },
             {
@@ -600,52 +592,52 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c7e3cf35-1bd7-4cd1-a379-ea479fab1509/TAP-LOGITECH.png",
-              "text": "<p>Passe os cabos pela parte de trás ou inferior. Mantenha conexões firmes com mecanismos integrados de alívio de tensão e retenção.</p>",
               "alt": "LOGITECH TAP MEETING ROOM CABEAMENTO SIMPLES E SEGURO",
+              "text": "<p>Passe os cabos pela parte de trás ou inferior. Mantenha conexões firmes com mecanismos integrados de alívio de tensão e retenção.</p>",
               "title": "CABEAMENTO SIMPLES E SEGURO"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/fe764981-671b-4c54-9221-cd9b24533fb0/Captura-de-Tela-2025-02-06-as-15.40.33.png",
+              "alt": "LOGITECH TAP MEETING VÁRIAS OPÇÕES DE MONTAGEM",
               "text": "<p>Instale o Tap em praticamente qualquer lugar da sala com os suportes com elevação e para mesa, que se encaixam em orifícios padrão sobre a mesa e giram até 180° para maior visibilidade e conveniência. Se preferir, use o suporte de parede para economizar espaço na mesa em salas pequenas.</p>",
-              "title": "VÁRIAS OPÇÕES DE MONTAGEM",
-              "alt": "LOGITECH TAP MEETING VÁRIAS OPÇÕES DE MONTAGEM"
+              "title": "VÁRIAS OPÇÕES DE MONTAGEM"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/d84b24ac-719a-4c87-a7b5-42f2724bf17c/Captura-de-Tela-2025-02-06-as-15.43.43.png",
+              "alt": "LOGITECH TAP MEETING INSTALAÇAO ORGANIZADA",
               "text": "<p>Cabeamento flexível permite que você posicione o Tap perto dos participantes, simplificando sua operação, e instale o PC host em um gabinete, sob uma mesa ou atrás de uma tela</p>",
-              "title": "INSTALAÇÃO ORGANIZADA",
-              "alt": "LOGITECH TAP MEETING INSTALAÇAO ORGANIZADA"
+              "title": "INSTALAÇÃO ORGANIZADA"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/af85e728-df67-428c-a97e-232a0e8132d3/TAP-LOGITECH1.png",
               "alt": "Logitech Tap Compartilha conteúdo de forma instantânea",
-              "text": "<p>Compartilhe conteúdo de forma instantânea por conexões com cabo HDMI ou sem fio a salas de reunião por vídeo com o Tap. <br><br><span style=\"font-size: 9pt\">Compartilhamento de conteúdo sem fio disponível dependendo do serviço de videoconferência.</span></p>",
-              "title": "COMPARTILHE SEM ESFORÇO"
+              "title": "COMPARTILHE SEM ESFORÇO",
+              "text": "<p>Compartilhe conteúdo de forma instantânea por conexões com cabo HDMI ou sem fio a salas de reunião por vídeo com o Tap. <br><br><span style=\"font-size: 9pt\">Compartilhamento de conteúdo sem fio disponível dependendo do serviço de videoconferência.</span></p>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/fe8a2d1c-4a92-4286-aa86-3f3a8384bb08/TAP-LOGITECH3.png",
-              "text": "<p>Possibilite reuniões simples e eficazes tanto para funcionários presenciais quanto remotos com o portfólio da Logitech de soluções para salas de reunião que se integram aos principais serviços de videoconferência para levar a colaboração a outro patamar.</p>",
               "alt": "TAP Logitech compatível com Zoom, Google Meet, Microsoft ",
+              "text": "<p>Possibilite reuniões simples e eficazes tanto para funcionários presenciais quanto remotos com o portfólio da Logitech de soluções para salas de reunião que se integram aos principais serviços de videoconferência para levar a colaboração a outro patamar.</p>",
               "title": "COMPATÍVEL COM VÁRIAS FERRAMENTAS"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/28c973af-97c8-4bd6-a16a-fbefc0888e11/Captura-de-Tela-2025-02-06-as-16.42.53.png",
-              "title": "SIMPLES DE GERENCIAR",
+              "alt": "TAP logitech simples de gerenciar",
               "text": "<p>Com o Logitech Sync, você pode monitorar e gerenciar o Tap com seus outros dispositivos de salas de reunião a partir de uma única plataforma.</p>",
-              "alt": "TAP logitech simples de gerenciar"
+              "title": "SIMPLES DE GERENCIAR"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hBDj-_e2gU0?si=wsNEDqGexi839of-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "text": "<p>Facilidade de conexão com um toque.</p>",
               "banner": "https://data.decoassets.com/scarcom/f5b3ac35-014f-4629-9d6d-64fa92b7c394/Captura-de-Tela-2025-02-06-as-16.53.32.png",
               "alt": "Tap Logitech Facilidade de conexão com um toque.",
-              "title": "TAP LOGITECH"
+              "title": "TAP LOGITECH",
+              "text": "<p>Facilidade de conexão com um toque.</p>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hBDj-_e2gU0?si=wsNEDqGexi839of-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
           ],
           "productId": "155925"
@@ -655,37 +647,37 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/2abeee33-30ab-4031-be0f-a521ad0df7a1/microfone-rally.png",
-              "title": "Microfone Para Câmera de Videoconferência ",
+              "alt": "Microfone Para Câmera de Videoconferência Logitech",
               "text": "<p>Microfones modulares com RightSound™ para Rally, Rally Bar e Rally Bar Mini</p>",
-              "alt": "Microfone Para Câmera de Videoconferência Logitech"
+              "title": "Microfone Para Câmera de Videoconferência "
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/331cbc61-3584-46f7-94e4-0d8a5ff99127/Captura-de-Tela-2025-02-06-as-18.03.03.png",
-              "title": "BOA APARÊNCIA E ÓTIMO SOM",
               "text": "<p>Com um design elegante e discreto e materiais premium, esses microfones reproduzem um som claro, natural e coloquial. Os pods individuais contêm vários elementos de formação de feixes para capturar a fala, não distrações. Em salas maiores, implante pods de microfone adicionais para estender a matriz de microfone formação de feixe por toda a sala.</p>",
-              "alt": "Microfone para Conferencecam Logitech Rally "
+              "alt": "Microfone para Conferencecam Logitech Rally ",
+              "title": "BOA APARÊNCIA E ÓTIMO SOM"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQB8HmlVuUE?si=BbDcoQct-v-FPIEx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "title": "OUÇA CADA VOZ COM CLAREZA",
+              "alt": "Microfone para câmera de conferencia Com as tecnologias RightSound™",
               "text": "<p>Enquanto os microfones comuns captam qualquer som, esses microfones ouvem vozes. Com as tecnologias RightSound™ para nivelar automaticamente as vozes, suprimir ruídos e cancelar eco, as conversas parecem incrivelmente animadas e naturais.</p>",
-              "alt": "Microfone para câmera de conferencia Com as tecnologias RightSound™"
+              "title": "OUÇA CADA VOZ COM CLAREZA",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dQB8HmlVuUE?si=BbDcoQct-v-FPIEx\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/b251c38b-523f-4a77-bd95-4190905bd4e1/Captura-de-Tela-2025-02-05-as-15.20.59.png",
-              "title": "CABEAMENTO SIMPLIFICADO",
               "text": "<p>Mic pods podem ser encadeados em série para cobertura total em salas com mesas longas. Para mesas em forma de U ou cabeamento de fio único através de ilhós, o acessório Rally Mic Pod Hub fornece três conexões para posicionamento ideal e para trazer o controle de mudo para fácil alcance.</p>",
-              "alt": "Microfone camera de videoconferencia CABEAMENTO SIMPLIFICADO"
+              "alt": "Microfone camera de videoconferencia CABEAMENTO SIMPLIFICADO",
+              "title": "CABEAMENTO SIMPLIFICADO"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/llLRya51mIE?si=OPmeFAWnp7mgc5e3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "Microfone para camera de videoconferencia da logitech",
               "text": "<p>Graças à união de tecnologia avançada e qualidade de construção robusta, os Rally Mic Pods oferecem alcance notável e sensibilidade requintada. Materiais atenciosos resistem a impressões digitais e manchas, enquanto um ícone de LED com código de cores fornece uma confirmação visual clara quando silenciado.  <br><br><strong>Mostrado com&nbsp;Mic Pod Mount&nbsp;opcional</strong></p>",
-              "title": " DESIGN ELEGANTE"
+              "title": " DESIGN ELEGANTE",
+              "alt": "Microfone para camera de videoconferencia da logitech",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/llLRya51mIE?si=OPmeFAWnp7mgc5e3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
           ],
           "productId": "155923"
@@ -695,23 +687,23 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/67392388-8f88-42cd-a942-429ac0a8be17/Captura-de-Tela-2025-02-07-as-11.07.51.png",
-              "alt": "Microfone de expansão para MeetUp logitech",
               "title": "Microfone extensor para Meet Up",
-              "text": "<p>Microfone adicional com controle de mudo para alcance de áudio estendido</p>"
+              "text": "<p>Microfone adicional com controle de mudo para alcance de áudio estendido</p>",
+              "alt": "Microfone de expansão para MeetUp logitech"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/41da23a7-924f-496b-a08b-5172f4db92d9/Captura-de-Tela-2025-02-07-as-11.18.21.png",
-              "alt": "Microfone de expansão da Logitech para MeetUp otimizados para até 4 metro",
+              "title": "SOM SUPERIOR EM SALAS GRANDES",
               "text": "<p>O microfone de expansão da Logitech para MeetUp oferece mais flexibilidade em salas cheias.&nbsp;Os microfones com conformação em feixe para&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sites-scarcom--staging.decocdn.com/logitech-meet-up-960-001101/p?skuId=154381\"><strong><u>MeetUp</u></strong></a>&nbsp;são otimizados para até 4 metros. Para ampliar esse alcance até 5 metros, adicione um Microfone de expansão. Independente de onde as pessoas estiverem sentadas, à mesa, contra a parede ou de pé, com o Microfone de expansão para <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sites-scarcom--staging.decocdn.com/logitech-meet-up-960-001101/p?skuId=154381\"><strong><u>MeetUp</u></strong></a> todos serão ouvidos.</p>",
-              "title": "SOM SUPERIOR EM SALAS GRANDES"
+              "alt": "Microfone de expansão da Logitech para MeetUp otimizados para até 4 metro"
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/12f268af-c0c2-43c6-b3fc-0ef9f48a3d07/Captura-de-Tela-2025-02-07-as-11.20.33.png",
-              "alt": "microfone de expansão da Logitech para MeetUp flexibilidade em configurações diferentes de sala",
               "title": "OUÇA CLARAMENTE ATÉ 5 METROS",
-              "text": "<p>Como as salas de reuniões variam no tamanho, nós criamos o Microfone de expansão para fornecer a flexibilidade adicional em configurações diferentes de sala. O Microfone de expansão estende o alcance de microfone da MeetUp para 5 metros.</p>"
+              "text": "<p>Como as salas de reuniões variam no tamanho, nós criamos o Microfone de expansão para fornecer a flexibilidade adicional em configurações diferentes de sala. O Microfone de expansão estende o alcance de microfone da MeetUp para 5 metros.</p>",
+              "alt": "microfone de expansão da Logitech para MeetUp flexibilidade em configurações diferentes de sala",
+              "banner": "https://data.decoassets.com/scarcom/12f268af-c0c2-43c6-b3fc-0ef9f48a3d07/Captura-de-Tela-2025-02-07-as-11.20.33.png"
             },
             {
               "mediaType": "IMAGE",
@@ -727,10 +719,10 @@
           "contentDetails": [
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qEYx-OpM7_k?si=Gph2BOl4NPx5sdgl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
               "alt": "StreamCam Câmera Full HD 1080p com USB-C para streaming ao vivo e criação de conteúdo",
               "title": "StreamCam ",
-              "text": "<p>Câmera Full HD 1080p com USB-C para streaming ao vivo e criação de conteúdo.<br>A StreamCam transmite e grava em resolução full HD 1080p a 60 fps, fornecendo conteúdo de vídeo estonteante com movimento suave para cada aspecto de seu mundo on-line.</p>"
+              "text": "<p>Câmera Full HD 1080p com USB-C para streaming ao vivo e criação de conteúdo.<br>A StreamCam transmite e grava em resolução full HD 1080p a 60 fps, fornecendo conteúdo de vídeo estonteante com movimento suave para cada aspecto de seu mundo on-line.</p>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qEYx-OpM7_k?si=Gph2BOl4NPx5sdgl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "VIDEO",
@@ -742,9 +734,9 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/44c5d26a-e9d7-4a38-92c9-92f4495361fe/Captura-de-Tela-2025-02-07-as-14.30.29.png",
+              "alt": "FULL HD 1080p EM 60 FPS Transmita e grave vídeos para YouTube em resolução full HD 1080p em 60 quadros por segundo.",
               "title": "FULL HD 1080p EM 60 FPS ",
-              "text": "<p>Transmita e grave vídeos para YouTube, Twitch e muito mais em resolução full HD 1080p em 60 quadros por segundo. Não importa o tipo de conteúdo que você cria, a StreamCam pode produzir conteúdo preciso com movimento suave que parece natural na tela.</p>",
-              "alt": "FULL HD 1080p EM 60 FPS Transmita e grave vídeos para YouTube em resolução full HD 1080p em 60 quadros por segundo."
+              "text": "<p>Transmita e grave vídeos para YouTube, Twitch e muito mais em resolução full HD 1080p em 60 quadros por segundo. Não importa o tipo de conteúdo que você cria, a StreamCam pode produzir conteúdo preciso com movimento suave que parece natural na tela.</p>"
             },
             {
               "mediaType": "IMAGE",
@@ -803,24 +795,24 @@
           "contentDetails": [
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/15f72fdc-8df5-43b8-96c6-a016a2773a78/Captura-de-Tela-2025-02-07-as-16.44.09.png",
               "alt": "MX BRIO Webcam Logitech para streaming e colaboração 4K Ultra HD",
               "title": "MX BRIO ",
-              "text": "<p>Webcam para streaming e colaboração 4K Ultra HD.<br></p><p>Faça reuniões ou transmissões em vídeo com resolução ultra HD 4k com aprimoramento de imagem por IA e nosso maior sensor de webcam até agora, para detalhes de imagem duas vezes mais precisos em condições difíceis de iluminação.<br></p>"
+              "text": "<p>Webcam para streaming e colaboração 4K Ultra HD.<br></p><p>Faça reuniões ou transmissões em vídeo com resolução ultra HD 4k com aprimoramento de imagem por IA e nosso maior sensor de webcam até agora, para detalhes de imagem duas vezes mais precisos em condições difíceis de iluminação.<br></p>",
+              "banner": "https://data.decoassets.com/scarcom/15f72fdc-8df5-43b8-96c6-a016a2773a78/Captura-de-Tela-2025-02-07-as-16.44.09.png"
             },
             {
               "mediaType": "VIDEO",
-              "title": "ELEVE O NÍVEL DE SUAS TRANSMISSÕES",
+              "alt": "MX BRIO Webcam Logitech para streaming e colaboração 4K Ultra HD",
               "text": "<p>Faça reuniões e transmissões com excepcional qualidade de vídeo, detalhes e precisão de cor em resolução UHD 4k a 30 fps ou 1080p a 60 fps com nosso sensor de webcam mais avançado até agora, com pixels 70% maiores (em comparação com a webcam Brio 4k) para qualidade de imagem nítida.</p>",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cH_5nsstxlA?si=HrQ3t2uLbOAlGVfI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "MX BRIO Webcam Logitech para streaming e colaboração 4K Ultra HD"
+              "title": "ELEVE O NÍVEL DE SUAS TRANSMISSÕES",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cH_5nsstxlA?si=HrQ3t2uLbOAlGVfI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/9d609a26-5e07-4805-b553-02a967580ac2/Captura-de-Tela-2025-02-07-as-16.55.46.png",
+              "title": "ATÉ O DOCUMENTO DE DETALHE DE IMAGEM E VISIBILIDADE DE ROSTO EM COMPARAÇÃO COM A BRIO 4K*",
               "text": "<p>A MX Brio tem o dobro de detalhe de imagem e visibilidade de rosto em comparação com a Brio 4K e mantém você no centro das atenções mesmo em situações de pouca luz ou contraluz, enquanto o aprimoramento de imagem de rosto com IA mantém sua aparência nítida. A exposição automática, o equilíbrio de branco automático e a redução de ruído da imagem mantêm seu vídeo com cores precisas e nítidas.<br></p><p><span style=\"font-size: 8pt\">*Em comparação com a Logitech Brio 4K em condições de iluminação difíceis: 2x exposição do rosto em ambientes de alto contraste, 2x definição de imagem em condições de pouca luz.</span></p>",
-              "alt": "ATÉ O DOCUMENTO DE DETALHE DE IMAGEM E VISIBILIDADE DE ROSTO EM COMPARAÇÃO COM A BRIO 4K5",
-              "title": "ATÉ O DOCUMENTO DE DETALHE DE IMAGEM E VISIBILIDADE DE ROSTO EM COMPARAÇÃO COM A BRIO 4K*"
+              "alt": "ATÉ O DOCUMENTO DE DETALHE DE IMAGEM E VISIBILIDADE DE ROSTO EM COMPARAÇÃO COM A BRIO 4K5"
             },
             {
               "mediaType": "VIDEO",
@@ -839,23 +831,23 @@
             },
             {
               "mediaType": "IMAGE",
-              "text": "<p>Os microfones integrados com redução de ruídos com formação de feixe duplo suprimem o ruído de fundo com a ajuda de IA para garantir que você seja ouvido com clareza.</p>",
-              "title": "REDUÇÃO DE RUÍDOS DE FUNDO",
               "banner": "https://data.decoassets.com/scarcom/f939eaae-552b-4eb2-b53c-4a3692749a92/Captura-de-Tela-2025-02-07-as-17.15.20.png",
+              "title": "REDUÇÃO DE RUÍDOS DE FUNDO",
+              "text": "<p>Os microfones integrados com redução de ruídos com formação de feixe duplo suprimem o ruído de fundo com a ajuda de IA para garantir que você seja ouvido com clareza.</p>",
               "alt": "MX Brio Webcam para streaming com redução de ruídos de fundo"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/6f29fbe6-3722-4f2a-a664-796c276f512e/Captura-de-Tela-2025-02-07-as-17.19.56.png",
+              "title": "PROTETOR DE PRIVACIDADE INTEGRADA",
               "text": "<p>Proteja sua privacidade entre as reuniões girando o obturador de privacidade para bloquear completamente a câmera.</p>",
-              "alt": "MX Brio Webcam para streaming logitech com protetor de privacidade integrada",
-              "title": "PROTETOR DE PRIVACIDADE INTEGRADA"
+              "alt": "MX Brio Webcam para streaming logitech com protetor de privacidade integrada"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/b3459171-138f-4563-82ff-e5fd48a5777d/Captura-de-Tela-2025-02-07-as-17.31.40.png",
-              "text": "<p>O MX Brio é compatível com Windows, macOS ou ChromeOS. Certificada para Zoom, Microsoft Teams, Chromebook, Google Meet e Streamlabs.</p>",
               "title": "COMPATÍVEL COM",
+              "text": "<p>O MX Brio é compatível com Windows, macOS ou ChromeOS. Certificada para Zoom, Microsoft Teams, Chromebook, Google Meet e Streamlabs.</p>",
               "alt": "O MX Brio é compatível com Windows, macOS ou ChromeOS. Certificada para Zoom, Microsoft Teams, Chromebook, Google Meet e Streamlabs."
             }
           ],
@@ -872,17 +864,17 @@
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/efbf74f2-f344-4b33-8be9-9ab820e04f32/Captura-de-Tela-2025-02-07-as-17.46.43.png",
               "title": "O MICROFONE QUE DEU INÍCIO A TUDO",
               "text": "<p> Lendário por tornar o som com qualidade de transmissão acessível para streamers de jogos, YouTubers, podcasters e muito mais, o Yeti é o microfone USB que deu início a tudo, possibilitando a liberdade de criar da melhor forma possível a uma nova geração. Com base em mais de 25 anos de experiência em design de microfone de estúdio, o Yeti segue sendo o mais vendido* de microfones para PC em unidades e dólares nos EUA e Canadá. Microfone USB no mercado para streamers e criadores. Use sua voz com Yeti e traga seu talento único para o mundo.</p><p><br><span style=\"font-size: 9pt\">*Com base em dados de vendas independentes (novembro de 2021 - outubro de 2022) de microfones para PC em unidades e dólares nos EUA e Canadá</span></p>",
-              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE"
+              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE",
+              "banner": "https://data.decoassets.com/scarcom/efbf74f2-f344-4b33-8be9-9ab820e04f32/Captura-de-Tela-2025-02-07-as-17.46.43.png"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/bfcd17f7-c742-4173-87a3-28abfcf646e6/Captura-de-Tela-2025-02-07-as-17.45.05.png",
-              "title": "SOM MÍTICO, VERSATILIDADE INFINITA",
               "text": "<p>O Yeti mudou o jogo com versatilidade infinita graças à matriz de cápsulas de microfone personalizada. Alterne entre quatro padrões de captação para selecionar o som perfeito para streaming de jogos, podcasts, entrevistas, gravação de música, efeitos sonoros, dublagens, chamadas no Discord, ASMR e muito mais.</p>",
-              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE"
+              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE",
+              "title": "SOM MÍTICO, VERSATILIDADE INFINITA"
             },
             {
               "mediaType": "IMAGE",
@@ -894,29 +886,29 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/087dff61-6c9c-4822-b016-d87c9cd20e98/Captura-de-Tela-2025-02-07-as-17.53.03.png",
-              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE OMNI",
+              "title": "OMNI",
               "text": "<p>O modo Omni capta o som de forma igual por todo o microfone. É recomendado para ter a sensação de “estar presente”, como em streaming de jogos de tabuleiro com vários jogadores, Just Chatting com alguns participantes ou ao liderar uma mesa redonda pelo Discord.</p>",
-              "title": "OMNI"
+              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE OMNI"
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/8cbda674-689e-405c-8bb4-d4f9d1af89a9/Captura-de-Tela-2025-02-07-as-17.55.01.png",
-              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE cardioide",
               "text": "<p>O modo Cardioide capta o som que está na frente do microfone. O resultado é um áudio rico e encorpado. É perfeito para streaming pela Twitch, podcasts, dublagens e chamadas no Discord.</p>",
-              "title": "CARDIOIDE"
+              "title": "CARDIOIDE",
+              "banner": "https://data.decoassets.com/scarcom/8cbda674-689e-405c-8bb4-d4f9d1af89a9/Captura-de-Tela-2025-02-07-as-17.55.01.png",
+              "alt": "Yeti Microfone USB premium multipadrão com Blue VOICE cardioide"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/46e47740-4a35-4d87-8dd6-dc39a955e2a2/Captura-de-Tela-2025-02-07-as-17.58.52.png",
-              "alt": "Yeti Microfone USB premium multipadrão com Blue VO!CE FIGURE 8",
               "text": "<p>Também chamado de modo Bidirecional, o padrão do Figure 8 grava tanto na parte frontal quanto na parte posterior do microfone. É ótimo para transmitir ou gravar uma entrevista entre duas pessoas.</p>",
+              "alt": "Yeti Microfone USB premium multipadrão com Blue VO!CE FIGURE 8",
               "title": "FIGURE 8"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/3e18949d-c3e1-49ad-9c70-056bb5415b88/Captura-de-Tela-2025-02-07-as-18.08.49.png",
-              "title": "CONTROLES DE ESTÚDIO, DIRETO NO MICROFONE",
               "text": "<p>O Yeti inclui controles de estúdio que dão a você o controle de todos os níveis do processo de gravação. Monitore sua voz pelo microfone, sem latência, com saída para fone de ouvido. Ajuste a sensibilidade do microfone com o controle de ganho ou faça uma pausa rápida tocando no botão \"sem áudio\" instantâneo.</p>",
+              "title": "CONTROLES DE ESTÚDIO, DIRETO NO MICROFONE",
               "alt": "Yeti Microfone USB premium com controles de estúdio"
             },
             {
@@ -948,9 +940,9 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/a83c8424-58ff-4d73-be25-fc27c042bfa4/MK860.png",
-              "text": "<p>Apresentando o ERGO K860, um teclado dividido ergonômico projetado para melhor postura, menos esforço e mais apoio.  <br></p><p></p>",
+              "alt": "ERGO K860 LOGITECH um teclado dividido ergonômico projetado para melhor postura, menos esforço e mais apoio.",
               "title": "UMA EXPERIÊNCIA DE DIGITAÇÃO DA MELHOR QUALIDADE",
-              "alt": "ERGO K860 LOGITECH um teclado dividido ergonômico projetado para melhor postura, menos esforço e mais apoio."
+              "text": "<p>Apresentando o ERGO K860, um teclado dividido ergonômico projetado para melhor postura, menos esforço e mais apoio.  <br></p><p></p>"
             },
             {
               "mediaType": "IMAGE",
@@ -960,8 +952,8 @@
             },
             {
               "mediaType": "VIDEO",
-              "text": "<p>A estrutura curvada do ERGO K860 coloca suas mãos, pulsos, dedos e antebraços em uma postura mais natural - você notará a falta de esforço no momento em que suas mãos tocarem o teclado.</p>",
               "title": "MELHOR POSTURA, MELHORES RESULTADOS",
+              "text": "<p>A estrutura curvada do ERGO K860 coloca suas mãos, pulsos, dedos e antebraços em uma postura mais natural - você notará a falta de esforço no momento em que suas mãos tocarem o teclado.</p>",
               "alt": "ERGO K860 logitech coloca suas mãos, pulsos, dedos e antebraços em uma postura mais natural",
               "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0nq92ir1lbA?si=RGRMPwGkk7OK9RKt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
@@ -974,30 +966,30 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/e97d072d-224d-45be-a40b-0b18cbbe3277/Captura-de-Tela-2025-02-07-as-19.21.13.png",
+              "alt": "teclado ERGO K860 três camadas de conforto e suporte",
               "text": "<p>Um descanso de pulso com almofada posiciona seus antebraços logo acima do teclado, oferecendo 54% a mais de suporte de pulso e reduzindo a flexão do pulso em 25%.3Comparado a um teclado Logitech tradicional sem apoio de mão <br><br> 1. CAMADA DE SUPERFÍCIE : 0,5 mm de TECIDO DE TRICÔ com um revestimento durável, resistente a manchas e fácil de limpar que é macio ao toque.  <br>2. CAMADA DE SUPORTE: A ESPUMA DE ALTA DENSIDADE de 2 mm proporciona uma sensação confortável e firme que dispersa igualmente a pressão.  <br>3. CAMADA DE CONFORTO: 4 mm de ESPUMA DE MEMÓRIA oferece um toque agradável e personalizado, melhorando a sensação de conforto e relaxamento.</p>",
-              "title": "TRÊS CAMADAS DE CONFORTO E SUPORTE",
-              "alt": "teclado ERGO K860 três camadas de conforto e suporte"
+              "title": "TRÊS CAMADAS DE CONFORTO E SUPORTE"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/1de86643-d99f-4eb2-bd75-7fe54eee5a87/Captura-de-Tela-2025-02-07-as-19.24.20.png",
+              "alt": "teclado ERGO K860 deixa os pulsos elevados",
               "text": "<p>Mantenha seus pulsos em uma postura natural e confortável, esteja você sentado ou em pé com um recurso inovador de levantamento da palma. Pernas de inclinação de 0°, -4° e -7° levante as palmas das mãos para a posição ergonômica ideal, dependendo de sua configuração exclusiva.</p>",
-              "title": "DÊ A SEUS PULSOS UM ELEVADOR",
-              "alt": "teclado ERGO K860 deixa os pulsos elevados"
+              "title": "DÊ A SEUS PULSOS UM ELEVADOR"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/79fe3e7a-71f1-4790-ab30-2249b0d680e8/Captura-de-Tela-2025-02-07-as-19.26.32.png",
+              "alt": "teclado logitech ERGO K860 ultrapreciso",
               "text": "<p>Uma experiência de digitação fluida e ultraprecisa sem comprometer a velocidade e a precisão. Seus dedos deslizam sem esforço pela superfície fosca das teclas e os detalhes táteis tornam mais fácil orientar seus dedos e manter o foco. O layout dividido e a curva convexa promovem um posicionamento mais natural da mão e dos dedos.</p>",
-              "title": "PRECISÃO SEM ESFORÇO COM TECLAS DE CURSO PERFEITO",
-              "alt": "teclado logitech ERGO K860 ultrapreciso"
+              "title": "PRECISÃO SEM ESFORÇO COM TECLAS DE CURSO PERFEITO"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fAabGM0XCJY?si=B_xjMGEdoh_KEViY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "ERGO K860 logitech teclado ergonomico",
               "title": "Veja mais sobre o teclado ERGO K860  ",
-              "text": "<p>Um teclado ergonômico, projetado para melhor a postura, fazer menos esforço e ter mais apoio.</p>"
+              "text": "<p>Um teclado ergonômico, projetado para melhor a postura, fazer menos esforço e ter mais apoio.</p>",
+              "alt": "ERGO K860 logitech teclado ergonomico",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fAabGM0XCJY?si=B_xjMGEdoh_KEViY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
           ],
           "productId": "155853"
@@ -1015,36 +1007,36 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/172209c8-7b9f-4350-b307-6a4f565ee799/Captura-de-Tela-2025-02-07-as-19.56.41.png",
               "text": "<p>Conecte-se com excelente nitidez sempre que for ao ar em canais como Twitch e YouTube. Transmita o que quiser em sua escolha de Full 1080p a 30 qps ou HD 720p hiper-rápido a 60 qps. Transmita com maestria com áudio confiável sem interrupções, foco automático e um campo de visão diagonal de 78 °.</p>",
-              "title": "DESENVOLVIDO PARA USUÁRIOS DE PC",
-              "alt": "C922 PRO HD STREAM WEBCAM logitech Full 1080p a 30 qps ou HD 720p"
+              "alt": "C922 PRO HD STREAM WEBCAM logitech Full 1080p a 30 qps ou HD 720p",
+              "title": "DESENVOLVIDO PARA USUÁRIOS DE PC"
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/35a87e13-43bf-4563-b382-f0df92ee71d8/Captura-de-Tela-2025-02-07-as-19.58.51.png",
               "text": "<p>Transmita e grave vídeos vibrantes e realistas. O C922 possui uma lente de vidro com foco automático e um campo de visão diagonal de 78 °. O streaming em Full HD captura todos os detalhes, cores brilhantes e naturais e vídeo fluido a 1080p / 30 qps - e em HD a 720p / 60 qps. Use Capture para aplicar zoom, panorâmica e editar.</p>",
               "title": "STREAMING FULL HD 1080P",
-              "alt": " C922 PRO HD STREAM WEBCAM logitech Transmite e grava vídeos vibrantes e realistas"
+              "alt": " C922 PRO HD STREAM WEBCAM logitech Transmite e grava vídeos vibrantes e realistas",
+              "banner": "https://data.decoassets.com/scarcom/35a87e13-43bf-4563-b382-f0df92ee71d8/Captura-de-Tela-2025-02-07-as-19.58.51.png"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/1158b791-31b8-4c2c-850c-d1fb3f388751/Captura-de-Tela-2025-02-07-as-20.01.00.png",
-              "alt": "C922 PRO HD STREAM WEBCAM logitech hiper-rápida de 60 qps a 720p para um vídeo",
               "text": "<p>Os streamers sérios precisam da taxa de quadros hiper-rápida de 60 qps a 720p para um vídeo particularmente suave, e é exatamente isso que C922 oferece. Você transmitirá ao vivo sem atrasos ou distorção.</p>",
+              "alt": "C922 PRO HD STREAM WEBCAM logitech hiper-rápida de 60 qps a 720p para um vídeo",
               "title": "TAXA DE QUADRO RÁPIDA"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/f5eb0a0c-aee2-4d88-83a6-6404307b8527/Captura-de-Tela-2025-02-07-as-20.02.16.png",
-              "alt": "C922 PRO HD STREAM WEBCAM logitech CORREÇÃO AUTOMÁTICA DA ILUMINAÇÃO",
               "text": "<p>O autofoco HD e a correção de luz funcionam para ajustar as condições de iluminação, produzindo vídeo de alta definição e nítido em qualquer iluminação, para que você sempre tenha uma ótima aparência em seu stream.</p>",
-              "title": "CORREÇÃO AUTOMÁTICA DA ILUMINAÇÃO"
+              "title": "CORREÇÃO AUTOMÁTICA DA ILUMINAÇÃO",
+              "alt": "C922 PRO HD STREAM WEBCAM logitech CORREÇÃO AUTOMÁTICA DA ILUMINAÇÃO"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/d250219b-07bc-4c17-8362-c5c7e3483373/Captura-de-Tela-2025-02-07-as-20.04.24.png",
-              "alt": "C922 PRO HD STREAM WEBCAM logitech SOM ESTÉREO DUAL-MIC",
+              "text": "<p>Equipada com dois microfones omnidirecionais, a C922 Pro Webcam captura som mais realista de vários ângulos - para que sua voz soe natural e clara em sua transmissão.</p>",
               "title": "SOM ESTÉREO DUAL-MIC",
-              "text": "<p>Equipada com dois microfones omnidirecionais, a C922 Pro Webcam captura som mais realista de vários ângulos - para que sua voz soe natural e clara em sua transmissão.</p>"
+              "alt": "C922 PRO HD STREAM WEBCAM logitech SOM ESTÉREO DUAL-MIC"
             }
           ],
           "productId": "154614"
@@ -1054,44 +1046,44 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/6ca63696-c008-472a-9d22-895254af735b/c930e.png",
-              "alt": "WEBCAM PARA NEGÓCIOS C930e logitech avançada de 1080p com suporte a H.264",
+              "text": "<p>Webcam para negócios avançada de 1080p com suporte a H.264</p>",
               "title": "WEBCAM PARA NEGÓCIOS C930e",
-              "text": "<p>Webcam para negócios avançada de 1080p com suporte a H.264</p>"
+              "alt": "WEBCAM PARA NEGÓCIOS C930e logitech avançada de 1080p com suporte a H.264"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/e0316faa-cef3-4f2a-999f-ef67d4186196/Captura-de-Tela-2025-02-07-as-20.08.31.png",
-              "title": "ATUALIZE AS REUNIÕES POR VÍDEO PARA O NÍVEL EMPRESARIAL",
               "text": "<p>A C930e é uma webcam avançada HD de 1080p que oferece vídeo de alta resolução em praticamente todos os ambientes, incluindo áreas com pouco iluminação e mal iluminadas. A compressão de vídeo H.264 e um amplo campo de visão de 90° fazem com que a C930e seja a melhor opção quando a presença em pessoa não é possível.</p>",
+              "title": "ATUALIZE AS REUNIÕES POR VÍDEO PARA O NÍVEL EMPRESARIAL",
               "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech vídeo de alta resolução"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/7499dcf3-94ad-489b-975c-77e37e666432/Captura-de-Tela-2025-02-07-as-20.18.14.png",
-              "title": "AS REUNIÕES POR VÍDEO PROFISSIONAIS COMEÇAM AQUI",
               "text": "<p>A C930e oferece experiência profissional e confiável em videoconferências. O vídeo HD de 1080p/30 fps aprimorado pelo RightLight™ 2 e uma lente de alta precisão proporciona vídeo de qualidade de alta definição em qualquer ambiente. O excepcional sensor de imagem oferece qualidade HD de forma consistente sem imperfeições nem desfoques, mesmo quando o zoom é usado.</p>",
+              "title": "AS REUNIÕES POR VÍDEO PROFISSIONAIS COMEÇAM AQUI",
               "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech profissional e confiável"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/f157bcad-e15d-4fe5-acb7-a5ffb38dc8ce/Captura-de-Tela-2025-02-07-as-20.19.25.png",
-              "title": "VOCÊ. EM UM ENQUADRAMENTO PERFEITO.",
+              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech enquadramento perfeito",
               "text": "<p>Faça o enquadramento perfeito do seu espaço de trabalho e de você mesmo com o amplo campo de visão diagonal de 90°, foco automático HD, panorâmica, inclinação e zoom HD de 4x. O amplo campo de visão sem distorção combinado ao zoom digital versátil permite que a C930e capture detalhes em quadros brancos e exiba objetos físicos com facilidade. O campo de visão diagonal de 90° é também ideal para incluir vários participantes na câmera ao mesmo tempo em que se cumprem os protocolos de distanciamento físico.</p>",
-              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech enquadramento perfeito"
+              "title": "VOCÊ. EM UM ENQUADRAMENTO PERFEITO."
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/471ed0b7-360c-417c-b755-5fc2e4c1aa59/Captura-de-Tela-2025-02-07-as-20.20.47.png",
-              "title": "COMUNIQUE-SE COM NITIDEZ EXCEPCIONAL",
+              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech nitidez microfones omnidirecionais duplos integrados",
               "text": "<p>A C930e possui microfones omnidirecionais duplos integrados que capturam o áudio claramente de até um metro de distância para que as conversas soem sempre naturais e nítidas.</p>",
-              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech nitidez microfones omnidirecionais duplos integrados"
+              "title": "COMUNIQUE-SE COM NITIDEZ EXCEPCIONAL"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/1b1df395-caea-4474-a7b9-a5b1d5e30a7e/Captura-de-Tela-2025-02-07-as-20.22.21.png",
-              "text": "<p>Aumente a produtividade nas reuniões com uma transmissão de vídeo consistentemente uniforme, mesmo quando a largura de banda é limitada. A C930e oferece suporte a H.264 com a codificação de vídeo escalável (SVC) e a codificação UVC 1.5 para minimizar a dependência dos recursos do computador e da rede a fim de gerar vídeos extraordinariamente nítidos.</p>",
+              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech  Aumenta a produtividade nas reuniões",
               "title": "ALTA QUALIDADE, BAIXA LARGURA DE BANDA",
-              "alt": "WEBCAM PARA NEGÓCIOS C930e Logitech  Aumenta a produtividade nas reuniões"
+              "text": "<p>Aumente a produtividade nas reuniões com uma transmissão de vídeo consistentemente uniforme, mesmo quando a largura de banda é limitada. A C930e oferece suporte a H.264 com a codificação de vídeo escalável (SVC) e a codificação UVC 1.5 para minimizar a dependência dos recursos do computador e da rede a fim de gerar vídeos extraordinariamente nítidos.</p>"
             },
             {
               "mediaType": "IMAGE",
@@ -1136,9 +1128,9 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/b1710221-e525-48ec-82ee-62485496d58e/Captura-de-Tela-2025-02-12-as-11.55.57.png",
-              "text": "<p><strong>Portas 2.5G PoE+ para WiFi 6:</strong> 8× portas de 2.5 Gbps quebram a barreira do gigabit e desbloqueiam todo o potencial dos APs WiFi 6. <br><strong>Uplink ultrarrápido de 10G:</strong> 2× Slots SFP + de 10 Gbps permitem conectividade de alta largura de banda e capacidade de comutação sem bloqueio. <br><strong>PoE Budget de 240 W:</strong> 8× portas PoE+ compatíveis com 802.3at/af com fornecimento de energia total de 240 W*. <br><strong>Integrado ao Omada SDN:</strong> Provisionamento Zero-Touch(ZTP)**, Gerenciamento Centralizado em Nuvem e Monitoramento Inteligente. </p>",
               "alt": "Switch Gerenciável L2+ de 10 Portas com 8 Portas de 2.5 Gbps PoE+ e 2 Slots SFP+ de 10Gbps",
-              "title": "SG3210XHP-M2"
+              "title": "SG3210XHP-M2",
+              "text": "<p><strong>Portas 2.5G PoE+ para WiFi 6:</strong> 8× portas de 2.5 Gbps quebram a barreira do gigabit e desbloqueiam todo o potencial dos APs WiFi 6. <br><strong>Uplink ultrarrápido de 10G:</strong> 2× Slots SFP + de 10 Gbps permitem conectividade de alta largura de banda e capacidade de comutação sem bloqueio. <br><strong>PoE Budget de 240 W:</strong> 8× portas PoE+ compatíveis com 802.3at/af com fornecimento de energia total de 240 W*. <br><strong>Integrado ao Omada SDN:</strong> Provisionamento Zero-Touch(ZTP)**, Gerenciamento Centralizado em Nuvem e Monitoramento Inteligente. </p>"
             },
             {
               "mediaType": "IMAGE",
@@ -1149,23 +1141,23 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/95dcdc2f-31f1-4d7e-b6f9-50cc92c752bb/Captura-de-Tela-2025-02-12-as-11.26.47.png",
-              "text": "<p>Com 8 × portas PoE + de 2.5 Gbps, o switch é capaz de expansão e implantação de rede futura, fornecendo largura de banda suficiente para 6 APs WiFi de entrada. Projetado para usar um único cabo Ethernet para transmissão de dados e energia, suportando budget PoE total de energia de até 240 W * e instalação flexível para caber em vários cenários de aplicação.</p>",
               "title": "Desbloqueie Todo o Potencial do WiFi 6 com Portas Multi-Gigabit PoE+",
+              "text": "<p>Com 8 × portas PoE + de 2.5 Gbps, o switch é capaz de expansão e implantação de rede futura, fornecendo largura de banda suficiente para 6 APs WiFi de entrada. Projetado para usar um único cabo Ethernet para transmissão de dados e energia, suportando budget PoE total de energia de até 240 W * e instalação flexível para caber em vários cenários de aplicação.</p>",
               "alt": "SG3210XHP-M2 WiFi 6 com Portas Multi-Gigabit PoE+"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/56f56694-707c-45dc-ab31-d8669b6c5cc4/SG3210XHP-M2-4.png",
-              "text": "<p>2× slots SFP+ de 10 Gbps fornecem desempenho de comutação sem bloqueio e latência ultrabaixa, de forma que conexões rápidas e confiáveis com servidores e outros comutadores são facilmente construídas..</p>",
               "title": "Switch Corporativo com Uplink de 10G",
+              "text": "<p>2× slots SFP+ de 10 Gbps fornecem desempenho de comutação sem bloqueio e latência ultrabaixa, de forma que conexões rápidas e confiáveis com servidores e outros comutadores são facilmente construídas..</p>",
               "alt": "SG3210XHP-M2 Switch Corporativo com Uplink de 10G"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/2789b48b-58db-4d51-9f1e-af254ef2c91c/Captura-de-Tela-2025-02-12-as-11.49.13.png",
+              "title": "Software-Defined Networking (SDN) com Acesso a Nuvem",
               "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento de nuvem 100% centralizado. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões sem fio e com fio transparentes são fornecidas, sendo ideais para uso em hospitalidade, educação, varejo, escritórios e muito mais.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais</u></strong></a></p>",
-              "alt": "SG3210XHP-M2 Software-Defined Networking (SDN) com Acesso a Nuvem",
-              "title": "Software-Defined Networking (SDN) com Acesso a Nuvem"
+              "alt": "SG3210XHP-M2 Software-Defined Networking (SDN) com Acesso a Nuvem"
             },
             {
               "mediaType": "IMAGE",
@@ -1185,14 +1177,14 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/d9c6d0c5-e6b4-4d6e-9138-2fb8182f8648/03_normal_1606737689605f.jpg",
               "alt": "SG3210XHP-M2 QoS Avançado O tráfego de voz e vídeo pode ser priorizado",
-              "text": "<p>O tráfego de voz e vídeo pode ser priorizado com base no endereço IP, endereço MAC, número da porta TCP, número da porta UDP e muito mais. Com o recurso de QoS (Quality of Service), os serviços de voz e vídeo permanecem sem problemas, mesmo quando a largura de banda é deficiente.</p>",
-              "title": "QoS Avançado"
+              "title": "QoS Avançado",
+              "text": "<p>O tráfego de voz e vídeo pode ser priorizado com base no endereço IP, endereço MAC, número da porta TCP, número da porta UDP e muito mais. Com o recurso de QoS (Quality of Service), os serviços de voz e vídeo permanecem sem problemas, mesmo quando a largura de banda é deficiente.</p>"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/b55ffbd7-c9cf-48a3-9fd1-93a15efb1b85/02_normal_1606737701477c.jpg",
-              "text": "<p>As funções IPv6 como Dual IPv4/IPv6 Stack, MLD Snooping, IPv6 ACL, DHCPv6 Snooping, Interface IPv6, Path Maximum Transmission Unit (PMTU) Discovery e IPv6 Neighbour Discover garantem que sua rede está pronta para a Rede de Última Geração (NGN - Next Generation Network) sem a necessidade de atualizar seu hardware.</p>",
               "title": "Suporte IPv6",
+              "text": "<p>As funções IPv6 como Dual IPv4/IPv6 Stack, MLD Snooping, IPv6 ACL, DHCPv6 Snooping, Interface IPv6, Path Maximum Transmission Unit (PMTU) Discovery e IPv6 Neighbour Discover garantem que sua rede está pronta para a Rede de Última Geração (NGN - Next Generation Network) sem a necessidade de atualizar seu hardware.</p>",
               "alt": "SG3210XHP-M2 Suporte IPv6 "
             }
           ],
@@ -1203,15 +1195,15 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/00bcfd21-399e-4c8e-aa41-4e3085de7de7/Captura-de-Tela-2025-02-12-as-13.39.13.png",
-              "alt": "SG3428XMP Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP+ 10Gbps",
               "text": "<p><strong>Uplink Ultrarrápido de 10G:</strong> 4×slots SFP+ de 10 Gbps possibilitam uma conectividade com alta largura de banda e capacidade de comutação sem bloqueio.  <strong>Budget PoE de 384 W:</strong> 24× portas PoE+ compatíveis com 802.3at/af com um fornecimento de energia total de 384 W*. <br><strong>Integrado no Omada SDN:</strong> Provisionamento Zero-Touch (ZTP)**, Gerenciamento de Nuvem Centralizado e Monitoramento Inteligente. <br><strong>Gerenciamento Centralizado:</strong> Acesso à nuvem e aplicativo Omada para extrema conveniência e gerenciamento fácil. </p>",
+              "alt": "SG3428XMP Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP+ 10Gbps",
               "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP+ 10Gbps"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/80781784-6ef5-4d23-9aa7-d636d4acd807/SG3428XMP-1.png",
-              "alt": "SG3428XMP Conexão de Uplink Ultrarrápida de 10G",
-              "text": "<p><strong>Roteamento Estático:</strong> Ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos da rede. <br><strong>Robustas Estratégias de Segurança: </strong>Ligação de Portas IP-MAC, ACL, Segurança de Portas, Defesa contra DoS, Storm Control, DHCP Snooping, 802.1X, Autenticação Radius e muito mais. <br><strong>Otimização de Aplicações de Voz e Vídeo: </strong>QoS L2/L3/L4 e IGMP snooping. Gerenciamento Autônomo: Web, CLI (Porta Console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos de gerenciamento poderosos. <br><strong>Suporta autoaprendizagem</strong> de endereço MAC e MDI/MDIX automático.</p>"
+              "text": "<p><strong>Roteamento Estático:</strong> Ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos da rede. <br><strong>Robustas Estratégias de Segurança: </strong>Ligação de Portas IP-MAC, ACL, Segurança de Portas, Defesa contra DoS, Storm Control, DHCP Snooping, 802.1X, Autenticação Radius e muito mais. <br><strong>Otimização de Aplicações de Voz e Vídeo: </strong>QoS L2/L3/L4 e IGMP snooping. Gerenciamento Autônomo: Web, CLI (Porta Console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos de gerenciamento poderosos. <br><strong>Suporta autoaprendizagem</strong> de endereço MAC e MDI/MDIX automático.</p>",
+              "alt": "SG3428XMP Conexão de Uplink Ultrarrápida de 10G"
             },
             {
               "mediaType": "IMAGE",
@@ -1223,22 +1215,22 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/607074af-13b3-48f4-a2d5-2065e30617b3/SG3428XMP-3.png",
-              "alt": "SG3428XMP suporta um budget de energia PoE total de 384 W",
               "text": "<p>Oferecendo 24× portas PoE+ compatíveis com 802.3af/at, o switch suporta um budget de energia PoE total de 384 W.* Projetado para usar um único cabo Ethernet para transmissão de dados e energia, o produto oferece implementação flexível para dispositivos compatíveis com PoE, como access points sem fio, câmeras IP e telefones IP, reduzindo os custos de infraestrutura para pequenas empresas.</p>",
-              "title": "24 Portas PoE+ Dedicadas (Budget de 384 W) para Diversas Aplicações"
+              "title": "24 Portas PoE+ Dedicadas (Budget de 384 W) para Diversas Aplicações",
+              "alt": "SG3428XMP suporta um budget de energia PoE total de 384 W"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/a33e0daa-cfa2-48d8-acd6-47b6a8f2cef6/Captura-de-Tela-2025-02-12-as-13.40.44.png",
               "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento de nuvem 100% centralizado. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões sem fio e com fio transparentes são fornecidas, sendo ideais para uso em hospitalidade, educação, varejo, escritórios e muito mais.<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais</u></strong></a></p>",
-              "title": "Software-Defined Networking (SDN) com Acesso a Nuvem",
-              "alt": "SG3428XMP Acesso via Nuvem sem Complicações ou Controladores Locais"
+              "alt": "SG3428XMP Acesso via Nuvem sem Complicações ou Controladores Locais",
+              "title": "Software-Defined Networking (SDN) com Acesso a Nuvem"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/a985969a-003e-4895-a2ad-4b8bfcbbbb35/Captura-de-Tela-2025-02-12-as-13.41.19.png",
-              "title": "Rede Segura ",
               "text": "<p>Os recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control and DHCP Snooping para defesa contra várias ameaças de rede. Uma lista integrada de ataques de DoS comuns está disponível, tornando mais fácil do que nunca evitá-los. Além disso, o recurso Listas de Controle de Acesso (ACL, L2 a L4) restringe o acesso a recursos de rede confidenciais ao negar pacotes com base no endereço MAC de origem e destino, endereço IP, portas TCP/UDP ou ID da VLAN. O acesso dos usuários à rede pode ser controlado por meio da autenticação 802.1X, que funciona com um servidor RADIUS/Tacacs+ para conceder acesso apenas quando credenciais de usuário válidas são fornecidas.</p>",
+              "title": "Rede Segura ",
               "alt": "SG3428XMP  Recursos L3 Avançados"
             },
             {
@@ -1251,16 +1243,16 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/88f95970-a926-47f4-9d78-9c73d34e4f29/overview_TL-SG3428XMP_2_normal_1606737776283n.jpg",
-              "text": "<p>O tráfego de voz e vídeo pode ser priorizado com base no endereço IP, endereço MAC, número da porta TCP, número da porta UDP e muito mais. Com o recurso de QoS (Quality of Service), os serviços de voz e vídeo permanecem sem problemas, mesmo quando a largura de banda é deficiente.</p>",
               "alt": "SG3428XMPQoS Avançado",
+              "text": "<p>O tráfego de voz e vídeo pode ser priorizado com base no endereço IP, endereço MAC, número da porta TCP, número da porta UDP e muito mais. Com o recurso de QoS (Quality of Service), os serviços de voz e vídeo permanecem sem problemas, mesmo quando a largura de banda é deficiente.</p>",
               "title": "QoS Avançado"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/29243939-400d-4a53-a814-c3590bb64628/overview_TL-SG3428XMP_3_normal_1606737785321u.jpg",
-              "alt": "SG3428XMP  Recursos para ISP",
+              "text": "<p>Recursos sFlow, QinQ, L2PT, de Inserção de IDs PPPoE e de autenticação IGMP, desenvolvidos com os provedores de serviço em mente. O OAM 802.3ah e o Protocolo de Detecção de Links do Dispositivo (DLDP) oferecem monitoramento fácil e resolução de problemas de links Ethernet.</p>",
               "title": "Recursos para ISP***",
-              "text": "<p>Recursos sFlow, QinQ, L2PT, de Inserção de IDs PPPoE e de autenticação IGMP, desenvolvidos com os provedores de serviço em mente. O OAM 802.3ah e o Protocolo de Detecção de Links do Dispositivo (DLDP) oferecem monitoramento fácil e resolução de problemas de links Ethernet.</p>"
+              "alt": "SG3428XMP  Recursos para ISP"
             },
             {
               "mediaType": "IMAGE",
@@ -1296,15 +1288,15 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/6d8ef341-e944-40f0-bdc1-519629be0624/Captura-de-Tela-2025-02-12-as-15.00.23.png",
-              "title": "SG3452P",
+              "alt": "SG3452P Switch Gerenciável L2+ de 52 Portas com 52 Portas Gigabit e 48 Portas PoE+ e 4 Slots SFP",
               "text": "<p><strong>Gerenciamento PoE de 384 W:</strong> 48× portas PoE+ compatíveis com 802.3at/af com uma fonte de alimentação total de 384 W*. <br><strong>Portas Gigabit Completas: </strong>48× portas gigabit RJ45 e 4× slots SFP gigabit fornecem conexões de alta velocidade. <br><strong>Integrado ao Omada SDN:</strong> provisionamento Zero-Touch (ZTP)**, gerenciamento centralizado de nuvem e monitoramento inteligente. <br><strong>Gerenciamento centralizado: </strong>acesso à nuvem e aplicativo Omada para ultra conveniência e fácil gerenciamento.</p>",
-              "alt": "SG3452P Switch Gerenciável L2+ de 52 Portas com 52 Portas Gigabit e 48 Portas PoE+ e 4 Slots SFP"
+              "title": "SG3452P"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/054737cc-ba3d-46ef-9ca5-bd7246c11652/SG3452P.png",
-              "text": "<p><strong>Roteamento estático: </strong>ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos de rede. <br><strong>Estratégias de segurança robustas: </strong>vinculação de porta IP-MAC, ACL, segurança de porta, defesa de DoS, Storm Control, espionagem de DHCP, 802.1X, Autenticação Radius e muito mais. <br><strong>Otimize aplicativos de voz e vídeo:</strong> QoS L2/L3/L4 e snooping IGMP. <br><strong>Gerenciamento autônomo: </strong>Web, CLI (porta de console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos avançados de gerenciamento.</p>",
-              "alt": "SG3452P Rede definida por software (SDN) com acesso à nuvem"
+              "alt": "SG3452P Rede definida por software (SDN) com acesso à nuvem",
+              "text": "<p><strong>Roteamento estático: </strong>ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos de rede. <br><strong>Estratégias de segurança robustas: </strong>vinculação de porta IP-MAC, ACL, segurança de porta, defesa de DoS, Storm Control, espionagem de DHCP, 802.1X, Autenticação Radius e muito mais. <br><strong>Otimize aplicativos de voz e vídeo:</strong> QoS L2/L3/L4 e snooping IGMP. <br><strong>Gerenciamento autônomo: </strong>Web, CLI (porta de console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos avançados de gerenciamento.</p>"
             },
             {
               "mediaType": "IMAGE",
@@ -1316,15 +1308,15 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/a985969a-003e-4895-a2ad-4b8bfcbbbb35/Captura-de-Tela-2025-02-12-as-13.41.19.png",
-              "title": "Rede Segura",
+              "alt": "SG3452P Rede Segura",
               "text": "<p>Os recursos de segurança incluem IP-MAC-Port-VID Binding, Port Security, Storm Control e DHCP Snooping para se defender contra uma variedade de ameaças de rede. Uma lista integrada de ataques DoS comuns está disponível, tornando mais fácil do que nunca preveni-los. Além disso, o recurso Listas de controle de acesso (ACL, L2 a L4) restringe o acesso a recursos de rede confidenciais negando pacotes com base no endereço MAC de origem e destino, endereço IP, portas TCP/UDP ou ID de VLAN. Usuários com acesso à rede podem ser controlados por meio de autenticação 802.1X, que funciona com um servidor RADIUS/Tacacs+ para conceder acesso somente quando credenciais de usuário válidas são fornecidas.</p>",
-              "alt": "SG3452P Rede Segura"
+              "title": "Rede Segura"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/8ffdc4f5-63b2-4b53-95c2-5ebfe497a896/Captura-de-Tela-2025-02-12-as-15.14.12.png",
-              "title": "Recursos de Nível Empresarial",
               "text": "<p>Uma linha completa de recursos L2+ é suportada, incluindo 802.1Q VLAN, Port Mirroring, STP/RSTP/MSTP, Link Aggregation Control Protocol e 802.3x Flow Control. O IGMP Snooping avançado garante que o switch encaminhe fluxos multicast de forma inteligente apenas para os assinantes apropriados, eliminando o tráfego desnecessário. Ao mesmo tempo, IGMP throttling e a filtragem restringem cada assinante em um nível de porta para impedir o acesso multicast não autorizado. O roteamento estático é uma maneira simples de segmentar a rede e roteia internamente o tráfego através do switch para maior eficiência.</p>",
+              "title": "Recursos de Nível Empresarial",
               "alt": "SG3452P linha completa de recursos L2+ é suportada"
             },
             {
@@ -1337,15 +1329,15 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/cee19803-bdc7-48b2-af1c-2aa50acfe10c/yp-.png",
-              "alt": "SG3452P Diversos Cenários de Aplicação ",
               "title": "Diversos Cenários de Aplicação ",
-              "text": "<p>Hotéis</p><p>Educação</p><p>Varejo</p><p>Escritório</p><p>Restaurantes</p>"
+              "text": "<p>Hotéis</p><p>Educação</p><p>Varejo</p><p>Escritório</p><p>Restaurantes</p>",
+              "alt": "SG3452P Diversos Cenários de Aplicação "
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/8cf58937-675d-447d-9e6f-3894aa28e99a/TL-SG3452P_UN_1.0_02_normal_20230524192648m.jpg",
-              "alt": "SG3452P Suporte IPv6",
               "text": "<p>Funções IPv6 como Dual IPv4/IPv6 Stack, MLD Snooping, IPv6 ACL, DHCPv6 Snooping, IPv6 Interface, Path Maximum Transmission Unit (PMTU) Discovery e IPv6 Neighbor Discover garantem que sua rede esteja pronta para a Rede de Próxima Geração (NGN) sem a necessidade de atualizar o seu hardware.</p>",
+              "alt": "SG3452P Suporte IPv6",
               "title": "Suporte IPv6"
             },
             {
@@ -1358,8 +1350,8 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/5ea96e60-d65a-427f-989c-c00b1e059f62/Captura-de-Tela-2025-02-12-as-15.27.00.png",
-              "alt": "SG3452P ",
-              "text": "<p>Physical security lock<br>Metal Casing <br>Power input <br>Static routing, ERPS</p>"
+              "text": "<p>Physical security lock<br>Metal Casing <br>Power input <br>Static routing, ERPS</p>",
+              "alt": "SG3452P "
             },
             {
               "mediaType": "IMAGE",
@@ -1370,8 +1362,8 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/e5e5b490-8049-48a4-802d-8e91cafb0ffc/SG3428XMP-4.png",
-              "title": "NOTA",
-              "text": "<p>Verifique as observações:</p>"
+              "text": "<p>Verifique as observações:</p>",
+              "title": "NOTA"
             }
           ],
           "productId": "155685"
@@ -1381,17 +1373,17 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/cbe8fb67-95d4-4d97-b8b0-ae68099eeb95/SX6632YF_01_large_20240109113052q.jpg",
-              "videoHtml": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
-              "alt": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
+              "title": "SX6632YF ",
               "text": "<ul><li><p style=\"text-align: justify\">26× slots SFP+ de 10G e 6× slots SFP28 de 25G </p></li><li><p style=\"text-align: justify\">Capacidade de comutação de 820 Gbps Empilhamento físico para redundância e desempenho integrados </p></li><li><p style=\"text-align: justify\">Recursos de camada 3: RIP, OSPF, ECMP, VRRP, PIM-DM, Servidor/Relé DHCP </p></li><li><p style=\"text-align: justify\">Estratégias de segurança: ACL, Segurança de Porta, Defesa contra DoS, 802.1X </p></li><li><p style=\"text-align: justify\">Alta disponibilidade com duas fontes de alimentação substituíveis em campo*, VRRP e ERPS </p></li><li><p style=\"text-align: justify\">Gerenciamento centralizado na nuvem via controlador Omada SDN </p></li><li><p style=\"text-align: justify\">Gerenciamento autônomo via web, CLI, SNMP e RMON*</p></li></ul>",
-              "title": "SX6632YF "
+              "alt": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G",
+              "videoHtml": "SX6632YF Switch de Agregação Gerenciável L3 Empilhável de 26 portas SFP+ 10G e 6 portas SFP28 25G"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/7d521dc4-558f-44ca-8e84-8d3b0b5fdcfe/SX6632YF_02_large_20240109113106q.jpg",
+              "text": "<p>O Omada SX6632YF é um switch gerenciado verdadeiramente L3 com portas de fibra completa que oferece roteamento L3, velocidade de 25 Gbps com fio, empilhamento e fontes de alimentação redundantes, atendendo às demandas da camada de convergência. Ele vem com 6× slots SFP28 de 25 Gbps, 26× slots SFP+ de 10 Gbps e empilhamento físico. Integrado com recursos robustos de segurança e gerenciamento abrangente, este switch garante desempenho confiável para redes de pequenas e médias empresas, empresas e ISPs.</p>",
               "alt": "SX6632YF ",
-              "title": "O Que Este Produto Faz",
-              "text": "<p>O Omada SX6632YF é um switch gerenciado verdadeiramente L3 com portas de fibra completa que oferece roteamento L3, velocidade de 25 Gbps com fio, empilhamento e fontes de alimentação redundantes, atendendo às demandas da camada de convergência. Ele vem com 6× slots SFP28 de 25 Gbps, 26× slots SFP+ de 10 Gbps e empilhamento físico. Integrado com recursos robustos de segurança e gerenciamento abrangente, este switch garante desempenho confiável para redes de pequenas e médias empresas, empresas e ISPs.</p>"
+              "title": "O Que Este Produto Faz"
             },
             {
               "mediaType": "IMAGE",
@@ -1403,23 +1395,23 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/39b9a435-0615-42d0-ae37-6c841ec782a0/SX6632YF_04_large_20240109113127g.jpg",
-              "alt": "SX6632YF Altamente Disponível",
               "title": "Altamente Disponível",
-              "text": "<p>Fontes de alimentação redundantes internas fixas* e VRRP tornam-no uma escolha ideal para arquitetura de rede confiável. ERPS oferece proteção e recuperação rápidas em uma topologia de anel.<br><br><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">*Acompanha um módulo PSM550-AC por padrão, e outra fonte de alimentação redundante substituível em campo requer uma compra separada.</span></p>"
+              "text": "<p>Fontes de alimentação redundantes internas fixas* e VRRP tornam-no uma escolha ideal para arquitetura de rede confiável. ERPS oferece proteção e recuperação rápidas em uma topologia de anel.<br><br><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">*Acompanha um módulo PSM550-AC por padrão, e outra fonte de alimentação redundante substituível em campo requer uma compra separada.</span></p>",
+              "alt": "SX6632YF Altamente Disponível"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/3911d094-452d-4a9b-aaf4-e4d5b1ed79e1/SX6632YF_05_large_20240109113139f.jpg",
-              "alt": "SX6632YF Funções de Segurança Aprimoradas",
               "title": "Funções de Segurança Aprimoradas",
-              "text": "<p>Defenda-se contra uma variedade de ameaças de rede com suporte ACL (IPv4 e IPv6), Inspeção Dinâmica de ARP, IEEE 802.1X, MAB, Segurança de Porta e Shell Seguro.</p>"
+              "text": "<p>Defenda-se contra uma variedade de ameaças de rede com suporte ACL (IPv4 e IPv6), Inspeção Dinâmica de ARP, IEEE 802.1X, MAB, Segurança de Porta e Shell Seguro.</p>",
+              "alt": "SX6632YF Funções de Segurança Aprimoradas"
             },
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/8ffdc4f5-63b2-4b53-95c2-5ebfe497a896/Captura-de-Tela-2025-02-12-as-15.14.12.png",
-              "alt": "SX6632YF",
               "title": "Omada SDN",
-              "text": "<p>A integração ao sistema Omada traz gerenciamento centralizado na nuvem e uma série de recursos de gerenciamento, como Provisionamento Zero-Touch (ZTP).† A plataforma de Rede Definida por Software (SDN) Omada integra dispositivos de rede, incluindo pontos de acesso, switches e roteadores, proporcionando gerenciamento centralizado na nuvem a partir de uma única interface.  Além da capacidade de ser gerenciado centralmente via web ou pelo aplicativo Omada, o SX6632YF também é fácil de gerenciar por meio de uma Interface Gráfica do Usuário (GUI) baseada na web intuitiva ou uma Interface de Linha de Comando (CLI) padrão do setor. Para ambos os métodos de gerenciamento, o tráfego é protegido por criptografia SSL ou SSH. O suporte SNMP (v1/v2c/v3) e RMON permite que o switch seja sondado para obter informações de status valiosas e enviar traps para eventos anormais.<br><br><span style=\"font-size: 8pt\">†</span><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">Essas funções requerem o uso do Controlador Omada SDN. O Provisionamento Zero-Touch requer o uso do Controlador Baseado na Nuvem Omada. Por favor, visite&nbsp;</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.tp-link.com/br/omada-cloud-based-controller/product-list/\"><span style=\"font-size: 8pt\">www.tp-link.com/br/omada-cloud-based-controller/product-list/</span></a><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">&nbsp;para confirmar quais modelos são compatíveis com o Controlador Baseado na Nuvem Omada.</span></p>"
+              "text": "<p>A integração ao sistema Omada traz gerenciamento centralizado na nuvem e uma série de recursos de gerenciamento, como Provisionamento Zero-Touch (ZTP).† A plataforma de Rede Definida por Software (SDN) Omada integra dispositivos de rede, incluindo pontos de acesso, switches e roteadores, proporcionando gerenciamento centralizado na nuvem a partir de uma única interface.  Além da capacidade de ser gerenciado centralmente via web ou pelo aplicativo Omada, o SX6632YF também é fácil de gerenciar por meio de uma Interface Gráfica do Usuário (GUI) baseada na web intuitiva ou uma Interface de Linha de Comando (CLI) padrão do setor. Para ambos os métodos de gerenciamento, o tráfego é protegido por criptografia SSL ou SSH. O suporte SNMP (v1/v2c/v3) e RMON permite que o switch seja sondado para obter informações de status valiosas e enviar traps para eventos anormais.<br><br><span style=\"font-size: 8pt\">†</span><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">Essas funções requerem o uso do Controlador Omada SDN. O Provisionamento Zero-Touch requer o uso do Controlador Baseado na Nuvem Omada. Por favor, visite&nbsp;</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.tp-link.com/br/omada-cloud-based-controller/product-list/\"><span style=\"font-size: 8pt\">www.tp-link.com/br/omada-cloud-based-controller/product-list/</span></a><span style=\"color: rgb(0, 0, 0); font-size: 8pt\">&nbsp;para confirmar quais modelos são compatíveis com o Controlador Baseado na Nuvem Omada.</span></p>",
+              "alt": "SX6632YF"
             },
             {
               "mediaType": "IMAGE",
@@ -1438,9 +1430,9 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/8beae740-aac2-45b7-8a29-531490568f61/SX6632YF4.png",
-              "text": "<p><span style=\"color: rgb(33, 33, 33); font-size: 13px\">-  </span>Quatro ventoinhas substituíveis no terreno e de permuta a quente (redundante N+1)<br><br>- Número de empilhamento: 8 <br>- Porta de empilhamento: 25G SFP28 <br>- Largura de banda de empilhamento: Até 300 Gbps (6 portas de empilhamento)<br><br>- Trava de Segurança Física<br><br>- Duas fontes de alimentação redundantes substituíveis em campo e com troca a quente (100-240 VAC, 50/60 Hz) <br><br><span style=\"font-size: 8pt\"> *É fornecido com um módulo PSM550-AC por defeito e outra fonte de alimentação redundante substituível no terreno requer uma aquisição separada.</span></p>",
               "alt": "SX6632YF Alta disponibilidade com duas fontes de alimentação substituíveis em campo*, VRRP e ERPS",
-              "title": "Características de Hardware "
+              "title": "Características de Hardware ",
+              "text": "<p><span style=\"color: rgb(33, 33, 33); font-size: 13px\">-  </span>Quatro ventoinhas substituíveis no terreno e de permuta a quente (redundante N+1)<br><br>- Número de empilhamento: 8 <br>- Porta de empilhamento: 25G SFP28 <br>- Largura de banda de empilhamento: Até 300 Gbps (6 portas de empilhamento)<br><br>- Trava de Segurança Física<br><br>- Duas fontes de alimentação redundantes substituíveis em campo e com troca a quente (100-240 VAC, 50/60 Hz) <br><br><span style=\"font-size: 8pt\"> *É fornecido com um módulo PSM550-AC por defeito e outra fonte de alimentação redundante substituível no terreno requer uma aquisição separada.</span></p>"
             },
             {
               "mediaType": "IMAGE",
@@ -1451,20 +1443,55 @@
             },
             {
               "mediaType": "VIDEO",
-              "title": "Introdução a Switches PoE TP Link",
-              "text": "<p>Conheça como funciona e para que serve os Switches PoE da TP-link. </p>",
               "alt": "Introdução a Switches PoE TP Link",
+              "text": "<p>Conheça como funciona e para que serve os Switches PoE da TP-link. </p>",
+              "title": "Introdução a Switches PoE TP Link",
               "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=J4kAlnlEOnblyaxD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=IIuP3_7fhpZUc0el&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "Omada - Gerenciamento Centralizado - TP-Link",
               "title": "Omada - Gerenciamento Centralizado - TP-Link",
-              "text": "<p><span style=\"color: rgb(19, 19, 19); font-size: 14px\">Fortaleça sua Segurança Corporativa com a TP-Link.</span></p>"
+              "text": "<p><span style=\"color: rgb(19, 19, 19); font-size: 14px\">Fortaleça sua Segurança Corporativa com a TP-Link.</span></p>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=IIuP3_7fhpZUc0el&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Omada - Gerenciamento Centralizado - TP-Link"
             }
           ],
           "productId": "156020"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/aae90771-0757-4a2b-9228-70f9fe31f81b/Sem-Titulo.png",
+              "alt": "SG3428MP Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit PoE+ e 4 Slots SFP",
+              "text": "<p><strong>PoE Budget de 384 W:</strong> 24 × portas PoE+ compatíveis com 802.3at/af budget PoE total de 384 W*. <br><strong>Portas Full Gigabit: </strong>portas PoE+ de 24 × gigabit e slots SFP de 4 × gigabit fornecem conexões de alta velocidade. </p><p><strong>Integrado ao Omada SDN:</strong> Zero-Touch Provisioning (ZTP)**, Gerenciamento de Nuvem Centralizado e Monitoramento Inteligente.<br><strong>Gerenciamento Centralizado:</strong> acesso à nuvem e aplicativo Omada para ultra conveniência e fácil gerenciamento.</p>",
+              "title": "SG3428MP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/f4ef19f2-30c8-4200-bf24-2ba156d2aae1/SG3428MP-1.png",
+              "alt": "SG3428MP Otimize Aplicativos de Voz e Vídeo:",
+              "text": "<p><strong>Estratégias de Segurança Robustas:</strong> vinculação de porta IP-MAC, IP-MAC-Port Binding, ACL, Port Security, DoS Defend, Storm control, DHCP Snooping, 802.1X, Radius Authentication, e muito mais. <br><strong>Otimize Aplicativos de Voz e Vídeo:</strong> QoS L2/L3/L4 e snooping IGMP. <br><strong>Gerenciamento Autônomo: </strong>Web, CLI (porta de console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos de gerenciamento poderosos. <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/5725f00f-ce90-4fb7-adaa-bd5563007430/SG3428MP-2.png",
+              "title": "24 Portas PoE+ Dedicadas (384 W Budget) para Diversas Aplicações",
+              "text": "<p>Possui 24 portas 802.3af/at compatíveis com PoE+, o switch suporta até 384 W 384 W de potência total de energia PoE.* Projetado para usar um único cabo Ethernet para transmissão de dados e energia, oferece implementação flexível para dispositivos compatíveis com PoE, como como Access Points Wireless, câmeras IP e telefones IP, reduzindo os custos de infraestrutura para pequenas empresas.</p>",
+              "alt": "SG3428MP 24 Portas PoE+ Dedicadas (384 W Budget)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/006deafa-aa6f-40f2-a654-e6a4ce47bd9b/SG3428MP-3.png",
+              "title": "Rede Definida por Software (SDN) com Acesso à Nuvem",
+              "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento centralizado 100% em nuvem. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões sem fio e com fio transparentes são fornecidas, sendo ideais para uso em hotéis, escolas, comércio, escritórios e muito mais.</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais</u></strong></a></p>",
+              "alt": "SG3428MP Rede Definida por Software (SDN) com Acesso à Nuvem"
+            },
+            {
+              "mediaType": "IMAGE"
+            }
+          ],
+          "productId": "154380"
         }
       ]
     },
