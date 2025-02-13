@@ -436,7 +436,11 @@
           "productId": "154629"
         },
         {
-          "contentDetails": [],
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE"
+            }
+          ],
           "productId": "154629"
         },
         {
@@ -1421,7 +1425,29 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/d15eb4d6-7fa2-4bb0-9b6e-f6dc3bbb0967/Captura-de-Tela-2025-02-12-as-17.20.49.png",
               "alt": "SX6632YF  vem na caixa o que acompanha",
-              "title": "NA CAIXA"
+              "title": "NA CAIXA ",
+              "text": "<p>Acompanha o produto: <br>- Interruptor SX6632YF <br>- Cabo de alimentação <br>- Guia de instalação rápida <br>- Kit de montagem em bastidor <br>- Pés de borracha</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/66d43335-f1a5-4732-9aff-5623ea809e31/Interface-2.png",
+              "alt": "SX6632YF Interface",
+              "text": "<p>• 6× 10/25G SFP28 slots <br>• 26× slots SFP+ 1/10G <br>• 2× portas USB 3.0 <br>• 1× porta de consola RJ45 <br>• 1× porta de consola USB tipo C <br>• 1× porta de gestão RJ45</p>",
+              "title": "Interface"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/8beae740-aac2-45b7-8a29-531490568f61/SX6632YF4.png",
+              "text": "<p><span style=\"color: rgb(33, 33, 33); font-size: 13px\">-  </span>Quatro ventoinhas substituíveis no terreno e de permuta a quente (redundante N+1)<br><br>- Número de empilhamento: 8 <br>- Porta de empilhamento: 25G SFP28 <br>- Largura de banda de empilhamento: Até 300 Gbps (6 portas de empilhamento)<br><br>- Trava de Segurança Física<br><br>- Duas fontes de alimentação redundantes substituíveis em campo e com troca a quente (100-240 VAC, 50/60 Hz) <br><br><span style=\"font-size: 8pt\"> *É fornecido com um módulo PSM550-AC por defeito e outra fonte de alimentação redundante substituível no terreno requer uma aquisição separada.</span></p>",
+              "alt": "SX6632YF Alta disponibilidade com duas fontes de alimentação substituíveis em campo*, VRRP e ERPS",
+              "title": "Características de Hardware "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/06f146ff-5335-4eb4-a481-0d10833ffb20/SX6632YF5.png",
+              "alt": "SX6632YF Montável em rack",
+              "text": "<p>Montável em rack<br>Dimensões (L X C X A):  17.3 × 15.0 × 1.7 in (440 × 380 × 44 mm)</p>",
+              "title": "Montagem"
             }
           ],
           "productId": "156020"
