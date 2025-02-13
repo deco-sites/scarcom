@@ -1448,6 +1448,20 @@
               "alt": "SX6632YF Montável em rack",
               "text": "<p>Montável em rack<br>Dimensões (L X C X A):  17.3 × 15.0 × 1.7 in (440 × 380 × 44 mm)</p>",
               "title": "Montagem"
+            },
+            {
+              "mediaType": "VIDEO",
+              "title": "Introdução a Switches PoE TP Link",
+              "text": "<p>Conheça como funciona e para que serve os Switches PoE da TP-link. </p>",
+              "alt": "Introdução a Switches PoE TP Link",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=J4kAlnlEOnblyaxD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=IIuP3_7fhpZUc0el&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Omada - Gerenciamento Centralizado - TP-Link",
+              "title": "Omada - Gerenciamento Centralizado - TP-Link",
+              "text": "<p><span style=\"color: rgb(19, 19, 19); font-size: 14px\">Fortaleça sua Segurança Corporativa com a TP-Link.</span></p>"
             }
           ],
           "productId": "156020"
