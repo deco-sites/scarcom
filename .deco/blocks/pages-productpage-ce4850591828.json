@@ -1528,6 +1528,34 @@
               "text": "<p>Fácil de gerenciar por meio de uma interface gráfica de usuário (GUI) intuitiva baseada na web ou uma interface de linha de comando (CLI) padrão do setor. Para ambos os métodos de gerenciamento, o tráfego é protegido por meio de criptografia SSL ou SSH. O suporte a SNMP (v1/v2c/v3) e RMON permite que o switch seja consultado para obter informações de status valiosas e enviar traps em eventos anormais.</p>",
               "alt": "SG3428MP Recursos de Nível Empresarial",
               "banner": "https://data.decoassets.com/scarcom/78482f4b-1bf8-4dda-9744-eaff2dedbcb1/snmp.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/87cd83cd-7de8-4bba-becc-5e0f919f51b6/SX6632YF-a.png",
+              "alt": "SX6632YF Interface",
+              "text": "<p>• 6× 10/25G SFP28 slots <br>• 26× slots SFP+ 1/10G <br>• 2× portas USB 3.0 <br>• 1× porta de consola RJ45 <br>• 1× porta de consola USB tipo C <br>• 1× porta de gestão RJ45</p>",
+              "title": "Interface"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/8575fb82-f562-4b3a-88e1-328bf4128128/SX6632YF-b.png",
+              "alt": "SX6632YF CARACTERÍSTICAS DE HARDWARE",
+              "title": "CARACTERÍSTICAS DE HARDWARE",
+              "text": "<p>Quatro ventoinhas substituíveis no terreno e de permuta a quente (redundante N+1)<br><br>Roteamento estático, empilhamento, ERPS, VRRP, RIP, OSPF, servidor DHCP  <br><br>Trava de Segurança Física</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/84c2a1b7-98fa-4367-8d8a-46c115373477/SX6632YF-c.png",
+              "alt": "SX6632YF montagem e dimensões",
+              "title": "Montagem",
+              "text": "<p><span style=\"color: rgb(33, 33, 33); font-size: 13px\">Montável em rack</span><br>Dimensões (L X C X A)\t17.3 × 15.0 × 1.7 in (440 × 380 × 44 mm)</p>"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=JiK1S2l-LZ8jb8-z\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Omada - Gerenciamento Centralizado - TP-Link",
+              "title": "Omada - Gerenciamento Centralizado - TP-Link",
+              "text": "<p><span style=\"color: rgb(19, 19, 19); font-size: 14px\">Omada oferece soluções avançadas de conectividade e se destaca no mercado por seu foco em otimizar a infraestrutura de rede corporativa, proporcionando uma experiência de conexão robusta e confiável em diversos ambientes empresariais. Esta solução robusta, com uma abordagem holística para IAM, é projetada para assegurar que a identidade digital de cada usuário seja gerenciada com a máxima precisão e segurança, desde a admissão até a saída da empresa.</span></p>"
             }
           ],
           "productId": "154380"
