@@ -1798,6 +1798,46 @@
             }
           ],
           "productId": "155270"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d45bc370-5e9e-4d3d-8492-ce9d79df749e/1.png",
+              "alt": "TL-SG2428P Switch Smart de 28 Portas Gigabit com 24 Portas PoE+ e 4 Slots SFP",
+              "text": "<p><strong>Budget  PoE de 250 W :</strong> 24× portas PoE+ compativel a 802.3at/af com uma fonte de alimentação total de 250 W* <em> . </em><br><strong><em>Portas Gigabit : </em></strong><em>24× portas gigabit PoE+ e 4× slots gigabit SFP que  fornecem conexões de alta velocidade. </em><br><strong><em>Integrado ao Omada SDN :</em></strong><em> Zero-Touch Provisioning (ZTP) </em>** , gerenciamento via nuvem centralizado e monitoramento inteligente. <br><strong>Gerenciamento Centralizado :</strong> Acesso à nuvem e aplicativo Omada para mais conveniência e fácil gerenciamento. <br><strong>Roteamento Estático :</strong> Ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos da rede.</p>",
+              "title": "TL-SG2428P",
+              "videoHtml": "*Os cálculos do budget PoE são baseados em testes de laboratório. O budget de energia PoE real não é garantido e irá variar como resultado das limitações do cliente e fatores ambientais.  **O provisionamento Zero-Touch requer o uso do Omada Cloud-Based Controller ."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/3a524998-17a6-484a-b448-609101734b52/2.png",
+              "text": "<p><strong>Segurança Robustas :</strong> IP-MAC-Port Binding, ACL, Port Security, DoS Defend, Storm control, DHCP Snooping, 802.1X, Radius Authentication e muito mais. <br><strong>Otimize as aplicações de voz e vídeo :</strong> QoS L2/L3/L4 e IGMP snooping. <br><strong>IPv6 :</strong> Suporte a IPv6 com pilha dupla IPv4/IPv6 , MLD snooping, IPv6 neighbor discovery. <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático.<br><br><em><span style=\"font-size: 8pt\">*</span></em><span style=\"font-size: 8pt\">Os cálculos do budget PoE são baseados em testes de laboratório. O budget de energia PoE real não é garantido e irá variar como resultado das limitações do cliente e fatores ambientais.</span><em><span style=\"font-size: 8pt\">  </span></em><span style=\"font-size: 8pt\"><br></span><em><span style=\"font-size: 8pt\">*</span></em><span style=\"font-size: 8pt\">*O provisionamento Zero-Touch requer o uso do Omada Cloud-Based Controller .</span></p>",
+              "alt": "TP-Link SG2428P Switch features robust security with IP-MAC-Port Binding, ACL, Port Security, DoS Defense, Storm Control, DHCP Snooping, 802.1X Authentication, and Radius Authentication for comprehensive network protection"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/3d82d677-bfe8-4591-82c4-f1869ad95f42/SG2428P.png",
+              "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento centralizado 100% via nuvem. Omada cria uma rede altamente escalonável - tudo controlado a partir de uma única interface. Conexões sem fio e com fio contínuas são fornecidas, ideais para uso em hotéis, escolas, comércios, escritórios e muito mais.</p>",
+              "title": "Software Defined Networking (SDN) com Acesso à Nuvem",
+              "alt": "SG2428P Software Defined Networking (SDN) com Acesso à Nuvem"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=P4QctNOnQFMtY9AH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "OmadaNetworks Tp-Link - A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "text": "<p>Saiba mais sobre <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a> <br></p><p>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem. <br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=y8wGGhFVE2HDJxi7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas",
+              "title": "Switches PoE TP-Link ",
+              "text": "<p>Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas.<br>Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente.</p><p></p><p>Clique <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>aqui </u></strong></a>para saber mais benefícios do uso de PoE. </p>"
+            }
+          ],
+          "productId": "153674"
         }
       ]
     },
