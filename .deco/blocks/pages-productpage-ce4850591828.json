@@ -1823,18 +1823,39 @@
               "alt": "SG2428P Software Defined Networking (SDN) com Acesso à Nuvem"
             },
             {
-              "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=P4QctNOnQFMtY9AH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "OmadaNetworks Tp-Link - A solução em Nuvem mais Inteligente para Redes Corporativa",
-              "text": "<p>Saiba mais sobre <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a> <br></p><p>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem. <br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
-              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa"
+              "mediaType": "IMAGE",
+              "alt": "Interface SG2428P",
+              "text": "<p>24× Portas RJ45 10/100/1000 Mbps (Auto negociação / Auto MDI / MDIX) <br>4× Slots Gigabit SFP<br>Total de PoE de 250 W, até 30 W PoE por porta<br>Botão de Reset</p><table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><th colspan=\"1\" rowspan=\"1\"><p></p></th></tr></tbody></table>",
+              "title": "Interface ",
+              "banner": "https://data.decoassets.com/scarcom/b8d875dc-adaa-4ee8-9b2d-d9d38683383a/4.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "alt": "SG2428P Trava de Segurança Física Entrada de Energia Roteamento Estático, VLAN, ACL, QoS",
+              "title": "Características de Hardware ",
+              "text": "<p>Trava de Segurança Física<br>Entrada de Energia<br>Roteamento Estático, VLAN, ACL, QoS</p>",
+              "banner": "https://data.decoassets.com/scarcom/c6516402-d632-4152-a9f8-d16c17de1d41/SG3428X-7.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "alt": "SG2428P ",
+              "text": "<p>17.3 × 8.7 × 1.73 in (440 × 220 × 44 mm)<br>Montável em Rack</p>",
+              "title": "Dimensões (L X C X A) Dimensões (L X C X A) Montável em Rack",
+              "banner": "https://data.decoassets.com/scarcom/19f37bab-b333-4209-8059-cf52af2ca246/SG3428X-8.png"
             },
             {
               "mediaType": "VIDEO",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=y8wGGhFVE2HDJxi7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
-              "alt": "Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas",
               "title": "Switches PoE TP-Link ",
-              "text": "<p>Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas.<br>Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente.</p><p></p><p>Clique <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>aqui </u></strong></a>para saber mais benefícios do uso de PoE. </p>"
+              "text": "<p>Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas.<br>Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente.</p><p></p><p>Clique <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>aqui </u></strong></a>para saber mais benefícios do uso de PoE. </p>",
+              "alt": "Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=y8wGGhFVE2HDJxi7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            },
+            {
+              "mediaType": "VIDEO",
+              "text": "<p>Saiba mais sobre <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a> <br></p><p>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem. <br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "alt": "OmadaNetworks Tp-Link - A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=P4QctNOnQFMtY9AH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
           ],
           "productId": "153674"
