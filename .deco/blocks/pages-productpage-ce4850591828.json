@@ -1795,6 +1795,20 @@
               "text": "<p>Instalável em Rack<br>Dimensões (L X C X A) - 17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)</p>",
               "title": "Dimensões do Produto",
               "alt": "Switches L3/L2+ Gerenciável SG3428X - Dimensões do produto"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=P4QctNOnQFMtY9AH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Saiba mais sobre <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a>  <br>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.  Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "alt": "A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem."
+            },
+            {
+              "mediaType": "VIDEO",
+              "text": "<p>Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas.<br>Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente.</p><p style=\"text-align: start\"></p><p style=\"text-align: start\">Clique&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>aqui&nbsp;</u></strong></a>para saber mais benefícios do uso de PoE.</p>",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=y8wGGhFVE2HDJxi7\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "title": "Switches PoE TP-Link ",
+              "alt": "S3428X Switches PoE TP-Link - Switches de rede com tecnologia Power over Ethernet para transmissão simultânea de energia e dados"
             }
           ],
           "productId": "155270"
