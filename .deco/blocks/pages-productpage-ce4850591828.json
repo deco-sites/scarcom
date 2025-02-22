@@ -1667,6 +1667,56 @@
             }
           ],
           "productId": "5637"
+        },
+        {
+          "contentDetails": []
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>48 portas RJ45 10/100/1000 Mbps <br>Tecnologias energéticas eficientes e inovadoras economizam energia <br>Suporta auto-aprendizagem de MAC address e auto MDI / MDIX <br>Caixa de aço padrão de 19 polegadas de montagem em rack</p>",
+              "alt": "TL-SG1048 48 portas RJ45 10/100/1000 Mbps Tecnologias energéticas eficientes e inovadoras economizam energia Suporta auto-aprendizagem de MAC address e auto MDI / MDIX Caixa de aço padrão de 19 polegadas de montagem em rack",
+              "title": "TL-SG1048 ",
+              "banner": "https://data.decoassets.com/scarcom/49e445c7-196f-49dd-a5d9-93b5e54ce034/produto-com-um-valor-excepcional-para-qualquer-administrador-de-rede-que-preza-os-custos-e-quer-a-melhor-solucao-possivel-com-o-melhor-preco..png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "alt": "TL-SG1048 Tecnologia Verde da TP-LINK",
+              "title": "Tecnologia Verde da TP-LINK",
+              "text": "<p>Esta nova geração de switch Gigabit TL-SG1048 possui as últimas inovadoras tecnologias de eficiência energética que podem expandir sua capacidade de rede com muito menos energia. Ela ajusta automaticamente o consumo de energia de acordo com o estado da conexão e o comprimento do cabo para limitar as emissões de carbono de sua rede. Ele também é compatível com RoHS da União Europeia, que proíbe o uso de certos materiais perigosos. Além disso, 80% do material de embalagem pode ser reciclado.</p>",
+              "banner": "https://data.decoassets.com/scarcom/bcb7c3ef-57ed-419c-8a30-998cec69980f/Energia-Verde---TP-Link.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "alt": "TL-SG1048 Auto negociação MDI / MDI-X em todas as portas eliminam a necessidade de cabos cruzados ou portas de uplink",
+              "text": "<p>Os auto recursos do switch gigabit vem com uma instalação fácil e sem complicações. Nenhuma configuração é necessária. Auto negociação MDI / MDI-X em todas as portas eliminam a necessidade de cabos cruzados ou portas de uplink. <br>A Auto-negociação em cada porta detecta a velocidade do link do dispositivo de rede (10, 100 ou 1000 Mbps) e ajusta inteligentemente para uma compatibilidade e um desempenho ideal. Seu tamanho compacto torna-o ideal para áreas de trabalho com espaço limitado, embora seja também montável em rack, tornando-se muito conveniente e seguro. <br>LEDs com luzes dinâmicas fornecem visualização em tempo real sobre o status de seu funcionamento e diagnóstico das falhas básicas.</p>",
+              "title": "Fácil de Usar",
+              "banner": "https://data.decoassets.com/scarcom/3c47f349-264f-4c47-adf3-ad70a9ab709f/Facil-de-usar-tp-link.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "alt": "O TL-SG1048 apresenta arquitetura de velocidade a cabo sem bloqueios e uma capacidade de encaminhamento de 96 Gbps para uma transferência máxima de dados. Uma tabela MAC address de 8K fornece escalabilidade até para as redes maiores. Ele também suporta o controle de fluxo 802.3x em modo full-duplex, e controle de fluxo back pressure no modo half-duplex, aliviando o congestionamento do tráfego e assegurando uma transmissão de dados confiável.",
+              "text": "<p>O TL-SG1048 apresenta arquitetura de velocidade a cabo sem bloqueios e uma capacidade de encaminhamento de 96 Gbps para uma transferência máxima de dados. Uma tabela MAC address de 8K fornece escalabilidade até para as redes maiores. <br>Ele também suporta o controle de fluxo 802.3x em modo full-duplex, e controle de fluxo back pressure no modo half-duplex, aliviando o congestionamento do tráfego e assegurando uma transmissão de dados confiável.</p>",
+              "title": "Desempenho Superior",
+              "banner": "https://data.decoassets.com/scarcom/d9803eda-09e0-476a-9f4a-b4e394e1a63a/Desempenho-Superior.png"
+            },
+            {
+              "mediaType": "VIDEO",
+              "text": "<p>Um Switch Gigabit pode melhorar o desempenho, a eficiência e a confiabilidade da rede de sua empresa, tornando-o um investimento valioso, especialmente se você lida com grandes volumes de dados ou usa aplicações que exigem alta largura de banda.</p>",
+              "alt": "Switch Gigabit melhora o desempenho, a eficiência e a confiabilidade da rede de sua empresa",
+              "title": "Motivos para ter um Switch Gigabit em sua Empresa",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5-gPWo8Gj5A?si=1ylyzCmkacv4CuRh\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ce424555-dcb7-403b-890b-8bc54471f9ac/TL-SG1048_UN_6.0_03_1499780621550v.jpg",
+              "text": "<p>Saiba mais sobre o TL-SG1048&nbsp;V7 clicando <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://static.tp-link.com/upload/product-overview/2024/202402/20240205/TL-SG1048.pdf\"><strong><u>aqui</u></strong></a>. </p>",
+              "title": "Saiba mais ",
+              "alt": "TL-SG1048 V7 datasheet"
+            }
+          ],
+          "productId": "153424"
         }
       ]
     },
