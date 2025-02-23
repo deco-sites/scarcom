@@ -1953,6 +1953,86 @@
             }
           ],
           "productId": "155582"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/be4b2606-3e70-4c56-9674-f2aec4aa4d0f/ER7212PC-1.png",
+              "alt": "ER7212PC  Roteador Gigabit VPN Omada 3 em 1",
+              "text": "<p><strong>Roteador 3 em 1:</strong> Integra roteador, switch PoE e controlador Omada em um único dispositivo. <br><strong>Hardware Professional: </strong>CPU Dual-Core com memória DDR3 de 1GB fornece uma excelente performance para até 12× portas Gigabit. <br><strong>Até 4× Portas WAN Ethernet:</strong> Equipado com 2× portas Gigabit WAN/LAN SFP, 1× porta WAN Gigabit RJ45 e 1× porta WAN/LAN Gigabit RJ45. <br><strong>Budget PoE de 110W:</strong> 8× portas PoE+ compatíveis com 802.3at/af - as portas LAN RJ45 fornecem um total de energia de 110W*.</p>",
+              "title": "ER7212PC"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/89c37af7-27f1-4b4f-903d-39d1c486ba37/ER7212PC-2.png",
+              "alt": "ER7212PC",
+              "text": "<p><strong>Gerenciamento Centralizado: </strong>O acesso à nuvem e o aplicativo Omada proporcionam um gerenciamento fácil e conveniente. <br><strong>VPN Altamente Seguro: </strong>Suporta conexões IPsec VPN, OpenVPN e L2TP/PPTP VPN. <br><strong>Fácil Instalação:</strong> Design compacto e sem ventoinha para montagem em mesa e parede.<br><br><span style=\"font-size: 9pt\">*Os cálculos de budget PoE são baseados em testes de laboratório. O orçamento real de energia do PoE não é garantido e varia de acordo com as limitações do cliente e fatores ambientais.</span></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2161c1c6-00fa-4f8d-b792-4e0778e1d4ea/ER7212PC-3.png",
+              "alt": "ER7212PC Switch PoE Integrado 8 x Portas PoE+ dedicadas (budget PoE de 110 W*) para dispositivos compatíveis, como Access Points, câmeras IP e telefones IP, reduzindo os custos de infraestrutura para pequenas empresas.",
+              "text": "<p><strong>Switch PoE Integrado</strong> <br><br>8 x Portas PoE+ dedicadas (budget PoE de 110 W*) para dispositivos compatíveis, como Access Points, câmeras IP e telefones IP, reduzindo os custos de infraestrutura para pequenas empresas.<br><br><strong>Controlador Omada SDN incorporado </strong><br><br>Com o controlador Omada SDN integrado, você não precisa configurar outros dispositivos além do ER7212PC. Você só precisa de um dispositivo para gerenciar e atualizar outros dispositivos em massa.</p>",
+              "title": "Roteador 3 em 1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ce60c613-b997-4cc6-a6f0-c6fab67ae0c2/ER7212PC-15.png",
+              "text": "<p>Equipado com várias portas, o ER7212PC atende vários requisitos de acesso à Internet através de um único dispositivo. A função de Load Balance multi-WAN distribui fluxos de dados de acordo com a proporção de largura de banda de cada porta WAN para aumentar a taxa de utilização da banda larga multilinha.</p>",
+              "title": "Até quatro portas WAN Gigabit",
+              "alt": "ER7212PC Até quatro portas WAN Gigabit para otimizar o uso da largura de banda"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/87ba71eb-6952-48f3-a21f-99e88910ba20/ER7212PC-5.png",
+              "text": "<p>Um ambiente de rede minimalista, bem organizado e silencioso está ao seu alcance.   <br><br>O design compacto e minimalista o torna adequado para sua configuração em vários espaços, seja em mesas de escritório ou no teto de uma loja.   <br>O design sem ventoinha oferece dissipação de calor silenciosa para sua casa ou empresa</p>",
+              "title": "Fácil instalação, dissipação de calor silenciosa",
+              "alt": "ER7212PC Fácil instalação, dissipação de calor silenciosa"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=bkPWtWaVSApZ2Y_d\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Omada - Gerenciamento Centralizado - TP-Link ",
+              "text": "<p>O controlador Omada SDN integrado permite que o ER7212PC gerencie e atualize seus dispositivos em massa, sem necessidade de configuração individual e complexa. Além disso, com o aplicativo Omada ou navegador da Web, o ER7212PC permite controlar remotamente os dispositivos conectados, monitorar a rede e visualizar a manutenção da rede em tempo real.</p>",
+              "title": "Controlador Omada SDN incorporado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2795b5d8-1e36-478b-b1ad-73f9dc80fa7e/ER7212PC-6.png",
+              "title": "Gerenciamento centralizado para Access Points, Switches e Roteadores",
+              "text": "<p>O controlador Omada SDN integrado do ER7212PC fornece gerenciamento 100% centralizado de pontos de acesso, switches e roteadores - todos controlados a partir de uma única interface.</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais sobre Omada SDN</u></strong></a></p>",
+              "alt": "ER7212PC"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c19a1d06-b4f3-4cae-a1d2-2d9ae1c92289/ER7212PC-7.png",
+              "text": "<p>Apresentando tecnologia de nuvem híbrida, o ER7212PC permite que você controle remotamente toda a rede em qualquer lugar, a qualquer hora com acesso a nuvem.</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://omada.tplinkcloud.com\"><strong><u>Plataforma de Gerenciamento Omada Cloud </u></strong></a></p>",
+              "title": "Nuvem Híbrida para Máxima conveniência ",
+              "alt": "ER7212PC permite que você controle remotamente toda a rede em qualquer lugar, a qualquer hora com acesso a nuvem."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bb0cfd9e-7bcd-4a56-bd1a-ebfbc90bee4c/ER7212PC-8.png",
+              "text": "<p>O painel fácil de usar facilita a visualização do status da rede em tempo real. A topologia de rede ajuda os administradores de TI a ver e solucionar problemas de conexões rapidamente.</p>",
+              "title": "Monitoramento de rede fácil e inteligente ",
+              "alt": "ER212PC - painel fácil de usar facilita a visualização do status da rede em tempo real. A topologia de rede ajuda os administradores de TI a ver e solucionar problemas de conexões rapidamente."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2f34e51a-aa7d-4150-9c8d-7798ab82c277/ER7212PC-9.png",
+              "title": "VPN de alta segurança e alto desempenho",
+              "text": "<p>ER7212PC suporta tráfego de passagem e vários protocolos VPN, incluindo OpenVPN, IPSec, PPTP e L2TP no modo Cliente/Servidor. A VPN IPSec automática com um clique simplifica a configuração da VPN e facilita o gerenciamento e a implantação da rede.</p>",
+              "alt": "ER7212PC VPN de alta segurança e alto desempenho"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/e017a3e2-ac4c-4203-af1e-24dea9551364/ER7212PC-10.png",
+              "alt": "ER7212PC",
+              "title": "Firewall Poderoso Suporte conveniente a VLAN"
+            }
+          ],
+          "productId": "1463"
         }
       ]
     },
