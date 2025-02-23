@@ -2094,6 +2094,39 @@
             }
           ],
           "productId": "60"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b28a16d8-fdcf-4da3-a9b6-69f7dc88197d/SG3428-1.png",
+              "videoHtml": "SG3428",
+              "text": "<p><strong>Portas Full Gigabit:</strong> 24× portas gigabit RJ45 e 4× Slots SFP gigabit fornecem conexões de alta velocidade. <br><strong>Integrado ao Omada SDN:</strong> Provisionamento Zero-Touch (ZTP)*, Gerenciamento Centralizado em Nuvem e Monitoramento Inteligente. <br><strong>Gerenciamento Centralizado:</strong> Acesso à nuvem e aplicativo Omada, mais conveniência e fácil gerenciamento. <br><strong>Roteamento Estático:</strong> Ajuda a rotear o tráfego interno para um uso mais eficiente dos recursos da rede. <br><strong>Estratégias de Segurança Robustas:</strong> IP-MAC-Port Binding, ACL, Port Security, DoS Defend, Storm control, DHCP Snooping, 802.1X, Autenticação Radius e muito mais.</p>",
+              "title": "SG3428",
+              "alt": "SG3428 Switch Gerenciável Gigabit L2+ de 24 portas com 4 Slots SFP JetStream"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/26fe077e-a586-4d5d-9273-842b4fb68eed/SG3428-2.png",
+              "text": "<p><strong>Otimização de Aplicações de Voz e Vídeo: </strong>QoS L2/L3/L4 e IGMP snooping. <br><strong>Gerenciamento Autônomo: </strong>Web, CLI (Porta de Console, Telnet, SSH), SNMP, RMON e Dual Image trazem recursos de gerenciamento poderosos. <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático.<br><br><span style=\"font-size: 9pt\">*Zero-Touch Provisioning requer o uso do Omada Cloud-Based Controller.</span></p>",
+              "alt": "SG3428 Otimização de Aplicações de Voz e Vídeo: QoS L2/L3/L4 e IGMP snooping."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/03eb8c1f-5713-4b74-b26a-6bf10d558bd3/TL-Sg-3.png",
+              "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento de nuvem 100% centralizado. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões sem fio e com fio transparentes são fornecidas, sendo ideais para uso em hospitalidade, educação, varejo, escritórios e muito mais.</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba Mais</u></strong></a></p>",
+              "title": "Rede Definida por Software (SDN) com Acesso à Nuvem",
+              "alt": "SG3428 Rede Definida por Software (SDN) com Acesso à Nuvem"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/a985969a-003e-4895-a2ad-4b8bfcbbbb35/Captura-de-Tela-2025-02-12-as-13.41.19.png",
+              "text": "<p>Uma linha completa de recursos L2+ é suportada, incluindo 802.1Q VLAN, Espelhamento de Portas, STP/RSTP/MSTP, Protocolo de Controle de Agregação de Links e Controle de Fluxo 802.3x. O IGMP Snooping avançado garante que o switch encaminhe fluxos multicast de maneira inteligente apenas para os assinantes apropriados, eliminando o tráfego desnecessário, enquanto o controle e filtragem IGMP restringem cada assinante em um nível de porta para evitar o acesso multicast não autorizado. O roteamento estático é uma maneira simples de segmentar a rede e rotear o tráfego internamente utilizando o switch para uma maior eficiência.</p>",
+              "title": "Recursos de Nível Empresarial",
+              "alt": "SG3428 roteamento estático é uma maneira simples de segmentar a rede e rotear o tráfego internamente utilizando o switch para uma maior eficiência."
+            }
+          ],
+          "productId": "155147"
         }
       ]
     },
