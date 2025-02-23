@@ -2034,6 +2034,66 @@
             }
           ],
           "productId": "1463"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/497ff6ca-20c1-416d-9aa4-0014d417a94f/TL-SG2210MP-1.png",
+              "alt": "TL-SG2210MP Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+              "text": "<p><strong>Budget PoE de 150 W: </strong>8× portas PoE+ compatíveis a 802.3at / af com uma fonte de alimentação total de 150 W* <em> . </em><br><strong>Portas Gigabit:</strong><em> 8× portas gigabit PoE+ e 2× slots SFP que fornecem conexões de alta velocidade. </em><br><strong>Integrado ao Omada SDN :</strong><em> Zero-Touch Provisioning (ZTP)*</em>* , gerenciamento em nuvem centralizado e monitoramento inteligente. <br><strong>Gerenciamento centralizado : </strong>Acesso à nuvem e aplicativo Omada para maior conveniência e fácil gerenciamento.</p>",
+              "title": "TL-SG2210MP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/e2c46627-402e-414f-9a67-7564842b9235/TL-SG2210MP-2.png",
+              "alt": "TL-SG2210MP",
+              "text": "<p><strong>Segurança Robusta:</strong> IP-MAC-Port Binding, ACL, Port Security, DoS Defend, Storm Control, DHCP Snooping, 802.1X, Radius Authentication e muito mais. <br><strong>Otimize as aplicações de voz e vídeo :</strong> QoS L2/L3/L4 e IGMP snooping. <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático<br><br><span style=\"font-size: 9pt\">*Os cálculos de budget  PoE são baseados em testes de laboratório. O budget de energia PoE real não é garantido e irá variar como resultado das limitações do cliente e fatores ambientais. <br>**O provisionamento Zero-Touch requer o uso do Omada Cloud-Based Controller.</span></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/481790cc-4e1f-415c-9781-684acd978a80/TL-SG2210MP-3.png",
+              "title": "Software Defined Networking (SDN) com Acesso à Nuvem",
+              "text": "<p>A plataforma Software Defined Networking (SDN) Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento via nuvem 100% centralizado. Omada cria uma rede altamente escalonável - tudo controlado a partir de uma única interface. Conexões sem fio e com fio contínuas são fornecidas, ideais para uso em hotéis, escolas, comércios, escritórios e muito mais.<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais </u></strong></a></p>",
+              "alt": "TL-SG2210MP Software Defined Networking (SDN) com Acesso à Nuvem"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/83a4ace7-1523-48f6-a00e-1b2e41a1c83d/TL-SG2210MP-4.png",
+              "text": "<p>8× Portas RJ45 10/100/1000 Mbps, todas com suporte PoE + (Auto-negociação / Auto MDI / MDIX) <br>2x Slots SFP de 100/1000 Mbps<br>Botão de Reset<br>Total de PoE de 150 W, até 30 W PoE por porta</p>",
+              "title": "Interface",
+              "alt": "SG2210MP detalhamento da Interface do produto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/7c419038-1bf4-4783-9e57-551f716a0946/TL-SG2210MP-5.png",
+              "text": "<p>Trava de Segurança Física<br>Roteamento estático, VLAN, ACL, QoS<br>Fonte de Alimentação - 100-240V AC, 50/60Hz</p>",
+              "title": "Características de Hardware",
+              "alt": "Características de Hardware do SG2210MP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/643a3763-f243-4ac7-86f9-370a51133404/TL-SG2210MP-6.png",
+              "text": "<p>Dimensões (L X C X A)\t11.6 x 7.1 x 1.7 pol (294 x 180 x 44 mm)<br>Montagem\tem Rack ou Desktop</p>",
+              "title": "Dimensões ",
+              "alt": "SG2210MP foto com as Dimensões  do produto"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=IWLQDvzfa_AARgIK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Saiba mais sobre <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link </u></strong></a> <br>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.  Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "alt": "A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.  Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa"
+            },
+            {
+              "mediaType": "IMAGE",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=9B8hjcqSRFxZsk4o\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas.<br>Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente.</p><p style=\"text-align: start\"></p><p style=\"text-align: start\">Clique&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>aqui&nbsp;</u></strong></a>para saber mais benefícios do uso de PoE.</p>",
+              "title": "Switches PoE TP-Link",
+              "alt": "Switches PoE TP-Link Implementação de rede simplificada em áreas remotas sem tomadas elétricas. Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente."
+            }
+          ],
+          "productId": "60"
         }
       ]
     },
