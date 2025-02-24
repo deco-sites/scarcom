@@ -2247,6 +2247,41 @@
               "title": "Fácil Gerenciamento com o Aplicativo Omada",
               "text": "<p>Siga as instruções de configuração no aplicativo gratuito Omada e comece a usar em poucos minutos. Com o Omada, é possível configurar as configurações, monitorar o status da rede e gerenciar clientes, tudo a partir da conveniência de um smartphone ou tablet..<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada_compatibility_list/\"><strong><u>Veja a lista de dipositivos Omada compatíveis</u></strong></a></p>",
               "alt": "Fácil Gerenciamento com o Aplicativo Omada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/44722e5c-9931-4daa-b063-764287f82a3e/TL-SG2016P-11.png",
+              "text": "<p>16× Portas RJ45 10/100/1000 Mbps (Portas 1–8 Suportam 802.3at/af PoE+) <br>Auto-Negociação/Auto MDI/MDIX<br></p>",
+              "title": "Interface",
+              "alt": "SG2016P interface descrição em português "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b439f721-7d99-4949-b78b-6d985c6f7633/TL-SG2016P-13.png",
+              "text": "<p>Trava de Segurança Física <br>Sem Ventoinha - Operação silenciosa <br>Botão de Reset  <br>Roteamento estático, VLAN, ACL, QoS<br>Fonte de Alimentação - Adaptador de Energia Externo (Saída: 53.5 VDC/ 2.43 A)</p>",
+              "alt": "Imagem e informações sobre Hardware do SG2016P",
+              "title": "Características de Hardware"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/6b9b5d50-69c1-442d-9feb-7085ad3b987a/TL-SG2016P-14.png",
+              "text": "<p>11.3 x 4.4 x 1.0 in (286 x 111.7 x 25.4 mm)<br>Suporte de mesa ou parede</p>",
+              "title": "Dimensões (L X C X A)",
+              "alt": "SG2016P dimensões e medidas"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2jMezgJxagM?si=4b5MCL8UIRIbJ3sY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Implementação de rede simplificada em áreas remotas sem tomadas elétricas. Power over Ethernet (PoE) é uma tecnologia que permite que switches de rede transmitam energia e dados por meio de um cabo Ethernet simultaneamente. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/solution/poe/\"><strong><u>Clique aqui</u></strong></a><strong><u> </u></strong>para saber mais benefícios do uso de PoE.</p>",
+              "title": "Switches PoE TP-Link",
+              "alt": "Switches PoE TP-Link- Implementação de rede simplificada em áreas remotas sem tomadas elétricas."
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=MOaVDHrlrj2klCFC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Saiba mais sobre&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link&nbsp;</u></strong></a></p><p style=\"text-align: start\">A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.&nbsp;<br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "alt": "A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem. "
             }
           ],
           "productId": "29"
