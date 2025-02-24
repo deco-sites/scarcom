@@ -2183,6 +2183,45 @@
             }
           ],
           "productId": "155147"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bc48a11a-0d41-43ad-919c-3ba840b40b2f/TL-SG2016P-1.png",
+              "alt": "TL-SG2016P Switch Smart de 16 Portas Gigabit com 8 Portas PoE+",
+              "text": "<p><strong>Budget PoE 120 W: </strong>8× portas PoE+ compatíveis com 802.3at/af com uma fonte de alimentação total de 120 W*. <br><strong>Portas Full Gigabit: </strong>8× portas gigabit PoE+ e 8× portas gigabit não-PoE fornecem conexões de alta velocidade Integrado ao Omada SDN: Zero-Touch Provisioning**, gerenciamento centralizado em nuvem e monitoramento inteligente. <br><strong>Gerenciamento Centralizado: </strong>Gerencie sua rede de qualquer lugar e a qualquer hora através do Aplicativo Omada (usando uma controladora OC200 ou OC300) ou um PC Servidor. O software Omada não tem custos de licenciamento.</p>",
+              "title": "TL-SG2016P"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d193f6c1-03d8-40dc-bdf0-efc99c612d99/TL-SG2016P-2.png",
+              "text": "<p><strong>Estratégias de Segurança Robustas:</strong> Vinculação IP-MAC-Porta, ACL, Segurança de porta, Defesa DoS, Storm Control, DHCP Snooping, 802.1X, Autenticação Radius e muito mais.<br><strong>Otimize Aplicações de Voz e Vídeo:</strong> QoS L2/L3/L4 e&nbsp;IGMP snooping.  <br>Suporta autoaprendizagem de endereço MAC e MDI/MDIX automático<br><br>*<span style=\"font-size: 9pt\">Os cálculos do orçamento PoE são baseados em testes de laboratório. O orçamento real de energia PoE não é garantido e variará como resultado das limitações do cliente e fatores ambientais. </span><em><br></em>*<span style=\"font-size: 9pt\">*O Provisionamento Sem Toque requer o uso do Controlador baseado em nuvem Omada. Visite a </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.tp-link.com/en/omada-cloud-based-controller/product-list/\"><strong><u><span style=\"font-size: 9pt\">lista de produtos</span></u></strong></a><span style=\"font-size: 9pt\"> para confirmar quais modelos são compatíveis com o Controlador baseado em nuvem Omada.</span></p>",
+              "alt": "SG2016P Estratégias de Segurança Robustas, Otimização Aplicações de Voz e Vídeo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/1abf00fe-13a8-4fed-9bec-e16f7e9f320b/TL-SG2016P-3.png",
+              "text": "<p>O TL-SG2016P é totalmente compatível com dispositivos PoE, como câmeras IP, pontos de acesso e telefones IP. Ele também funciona com dispositivos com fio não PoE para fornecer conexões gigabit, como PCs, impressoras e IPTV.</p><p></p>",
+              "title": "Diversos Cenários de Aplicação",
+              "alt": "os diversos Cenários de Aplicação do Switch Smart de 16 Portas Gigabit com 8 Portas PoE+ TL-SG2016P"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/28e55b64-3dcd-4340-b4b2-0b597bb684a6/TL-SG2016P-4.png",
+              "text": "<p>Recursos de oito portas PoE+ compatíveis com 802.3af/at, o switch suporta um orçamento total de energia PoE de até 120 W*. Projetado para utilizar um único cabo Ethernet para transmissão de dados e energia, oferece implantação flexível para dispositivos com suporte PoE, como pontos de acesso sem fio, câmeras IP e telefones IP, reduzindo os custos de infraestrutura para pequenas empresas.</p>",
+              "title": "PoE para Instalação Simples e Flexível",
+              "alt": "TL-SG2016P  PoE para Instalação Simples e Flexível"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/688c329e-57ec-4791-98ef-7d4ec43d1a1b/TL-SG2016P-5.png",
+              "text": "<p>ACL funciona como um administrador virtual, permitindo que todos os dispositivos conectados obtenham dados de acordo com as regras de rede definidas pelo usuário e ajudando você a criar as regulamentações de rede necessárias.</p>",
+              "title": "Lista de Controle de Acesso (ACL)",
+              "alt": "TL-SG2016P ACL funciona como um administrador virtual, permitindo que todos os dispositivos conectados obtenham dados de acordo com as regras de rede definidas pelo usuário"
+            }
+          ],
+          "productId": "29"
         }
       ]
     },
