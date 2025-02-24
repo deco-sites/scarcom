@@ -2219,6 +2219,34 @@
               "text": "<p>ACL funciona como um administrador virtual, permitindo que todos os dispositivos conectados obtenham dados de acordo com as regras de rede definidas pelo usuário e ajudando você a criar as regulamentações de rede necessárias.</p>",
               "title": "Lista de Controle de Acesso (ACL)",
               "alt": "TL-SG2016P ACL funciona como um administrador virtual, permitindo que todos os dispositivos conectados obtenham dados de acordo com as regras de rede definidas pelo usuário"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/5546f7b6-ae84-456f-a17d-5927be852c62/TL-SG2016P-6.png",
+              "title": "QoS para uma Melhor Experiência",
+              "text": "<p>Designar a prioridade do tráfego com base em QoS, garantindo que aplicações sensíveis à latência, como voz e vídeo, permaneçam claras e sem atrasos.</p>",
+              "alt": "SG2016P Designa a prioridade do tráfego com base em QoS, garantindo que aplicações sensíveis à latência"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/4cd82be1-7d13-405a-b3d3-af76b3c819b3/TL-SG2016P-7.png",
+              "title": "VLAN para mais Segurança",
+              "text": "<p>A VLAN permite agrupar e gerenciar diferentes dispositivos em uma rede, mesmo que estejam fisicamente em locais diferentes, a fim de manter a segurança dos dados e a evitar congestionamentos na rede.</p>",
+              "alt": "SG2016P possui VLAN que permite agrupar e gerenciar diferentes dispositivos em uma rede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/28d5acdb-c213-4a94-95bb-7e824abacf5a/TL-SG2016P-10.png",
+              "text": "<p>A plataforma Omada Software Defined Networking (SDN) integra dispositivos de rede, incluindo pontos de acesso, switches e gateways, garantindo uma rede empresarial poderosa com maior eficiência, segurança e confiabilidade.<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba Mais sobre Omada SDN</u></strong></a><br><br><strong>Gerenciamento Centralizado em Nuvem sem Complicações: </strong><br>Gerenciamento em nuvem centralizado 100% da rede inteira de diferentes locais - tudo controlado de uma única interface em qualquer lugar e a qualquer momento.</p><p><br></p><p></p>",
+              "title": "Solução em Nuvem Inteligente para Redes Corporativas: Omada SDN",
+              "alt": "SG2016P com solução em Nuvem Inteligente para Redes Corporativas: Omada SDN"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/33748575-b5a7-4b08-9c11-3d7d53797068/TL-SG2016P-9.png",
+              "title": "Fácil Gerenciamento com o Aplicativo Omada",
+              "text": "<p>Siga as instruções de configuração no aplicativo gratuito Omada e comece a usar em poucos minutos. Com o Omada, é possível configurar as configurações, monitorar o status da rede e gerenciar clientes, tudo a partir da conveniência de um smartphone ou tablet..<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada_compatibility_list/\"><strong><u>Veja a lista de dipositivos Omada compatíveis</u></strong></a></p>",
+              "alt": "Fácil Gerenciamento com o Aplicativo Omada"
             }
           ],
           "productId": "29"
