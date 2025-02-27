@@ -2455,7 +2455,7 @@
             {
               "mediaType": "IMAGE",
               "text": "<p>16× Portas RJ45 10/100/1000 Mbps (Negociação Automática/MDI Automático/MDIX) <br>2× Slots Gigabit SFP<br>Sem ventoinha - Operação silenciosa <br>Botão de Reset</p>",
-              "banner": "https://data.decoassets.com/scarcom/0bcb701a-e254-4072-9f64-9aa5615572c4/TL-SG2218.5.png",
+              "banner": "https://data.decoassets.com/scarcom/ec3979eb-ab98-4167-a5e7-9a5dd74c858b/TL-SG3428-11.png",
               "title": "Interface",
               "alt": "Interface do produto com especificações "
             },
@@ -2467,18 +2467,18 @@
               "banner": "https://data.decoassets.com/scarcom/de2e6372-ff14-4aa9-84b7-3aa82c141d69/TL-SG3428-6.png"
             },
             {
-              "mediaType": "VIDEO",
-              "text": "<p>Saiba mais sobre&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a>&nbsp;  <br>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.&nbsp; <br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
-              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa",
-              "alt": "A solução em Nuvem mais Inteligente para Redes Corporativa",
-              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=OvyLgpeTvybTlKXq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+              "mediaType": "IMAGE",
+              "text": "<p><strong>Dimensões (L X C X A):</strong>  440 × 180 × 44 mm (17.3 × 7.1 × 1.7 in)<br>Montável em Rack<br><br></p>",
+              "title": "Montável em Rack",
+              "alt": "Dimensões (L X C X A)",
+              "banner": "https://data.decoassets.com/scarcom/ec3979eb-ab98-4167-a5e7-9a5dd74c858b/TL-SG3428-11.png"
             },
             {
-              "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/8f92a618-f9be-47b2-be3a-127bd214b209/TL-SG2218.7.png",
-              "alt": "Dimensões (L X C X A)",
-              "text": "<p><strong>Dimensões (L X C X A):</strong>  440 × 180 × 44 mm (17.3 × 7.1 × 1.7 in)<br>Montável em Rack<br><br></p>",
-              "title": "Montável em Rack"
+              "mediaType": "VIDEO",
+              "alt": "A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "text": "<p>Saiba mais sobre&nbsp;<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Omada Tp-Link</u></strong></a>&nbsp;  <br>A plataforma Omada Cloud Software Defined Networking (SDN) integra dispositivos de rede, incluindo Access Points, Switches e Gateways, fornecendo gerenciamento 100% centralizado via nuvem.&nbsp; <br>Cria uma rede altamente escalável, tudo controlado a partir de uma única interface. São fornecidas conexões Wi-Fi e com fio, ideais para uso de hospitalidade, escola, lojas, escritórios e muito mais.</p>",
+              "title": "A solução em Nuvem mais Inteligente para Redes Corporativa",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/utN1YGac-Vc?si=OvyLgpeTvybTlKXq\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             }
           ],
           "productId": "5638"
