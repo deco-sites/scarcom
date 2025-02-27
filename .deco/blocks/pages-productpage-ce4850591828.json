@@ -2285,6 +2285,101 @@
             }
           ],
           "productId": "29"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/8a8a0790-36b3-419f-8042-92166ba25fcb/TL-SL1226P-1.png",
+              "alt": "SL1226P Switch Não Gerenciável com 24-Portas 10/100Mbps PoE+ e 2-Portas Gigabit",
+              "text": "<p>24× Portas RJ45 PoE+ 10/100 Mbps, 2× Portas RJ45 Gigabit, e  2× slots SFP combo Gigabit Budget PoE com até 30 W para cada porta e 250 W total* <br>Alcance de transmissão PoE de até 250 m de dados e potência no modo Extend**, ideal para sistema de vigilância (CFTV) <br>O Modo de Prioridade garante alta prioridade das portas 1-8 para garantir a qualidade de aplicações sensíveis como monitor de vídeo</p>",
+              "title": "SL1226P"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/555901f7-d084-4f6a-b7c5-a5ee5a8fa50a/TL-SL1226P-2.png",
+              "text": "<p>O Modo de Isolamento permite a separação do tráfego do cliente com um clique para maior segurança e desempenho <br>Plug and play, sem configuração e instalação necessária<br><br><span style=\"font-size: 9pt\">*Os cálculos do consumo PoE são baseados em testes de laboratório. O consumo de energia PoE real não é garantido e irá variar como resultado das limitações do cliente e fatores ambientais. </span><em><span style=\"font-size: 9pt\"><br></span></em><span style=\"font-size: 9pt\">**A velocidade das portas que estão no modo estendido será reduzida para 10 Mbps. A distância de transmissão real pode variar em função da qualidade dos cabos.</span></p>",
+              "alt": "SL1226P 250 W PoE Budge Distância de transmissão até 250 m Modo de prioridade de um clique Separação de tráfego com um clique Vídeo Ultra HD Plug and Play"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/35982ee0-8f64-45e1-8487-c2a79f302d29/TL-SL1226P-3.png",
+              "alt": "SL1226P Em conformidade com o padrão 802.3af/at PoE+ suporta até 30 W em cada porta PoE. O budget total de energia PoE de 250 W* para as 24 portas PoE fazem com que tenha uma ampla gama de aplicações como vigilância, escritórios, dormitórios e pequenas empresas. É totalmente compatível com câmeras IP, Access Points, telefones IP, computadores, impressoras etc.",
+              "text": "<p>Em conformidade com o padrão 802.3af/at PoE+ suporta até 30 W em cada porta PoE. O budget total de energia PoE de 250 W* para as 24 portas PoE fazem com que tenha uma ampla gama de aplicações como vigilância, escritórios, dormitórios e pequenas empresas. É totalmente compatível com câmeras IP, Access Points, telefones IP, computadores, impressoras etc.</p>",
+              "title": "Switch PoE+ de 24 portas dedicado para ampla gama de aplicações com Budget PoE de 250 W"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/6208b849-af2f-49ec-a445-294fd9426285/TL-SL1226P-4.png",
+              "alt": "SL1226P - Com o modo de extensão, a distância de transmissão PoE atinge até 250 m — perfeito para implantação de câmeras IP em grandes áreas.",
+              "text": "<p>Com o modo de extensão, a distância de transmissão PoE atinge até 250 m — perfeito para implantação de câmeras IP em grandes áreas.<br><br><span style=\"font-size: 9pt\">*A velocidade das portas no modo de extensão será reduzida para 10 Mbps. A distância real de transmissão pode variar devido à qualidade do cabo.</span></p>",
+              "title": "Design Dedicado para Vigilância IP — Transmissão de até 250 m"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/9029d08b-6bbc-4599-b818-c6b768f55f23/TL-SL1226P-12.png",
+              "alt": "SL1226P - O modo de prioridade e o modo de isolamento tornam a vigilância mais suave e segura.",
+              "text": "<p>O modo de prioridade e o modo de isolamento tornam a vigilância mais suave e segura.</p>",
+              "title": "Design dedicado para vigilância IP — maior desempenho e segurança"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/aeea8a11-f0f4-47fe-93b1-42ab5c3259b0/TL-SL1226P-5.png",
+              "alt": "SL1226P A qualidade de aplicativos sensíveis, como monitoramento de vídeo em áreas críticas de negócios, é garantida pela oferta de opções de prioridade mais alta para as portas 1 – 8 quando o modo de prioridade de um toque está ativado.",
+              "text": "<p>A qualidade de aplicativos sensíveis, como monitoramento de vídeo em áreas críticas de negócios, é garantida pela oferta de opções de prioridade mais alta para as portas 1 – 8 quando o modo de prioridade de um toque está ativado.</p>",
+              "title": "Priodidade de Qualidade de Vídeo garantida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d8086471-54ac-481e-9e8e-98eca190c67b/TL-SL1226P-6.png",
+              "alt": "SL1226P - O Modo de Isolamento de um Clique divide facilmente o tráfego para as portas 1 – 24 para evitar espionagem e adulteração. Isso permite que o switch isole o broadcast storm, melhorando a segurança da LAN e a transmissão de dados.",
+              "text": "<p>O Modo de Isolamento de um Clique divide facilmente o tráfego para as portas 1 – 24 para evitar espionagem e adulteração. Isso permite que o switch isole o broadcast storm, melhorando a segurança da LAN e a transmissão de dados.</p>",
+              "title": "Separação de tráfego com um clique para portas 1-24"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/744eca0e-f6bf-4708-8ddd-247e19d88e84/TL-SL1226P-7.png",
+              "alt": "SL1226P - 2× RJ45 portas Gigabit e 2× Portas SFP Gigabit Combinadas garantem um streaming suave mesmo quando 24× HD Câmeras IP trabalham simultaneamente.",
+              "text": "<p>2× RJ45 portas Gigabit e 2× Portas SFP Gigabit Combinadas garantem um streaming suave mesmo quando 24× HD Câmeras IP trabalham simultaneamente.</p>",
+              "title": "Monitoramento suave de vídeo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/94d9747f-5d27-449b-93b4-f916c3257e62/TL-SL1226P-8.png",
+              "alt": "Plug and Play SL1226P",
+              "title": "Plug and Play",
+              "text": "<p>Conecte e use!</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ab212f69-9575-4b69-b1f4-6bc8a16cafca/TL-SL1226P-9.png",
+              "alt": "SL1226P - Gerenciamento de Energia Inteligente para Evitar Sobrecarga de Energia",
+              "text": "<p>Quando o consumo total de energia excede 250 W, o Gerenciador Inteligente de Energia corta automaticamente as portas de prioridade mais baixas para garantir a fonte de energia das portas de alta prioridade. Isso protege o dispositivo da operação de sobrecarga de energia. Ele também detecta automaticamente a energia PoE necessária para o seu dispositivo e protege seu equipamento não-PoE contra danos.</p>",
+              "title": "Gerenciamento de Energia Inteligente para Evitar Sobrecarga de Energia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/da651100-0166-43f0-a999-b4e72ed395d7/TL-SL1226P-10.png",
+              "text": "<p>Caixa de metal durável e design profissional de dissipação de calor garantem a ampla temperatura operacional (0 – 50℃) com confiabilidade.</p>",
+              "alt": "SL1226P - Ampla temperatura de operação com boa dissipação de calor",
+              "title": "Ampla temperatura de operação com boa dissipação de calor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/5b2f8ece-e531-4f69-9f56-8e92ac09bae6/TL-SL1226P-11.png",
+              "title": "Switches PoE Não-Gerenciáveis",
+              "alt": "Comparaçao de Switches PoE Não-Gerenciáveis ",
+              "text": "<p>Compare e veja qual melhor atende as suas necessidades.</p><p></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b8cfaeb8-d6ca-4a02-9397-4f8ca2140689/TL-SL1226P-13.png",
+              "text": "<p>Botões para modo de extensão/prioridade/isolamento/recuperação<br><br>Interface<br>24× PoE+ 10/100 Mbps RJ45 Ports <br>2× 10/100/1000 Mbps RJ45 Ports </p><p>2× Combo Gigabit SFP Slots<br><br>Dimensões:</p><p><span style=\"color: rgb(89, 87, 87); font-size: 9pt\">17.3 × 7.1 × 1.7 in (440 × 180 × 44 mm)<br></span></p>",
+              "title": "Especificações",
+              "alt": "SG1226P foto com as dimensões, interface e botões do produto"
+            }
+          ],
+          "productId": "155161"
         }
       ]
     },
