@@ -3331,17 +3331,17 @@
           "contentDetails": [
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/434da78f-112a-429b-b1f9-fcca0591ea7a/ST2000VX017-2.png",
+              "banner": "https://data.decoassets.com/scarcom/7889b00c-fa53-4916-83a5-f0ff7f9647b8/ST1000VX013-2.png",
               "text": "<p>O disco rígido para vigilância Seagate SkyHawk incorpora tecnologia de ponta desenvolvida especificamente para as crescentes demandas dos sistemas de vigilância. Esse disco rígido é otimizado para ambientes de gravação de vídeo 24/7, lidando com cargas de trabalho intensas com facilidade e confiabilidade. O uso eficiente de energia e o sistema de gerenciamento de integridade da Seagate garantem um desempenho ultraconfiável. O SkyHawk suporta até 180 TB de dados por ano, com recursos como sensores de vibração rotacional integrados para manter o desempenho até mesmo em sistemas de várias baias. Isso garante configurações de vigilância escaláveis e flexíveis.</p>",
-              "alt": "Disco rígido para vídeo SkyHawk AI ST2000VX017",
+              "alt": "Disco rígido para vídeo SkyHawk AI ST1000VX013",
               "title": "Disco rígido para vídeo SkyHawk AI "
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/a5b9c691-dac2-417b-8d1e-45cc88f1ea88/ST2000VX017-1.png",
+              "banner": "https://data.decoassets.com/scarcom/f192c7ef-4d0b-4b17-9776-c17734f3ee4e/ST1000VX013-1.png",
               "alt": "O disco rígido para vigilância Seagate SkyHawk incorpora tecnologia de ponta desenvolvida especificamente para as crescentes demandas dos sistemas de vigilância.",
               "text": "<p>Capacidade - 2TB<br>Tecnologia de gravação - CRM<br>Cache (MB) - 256<br>Sensores de VR - Não</p>",
-              "title": "ST2000VX017"
+              "title": "ST1000VX013"
             },
             {
               "mediaType": "IMAGE",
@@ -3352,7 +3352,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "banner": "https://data.decoassets.com/scarcom/fab9a03f-a810-4189-8d66-891a08c5ae82/ST2000VX017-3.png",
+              "banner": "https://data.decoassets.com/scarcom/68b4b999-e719-4b36-98c3-623a56cffdae/ST1000VX013-3.png",
               "text": "<p>Consumo de energia eficiente significa emissões de calor mais baixas e confiabilidade aprimorada. Além disso, com o SkyHawk Health Management, monitorar a integridade do disco é incrivelmente fácil. <br>Tenha tranquilidade com MTBF de 1 milhão de horas, garantia abrangente de três anos e plano Rescue Data Recovery Services para recuperação de dados interna por três anos.</p>",
               "alt": "SkyHawk AI Seagate enha tranquilidade com MTBF de 1 milhão de horas, garantia abrangente de três anos e plano Rescue Data Recovery Services para recuperação de dados interna por três anos."
             },
@@ -3464,7 +3464,7 @@
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png"
             }
           ],
-          "productId": "470"
+          "productId": "156034"
         }
       ]
     },
