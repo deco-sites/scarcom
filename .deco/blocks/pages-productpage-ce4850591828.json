@@ -3738,6 +3738,73 @@
             }
           ],
           "productId": "155480"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/918a4283-b888-460f-b003-3967fbc5eed9/ST10000NM020B-1.png",
+              "text": "<p>Desenvolvido especificamente para aplicações e cargas de trabalho de dados em lote.<br><br><strong>CONFIABILIDADE ECONÔMICA:</strong> Com suporte a até 10 TB por disco, o Exos 7E10 oferece armazenamento de dados em lote para infraestruturas de data center que exigem discos rígidos corporativos altamente confiáveis. <br><strong>DESEMPENHO ROBUSTO 24/7: </strong>Os discos Exos 7E10 apresentam MTBF de 2 milhões de horas e oferecem suporte a cargas de trabalho de 550 TB por ano. O cache de ponta, os algoritmos de correção de erros instantânea e o design com controle de vibração rotacional ajudam a garantir um desempenho consistente em sistemas replicados e RAID de vários discos.<br></p>",
+              "title": "Disco rígido corporativo Exos 7E10 de 10 TB",
+              "alt": "Disco rígido corporativo Exos 7E10 Desenvolvido especificamente para aplicações e cargas de trabalho de dados em lote."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/1ea623a9-dd9f-4e35-94e0-eb6f8f5bf66e/ST10000NM020B-2.png",
+              "text": "<p><strong>FÁCIL INTEGRAÇÃO, TCO OTIMIZADO: </strong>Atenda aos seus requisitos de carga de trabalho de armazenamento com o formato de data center mais econômico e eficiente atualmente no mercado. O Exos 7E10 fornece integração fácil a sistemas de armazenamento em lote com opções de interface SAS de 12 Gb/s e SATA de 6 Gb/s. <br><strong>RECURSOS AVANÇADOS DE SEGURANÇA:</strong> O Exos 7E10 impede o acesso não autorizado ao disco e protege os dados armazenados. Os discos Seagate Secure™ simplificam o reaproveitamento e o descarte do disco, ajudam a proteger os dados em repouso e cumprem normas de segurança de dados corporativas e federais. <br><strong>ESPECIALIZAÇÃO DE CONFIANÇA:</strong> Com mais de 350 milhões de unidades de classe corporativa distribuídas desde 2002 e a nossa garantia limitada de cinco anos, a Seagate é uma líder de confiança em soluções de armazenamento de dados.</p>",
+              "alt": "Disco rígido corporativo Exos 7E10 CONFIABILIDADE ECONÔMICA, DESEMPENHO ROBUSTO 24/7, FÁCIL INTEGRAÇÃO, TCO OTIMIZADO, RECURSOS AVANÇADOS DE SEGURANÇA, ESPECIALIZAÇÃO DE CONFIANÇA"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/4c7d7fa6-e96a-468c-8008-d0e22ad8ecd1/Seagate-exos-5.png",
+              "text": "<p>Desempenho consistente em sistemas replicados e RAID de vários discos.</p>",
+              "alt": "Disco rígido corporativo Exos 7E10 Desempenho consistente em sistemas replicados e RAID de vários discos.",
+              "title": "Desempenho robusto 24/7"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/092e22e6-37c9-4fcb-a657-cd7640b5f299/Seagate-exos-2.png",
+              "alt": "Disco rígido corporativo Exos 7E10 Discos de alta capacidade e alto desempenho para aplicações exigentes de dados em lote",
+              "title": "Otimizado para cargas de trabalho corporativas",
+              "text": "<p>Discos de alta capacidade e alto desempenho para aplicações exigentes de dados em lote</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/435f029e-4223-445a-b536-6140ea7656cb/Seagate-exos-1.png",
+              "text": "<p>Desempenho consistente em sistemas replicados e RAID de vários discos.</p>",
+              "title": "Desempenho robusto 24/7",
+              "alt": "Disco rígido corporativo Exos 7E10 de 10 TB Desempenho consistente em sistemas replicados e RAID de vários discos."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/832cf4a4-46f0-4561-a1bd-d43517e490d4/Seagate-exos-3.png",
+              "alt": "Disco rígido corporativo Exos 7E10 de 10 TB  O formato de data center mais econômico e eficiente atualmente no mercado.",
+              "text": "<p>O formato de data center mais econômico e eficiente atualmente no mercado.</p>",
+              "title": "Volume econômico"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/d0267c09-65ab-4ae6-a602-15982895a897/Seagate-exos-4.png",
+              "alt": "Disco rígido corporativo Exos 7E10 Proteja os dados em repouso e cumpra as normas de segurança de dados corporativas e federais.",
+              "title": "Recursos avançados de segurança",
+              "text": "<p>Proteja os dados em repouso e cumpra as normas de segurança de dados corporativas e federais.</p>"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MX3kupka67w?si=xIiUhYcy7e7SQypk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Há mais de 40 anos como pioneira no setor de armazenamento de dados, a Seagate segue esta fórmula elegante e potente. Um produto com o qual você pode contar é um que continua recebendo pontuações altas durante toda a sua vida útil, seja quando ele for testado. Por isso, nosso trabalho de garantia da qualidade nunca termina. Submetemos nossas soluções a mais de 160 testes de qualidade rigorosos. Avaliamos vários aspectos da qualidade, desde quando um disco rígido é apenas uma ideia na cabeça de um designer até o fim de sua vida útil. Porque a qualidade, em qualquer momento no decorrer do tempo, é o tipo de confiabilidade em que podemos acreditar.</p>",
+              "alt": "Seagate - Disco rígido - Confiabilidade equivale a qualidade ao longo do tempo",
+              "title": "Disco rígido Seagate - Confiabilidade equivale a qualidade ao longo do tempo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/aed56c7b-0372-434b-a43a-9f5d60ddd5be/Seagate-exos-folha-de-especificacoes.png",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/datasheets/pdfs/exos-7e10-DS1957-6M-2104BR-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a> <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/enterprise-hdd-fam/exos-7e10/_shared/docs/100870879e.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "title": "Documentação",
+              "alt": "Disco rígido corporativo Exos 7E10 Folha de Especificações  e Manual do Usuário"
+            }
+          ],
+          "productId": "5667"
         }
       ]
     },
