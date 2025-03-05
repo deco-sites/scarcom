@@ -4207,6 +4207,25 @@
             }
           ],
           "productId": "155708"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/2ac1cbb0-2a9b-4d87-a457-3465f2d0c35d/IronWolfPro-1.png",
+              "alt": "Os discos IronWolf Pro foram projetados para oferecer desempenho 24/7 e confiabilidade em soluções de armazenamento RAID comerciais e corporativas de várias baias e vários usuários",
+              "text": "<p>Os discos IronWolf® Pro foram projetados para oferecer desempenho 24/7 e confiabilidade em soluções de armazenamento RAID comerciais e corporativas de várias baias e vários usuários. Tranquilidade total com uma garantia limitada de cinco anos, Rescue Data Recovery Services gratuito por três anos e IronWolf Health Management.</p>",
+              "title": "IronWolf Pro 24 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/58bb5a76-40ea-4b28-8add-fcaeaad80225/IronWolfPro-2.png",
+              "title": "Detalhes ",
+              "text": "<p><strong>Alto desempenho:</strong> O portfólio totalmente CMR (gravação magnética convencional) fornece desempenho 24/7 consistente e líder do setor para que os usuários possam acessar dados a qualquer hora, em qualquer lugar <br><strong>A melhor confiabilidade da categoria: </strong>Taxa de carga de trabalho de até 550 TB/ano, MTBF de 2,5 milhões de horas e garantia limitada de 5 anos para oferecer um custo total de propriedade (TCO) incomparável</p>",
+              "alt": "IronWolf Pro Alto desempenho A melhor confiabilidade da categoria: "
+            }
+          ],
+          "productId": "156040"
         }
       ]
     },
