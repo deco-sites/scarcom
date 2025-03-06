@@ -4378,10 +4378,9 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png",
-              "title": "Conheça mais sobre o produto clicando abaixo em:  Folha de Especificações  Manual do Usuário",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-12tb/ironwolf-16tb-DS1904-22-2404US-pt_BR.pdf\"><strong><u>Folha de Especificações  </u></strong><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/ironwolf/en-us/docs/202717100a.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
-              "alt": "Documentação",
-              "videoHtml": "Documentação Ironwolf seagate"
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-12tb/ironwolf-16tb-DS1904-22-2404US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/ironwolf/en-us/docs/202717100a.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "title": "Documentação ",
+              "alt": "Documentação Ironwolf SEAGATE"
             }
           ],
           "productId": "508"
@@ -4436,6 +4435,79 @@
             }
           ],
           "productId": "155483"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/4a991b43-5a87-4202-931c-59fddfe5de37/ironwolf10.1-(4).png",
+              "text": "<p>Os discos IronWolf® Pro foram projetados para oferecer desempenho 24/7 e confiabilidade em soluções de armazenamento RAID comerciais e corporativas de várias baias e vários usuários. Tranquilidade total com uma garantia limitada de cinco anos, Rescue Data Recovery Services gratuito por três anos e IronWolf Health Management.</p>",
+              "title": "Ironwolf Pro 10 TB",
+              "alt": "Os discos IronWolf® Pro foram projetados para oferecer desempenho 24/7 e confiabilidade em soluções de armazenamento RAID comerciais e corporativas de várias baias e vários usuários. Tranquilidade total com uma garantia limitada de cinco anos, Rescue Data Recovery Services gratuito por três anos e IronWolf Health Management."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/98e252bc-cd1c-4cfd-bd1d-8bf8fd465e8d/ironwolFPRO.2.png",
+              "text": "<p>Alto desempenho: O portfólio totalmente CMR (gravação magnética convencional) fornece desempenho 24/7 consistente e líder do setor para que os usuários possam acessar dados a qualquer hora, em qualquer lugar <br>A melhor confiabilidade da categoria: Taxa de carga de trabalho de até 550 TB/ano, MTBF de 2,5 milhões de horas e garantia limitada de 5 anos para oferecer um custo total de propriedade (TCO) incomparável</p>",
+              "title": "Detalhes",
+              "alt": "Alto desempenho: O portfólio totalmente CMR (gravação magnética convencional) fornece desempenho 24/7 consistente e líder do setor para que os usuários possam acessar dados a qualquer hora, em qualquer lugar"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/fd064b44-aa32-4e77-855f-bccd47ce04d7/ironwolFPRO.3.png",
+              "text": "<p>Tranquilidade na recuperação de dados: Rescue Data Recovery Services gratuito por três anos para proporcionar uma experiência de recuperação de dados sem complicações e sem custos<br></p>",
+              "alt": "Tranquilidade na recuperação de dados: Rescue Data Recovery Services gratuito por três anos para proporcionar uma experiência de recuperação de dados sem complicações e sem custos"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/e2d46264-4798-444f-872f-3c55b6d45166/ironwolFPRO.4.png",
+              "text": "<p>IronWolf Health Management: Ajuda a proteger seus dados com recomendações de prevenção, intervenção e recuperação para garantir a integridade do sistema</p>",
+              "alt": "Alto desempenho: O portfólio totalmente CMR (gravação magnética convencional) fornece desempenho 24/7 consistente e líder do setor para que os usuários possam acessar dados a qualquer hora, em qualquer lugar"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ec6fc4ec-727a-467e-8a1d-b681a299798c/ironwolFPRO.5.png",
+              "text": "<p>Otimizado para NAS: AgileArray com balanceamento de plano duplo, recuperação de erros de tempo limitado (TLER) e sensores de vibração rotacional (VR) para fornecer o mais alto desempenho de RAID em ambientes de várias baias</p>",
+              "alt": "Otimizado para NAS: AgileArray com balanceamento de plano duplo, recuperação de erros de tempo limitado (TLER) e sensores de vibração rotacional (VR) para fornecer o mais alto desempenho de RAID em ambientes de várias baias"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/c0c28508-9399-4455-8125-7360ea6d44d1/ironwolflucas.png",
+              "text": "<p>O IronWolf Health Management¹ ajuda a proteger os dados com recomendações de prevenção, intervenção e recuperação para garantir a integridade do sistema.  <br>Três anos de Rescue Data Recovery Services² gratuito para recuperação de dados incluídos com todos os discos IronWolf para que os usuários não precisem arcar com os altos custos de recuperação. Instalações seguras internas, com uma taxa de sucesso líder de setor de 95%, possibilitam a recuperação de dados após a corrupção de dados acidental ou dano ao disco.</p>",
+              "title": "Integridade de Disco e Recuperação de Dados",
+              "alt": "Integridade de Disco e Recuperação de Dados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Nossos discos IronWolf® foram testados pelos principais fornecedores de NAS, como Asustor, QNAP e Synology, quanto à compatibilidade. A Seagate recomenda consultar a lista de compatibilidade do seu fornecedor de NAS para obter o disco aprovado mais recente.</p>",
+              "title": "Compatibilidade de sistemas NAS",
+              "alt": "Compatibilidade de sistemas NAS",
+              "banner": "https://data.decoassets.com/scarcom/a1325201-95a8-4a42-bd9e-08dc2ed1c5d6/ironwolf9.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Compare e escolha o disco rígido da Seagate ideal para as suas necessidades.</p>",
+              "title": "Escolha seu disco para NAS",
+              "alt": "Escolha seu disco para NAS",
+              "banner": "https://data.decoassets.com/scarcom/c6d828d4-8ea1-43b8-88f0-8543ec9608f6/ironwolf10.png"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MX3kupka67w?si=FgrjCIlhE4Cn00g6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Há mais de 40 anos como pioneira no setor de armazenamento de dados, a Seagate segue esta fórmula elegante e potente. Um produto com o qual você pode contar é um que continua recebendo pontuações altas durante toda a sua vida útil, seja quando ele for testado. Por isso, nosso trabalho de garantia da qualidade nunca termina. Submetemos nossas soluções a mais de 160 testes de qualidade rigorosos. Avaliamos vários aspectos da qualidade, desde quando um disco rígido é apenas uma ideia na cabeça de um designer até o fim de sua vida útil. Porque a qualidade, em qualquer momento no decorrer do tempo, é o tipo de confiabilidade em que podemos acreditar.</p>",
+              "title": "Confiabilidade equivale a qualidade ao longo do tempo ",
+              "alt": "Confiabilidade equivale a qualidade ao longo do tempo SEAGATE",
+              "banner": "Confiabilidade equivale a qualidade ao longo do tempo SEAGATE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações <br></u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/ironwolf/en-us/docs/204502000a_Ironwolf_Pro_2-4-6-8-10.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "title": "Documentação ",
+              "alt": "Documentação Ironwolf SEAGATE",
+              "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png"
+            }
+          ],
+          "productId": "509"
         }
       ]
     },
