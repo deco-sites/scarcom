@@ -1,6 +1,9 @@
 User-agent: MSNBot
 Disallow: /
 
+User-agent: bingbot
+Disallow: /
+
 User-agent: *
 Disallow: /checkout
 Disallow: /
