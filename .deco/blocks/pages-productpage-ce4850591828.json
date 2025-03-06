@@ -4574,7 +4574,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações<br></u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/files/206815300a_Ironwolf_Pro_12-16-20-24.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações<br></u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/files/206815300a_Ironwolf_Pro_12-16-20-24.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
               "title": "Documentação ",
               "alt": "Documentação Ironwolf SEAGATE",
               "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png"
@@ -4583,7 +4583,72 @@
           "productId": "155592"
         },
         {
-          "contentDetails": [],
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/dff1b111-2f90-4cd2-ad00-40e98e45c3b2/SEAGATE-EXOS-7E10-1-CANVA.png",
+              "text": "<p>Desenvolvido especificamente para aplicações e cargas de trabalho de dados em lote.</p>",
+              "title": "Disco rígido corporativo Exos 7E10 de 10 TB",
+              "alt": "Disco rígido corporativo Exos 7E10 de 10 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/b739b178-8611-46ba-bd97-360d9c2a215b/SEAGATE-EXOS-7E10-1-CANVA-(2).png",
+              "text": "<p>CONFIABILIDADE ECONÔMICA: Com suporte a até 10 TB por disco, o Exos 7E10 oferece armazenamento de dados em lote para infraestruturas de data center que exigem discos rígidos corporativos altamente confiáveis. <br><br>DESEMPENHO ROBUSTO 24/7: Os discos Exos 7E10 apresentam MTBF de 2 milhões de horas e oferecem suporte a cargas de trabalho de 550 TB por ano. O cache de ponta, os algoritmos de correção de erros instantânea e o design com controle de vibração rotacional ajudam a garantir um desempenho consistente em sistemas replicados e RAID de vários discos. <br><br>FÁCIL INTEGRAÇÃO, TCO OTIMIZADO: Atenda aos seus requisitos de carga de trabalho de armazenamento com o formato de data center mais econômico e eficiente atualmente no mercado. O Exos 7E10 fornece integração fácil a sistemas de armazenamento em lote com opções de interface SAS de 12 Gb/s e SATA de 6 Gb/s. <br><br>RECURSOS AVANÇADOS DE SEGURANÇA: O Exos 7E10 impede o acesso não autorizado ao disco e protege os dados armazenados. Os discos Seagate Secure™ simplificam o reaproveitamento e o descarte do disco, ajudam a proteger os dados em repouso e cumprem normas de segurança de dados corporativas e federais. ESPECIALIZAÇÃO DE CONFIANÇA: Com mais de 350 milhões de unidades de classe corporativa distribuídas desde 2002 e a nossa garantia limitada de cinco anos, a Seagate é uma líder de confiança em soluções de armazenamento de dados.<br></p>",
+              "title": "Detalhes",
+              "alt": "Disco rígido corporativo Exos 7E10 de 10 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/638ac943-e3b9-4ac1-92ca-a6d50aba8bac/SEAGATE-EXOS-7E10-1-CANVA-(3).png",
+              "text": "<p>Armazene até 10 TB de dados de forma confiável sem sacrificar o desempenho.</p>",
+              "title": "Confiável. Eficiente. Versátil.",
+              "alt": "Armazene até 10 TB de dados de forma confiável sem sacrificar o desempenho."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/523a9261-7299-4e9e-9074-5f7291efac35/SEAGATE-EXOS-7E10-1-CANVA-(5).png",
+              "title": "Otimizado para cargas de trabalho corporativas",
+              "text": "<p>Discos de alta capacidade e alto desempenho para aplicações exigentes de dados em lote</p>",
+              "alt": "Otimizado para cargas de trabalho corporativas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/625c166b-0940-4323-bfa0-e3e933b0ce1b/SEAGATE-EXOS-7E10-1-CANVA-(6).png",
+              "text": "<p>Desempenho consistente em sistemas replicados e RAID de vários discos.</p>",
+              "title": "Desempenho robusto 24/7",
+              "alt": "Desempenho consistente em sistemas replicados e RAID de vários discos."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/576760e0-9672-40c5-b35f-1d9af02d8673/SEAGATE-EXOS-7E10-1-CANVA-(7).png",
+              "text": "<p>O formato de data center mais econômico e eficiente atualmente no mercado.</p>",
+              "title": "Volume econômico",
+              "alt": "Volume econômico"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/bcffd8c4-3eae-4628-91e0-975d887bfc99/SEAGATE-EXOS-7E10-1-CANVA-(9).png",
+              "text": "<p>Proteja os dados em repouso e cumpra as normas de segurança de dados corporativas e federais.</p>",
+              "title": "Recursos avançados de segurança",
+              "alt": "Recursos avançados de segurança"
+            },
+            {
+              "mediaType": "VIDEO",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MX3kupka67w?si=FgrjCIlhE4Cn00g6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "banner": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MX3kupka67w?si=FgrjCIlhE4Cn00g6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "text": "<p>Há mais de 40 anos como pioneira no setor de armazenamento de dados, a Seagate segue esta fórmula elegante e potente. Um produto com o qual você pode contar é um que continua recebendo pontuações altas durante toda a sua vida útil, seja quando ele for testado. Por isso, nosso trabalho de garantia da qualidade nunca termina. Submetemos nossas soluções a mais de 160 testes de qualidade rigorosos. Avaliamos vários aspectos da qualidade, desde quando um disco rígido é apenas uma ideia na cabeça de um designer até o fim de sua vida útil. Porque a qualidade, em qualquer momento no decorrer do tempo, é o tipo de confiabilidade em que podemos acreditar.</p>",
+              "title": "Confiabilidade equivale a qualidade ao longo do tempo ",
+              "alt": "Confiabilidade equivale a qualidade ao longo do tempo SEAGATE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/datasheets/pdfs/exos-7e10-DS1957-6M-2104BR-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><strong><u><br></u></strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/product-content/enterprise-hdd-fam/exos-7e10/_shared/docs/100870879e.pdf\"><strong><u> Manual do usuário</u></strong></a></p>",
+              "banner": "https://data.decoassets.com/scarcom/4786f1a3-aa04-4fc4-b9ad-fb5bda3acaca/SEAGATE-EXOS-7E10-1-CANVA-(10).png",
+              "title": "Documentação Ironwolf ",
+              "alt": "Documentação Ironwolf SEAGATE"
+            }
+          ],
           "productId": "576"
         }
       ]
