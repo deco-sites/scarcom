@@ -4789,10 +4789,51 @@
         {
           "contentDetails": [
             {
-              "mediaType": "IMAGE"
+              "mediaType": "IMAGE",
+              "text": "<p>Instale a Rally Bar, a Rally Bar Mini ou a Rally Bar Huddle em quase todos os monitores com pontos de montagem VESA.</p>",
+              "title": "Suporte para barras de vídeo",
+              "alt": "SUPORTE PARA BARRAS DE VÍDEO",
+              "banner": "https://data.decoassets.com/scarcom/d3ef6410-e08a-4e06-bfc7-ecce94adc577/Design-sem-nome-(7).png"
+            },
+            {
+              "banner": "https://data.decoassets.com/scarcom/a7297b38-b286-4707-aa04-80ba1c85f7d9/Design-sem-nome-(8).png",
+              "mediaType": "IMAGE",
+              "text": "<p>Economize espaço e libere o móvel colocando a Rally Bar, Rally Bar Mini ou Rally Bar Huddle abaixo do monitor.</p>",
+              "title": "Fixação abaixo do monitor",
+              "alt": "Economize espaço e libere o móvel colocando a Rally Bar, Rally Bar Mini ou Rally Bar Huddle abaixo do monitor."
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Projetado por perfeccionistas. O ajuste de ângulo integrado permite alinhar com precisão o nível da barra de vídeo com o monitor.</p>",
+              "title": "Perfeitamente paralelo",
+              "alt": "Projetado por perfeccionistas. O ajuste de ângulo integrado permite alinhar com precisão o nível da barra de vídeo com o monitor.",
+              "banner": "https://data.decoassets.com/scarcom/5a8c42b3-029c-478d-be40-a997533eaea0/Design-sem-nome-(9).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Ajuste a profundidade da montagem em até 50 mm para encaixar em uma ampla variedade de espessuras de monitor e separadores de parede.</p>",
+              "banner": "https://data.decoassets.com/scarcom/ac206001-22f3-4065-8c9a-1e09a1619392/Design-sem-nome-(10).png",
+              "title": "Flexível e nivelado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Com o versátil design de braço articulado e a compatibilidade com o padrão VESA da indústria, o suporte para barras de vídeo serve para monitores montados em paredes ou carrinhos de até 248,92 cm (medido diagonalmente).</p>",
+              "title": "Encaixa na maioria dos monitores",
+              "alt": "Com o versátil design de braço articulado e a compatibilidade com o padrão VESA da indústria, o suporte para barras de vídeo serve para monitores montados em paredes ou carrinhos de até 248,92 cm (medido diagonalmente).",
+              "banner": "https://data.decoassets.com/scarcom/f704613d-5f61-4856-a9bc-5f5975fd3a4c/Design-sem-nome-(11).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/925febce-0253-4e7a-9685-589cba102a9e/Design-sem-nome-(12).png",
+              "text": "<p>Tanto em montagens acima quanto abaixo do monitor, a passagem cuidadosa dos cabos mantém os cabos conectados com segurança e fora da vista.</p>",
+              "title": "Cabeamento limpo",
+              "alt": "Tanto em montagens acima quanto abaixo do monitor, a passagem cuidadosa dos cabos mantém os cabos conectados com segurança e fora da vista."
             }
           ],
           "productId": "155475"
+        },
+        {
+          "contentDetails": []
         }
       ]
     },
