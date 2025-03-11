@@ -4834,6 +4834,18 @@
         },
         {
           "contentDetails": []
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/93845436-682f-4eb6-8c5d-9d417c9db7e6/Design-sem-nome-(13).png",
+              "text": "<p>Webcam 4K premium com melhoria da imagem com apoio de IA</p>",
+              "title": "MX BRIO 705 FOR BUSINESS",
+              "alt": "MX BRIO 705 FOR BUSINESS"
+            }
+          ],
+          "productId": "1534"
         }
       ]
     },
