@@ -19,6 +19,24 @@ export default function Pagination(
   const { recordPerPage, records = 0, nextPage, previousPage, currentPage } =
     pageInfo;
 
+  const getLastPageLink = () => {
+    if (currentPage === lastPage) {
+      return "#";
+    }
+    return nextPage
+      ? nextPage.replace(`page=${currentPage + 1}`, `page=${lastPage}`)
+      : "#";
+  };
+
+  const getFirstPageLink = () => {
+    if (currentPage === 1) {
+      return "#";
+    }
+    return previousPage
+      ? previousPage.replace(`page=${currentPage - 1}`, `page=1`)
+      : "#";
+  };
+
   const offset = Math.abs(startingPage - 1);
   const perPage = recordPerPage || productsLength;
   const lastPage = Math.ceil(records / perPage);
@@ -30,10 +48,10 @@ export default function Pagination(
   return (
     <div class="flex justify-center my-4">
       <div class="join">
-        <button
+        <a
           aria-label="first page link"
           rel="first"
-          onClick={() => goToPage(1 - offset)}
+          href={getFirstPageLink()}
           class="btn max-lg:px-2 btn-ghost join-item disabled:bg-transparent"
           disabled={!previousPage}
         >
@@ -41,7 +59,7 @@ export default function Pagination(
           <span class="lg:hidden">
             <Icon id="DoubleChevronLeft" size={24} strokeWidth={2} />
           </span>
-        </button>
+        </a>
         <a
           aria-label="previous page link"
           rel="prev"
@@ -53,7 +71,7 @@ export default function Pagination(
         </a>
         <div class="btn max-lg:px-2 btn-ghost cursor-pointer join-item relative">
           <label for="pageOptions">
-            Página {zeroIndexedOffsetPage + 1} de {lastPage}
+            Página {zeroIndexedOffsetPage} de {lastPage}
           </label>
           <input
             type="checkbox"
@@ -81,10 +99,10 @@ export default function Pagination(
         >
           <Icon id="ChevronRight" size={24} strokeWidth={2} />
         </a>
-        <button
+        <a
           aria-label="last page link"
           rel="last"
-          onClick={() => goToPage(lastPage - offset)}
+          href={getLastPageLink()}
           class="btn max-lg:px-2 btn-ghost join-item disabled:bg-transparent"
           disabled={!nextPage}
         >
@@ -97,7 +115,7 @@ export default function Pagination(
               strokeWidth={2}
             />
           </span>
-        </button>
+        </a>
       </div>
     </div>
   );
