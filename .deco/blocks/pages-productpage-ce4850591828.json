@@ -5571,8 +5571,65 @@
           "productId": "155022"
         },
         {
-          "contentDetails": [],
-          "productId": "155037"
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/ebc0c95d-f0d9-48d9-af44-4021b9650a5c/Design-sem-nome---2025-03-17T144812.142.png",
+              "text": "<p>O Spotlight é um novo padrão em controle de apresentação - projetado especificamente para manter as pessoas engajadas. Na sala de reuniões, sala de aula ou sala de estar, você pode controlar sua apresentação enquanto ajuda seu público a seguir o que você está dizendo, seja pessoalmente, virtual ou um híbrido de ambos.</p>",
+              "title": "APRESENTADOR SPOTLIGHT™",
+              "alt": "APRESENTADOR SPOTLIGHT™"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://data.decoassets.com/scarcom/fde5dd47-bafb-4458-ad2c-114e3da83172/Design-sem-nome---2025-03-17T145040.995.png",
+              "text": "<p>O Spotlight é um novo padrão em controle de apresentação - projetado especificamente para manter as pessoas engajadas. Na sala de reuniões, sala de aula ou sala de estar, você pode controlar sua apresentação enquanto ajuda seu público a seguir o que você está dizendo, seja pessoalmente, virtual ou um híbrido de ambos.</p>",
+              "title": "LEVE SUAS APRESENTAÇÕES AO PRÓXIMO NÍVEL",
+              "alt": "LEVE SUAS APRESENTAÇÕES AO PRÓXIMO NÍVEL"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>O Spotlight tem três modos avançados de apontamento que funcionam em vários ambientes de apresentação: projetores, telas de TV, videoconferência e configurações com várias telas. Destaque cria um efeito de destaque na tela. Amplie os detalhes. E o Digital Laser identifica com precisão as informações.</p>",
+              "title": "ILUMINE CADA PONTO QUE VOCÊ FAZ",
+              "alt": "ILUMINE CADA PONTO QUE VOCÊ FAZ",
+              "banner": "https://data.decoassets.com/scarcom/71a7dbf0-8997-422b-8783-ba4d4d17e0c1/Design-sem-nome---2025-03-17T145351.506.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Aproveite o foco e a familiaridade imediata com a interface intuitiva com três botões do Spotlight.</p>",
+              "title": "NAVEGAÇÃO DE SLIDES INTUITIVA",
+              "alt": "NAVEGAÇÃO DE SLIDES INTUITIVA",
+              "banner": "https://data.decoassets.com/scarcom/b2eb689c-bc5c-4a5d-839a-9a7ae295d0d9/Design-sem-nome---2025-03-17T145451.509.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Mova-se e apresente-se livremente a até 30 m de distância.</p>",
+              "title": "AMPLO ALCANCE DE OPERAÇÃO",
+              "alt": "AMPLO ALCANCE DE OPERAÇÃO",
+              "banner": "https://data.decoassets.com/scarcom/59a12b5a-ca3c-4469-99f5-c94703e9d720/Design-sem-nome---2025-03-17T145544.496.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Use Spotlight nas plataformas Windows® e macOS; apresentações Powerpoint®, Keynote®, Acrobat®, Google™ Slide e Prezi™; assim como aplicativos de videoconferência Zoom®, Microsoft Teams®, e Blue Jeans.</p>",
+              "title": "AMPLA COMPATIBILIDADE",
+              "alt": "AMPLA COMPATIBILIDADE",
+              "banner": "https://data.decoassets.com/scarcom/ac21d03d-4258-41e0-aa27-1659f2456bbb/Design-sem-nome---2025-03-17T145640.483.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Plug-and-play Spotlight instantaneamente em qualquer computador compatível via receptor USB ou conecte-se com a tecnologia sem fio de baixa energia Bluetooth®. Além disso, o Spotlight mantém seu computador conectado e evita que entre no modo de suspensão durante a apresentação.</p>",
+              "title": "DUAS MANEIRAS DE SE CONECTAR",
+              "alt": "DUAS MANEIRAS DE SE CONECTAR",
+              "banner": "https://data.decoassets.com/scarcom/3073b05c-6c96-4428-ad50-d671aacd8861/Design-sem-nome---2025-03-17T145815.057.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Conecte o cabo de carregamento USB-C incluído no Spotlight e em qualquer porta USB-A para obter 3 horas de apresentação após um carregamento de 1 minuto. O Spotlight carrega totalmente em apenas 60 minutos. O dispositivo vibra, e o indicador da bateria pisca em vermelho quando for necessário recarregar.</p><p><br></p>",
+              "title": "RECARGA RÁPIDA",
+              "alt": "RECARGA RÁPIDA",
+              "banner": "https://data.decoassets.com/scarcom/ff52c338-6b2a-40e2-aa3b-244840f9f73d/Design-sem-nome---2025-03-17T145946.488.png"
+            }
+          ],
+          "productId": "154447"
         }
       ]
     },
