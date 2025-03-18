@@ -5,16 +5,17 @@ export interface Props {
   pageInfo: PageInfo;
   productsLength: number;
   startingPage: number;
+  url: string;
 }
 
-const goToPage = (page: number) => {
-  const searchParams = new URLSearchParams(globalThis.window.location.search);
-  searchParams.set("page", `${page}`);
-  globalThis.window.location.search = searchParams.toString();
+const goToPage = (page: number, url: string) => {
+  const newURL = new URL(url);
+  newURL.searchParams.set("page", `${page}`);
+  return newURL.toString();
 };
 
 export default function Pagination(
-  { pageInfo, productsLength, startingPage }: Props,
+  { pageInfo, productsLength, startingPage, url }: Props,
 ) {
   const { recordPerPage, records = 0, nextPage, previousPage, currentPage } =
     pageInfo;
@@ -37,7 +38,6 @@ export default function Pagination(
       : "#";
   };
 
-  const offset = Math.abs(startingPage - 1);
   const perPage = recordPerPage || productsLength;
   const lastPage = Math.ceil(records / perPage);
   const zeroIndexedOffsetPage = currentPage - startingPage;
@@ -45,6 +45,7 @@ export default function Pagination(
   for (let i = 1; i <= lastPage; i++) {
     pageOptions.push({ pageName: `Página ${i}`, pageIndex: i });
   }
+
   return (
     <div class="flex justify-center my-4">
       <div class="join">
@@ -80,13 +81,17 @@ export default function Pagination(
             name="pageOptions"
           />
           <div class="absolute top-full bg-white peer-checked:flex shadow-md rounded-md max-h-48 overflow-auto w-full hidden flex-col items-center">
-            {pageOptions.map((option) => (
-              <button
-                class="btn max-lg:px-2 btn-ghost w-full"
-                onClick={() => goToPage(option.pageIndex - offset)}
-              >
-                {option.pageName}
-              </button>
+            {pageOptions.map((option, index) => (
+              <>
+                <a
+                  aria-label="page link"
+                  rel="page link"
+                  href={goToPage(index + 1, url)}
+                  class="btn max-lg:px-2 btn-ghost w-full"
+                >
+                  {option.pageName}
+                </a>
+              </>
             ))}
           </div>
         </div>
