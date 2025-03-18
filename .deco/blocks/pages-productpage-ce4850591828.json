@@ -5822,8 +5822,37 @@
           "productId": "1631"
         },
         {
-          "contentDetails": [],
-          "productId": "155854"
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Ofereça aos funcionários uma webcam simples de usar para melhorar a colaboração. Certificada para as principais plataformas de reunião com conectividade USB-C.</p>",
+              "title": "BRIO 305",
+              "alt": "BRIO 305",
+              "banner": "https://assets.decocache.com/scarcom/2772572b-a8b8-4c38-9c86-3e2cfe507797/Design-sem-nome---2025-03-18T150024.010.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/42042f07-aa1b-45cf-994a-6d9ed2b6b9de/Design-sem-nome---2025-03-18T150129.124.png",
+              "text": "<p>A Brio 305 é uma webcam 1080p simples de usar criada pela líder de mercado de webcams.Ela é certificada para as principais plataformas de reunião, é possível implantá-la em estações de trabalho e escritórios domésticos com segurança. Feita com apenas 48% de plástico reciclado.</p>",
+              "title": "ESSENCIAL PARA REUNIÕES POR VÍDEO",
+              "alt": "ESSENCIAL PARA REUNIÕES POR VÍDEO"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Simplifique as reuniões com a Brio 305, uma webcam USB-C que ajuda a fornecer imagem e som nítidos a todos.</p>",
+              "title": "TENHA REUNIÕES MELHORES",
+              "banner": "https://assets.decocache.com/scarcom/6e1b20fb-fdbc-4c83-9f8c-a266c1024eca/Design-sem-nome---2025-03-18T150639.086.png",
+              "alt": "TENHA REUNIÕES MELHORES"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b16b030e-2a2d-401f-85e8-22b5b1faad22/Design-sem-nome---2025-03-18T150812.605.png",
+              "text": "<p>A Logitech está comprometida em criar um mundo mais sustentável. Estamos trabalhando ativamente para minimizar nossa pegada ambiental e acelerar o ritmo das mudanças sociais.</p>",
+              "title": "SUSTENTABILIDADE NA LOGITECH",
+              "alt": "SUSTENTABILIDADE NA LOGITECH"
+            }
+          ],
+          "productId": "155955"
         }
       ]
     },
