@@ -1,5 +1,6 @@
 import type { AnalyticsEvent } from "apps/commerce/types.ts";
-import { scriptAsDataURI } from "apps/utils/dataURI.ts";
+// import { scriptAsDataURI } from "apps/utils/dataURI.ts";
+import { useScriptAsDataURI } from "deco/hooks/useScript.ts";
 
 /**
  * This function is usefull for sending events on click. Works with both Server and Islands components
@@ -10,7 +11,7 @@ export const SendEventOnClick = <E extends AnalyticsEvent>({ event, id }: {
 }) => (
   <script
     defer
-    src={scriptAsDataURI(
+    src={useScriptAsDataURI(
       (id: string, event: AnalyticsEvent) => {
         const elem = document.getElementById(id);
 
@@ -35,7 +36,7 @@ export const SendEventOnView = <E extends AnalyticsEvent>(
 ) => (
   <script
     defer
-    src={scriptAsDataURI(
+    src={useScriptAsDataURI(
       (id: string, event: E) => {
         const elem = document.getElementById(id);
 

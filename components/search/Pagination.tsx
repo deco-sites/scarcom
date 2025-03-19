@@ -5,21 +5,39 @@ export interface Props {
   pageInfo: PageInfo;
   productsLength: number;
   startingPage: number;
+  url: string;
 }
 
-const goToPage = (page: number) => {
-  const searchParams = new URLSearchParams(globalThis.window.location.search);
-  searchParams.set("page", `${page}`);
-  globalThis.window.location.search = searchParams.toString();
+const goToPage = (page: number, url: string) => {
+  const newURL = new URL(url);
+  newURL.searchParams.set("page", `${page}`);
+  return newURL.toString();
 };
 
 export default function Pagination(
-  { pageInfo, productsLength, startingPage }: Props,
+  { pageInfo, productsLength, startingPage, url }: Props,
 ) {
   const { recordPerPage, records = 0, nextPage, previousPage, currentPage } =
     pageInfo;
 
-  const offset = Math.abs(startingPage - 1);
+  const getLastPageLink = () => {
+    if (currentPage === lastPage) {
+      return "#";
+    }
+    return nextPage
+      ? nextPage.replace(`page=${currentPage + 1}`, `page=${lastPage}`)
+      : "#";
+  };
+
+  const getFirstPageLink = () => {
+    if (currentPage === 1) {
+      return "#";
+    }
+    return previousPage
+      ? previousPage.replace(`page=${currentPage - 1}`, `page=1`)
+      : "#";
+  };
+
   const perPage = recordPerPage || productsLength;
   const lastPage = Math.ceil(records / perPage);
   const zeroIndexedOffsetPage = currentPage - startingPage;
@@ -27,13 +45,14 @@ export default function Pagination(
   for (let i = 1; i <= lastPage; i++) {
     pageOptions.push({ pageName: `Página ${i}`, pageIndex: i });
   }
+
   return (
     <div class="flex justify-center my-4">
       <div class="join">
-        <button
+        <a
           aria-label="first page link"
           rel="first"
-          onClick={() => goToPage(1 - offset)}
+          href={getFirstPageLink()}
           class="btn max-lg:px-2 btn-ghost join-item disabled:bg-transparent"
           disabled={!previousPage}
         >
@@ -41,7 +60,7 @@ export default function Pagination(
           <span class="lg:hidden">
             <Icon id="DoubleChevronLeft" size={24} strokeWidth={2} />
           </span>
-        </button>
+        </a>
         <a
           aria-label="previous page link"
           rel="prev"
@@ -53,7 +72,7 @@ export default function Pagination(
         </a>
         <div class="btn max-lg:px-2 btn-ghost cursor-pointer join-item relative">
           <label for="pageOptions">
-            Página {zeroIndexedOffsetPage + 1} de {lastPage}
+            Página {zeroIndexedOffsetPage} de {lastPage}
           </label>
           <input
             type="checkbox"
@@ -62,13 +81,17 @@ export default function Pagination(
             name="pageOptions"
           />
           <div class="absolute top-full bg-white peer-checked:flex shadow-md rounded-md max-h-48 overflow-auto w-full hidden flex-col items-center">
-            {pageOptions.map((option) => (
-              <button
-                class="btn max-lg:px-2 btn-ghost w-full"
-                onClick={() => goToPage(option.pageIndex - offset)}
-              >
-                {option.pageName}
-              </button>
+            {pageOptions.map((option, index) => (
+              <>
+                <a
+                  aria-label="page link"
+                  rel="page link"
+                  href={goToPage(index + 1, url)}
+                  class="btn max-lg:px-2 btn-ghost w-full"
+                >
+                  {option.pageName}
+                </a>
+              </>
             ))}
           </div>
         </div>
@@ -81,10 +104,10 @@ export default function Pagination(
         >
           <Icon id="ChevronRight" size={24} strokeWidth={2} />
         </a>
-        <button
+        <a
           aria-label="last page link"
           rel="last"
-          onClick={() => goToPage(lastPage - offset)}
+          href={getLastPageLink()}
           class="btn max-lg:px-2 btn-ghost join-item disabled:bg-transparent"
           disabled={!nextPage}
         >
@@ -97,7 +120,7 @@ export default function Pagination(
               strokeWidth={2}
             />
           </span>
-        </button>
+        </a>
       </div>
     </div>
   );

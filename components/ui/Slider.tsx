@@ -1,5 +1,6 @@
 import type { ComponentChildren, JSX } from "preact";
-import { scriptAsDataURI } from "apps/utils/dataURI.ts";
+// import { scriptAsDataURI } from "apps/utils/dataURI.ts";
+import { useScriptAsDataURI } from "deco/hooks/useScript.ts";
 
 function Dot({ index, children }: {
   index: number;
@@ -227,7 +228,7 @@ function JS({
 }: Props) {
   return (
     <script
-      src={scriptAsDataURI(setup, { rootId, scroll, interval, infinite })}
+      src={useScriptAsDataURI(setup, { rootId, scroll, interval, infinite })}
       defer
     />
   );

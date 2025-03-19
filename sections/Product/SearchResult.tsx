@@ -13,6 +13,7 @@ import { isArray } from "https://deno.land/x/djwt@v2.8/util.ts";
 import NotFound from "$store/components/search/NotFound.tsx";
 import Pagination from "deco-sites/scarcom/components/search/Pagination.tsx";
 import { type Section as Section } from "@deco/deco/blocks";
+import { type SectionProps as SectionProps } from "@deco/deco";
 export interface DiscountBadgeProps {
   label: string;
   variant: DiscountBadgeColors;
@@ -46,6 +47,11 @@ export interface Props {
    */
   notFoundSection: Section;
 }
+export const loader = (props: Props, req: Request) => {
+  console.log(req.url);
+  return { ...props, url: req.url };
+};
+
 function Result(
   {
     page,
@@ -54,9 +60,10 @@ function Result(
     hideFilter: hideFilters,
     highlights,
     startingPage = 0,
+    url,
   }: Omit<Omit<Props, "page">, "notFoundSection"> & {
     page: ProductListingPage;
-  },
+  } & { url: string },
 ) {
   const { products, filters, breadcrumb, pageInfo, sortOptions } = page;
   const { nextPage, previousPage } = pageInfo;
@@ -109,6 +116,7 @@ function Result(
               {/* <SearchPagination pageInfo={pageInfo} /> */}
               {(nextPage || previousPage) && (
                 <Pagination
+                  url={url}
                   pageInfo={pageInfo}
                   productsLength={products.length}
                   startingPage={startingPage}
@@ -129,7 +137,7 @@ function SearchResult(
       props: {},
     },
     ...props
-  }: Props,
+  }: SectionProps<ReturnType<typeof loader>>,
 ) {
   if (!page || !page.products || page.products.length === 0) {
     return <NotFoundSection {...notFoundProps} />;
