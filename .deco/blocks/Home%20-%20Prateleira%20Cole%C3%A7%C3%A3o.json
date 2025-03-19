@@ -75,7 +75,8 @@
       "overFlow": "overflow-none",
       "verticalSpacing": "top",
       "label": "Prateleira",
-      "withContainer": true
+      "withContainer": true,
+      "spacing": 0
     }
   ]
 }
