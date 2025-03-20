@@ -88,7 +88,7 @@
           }
         ],
         "logo": {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca"
+          "image": "https://assets.decocache.com/scarcom/a188a542-2ca2-478e-bacc-f6a28c0a2c3d/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca"
         },
         "socialNetWorks": [
           {
@@ -106,50 +106,50 @@
         "payments": [
           {
             "alt": "Mastercard",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ba466288-05d9-4f39-9eb6-049bf4c5eb05"
+            "image": "https://assets.decocache.com/scarcom/19d9fdd0-739a-4b49-9876-6c2c8f59a722/1742476386220-ba466288-05d9-4f39-9eb6-049bf4c5eb05"
           },
           {
             "alt": "Visa",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0c60fc79-a4fa-48b9-b477-3662ece8571a"
+            "image": "https://assets.decocache.com/scarcom/35476d2b-3120-46ca-8c1f-472178b3b7c1/1742476387434-0c60fc79-a4fa-48b9-b477-3662ece8571a"
           },
           {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/ac829344-6534-44aa-840b-4676b339143d",
+            "image": "https://assets.decocache.com/scarcom/ad0eab65-f1bf-4c62-8691-38ab74808514/1742476388512-ac829344-6534-44aa-840b-4676b339143d",
             "alt": "Elo"
           },
           {
             "alt": "American Express",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/5ae86266-de55-462f-b972-43ee4dc732d0"
+            "image": "https://assets.decocache.com/scarcom/ebcc2053-b439-4332-ac68-1ae2232e49d0/1742476390527-5ae86266-de55-462f-b972-43ee4dc732d0"
           },
           {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/45eb1cfa-50f6-4b0a-9db0-27d548e153af",
+            "image": "https://assets.decocache.com/scarcom/43a5a105-616b-4a67-a8fa-e7b34a4483ad/1742476391692-45eb1cfa-50f6-4b0a-9db0-27d548e153af",
             "alt": "Pix"
           },
           {
             "alt": "Boleto",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/815153b4-14d3-4917-8836-82b305fe93c7"
+            "image": "https://assets.decocache.com/scarcom/50f06347-31b3-4b47-b38b-0669968477ff/1742476392846-815153b4-14d3-4917-8836-82b305fe93c7"
           }
         ],
         "securities": [
           {
             "alt": "Let's Encrypt",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/11a68b3a-ea26-4fe2-9566-f3f1951c12fe"
+            "image": "https://assets.decocache.com/scarcom/3a65400d-bd49-4d49-a371-35221befa3a3/1742476394049-11a68b3a-ea26-4fe2-9566-f3f1951c12fe"
           }
         ],
         "poweredby": [
           {
             "alt": "agencia n1",
             "label": "Created By",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0e25fd23-a9ff-4301-9a19-5ca1a273eae1",
+            "image": "https://assets.decocache.com/scarcom/06a4447a-76da-4a4e-9e55-191dc253501c/1742476395211-0e25fd23-a9ff-4301-9a19-5ca1a273eae1",
             "href": "https://www.n1.ag/"
           },
           {
             "alt": "Deco",
             "label": " ",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c1e3b475-c061-4780-bfc6-f435facf0797",
+            "image": "https://assets.decocache.com/scarcom/5a5812fb-d170-4bb5-9e35-d030e9a964bc/1742476396292-c1e3b475-c061-4780-bfc6-f435facf0797",
             "href": "https://deco.cx/"
           },
           {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/685dcc4c-2b15-42ae-9d26-dc6915e1049c",
+            "image": "https://assets.decocache.com/scarcom/be74ef6b-e5b1-4171-a626-f74493824dc3/1742476398041-685dcc4c-2b15-42ae-9d26-dc6915e1049c",
             "alt": "vtex",
             "label": "Powered by",
             "href": "https://vtex.com/br-pt"
