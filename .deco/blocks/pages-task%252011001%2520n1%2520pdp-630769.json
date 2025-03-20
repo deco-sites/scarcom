@@ -55,21 +55,21 @@
                   "productBenefits": [
                     {
                       "label": "<p>Acumule pontos usando o cupom: <strong>LIVELO</strong></p>",
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/e9398105-08e5-4c16-ade5-8d6ab5ddfb7a",
+                      "icon": "https://assets.decocache.com/scarcom/37abe21e-c647-4733-a033-9c52e3f53fa3/1742476370431-e9398105-08e5-4c16-ade5-8d6ab5ddfb7a",
                       "name": "livelo"
                     },
                     {
                       "name": "10% de desconto",
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1bea79af-265e-4dfe-b7cd-673c965e313d",
+                      "icon": "https://assets.decocache.com/scarcom/feb5e50a-591b-45df-ab1e-31dd7b888be5/1742476372178-1bea79af-265e-4dfe-b7cd-673c965e313d",
                       "label": "<p><strong>10% de desconto&nbsp; </strong>na sua primeira compra</p>"
                     },
                     {
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/f82cdbd7-dfef-420e-8898-30581be1c567",
+                      "icon": "https://assets.decocache.com/scarcom/8a94aaf3-590a-4ac9-b459-7cb98938ff37/1742476376023-f82cdbd7-dfef-420e-8898-30581be1c567",
                       "name": "Frete grátis acima de R$ 450",
                       "label": "<p><strong>Frete grátis&nbsp;</strong>acima de R$ 450</p>"
                     },
                     {
-                      "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1db406cb-ab3f-4bcc-8f34-22709bbac4c1",
+                      "icon": "https://assets.decocache.com/scarcom/6d4141fc-1568-4a15-adc1-0510ec580c44/1742476377497-1db406cb-ab3f-4bcc-8f34-22709bbac4c1",
                       "name": "5% de desconto pagando com PIX",
                       "label": "<p><strong>5% de desconto</strong> pagando com <strong>PIX</strong></p>"
                     }
@@ -144,7 +144,7 @@
                     "title": "404",
                     "subTitle": "Página não encontrada",
                     "description": "<p><br data-mce-bogus=\"1\"></p>",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c2ae8f96-74d9-4d4b-8e42-02939499160d"
+                    "image": "https://assets.decocache.com/scarcom/d03cf360-2ef5-44d2-89fb-ac848bcf87bd/1742476361395-c2ae8f96-74d9-4d4b-8e42-02939499160d"
                   },
                   "discountPercent": 10,
                   "elements": [
@@ -212,7 +212,7 @@
                     "title": "404",
                     "subTitle": "Página não encontrada",
                     "description": "<p>A página que você esta procurando não<br>existe ou não esta mais disponível em<br>nosso site.</p>",
-                    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca",
+                    "image": "https://assets.decocache.com/scarcom/a188a542-2ca2-478e-bacc-f6a28c0a2c3d/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca",
                     "shelf": {
                       "products": {
                         "__resolveType": "vtex/loaders/legacy/productList.ts",

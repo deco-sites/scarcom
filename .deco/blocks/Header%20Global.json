@@ -53,14 +53,14 @@
       "section": {
         "__resolveType": "site/sections/Header/HeaderLayout.tsx",
         "logo": {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/1f6dc342-05a2-4692-87d3-22a19abac5ca",
+          "image": "https://assets.decocache.com/scarcom/a188a542-2ca2-478e-bacc-f6a28c0a2c3d/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca",
           "width": 150,
           "height": 50,
           "desktop": {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c2ae8f96-74d9-4d4b-8e42-02939499160d"
+            "image": "https://assets.decocache.com/scarcom/d03cf360-2ef5-44d2-89fb-ac848bcf87bd/1742476361395-c2ae8f96-74d9-4d4b-8e42-02939499160d"
           },
           "mobile": {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10513/c2ae8f96-74d9-4d4b-8e42-02939499160d"
+            "image": "https://assets.decocache.com/scarcom/d03cf360-2ef5-44d2-89fb-ac848bcf87bd/1742476361395-c2ae8f96-74d9-4d4b-8e42-02939499160d"
           },
           "alt": "Scarcom"
         },
