@@ -34,12 +34,13 @@ export interface IAdvancedDetailListProps {
 export interface Props {
   /** @title Lista dos produtos */
   advancedDetailList?: IAdvancedDetailListProps[];
+  productID?: string;
   page: ProductDetailsPage;
 }
 
 export function loader(props: Props, _req: Request, _: AppContext) {
-  const { advancedDetailList } = props;
-  const productId = props.page?.product.productID;
+  const { advancedDetailList, productID } = props;
+  const productId = productID || props.page?.product.productID;
 
   if (!productId) {
     return { success: false };
