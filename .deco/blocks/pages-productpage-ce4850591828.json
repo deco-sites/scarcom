@@ -6529,6 +6529,39 @@
             }
           ],
           "productId": "156109"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>As unidades WD Red Pro são projetadas para lidar com cargas de trabalho de alta intensidade em ambientes NAS comerciais e empresariais 24x7 multiusuário. As unidades WD Red Pro fornecem o desempenho, escalabilidade e confiabilidade que as empresas precisam para armazenar, compartilhar em grandes quantidades de dados em sistemas NAS de vários compartimentos otimizados para RAID.</p>",
+              "title": "Disco rígido para NAS WD Red Pro - 14 TB",
+              "alt": "Disco rígido para NAS WD Red Pro - 14 TB",
+              "banner": "https://assets.decocache.com/scarcom/19143d4c-cf95-459f-a115-6187d87c7c6a/Design-sem-nome---2025-03-19T232529.203.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7d14c15d-e3d0-4e2f-a163-9805ad72c6ff/Design-sem-nome---2025-03-19T232534.544.png",
+              "title": "Projetado com Tecnologia Líder do Setor",
+              "text": "<p>Os discos rígidos WD Red Pro de 22 TB, 24 TB e 26 TB apresentam a tecnologia OptiNAND™ exclusiva da Western Digital que aproveita o flash iNAND integrado para executar funções importantes de manutenção, liberando mais capacidade e melhorando o desempenho geral da unidade.</p>",
+              "alt": "Projetado com Tecnologia Líder do Setor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e8676832-07ee-4abc-b3de-235eb67f5c9f/Design-sem-nome---2025-03-19T232541.825.png",
+              "text": "<p>Os discos rígidos WD Red Pro incluem sensores de Rotation Vibration (RV) que antecipam e atuam proativamente contra perturbações causadas pela maior vibração. Dispersando o excesso de vibração através do chassi da unidade, a turbulência é minimizada, o desempenho é mantido e as unidades são protegidas.</p>",
+              "title": "Protegida contra Vibração Excessiva",
+              "alt": "Protegida contra Vibração Excessiva"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Como líder da indústria na fabricação de discos rígidos, a Western Digital apoia suas soluções de armazenamento NAS com uma garantia limitada de cinco anos, juntamente com serviços de suporte de classe mundial para um armazenamento sem problemas.</p>",
+              "title": "Apoiado por um Suporte e Garantia de Classe Mundial",
+              "alt": "Apoiado por um Suporte e Garantia de Classe Mundial",
+              "banner": "https://assets.decocache.com/scarcom/736990a3-848e-4a41-891c-81e75ed43702/Design-sem-nome---2025-03-19T231403.849.png"
+            }
+          ],
+          "productId": "156082"
         }
       ]
     },
