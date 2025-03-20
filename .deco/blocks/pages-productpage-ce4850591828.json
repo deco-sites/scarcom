@@ -6102,6 +6102,39 @@
             }
           ],
           "productId": "647"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/27b0526f-c706-41d0-9a0b-1645c7acf6e1/Design-sem-nome---2025-03-19T213851.839.png",
+              "text": "<p>As unidades WD Purple Pro são projetadas para gravadores avançados habilitados para IA, servidores de análise de vídeo e soluções de deep learning que exigem capacidade, desempenho e carga de trabalho nominal adicionais.</p>",
+              "title": "Disco Rígido para Vídeo Inteligente WD Purple Pro - 8 TB",
+              "alt": "Disco Rígido para Vídeo Inteligente WD Purple Pro - 8 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/14320a4c-90a4-42cf-80b6-24fdfe85999b/Design-sem-nome---2025-03-19T213927.230.png",
+              "text": "<p>O disco rígido WD Purple Pro para vigilância é projetado com capacidades avançadas<br>Alto desempenho, confiabilidade e capacidade de carga de trabalho para gravadores avançados habilitados para IA, dispositivos de análise de vídeo, servidores de deep learning e armazenamento baseado na nuvem, incluindo configurações RAID e JBOD.<br>Suporta uma carga de trabalho nominal de até 550 TB/ano3  em 8TB – 24TB1. <br>Projetado com componentes resistentes à corrosão para ambientes agressivos e com robustez para gabinetes com vários compartimentos</p>",
+              "title": "Recursos:",
+              "alt": "Recursos:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7b0c638f-12d2-4559-83d4-e6d0c2bb43c2/Design-sem-nome---2025-03-19T213938.950.png",
+              "text": "<p><span style=\"color: rgb(0, 0, 0); font-size: 16px\">O HDD WD Purple™ Pro com tecnologia OptiNAND™ em 24TB oferece grande capacidade em uma unidade de classe empresarial para servidores de análise de vídeo, IA e deep learning para permitir resultados orientados por dados.</span></p>",
+              "title": "Armazenamento feito especificamente para a sua solução de vídeo inteligente",
+              "alt": "Armazenamento feito especificamente para a sua solução de vídeo inteligente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e4dc3886-b89d-4fdf-ac5e-3692e2a2d4fa/Design-sem-nome---2025-03-19T215549.793.png",
+              "text": "<p>As unidades WD Purple™ Pro são otimizadas para lidar com até 64 câmeras HD de stream único2, além de 32 fluxos de IA simultâneos. Essa flexibilidade permite que você atualize e amplie a sua solução de vídeo inteligente para atender às mudanças em suas necessidades. </p>",
+              "title": "Várias câmeras, vários streams",
+              "alt": "Várias câmeras, vários streams"
+            }
+          ],
+          "productId": "156111"
         }
       ]
     },
