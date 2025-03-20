@@ -6562,6 +6562,39 @@
             }
           ],
           "productId": "156082"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d3434cf7-f836-42c3-a702-67466ea07a3a/Design-sem-nome---2025-03-19T233058.819.png",
+              "title": "Disco rígido para NAS WD Red Plus de 3,5\" - 4 TB",
+              "text": "<p>Unidades WD Red Plus são projetadas para lidar com cargas de trabalho de usuários avançados e ambientes NAS de pequenas e médias empresas. As unidades WD Red Plus oferecem a velocidade e capacidade necessárias para armazenar, proteger e compartilhar quantidades crescentes de dados em sistemas NAS otimizados para RAID de porte médio com maior eficiência energética.</p>",
+              "alt": "Disco rígido para NAS WD Red Plus de 3,5\" - 4 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/61c9d70e-4814-47e9-a1d1-a9186ba29b1a/Design-sem-nome---2025-03-19T233104.197.png",
+              "title": "Balanceado para Maior Confiabilidade",
+              "text": "<p>Unidades de disco rígido que não são balanceadas corretamente podem causar ruído e vibração excessivos em um sistema de unidades múltiplas, o que pode reduzir a vida útil da unidade e degradar o desempenho ao longo do tempo. Nossa tecnologia de controle de balanceamento em dois planos melhora significativamente o desempenho e a confiabilidade geral da unidade.</p>",
+              "alt": "Balanceado para Maior Confiabilidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d78ba317-4679-4c10-9209-15b5daf2340c/Design-sem-nome---2025-03-19T233110.845.png",
+              "title": "Projetado para Operação Contínua",
+              "text": "<p>Como seu sistema NAS se mantém sempre ligado, é essencial contar com uma unidade confiável. Os discos rígidos WD Red Plus são projetados para sistemas que operam 24x7, dando aos usuários a confiança de saber que eles podem acessar seus dados com confiança.</p>",
+              "alt": "Projetado para Operação Contínua"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/736990a3-848e-4a41-891c-81e75ed43702/Design-sem-nome---2025-03-19T231403.849.png",
+              "title": "Apoiado por um Suporte e Garantia de Classe Mundial",
+              "text": "<p>Como líder da indústria na fabricação de discos rígidos, a Western Digital apoia suas soluções de armazenamento NAS com uma garantia limitada de três anos, juntamente com serviços de suporte de classe mundial para um armazenamento sem problemas.</p>",
+              "alt": "Apoiado por um Suporte e Garantia de Classe Mundial"
+            }
+          ],
+          "productId": "155688"
         }
       ]
     },
