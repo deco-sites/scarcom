@@ -2,6 +2,7 @@ import type { JSX } from "preact";
 import { forwardRef } from "preact/compat";
 import { AvailableIcons, PaymentIcons, SocialIcons } from "./Icon.tsx";
 
+
 export type Props =
   & Omit<JSX.IntrinsicElements["button"], "loading">
   & {
