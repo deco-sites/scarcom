@@ -24,7 +24,7 @@ interface MarginItem {
   5: string;
 }
 
-const _marginItem: MarginItem = {
+const marginItem: MarginItem = {
   0: "0px",
   1: "0px",
   2: "0px",
@@ -90,7 +90,7 @@ function ProductShelf({
     return null;
   }
 
-  const [, _perPage] = itemPerPage(
+  const [, perPage] = itemPerPage(
     layout?.itemsPerPage?.reduce(
       (initial, { screenWidth, itemsQuantity }) => ({
         ...initial,
@@ -129,11 +129,11 @@ function ProductShelf({
           {products?.map((product, index) => (
             <Slider.Item
               index={index}
-              // style={{
-              //   width: `calc((100% / ${perPage}) - ${
-              //     marginItem[perPage as keyof MarginItem]
-              //   })`,
-              // }}
+              style={{
+                width: `calc((100% / ${perPage}) - ${
+                  marginItem[perPage as keyof MarginItem]
+                })`,
+              }}
               class="carousel-item w-[270px]"
             >
               <ProductCard

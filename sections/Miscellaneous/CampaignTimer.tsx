@@ -1,7 +1,6 @@
 import { useId } from "../../sdk/useId.ts";
 import type { HTMLWidget } from "apps/admin/widgets.ts";
-// import { scriptAsDataURI } from "apps/utils/dataURI.ts";
-import { useScriptAsDataURI } from "deco/hooks/useScript.ts";
+import { scriptAsDataURI } from "apps/utils/dataURI.ts";
 
 export interface Props {
   /**
@@ -132,7 +131,7 @@ function CampaignTimer({
           </div>
         </div>
       </div>
-      <script defer src={useScriptAsDataURI(snippet, expiresAt, id)} />
+      <script defer src={scriptAsDataURI(snippet, expiresAt, id)} />
     </>
   );
 }
