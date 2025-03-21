@@ -24,6 +24,9 @@ export interface IContentDetailsProps {
   text: RichText;
 }
 
+/**
+* @titleBy productId
+*/
 export interface IAdvancedDetailListProps {
   /** @title Id do Produto */
   productId: string;
@@ -34,13 +37,12 @@ export interface IAdvancedDetailListProps {
 export interface Props {
   /** @title Lista dos produtos */
   advancedDetailList?: IAdvancedDetailListProps[];
-  productID?: string;
   page: ProductDetailsPage;
 }
 
 export function loader(props: Props, _req: Request, _: AppContext) {
-  const { advancedDetailList, productID } = props;
-  const productId = productID || props.page?.product.productID;
+  const { advancedDetailList } = props;
+  const productId = props.page?.product.productID;
 
   if (!productId) {
     return { success: false };
