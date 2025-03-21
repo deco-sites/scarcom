@@ -6995,6 +6995,60 @@
             }
           ],
           "productId": "156105"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7ef6397b-24d0-472a-9d14-d14cec2ac328/Design-sem-nome---2025-03-21T154111.215.png",
+              "title": "Disco rígido para NAS WD Red Pro - 2 TB",
+              "text": "<p>As unidades WD Red Pro são projetadas para lidar com cargas de trabalho de alta intensidade em ambientes NAS comerciais e empresariais 24x7 multiusuário. As unidades WD Red Pro fornecem o desempenho, escalabilidade e confiabilidade que as empresas precisam para armazenar, compartilhar em grandes quantidades de dados em sistemas NAS de vários compartimentos otimizados para RAID.</p>",
+              "alt": "Disco rígido para NAS WD Red Pro - 2 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d0f5b54-7b3c-4796-be9f-41f2e406a8c7/Design-sem-nome---2025-03-21T154118.342.png",
+              "title": "Otimizado para NAS com NASware™",
+              "text": "<p>A exclusiva tecnologia NASware™ da Western Digital faz o ajuste fino dos parâmetros da unidade para corresponder às cargas de trabalho do sistema NAS, o que ajuda a aumentar o desempenho e a confiabilidade.</p>",
+              "alt": "Otimizado para NAS com NASware™"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c346b853-327f-4b84-a09e-8419f7e66134/Design-sem-nome---2025-03-21T154122.997.png",
+              "title": "Protegida contra Vibração Excessiva",
+              "text": "<p>Os discos rígidos WD Red Pro incluem sensores de Rotation Vibration (RV) que antecipam e atuam proativamente contra perturbações causadas pela maior vibração. Dispersando o excesso de vibração através do chassi da unidade, a turbulência é minimizada, o desempenho é mantido e as unidades são protegidas.</p>",
+              "alt": "Protegida contra Vibração Excessiva"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4ae2a8bd-961d-4263-bff7-cd40a618b801/Design-sem-nome---2025-03-21T151146.001.png",
+              "text": "<p>Os discos rígidos WD Red Pro são projetados para lidar com as demandas rigorosas de ambientes NAS multiusuário 24x7 de alta intensidade e aumentam a durabilidade do sistema.</p>",
+              "title": "Projetado para Operação Contínua",
+              "alt": "Projetado para Operação Contínua"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/00945b0a-9187-4cce-8ecc-5c0e4cc38703/Design-sem-nome---2025-03-21T151113.718.png",
+              "title": "Construída para Absorver Choque",
+              "text": "<p>Os discos rígidos WD Red Pro incluem um sensor de choque de múltiplos eixos para detectar eventos súbitos de choque e compensar automaticamente com  tecnologia de altura de voo dinâmica para proteger ainda mais as unidades em gabinetes NAS.</p>",
+              "alt": "Construída para Absorver Choque"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e4dc3886-b89d-4fdf-ac5e-3692e2a2d4fa/Design-sem-nome---2025-03-19T215549.793.png",
+              "title": "Apoiado por um Suporte e Garantia de Classe Mundial",
+              "text": "<p>Como líder da indústria na fabricação de discos rígidos, a Western Digital apoia suas soluções de armazenamento NAS com uma garantia limitada de cinco anos, juntamente com serviços de suporte de classe mundial para um armazenamento sem problemas.</p>",
+              "alt": "Apoiado por um Suporte e Garantia de Classe Mundial"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "title": "Documentação",
+              "alt": "Documentação"
+            }
+          ],
+          "productId": "156110"
         }
       ]
     },
