@@ -1,6 +1,6 @@
 {
-  "name": "teste- Minha Nova Página ",
-  "path": "/teste",
+  "name": "datasheet.westerndigital.hd",
+  "path": "/datasheet.westerndigital.hd",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
