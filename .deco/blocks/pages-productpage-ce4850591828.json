@@ -7590,6 +7590,50 @@
             }
           ],
           "productId": "156107"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7472e1e4-910c-479f-a893-c58cd4fff688/Design-sem-nome---2025-03-26T220051.035.png",
+              "title": "EAP772",
+              "text": "<p>Access Point Wi-Fi 7 Tri-Band BE11000 para montagem no Teto</p>",
+              "alt": "EAP772"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/33f4cb61-0bf5-4041-94ad-df8fac4e7489/Design-sem-nome---2025-03-26T220523.884.png",
+              "text": "<p>Tri-Band BE11000 Wi-Fi 7 (5760 Mbps em 6 GHz + 4320 Mbps em 5 GHz + 574 Mbps em 2,4 GHz).†</p>",
+              "alt": "Tri-Band BE11000 Wi-Fi 7 (5760 Mbps em 6 GHz + 4320 Mbps em 5 GHz + 574 Mbps em 2,4 GHz).†"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0004803a-03d7-4b75-8f24-ecb489ba1425/Design-sem-nome---2025-03-26T220636.853.png",
+              "text": "<p>Uma banda de 6 GHz oferece recursos de banda mais limpos e amplos.</p>",
+              "alt": "Uma banda de 6 GHz oferece recursos de banda mais limpos e amplos."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e919bd07-6be0-44dd-8811-9764a8fd4469/Design-sem-nome---2025-03-26T220747.864.png",
+              "text": "<p>A porta de 2,5G libera todo o potencial do Wi-Fi 7. <br>A largura de banda de 320 MHz permite mais transmissões simultâneas. <br>A operação multi-link e as multi-RUs garantem um alto desempenho de sua rede. <br>Funções avançadas: Gerenciamento Centralizado, Mesh e roaming de IA.</p>",
+              "alt": "A porta de 2,5G libera todo o potencial do Wi-Fi 7. A largura de banda de 320 MHz permite mais transmissões simultâneas.‡ A operação multi-link e as multi-RUs garantem um alto desempenho de sua rede. Funções avançadas: Gerenciamento Centralizado, Mesh e roaming de IA.△"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Access Point WiFi 7 empresarial ultrafino",
+              "alt": "Access Point WiFi 7 empresarial ultrafino",
+              "banner": "https://assets.decocache.com/scarcom/a7f59cef-03ea-4280-a96e-d2f82f02d316/Design-sem-nome---2025-03-26T221004.925.png",
+              "text": "<p></p><ul style=\"text-align: center\"><li><p>Wi-Fi de até<br>11 &nbsp;Gbps</p><p>Multi-Link<br>Operation (MLO)</p><p>1× porta 2.5G<br>RJ45</p><p>PoE</p><p>Ultra-Fino</p><p>Gerenciamento<br>Centralizado em Nuvem</p><p>Tecnologia<br>Omada Mesh</p></li></ul>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/35c6c5eb-1a4d-42b6-8a44-02250563f8ae/Design-sem-nome---2025-03-26T221356.528.png",
+              "title": "Design Ultra Fino para Instalação Flexível",
+              "text": "<p>O design geral do EAP772 utiliza um arco circular mais fino com uma ranhura ao redor da tampa superior, que se ajusta melhor a várias superfícies de instalação, como tetos. O layout compacto do hardware interno e o design de dissipação de calor garantem alto desempenho com uma estética apurada.</p>",
+              "alt": "Design Ultra Fino para Instalação Flexível"
+            }
+          ],
+          "productId": "156044"
         }
       ]
     },
