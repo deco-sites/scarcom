@@ -7742,6 +7742,67 @@
             }
           ],
           "productId": "156046"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Access Point Wi-Fi 6 Dual Band AX3000 de Parede",
+              "text": "<p>Wi-Fi 6 com Velocidade AX3000:: 574 Mbps em 2,4 GHz mais 2402 Mbps em 5 GHz totalizam velocidades de Wi-Fi de 2976 Mbps.</p>",
+              "banner": "https://assets.decocache.com/scarcom/7163312b-6741-4a85-b0e7-47de986da816/Design-sem-nome---2025-03-29T151459.290.png",
+              "alt": "Access Point Wi-Fi 6 Dual Band AX3000 de Parede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/31ab04d6-6b39-4057-b4a8-f71e90f32272/Design-sem-nome---2025-03-29T151517.316.png",
+              "title": "Maior eficiência de rede:",
+              "text": "<p>envie dados para mais dispositivos ao mesmo tempo, com menos atraso.</p>",
+              "alt": "Maior eficiência de rede:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Cobertura Wi-Fi completa no quarto: ",
+              "text": "<p>sinais fortes garantidos e cobertura Wi-Fi de ponta a ponta.</p>",
+              "alt": "Cobertura Wi-Fi completa no quarto: ",
+              "banner": "https://assets.decocache.com/scarcom/7022a20f-f7cf-4a28-a797-eb5e8284810d/Design-sem-nome---2025-03-29T151532.330.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Várias portas Gigabit:",
+              "text": "<p> conecte vários dispositivos com três portas downlink gigabit, sendo uma com passagem PoE.</p>",
+              "alt": "Várias portas Gigabit:",
+              "banner": "https://assets.decocache.com/scarcom/ebada70f-c352-446a-90c5-8e348c09d536/Design-sem-nome---2025-03-29T151549.672.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Seleção automática de canal e ajuste de potência para otimizar o desempenho geral",
+              "text": "<p>Fornece desempenho sem fio poderoso enquanto reduz significativamente a interferência WiFi ajustando automaticamente as configurações de canal e os níveis de potência de transmissão de APs vizinhos na mesma rede</p>",
+              "alt": "Seleção automática de canal e ajuste de potência para otimizar o desempenho geral",
+              "banner": "https://assets.decocache.com/scarcom/19946cbf-47e5-4450-81e0-2e8396b4acc5/Design-sem-nome---2025-03-29T152506.792.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instalação rápida e simples",
+              "text": "<p>Com um design fácil de instalar, não há necessidade chamar um técnico para instalar o EAP655-Wall.</p>",
+              "banner": "https://assets.decocache.com/scarcom/3a667858-a94e-4991-be69-6f69dedf6a81/i.jpg",
+              "alt": "Instalação rápida e simples"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Implantação sem esforço com PoE Powered",
+              "text": "<p>Com suporte a PoE 802.3af/802.3at, não há a necessidade de cabos extras. Conecte o EAP655-Wall ao cabo Ethernet existente e pronto</p>",
+              "alt": "Implantação sem esforço com PoE Powered",
+              "banner": "https://assets.decocache.com/scarcom/67b9cc0e-572f-4ad7-a5d3-a613d7fadf72/h.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Portas Gigabit para Conectar Mais Dispositivos",
+              "text": "<p>Dispositivos com fio, como telefones VoIP, podem ser alimentados sem a necessidade de cabos elétricos extras. As quatro portas de dados (1 uplink + 3 downlinks) transferem dados em vários gigabits, permitindo conectar vários dispositivos à sua rede de gigabits. Uma das portas de downlink oferece passagem PoE para eliminar a necessidade de uma porta de energia extra.</p>",
+              "alt": "Portas Gigabit para Conectar Mais Dispositivos",
+              "banner": "https://assets.decocache.com/scarcom/63d0de5e-8615-4c6c-b4ed-2ec79d414abd/overview_04_large_20250109101709l.jpg"
+            }
+          ],
+          "productId": "156128"
         }
       ]
     },
