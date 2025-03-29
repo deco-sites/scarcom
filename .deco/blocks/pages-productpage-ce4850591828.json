@@ -7803,6 +7803,74 @@
             }
           ],
           "productId": "156128"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f11dbc65-4d58-4c54-b115-e81014ef155e/Design-sem-nome---2025-03-29T153004.996.png",
+              "title": "Access Point Wi-Fi 7 Tri-Band BE11000 de Teto",
+              "text": "<p>BE11000 Tri-Band Wi-Fi 7: 5760 Mbps (6 GHz) + 4320 Mbps (5 GHz) + 574 Mbps (2.4 GHz). O buffering não será mais um problema.</p>",
+              "alt": "Access Point Wi-Fi 7 Tri-Band BE11000 de Teto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Banda de 6 GHz Limpa:",
+              "text": "<p>Fornece recursos de banda mais limpa e mais ampla para o seu Wi-Fi.</p>",
+              "alt": "Banda de 6 GHz Limpa:",
+              "banner": "https://assets.decocache.com/scarcom/7f87006c-c93e-4494-a2eb-ca44a5f6000c/Design-sem-nome---2025-03-29T153025.686.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Largura de Banda de 320 MHz:",
+              "text": "<p>Até 320 MHz de largura de banda permite muito mais transmissões simultâneas nas velocidades mais rápidas possíveis.</p>",
+              "alt": "Largura de Banda de 320 MHz:",
+              "banner": "https://assets.decocache.com/scarcom/fe7bc749-66aa-4b0f-9f8e-de37cf90d84b/Design-sem-nome---2025-03-29T153041.803.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Baixa Latência e Interferência:",
+              "text": "<p>A Operação Multi-Link e Multi-RUs garantem alto desempenho da sua rede.</p>",
+              "alt": "Baixa Latência e Interferência:",
+              "banner": "https://assets.decocache.com/scarcom/77294dba-7490-453f-b048-fecdd5dd803f/Design-sem-nome---2025-03-29T153100.380.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Ponto de Acesso Wi-Fi Empresarial Ultrafino Wi-Fi 7 para Redefinir Sua Rede Empresarial",
+              "text": "<p>Operação Multi-Link (MLO)  Permite que dispositivos enviem e recebam dados simultaneamente em diferentes bandas de frequência e canais.</p>",
+              "alt": "Ponto de Acesso Wi-Fi Empresarial Ultrafino Wi-Fi 7 para Redefinir Sua Rede Empresarial",
+              "banner": "https://assets.decocache.com/scarcom/6a7ea224-93ce-49c0-b164-e19ad0c700ca/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7d6e7472-b44e-412b-ad8f-ccc095f21b78/2_large_20230808062720p.jpg",
+              "title": "Desempenho com Fio Otimizado com Porta 10G PoE",
+              "text": "<p>Com uma Porta Ethernet de 10 Gigabits, o EAP773 oferece um desempenho multi-gigabit notável para maior largura de banda e Wi-Fi mais rápido. A compatibilidade com PoE 802.3at é ideal para implantação flexível em cenas em grande escala, como escritórios, escolas e hotéis.</p>",
+              "alt": "Desempenho com Fio Otimizado com Porta 10G PoE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Seleção Automática de Canal e Ajuste de Potência",
+              "text": "<p>Forneça um desempenho sem fio poderoso enquanto reduz consideravelmente a interferência Wi-Fi ajustando automaticamente as configurações de canal e os níveis de potência de transmissão de APs vizinhos na mesma rede.</p>",
+              "alt": "Seleção Automática de Canal e Ajuste de Potência",
+              "banner": "https://assets.decocache.com/scarcom/a1ef1baf-9e76-4a49-8b15-33a76a2000cb/e.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Integração Perfeita ao Omada SDN",
+              "text": "<p>A plataforma de Rede Definida por Software (SDN) Omada integra dispositivos de rede, incluindo pontos de acesso, switches e roteadores, para fornecer gerenciamento em nuvem 100% centralizado e criar uma rede altamente escalável—tudo controlado a partir de uma única interface. Experimente controle total ao seu alcance.</p>",
+              "alt": "Integração Perfeita ao Omada SDN",
+              "banner": "https://assets.decocache.com/scarcom/7d0d9c90-b064-4127-806c-0407dd456235/g5.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Design Ultrafino para Implantação Flexível",
+              "text": "<p>O design geral do EAP773 utiliza um arco circular mais fino com um sulco ao redor da tampa superior, ajustando-se melhor a várias superfícies de instalação, como tetos. O layout interno compacto e o design de dissipação de calor garantem alto desempenho com uma estética aprimorada.</p>",
+              "alt": "Design Ultrafino para Implantação Flexível",
+              "banner": "https://assets.decocache.com/scarcom/b4c0f255-38bb-4454-916e-cf0f50bd897d/4_normal_20230808062720r.jpg"
+            }
+          ],
+          "productId": "156125"
         }
       ]
     },
