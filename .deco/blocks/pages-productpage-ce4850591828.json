@@ -7634,6 +7634,46 @@
             }
           ],
           "productId": "156044"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0c42006d-2250-46d4-ad58-49618a5f1702/Design-sem-nome---2025-03-29T144719.753.png",
+              "text": "<p>Até 1,8 Gbps de Velocidades WiFi 6: 574 Mbps na faixa de 2,4 GHz + 1201 Mbps na faixa de 5 GHz.*</p><p>Suporta tecnologias WiFi 6, como 1024-QAM e OFDMA, etc.</p><p>Conectividade de alta densidade para mais de 1.000 clientes.<br>Cobertura de longo alcance com amplificador de alta potência e antenas inteligentes.<br>Invólucro à prova de intempéries IP67 para diversos ambientes externos.<br>Funções Avançadas: Gerenciamento centralizado, malha Omada e roaming contínuo.<br>Alimentado por PoE+: Suporta PoE 802.3at (adaptador não incluído).</p><p><br><br></p><p></p>",
+              "title": "Access Point Wi-Fi 6 Dual Band AX1800 Outdoor",
+              "alt": "Access Point Wi-Fi 6 Dual Band AX1800 Outdoor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p></p><p></p><ul style=\"text-align: center\"><li><p>Gestão Centralizada na Nuvem&nbsp;</p><p>Cobertura de Longo Alcance&nbsp;</p><p>1 Porta Ethernet Gigabit&nbsp;</p><p>Suporte a PoE&nbsp;</p><p>Omada Mesh△</p><p>&nbsp;À Prova d'Água e Poeira IP67</p></li></ul>",
+              "title": "Ponto de Acesso WiFi 6 AX1800 Interno/Externo",
+              "alt": "Ponto de Acesso WiFi 6 AX1800 Interno/Externo",
+              "banner": "https://assets.decocache.com/scarcom/eabf3cc4-2238-4420-ac00-80e537c61924/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "WiFi 6 de Longo Alcance e Alta Velocidade",
+              "text": "<p>Antenas profissionais com amplificadores de alta potência utilizam a tecnologia WiFi 6 para fornecer cobertura wireless robusta e extensiva. Impulsionado pela mais recente tecnologia WiFi 6, o AP oferece velocidades de até 1.8 Gbps.</p>",
+              "alt": "WiFi 6 de Longo Alcance e Alta Velocidade",
+              "banner": "https://assets.decocache.com/scarcom/6ef574f7-027b-4cd7-8dcb-f688a7fc5d5d/c-(1).jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Explore Mais com Antenas Inteligentes",
+              "text": "<p>Equipado com antenas polarizadas horizontal e verticalmente, os algoritmos inteligentes do EAP623-Outdoor HD selecionam automaticamente as antenas ótimas, proporcionando menor interferência, maior cobertura e melhor desempenho.</p>",
+              "alt": "Explore Mais com Antenas Inteligentes",
+              "banner": "https://assets.decocache.com/scarcom/5497bfad-067f-4174-854d-7c773c8df74d/d.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3a810e9d-3778-413f-8387-da79353cae2a/Captura-de-tela-2025-03-29-145347.png",
+              "text": "<p>OFDMA e MU-MIMO fornecem conexões simultâneas para dezenas de clientes em grandes áreas abertas.† Equipado com uma carcaça à prova de intempéries IP67, nosso EAP623-Outdoor HD suporta os ambientes mais extremos.</p>",
+              "title": "Ideal para Cenas Externas de Alta Densidade",
+              "alt": "Ideal para Cenas Externas de Alta Densidade"
+            }
+          ],
+          "productId": "155518"
         }
       ]
     },
