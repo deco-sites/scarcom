@@ -7871,6 +7871,53 @@
             }
           ],
           "productId": "156125"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/886c9b6f-2ff4-4678-aee0-15ae1bc8a47d/ER8411_UN_1_normal_20230518145342c-(1).jpg",
+              "title": "Roteador VPN Omada com Portas 10G",
+              "text": "<p>100% integrado com Omada SDN: Zero-Touch Provisioning (ZTP), Gerenciamento Centralizado em Nuvem e Monitoramento Inteligente.</p>",
+              "alt": "Roteador VPN Omada com Portas 10G"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7823b275-df46-4302-b71f-612c45268c06/Design-sem-nome---2025-03-29T161632.758.png",
+              "title": "Gerenciamento Centralizado:",
+              "text": "<p>Acesso em Nuvem e o Aplicativo Omada permitem gerenciar sua rede de qualquer lugar, a qualquer hora.</p>",
+              "alt": "Gerenciamento Centralizado:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f792882b-afbe-42ec-aa03-66ffd978a624/Design-sem-nome---2025-03-29T161751.728.png",
+              "title": "2 Portas SFP+ 10GE:",
+              "text": "<p>1× Porta WAN e 1× Porta SFP+ WAN/LAN 10GE fornecem conectividade de agregação com alta largura de banda.</p>",
+              "alt": "2 Portas SFP+ 10GE:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6364bee8-35cd-465d-9337-dee04e04c4c8/Design-sem-nome---2025-03-29T161944.733.png",
+              "title": "Até 10 Portas WAN: ",
+              "text": "<p>As portas de fibra WAN e RJ45 com Load Balance aumentam a taxa de utilização de banda larga em várias linhas.</p>",
+              "alt": "Até 10 Portas WAN: "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/183df678-a331-45d6-88b0-4236875e534a/Design-sem-nome---2025-03-29T162254.833.png",
+              "title": "VPN Altamente Seguro:",
+              "text": "<p>As VPNs SSL/ IPSec / PPTP / L2TP de padrão empresarial e OpenVPN / L2TP sobre VPN IPSec são ideais para uso em várias filiais e para trabalho remoto.</p>",
+              "alt": "VPN Altamente Seguro:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9a97ba32-3b35-4174-a936-bbba8462b467/Design-sem-nome---2025-03-29T162357.956.png",
+              "title": "Muitos Recursos de Segurança:",
+              "text": "<p>Firewall poderoso, defesa DoS, filtragem IP/MAC/URL, e IP-MAC Binding, e Ativação em Um Clique ALG trabalham juntos para fornecer o melhor em segurança de rede.</p>",
+              "alt": "Muitos Recursos de Segurança:"
+            }
+          ],
+          "productId": "156042"
         }
       ]
     },
