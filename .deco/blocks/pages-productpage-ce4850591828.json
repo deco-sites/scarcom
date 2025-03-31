@@ -8029,6 +8029,46 @@
             }
           ],
           "productId": "156156"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/63bece4f-0528-42b1-8211-9a4cec4362f1/Design-sem-nome---2025-03-31T194150.805.png",
+              "title": "Adaptador USB Wi-Fi 6 AX1800 Nano",
+              "text": "<p>WiFi 6 de alta velocidade - Quebre a barreira do gigabit com velocidades de até 1201 Mbps (5 GHz) + 574 Mbps (2,4 GHz). </p>",
+              "alt": "Adaptador USB Wi-Fi 6 AX1800 Nano"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/40016704-8e86-480b-921e-60bcd0cb8b25/IMG2_normal_20240503143138z.png",
+              "title": "Dual Band Wireless ",
+              "text": "<p>bandas de 2,4 GHz e 5 GHz para conectividade flexível. </p>",
+              "alt": "Dual Band Wireless "
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Jogue Online sem Atrasos ",
+              "text": "<p> OFDMA e MU-MIMO garantem a conexão Wi-Fi mais eficiente para seu PC. </p>",
+              "alt": "Jogue Online sem Atrasos ",
+              "banner": "https://assets.decocache.com/scarcom/72f32533-74ee-44c8-b81e-62fc35f53335/IMG3_normal_20240503143154x.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Segurança aprimorada ",
+              "text": "<p>o WPA3 oferece os mais recentes aprimoramentos de segurança para proteção pessoal por senha. </p>",
+              "alt": "Segurança aprimorada ",
+              "banner": "https://assets.decocache.com/scarcom/ea0d31ec-5c4b-40b6-86b9-4b708ed64e6b/IMG4_normal_20240503143206m.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/80927d99-504b-4e2f-9bbb-8da51d0230ba/Archer_TX20U_Nano(US)_1.0-138X128X30mm-H-7022511136_normal_20240503142500y.png",
+              "title": "Design nano",
+              "text": "<p>O design pequeno e discreto permite que você o conecte e esqueça que ele está lá</p>",
+              "alt": "Design nano"
+            }
+          ],
+          "productId": "156138"
         }
       ]
     },
