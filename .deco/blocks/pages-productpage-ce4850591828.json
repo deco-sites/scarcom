@@ -7918,6 +7918,49 @@
             }
           ],
           "productId": "156042"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1a14c646-9a81-42d1-9246-abef0eac61a6/Design-sem-nome---2025-03-29T165301.721.png",
+              "title": "Injetor PoE 30 W Plug & Play",
+              "text": "<p>2 portas Gigabit garantem transmissão mais rápida</p>",
+              "alt": "Injetor PoE 30 W Plug & Play"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/22f38333-281b-49b5-9bf8-ae3dbaf0bf3b/Design-sem-nome---2025-03-29T165427.677.png",
+              "text": "<p>Reduz os custos de infraestrutura ao transmitir dados e energia simultaneamente por meio de um cabo Ethernet</p>",
+              "alt": "Reduz os custos de infraestrutura ao transmitir dados e energia simultaneamente por meio de um cabo Ethernet"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f1016167-00e3-4163-810e-7bd5e62a13c0/Design-sem-nome---2025-03-31T192206.923.png",
+              "text": "<p>Determina e fornece automaticamente a energia exata para atender às necessidades do dispositivo</p>",
+              "alt": "Determina e fornece automaticamente a energia exata para atender às necessidades do dispositivo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2194f401-fd39-41e0-9558-ee7dedf45834/Design-sem-nome---2025-03-31T192351.863.png",
+              "text": "<p>O design de montagem em parede e desktop acomoda a maioria dos cenários de instalação</p>",
+              "alt": "O design de montagem em parede e desktop acomoda a maioria dos cenários de instalação"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a581e03-1e6e-43da-bc0f-f4ed61a251b6/Design-sem-nome---2025-03-31T192449.742.png",
+              "text": "<p>Conectar &amp; Instalação do Play, não requer configuração</p>",
+              "alt": "Conectar & Instalação do Play, não requer configuração"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/07c8b2d1-a559-4708-a0a3-f2a42994cee6/Design-sem-nome---2025-03-31T192615.818.png",
+              "title": "O Que Esse Produto Faz",
+              "text": "<p>O Injector PoE+ TL-POE160S é totalmente compatível com IEEE 802.3af, e pode trabalhar com todos os dispositivos padrão IEEE 802.3af PoE (Dispositivos Alimentados), adaptadores receptores de PoE, como o TL-POE10R da TP-Link ou produto equivalente, para expandir sua rede onde não existam rede elétrica ou tomada e onde você quiser conectar dispositivos como AP, câmera IP ou Telefone IP.</p>",
+              "alt": "O Que Esse Produto Faz"
+            }
+          ],
+          "productId": "156133"
         }
       ]
     },
