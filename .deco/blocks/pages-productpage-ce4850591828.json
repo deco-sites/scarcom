@@ -8382,6 +8382,39 @@
             }
           ],
           "productId": "1455"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9eb85e08-9e40-42c6-9c8f-b0ef69bdeb23/TL_SG116(UN)1.0_01_normal_1526630219854p-(1).jpg",
+              "title": "Switch Gigabit de Mesa de 16 Portas",
+              "text": "<p>O controle de fluxo IEEE 802.3x fornece transferência de dados confiável</p>",
+              "alt": "Switch Gigabit de Mesa de 16 Portas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/90e4850a-0caa-4878-ab13-45a78b0ef251/a.jpg",
+              "title": "Aumente a Velocidade da Sua Rede e Economize Energia",
+              "text": "<p>Switch de Mesa Gigabit de 16 Portas</p>",
+              "alt": "Aumente a Velocidade da Sua Rede e Economize Energia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/df1c4dac-181c-41d2-aa65-a65ef5c1c4e7/b.jpg",
+              "title": "Conecte seus Dispositivos, Crie um Negócio Conveniente",
+              "text": "<p>O Switch de Mesa TL-SG116 oferece uma maneira fácil de aumentar a velocidade das conexões do seu servidor de rede e backbone. Esteja você em casa ou no escritório, o TL-SG116 pode sempre ajudá-lo a lidar com seu negócio de forma rápida e fácil.</p>",
+              "alt": "Conecte seus Dispositivos, Crie um Negócio Conveniente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f288ac9a-63ab-4cff-af69-976d74e56bbb/d.jpg",
+              "title": "Portas Gigabit para Velocidades Mais Rápidas",
+              "text": "<p>Aumente a velocidade da sua rede com o switch de mesa Gigabit TL-SG116 de 16 portas. Comutação não bloqueadora, 16 portas de 10/100/1000Mbps permitem a transferência instantânea de arquivos grandes e intensivos em largura de banda sem interferência.</p>",
+              "alt": "Portas Gigabit para Velocidades Mais Rápidas"
+            }
+          ],
+          "productId": "156148"
         }
       ]
     },
