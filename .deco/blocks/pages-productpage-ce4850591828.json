@@ -8672,6 +8672,46 @@
             }
           ],
           "productId": "156151"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8abee3b-c07b-4707-afaf-bca069a14602/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-01_normal_20231110060646b.jpg",
+              "title": "Switch Gerenciável L3 Empilhável de 54 Portas com 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps",
+              "text": "<p>Altamente Disponível com duas fontes de alimentação internas fixas, VRRP e ERPS</p>",
+              "alt": "Switch Gerenciável L3 Empilhável de 54 Portas com 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "O que Este Produto Faz",
+              "text": "<p>O Omada SG6654X, um switch gerenciado de camada 3, oferece roteamento de camada 3, velocidade rápida com fio de 10 Gbps, empilhamento e fontes de alimentação redundantes, atendendo às demandas da camada de convergência. Vem com 48 portas gigabit RJ45, 6 slots SFP+ de 10 Gbps e empilhamento físico. Integrado com recursos robustos de segurança e gerenciamento abrangente, este switch garante desempenho confiável para redes de pequenas e médias empresas, empresas e provedores de serviços de Internet.</p>",
+              "alt": "O que Este Produto Faz",
+              "banner": "https://assets.decocache.com/scarcom/029b03c0-9103-4df1-bb9f-3a84e0075594/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-02_normal_20231110060717d.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Conectividade de Alta Velocidade e Empilhamento Poderoso",
+              "text": "<p>48 portas Gigabit RJ45 e 6 slots SFP+ de 10 Gbps fornecem até 216 Gbps de capacidade de comutação por unidade. Até 4 unidades de empilhamento físico com capacidade de comutação de até 864 Gbps capacitam a estrutura de rede com redundância e desempenho incorporados.</p>",
+              "alt": "Conectividade de Alta Velocidade e Empilhamento Poderoso",
+              "banner": "https://assets.decocache.com/scarcom/e9bd96a9-5318-44d4-bd22-6b27bbdb7833/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-03_normal_20240109112856x.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Abundantes Capacidades de Camada 3",
+              "text": "<p>Vem com abundantes protocolos de roteamento de camada 3 que suportam uma rede escalável. O Roteamento Estático, RIP, OSPF, ECMP, VRRP, Servidor DHCP e Relay DHCP são suportados. O protocolo de roteamento multicast PIM-DM garante roteamento eficiente para grupos multicast.</p>",
+              "alt": "Abundantes Capacidades de Camada 3",
+              "banner": "https://assets.decocache.com/scarcom/d60c39c9-73a2-4b15-a3c2-8e58306cf47e/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-04_normal_20231110060754x.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Altamente Disponível",
+              "text": "<p>Fontes de alimentação redundantes fixas internas e VRRP tornam-no uma escolha ideal para uma arquitetura de rede confiável. O ERPS oferece suporte à proteção e recuperação rápidas em uma topologia de anel.</p>",
+              "alt": "Altamente Disponível",
+              "banner": "https://assets.decocache.com/scarcom/21a6db6b-733f-4622-b543-93cacc80519f/SG6654X(UN)1.0_Omada_Enterprise_L3_Switch-05-1_normal_20231110095051g.jpg"
+            }
+          ],
+          "productId": "156161"
         }
       ]
     },
