@@ -8415,6 +8415,46 @@
             }
           ],
           "productId": "156148"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9bc117fa-33e7-4812-b220-97c28dbb9c52/TL-SG2210P(UN)3.2_01_normal_1594974330186l.jpg",
+              "title": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP",
+              "text": "<p>61 W PoE Budget: 8× portas PoE+ compatível a 802.3af/at com fonte total de alimentação de 61 W.</p>",
+              "alt": "Switch Smart de 10 Portas com 8 Portas Gigabit PoE+ e 2 Slots SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d8092ca2-a121-4902-b67f-6d8a2ff034c2/TL-SG2210P(UN)3.2_02_normal_1594974341872k.jpg",
+              "title": "Portas Gigabit",
+              "text": "<p>8× portas gigabit PoE+ e 2× SFP Slots que fornecem conexões de alta velocidade.</p>",
+              "alt": "Portas Gigabit"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0e0e7e7f-92f3-43f8-b1a4-760c46b5683e/TL-SG2210P(UN)3.2)_03_normal_1594974359538i.jpg",
+              "title": "Integrado ao Omada SDN",
+              "text": "<p>Zero-Touch Provisioning (ZTP), gerenciamento em nuvem centralizado e monitoramento inteligente.</p>",
+              "alt": "Integrado ao Omada SDN"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Profissional 10-Portas Gigabit Smart Switch com 8-Portas PoE+",
+              "text": "<p>Fácil de Usar, Multi-Funções PoE Switch com Desempenho Potente</p>",
+              "alt": "Profissional 10-Portas Gigabit Smart Switch com 8-Portas PoE+",
+              "banner": "https://assets.decocache.com/scarcom/d453a8e2-7e91-4f2f-b422-7e8eb88f93b5/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d706c792-a613-41ea-9a89-605324dbe161/c.png",
+              "title": "Software Defined Networking (SDN) com Acesso à Nuvem",
+              "text": "<p>A plataforma Software Defined Networking (SDN) Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento via nuvem 100% centralizado. Omada cria uma rede altamente escalonável - tudo controlado a partir de uma única interface. Conexões sem fio e com fio contínuas são fornecidas, ideais para uso em hotéis, escolas, comércios, escritórios e muito mais.</p>",
+              "alt": "Software Defined Networking (SDN) com Acesso à Nuvem"
+            }
+          ],
+          "productId": "156043"
         }
       ]
     },
