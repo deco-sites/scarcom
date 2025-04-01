@@ -8100,6 +8100,39 @@
             }
           ],
           "productId": "156045"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3cc1503a-01bc-471d-abe1-54a37db5aab5/Design-sem-nome---2025-03-31T212110.500.png",
+              "title": "Conversor de Mídia WDM Fast Ethernet Monomodo 1550nm 20km",
+              "text": "<p>Está em conformidade com os padrões 802.3u 10/100Base-TX, 100Base-FX</p>",
+              "alt": "Conversor de Mídia WDM Fast Ethernet Monomodo 1550nm 20km"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4a5235a5-eeb4-450c-b508-5275937d8d89/TL-FC111A-20(UN)1.0_100_Mbps_WDM_Media_Converter_02_Year_Warranty_normal_20220421022732f.jpg",
+              "title": "O Que Este Produto Faz",
+              "text": "<p>O TL-FC111A-20 é um conversor de mídia 100M, fornecendo uma porta RJ-45 100M e uma porta de fibra SC 100M, que pode converter entre sinais elétricos e ópticos. E a transmissão de dados de longa distância por meio de fibra óptica pode ser aplicada a cenários comerciais, como monitoramento de segurança de parque e rede sem fio.</p>",
+              "alt": "O Que Este Produto Faz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cffc6070-af9b-4376-96d6-b49d3053750d/TL-FC111A-20(UN)1.0_100_Mbps_WDM_Media_Converter_03_normal_20220421022754j.jpg",
+              "title": "Como Este Produto Funciona",
+              "text": "<p>O TL-FC111A-20 adota a tecnologia WDM (wavelength division multiplexing), ajudando a enviar e receber dados a uma distância de até 20 km com apenas uma fibra monomodo, o que economiza metade do custo de implantação do cabo para os clientes. TL-FC111A-20 transmite dados em comprimento de onda de 1550nm e recebe dados em comprimento de onda de 1310nm em fibra óptica. Portanto, o dispositivo terminal usado em conjunto com o TL-FC111A-20 deve enviar dados em um comprimento de onda de 1310nm e receber dados em um comprimento de onda de 1550nm. TP-Link outro conversor de mídia TL-FC111B-20 é um dos produtos que podem cooperar com TL-FC111A-20.</p>",
+              "alt": "Como Este Produto Funciona"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/de5d68b8-dc53-4ab7-a585-660c143acb0b/Design-sem-nome---2025-03-31T212332.482.png",
+              "title": "Outras Recursos",
+              "text": "<p>Além disso, este conversor de mídia pode ser usado como um dispositivo independente (sem necessidade de rack) ou usado com o rack TL-FC1420 da TP-Link para MDI / MDI-X automático na porta TX em que o modo duplex é negociado automaticamente.</p>",
+              "alt": "Outras Recursos"
+            }
+          ],
+          "productId": "156149"
         }
       ]
     },
