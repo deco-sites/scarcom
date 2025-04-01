@@ -8545,6 +8545,46 @@
             }
           ],
           "productId": "156158"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8b8fbbbe-5d28-4f9e-8b1f-0aec4eb10837/LS1008(UN)1.0_01_normal_1563357828318i.jpg",
+              "title": "Switch Fast de Mesa com 8 portas",
+              "text": "<p>8 Portas RJ45 de Autonegociação 10/100Mbps suporta (Auto MDI/MDIX)</p>",
+              "alt": "Switch Fast de Mesa com 8 portas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Amplie sua rede e economize energia",
+              "text": "<p>Switch de Mesa com 8 portas</p>",
+              "alt": "Amplie sua rede e economize energia",
+              "banner": "https://assets.decocache.com/scarcom/fe6d8045-45ef-4e0a-9c62-e9a41c8edd29/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/592c5547-a7b7-47fe-8760-03a1f72c379c/c.jpg",
+              "title": "Deixe a litewave lhe oferecer uma rede mais leve",
+              "text": "<p>Os switches não gerenciáveis da série TP-Link LiteWave oferecem uma maneira fácil e acessível de expandir sua rede com fio. Eles são fáceis de usar e confiáveis. Com esses switches plug-and-play, você pode expandir suas conexões de rede para vários dispositivos instantaneamente. Com todas as portas compatíveis com Auto-MDI / MDIX, não há necessidade de se preocupar com o tipo de cabo a ser utilizado.</p>",
+              "alt": "Deixe a litewave lhe oferecer uma rede mais leve"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/542b860f-3576-412d-99e0-8b122682b317/d.png",
+              "title": "Seja Ecológico",
+              "text": "<p>A série LiteWave também suporta tecnologia de eficiência energética, ajudando você a economizar energia e dinheiro. O consumo de energia é ajustado automaticamente de acordo com o status do link e o comprimento do cabo, permitindo expandir sua rede e minimizar as emissões de carbono. Salve o planeta e reduza sua conta de energia - Todos ganham!</p>",
+              "alt": "Seja Ecológico"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d3d2050b-2d25-4110-b9dc-4597dc6ac5ed/e.jpg",
+              "title": "Sem Ventoinha e Design de Mesa",
+              "text": "<p>Design compacto para desktop, para atender as suas necessidades em qualquer ambiente. Além disso, o design sem ventoinha garante um funcionamento silencioso.</p>",
+              "alt": "Sem Ventoinha e Design de Mesa"
+            }
+          ],
+          "productId": "155044"
         }
       ]
     },
