@@ -8165,6 +8165,46 @@
             }
           ],
           "productId": "156155"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Módulo SFP RJ45 de 1G Base-T",
+              "text": "<p>Suporte para Operação 1000BASE-T em Sistemas Host</p>",
+              "alt": "Módulo SFP RJ45 de 1G Base-T",
+              "banner": "https://assets.decocache.com/scarcom/350acae6-569e-47f4-bf62-5b31dbb70acc/3310_normal_20230316195616h.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Módulo SFP RJ45 1000BASE-T",
+              "text": "<p>Estenda sua conexão de cobre em até 100 metros.</p>",
+              "alt": "Módulo SFP RJ45 1000BASE-T",
+              "banner": "https://assets.decocache.com/scarcom/a620f957-48d0-4506-8286-503421e95751/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d045fd8-2471-47b8-bdfb-e7581d4e25ba/c.jpg",
+              "text": "<p>Transmita dados de forma contínua até 100 metros entre a sua interface SFP e a porta gigabit de cobre.</p>",
+              "title": "Porta Gigabit para uma Conexão de Alta Velocidade",
+              "alt": "Porta Gigabit para uma Conexão de Alta Velocidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5fc7feec-e3af-4c04-9d2a-730cea1df13f/e.jpg",
+              "title": "Case de Metal Durável",
+              "text": "<p>O case metálico de alta qualidade garante resistência e confiabilidade por muito tempo, mantendo uma conexão estável em diversos ambientes.</p>",
+              "alt": "Case de Metal Durável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alta Compatibilidade",
+              "text": "<p>Conecte seus dispositivos sem preocupações. Nosso produto é perfeitamente compatível com vários equipamentos de fibra óptica de diferentes fabricantes.</p>",
+              "alt": "Alta Compatibilidade",
+              "banner": "https://assets.decocache.com/scarcom/8a84715e-3acd-4dcb-8793-1591bfb5debe/f.jpg"
+            }
+          ],
+          "productId": "156170"
         }
       ]
     },
