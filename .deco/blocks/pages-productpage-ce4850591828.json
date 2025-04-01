@@ -8288,6 +8288,60 @@
             }
           ],
           "productId": "155964"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ba690297-be90-4191-979f-e462647497a4/ER706W(UN)1.0_01_normal_20231207030948j.png",
+              "title": "Wi-Fi Dual-Band AX3000",
+              "text": "<p>Suporta 2402 Mbps na faixa de 5 GHz e 574 Mbps na faixa de 2.4 GHz</p>",
+              "alt": "Wi-Fi Dual-Band AX3000"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1b480208-b3c7-4737-84ff-f05895ed5e52/overview_ER706W(UN)1.0_02_normal_20230609063848j.jpg",
+              "title": "6 Portas Ethernet Gigabit:",
+              "text": "<p>1 porta gigabit SFP e 5 portas gigabit RJ45 oferecem conectividade com fio de alta velocidade.</p>",
+              "alt": "6 Portas Ethernet Gigabit:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/45ad6634-8496-48c8-9e84-5243bd708dc6/overview_ER706W(UN)1.0_03_normal_20230609063857x.jpg",
+              "title": "Tecnologia Mesh Omada",
+              "text": "<p> Conecta-se perfeitamente a EAPs que suportam a tecnologia mesh, ideal para cenários de grande escala.</p>",
+              "alt": "Tecnologia Mesh Omada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Gerenciamento Centralizado",
+              "text": "<p>Acesso em nuvem e aplicativo Omada para ultra conveniência e gerenciamento fácil.</p>",
+              "alt": "Gerenciamento Centralizado",
+              "banner": "https://assets.decocache.com/scarcom/9fa2946d-c396-448f-925f-5bd6e85d6061/overview_ER706W(UN)1.0_03_normal_20230609063857x.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a6feb8ca-20a3-4c56-b4d2-1de1befca545/overview_ER706W(UN)1.0_05_normal_20230609063938l.jpg",
+              "title": "Cobertura Aprimorada",
+              "text": "<p>Três antenas externas estendem e concentram os sinais Wi-Fi.</p>",
+              "alt": "Cobertura Aprimorada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3cb46be4-8a1c-490c-8e02-91b779d40049/overview_ER706W(UN)1.0_07_normal_20230609064021r.jpg",
+              "title": "VPN de Alta Segurança",
+              "text": "<p>Suporta múltiplos protocolos de VPN incluindo IPSec / SSL / Wireguard / PPTP / L2TP VPN, ajudando os usuários a estabelecer conexões remotas com mais flexibilidade.</p>",
+              "alt": "VPN de Alta Segurança"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/daf83145-f9f5-44a2-8121-5496246b7bf0/Design-sem-nome---2025-03-31T215828.462.png",
+              "title": "Recursos Abundantes de Segurança",
+              "text": "<p> Políticas avançadas de firewall, defesa contra DoS, filtragem de IP/MAC/URL e mais funções de segurança protegem sua rede e dados.</p>",
+              "alt": "Recursos Abundantes de Segurança"
+            }
+          ],
+          "productId": "156059"
         }
       ]
     },
