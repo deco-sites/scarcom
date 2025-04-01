@@ -8205,6 +8205,46 @@
             }
           ],
           "productId": "156170"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6db1618f-e1a9-430f-a800-136694d36e5f/TL-SM5310-T(UN)1.0-2000px-1_normal_20220218021526y.jpg",
+              "title": "Módulo SFP+ RJ45 de 10G BASE-T",
+              "text": "<p>Transmite dados de até 30m a 10 Gbps (UTP cat.6a ou superior)</p>",
+              "alt": "Módulo SFP+ RJ45 de 10G BASE-T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Módulo SFP+ RJ45 10G BASE-T",
+              "text": "<p>Conexão ultrarrápida de 10G, da porta de fibra para a porta RJ45.</p>",
+              "alt": "Módulo SFP+ RJ45 10G BASE-T",
+              "banner": "https://assets.decocache.com/scarcom/088815c7-e349-426d-9515-5c689373e57b/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Insira o TL-SM5310-T para uma conversão fácil e rápida entre fibra SFP+ e Ethernet 10G. Ele cobre até 30m para várias aplicações.</p>",
+              "title": "Desempenho superior de 10G para converter SFP + em RJ45.",
+              "alt": "Desempenho superior de 10G para converter SFP + em RJ45.",
+              "banner": "https://assets.decocache.com/scarcom/49c3b167-0094-471e-b99f-14e520d79037/c.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/165e2168-a39d-4306-8897-6269b652c826/e.jpg",
+              "title": "Case de Metal Durável",
+              "text": "<p>O case metálico de alta qualidade garante resistência e confiabilidade por um longo período de tempo, mantendo uma conexão estável em uma ampla variedade de ambientes.</p>",
+              "alt": "Case de Metal Durável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alta Compatibilidade",
+              "text": "<p>Conecte seus dispositivos com menos preocupações. Nosso produto é perfeitamente compatível com vários equipamentos de fibra óptica de diferentes fornecedores.</p>",
+              "banner": "https://assets.decocache.com/scarcom/9302773f-61b2-4f97-b4f1-36c7bfa74747/f.jpg",
+              "alt": "Alta Compatibilidade"
+            }
+          ],
+          "productId": "156137"
         }
       ]
     },
