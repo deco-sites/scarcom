@@ -8069,6 +8069,37 @@
             }
           ],
           "productId": "156138"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/63e8983f-6f1d-4761-9e66-76f6f30d74fa/Design-sem-nome---2025-03-31T194827.820.png",
+              "title": "Chassis de Montagem em Rack de 14-Slots",
+              "text": "<p>14 compartimentos para abrigar até 14 conversores de mídia</p>",
+              "alt": "Chassis de Montagem em Rack de 14-Slots"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/14e95e3e-c301-46a5-90de-b71eb57908ad/Design-sem-nome---2025-03-31T210523.513.png",
+              "title": "O que esse produto faz",
+              "text": "<p>O Chassis de montagem em rack de14-Slots TL-MC1400 é especialmente projetado para acomodar 14 Conversores de Mídia da Tp-Link para o fornecimento de energia, economizando espaço e cabos de energia. A operação contínua é de grande importância para a comunicação da fibra, por isso o chassi está equipado com fonte de alimentação redundante opcional e função de troca rápida que permite instalar / remover a fonte do conversor de energia sem desligar o chassi. Além disso, para estabilizar o desempenho e aumentar a vida útil, dois ventiladores estão instalados internamente. Juntamente com a série MC Gigabit / Fast Ethernet de conversores de mídia, TL-MC1400 é a solução ideal para a sua rede de conversão de mídia.</p>",
+              "alt": "O que esse produto faz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b869f8b-db07-4631-a23b-4d923b551970/TL-MC1400(UN)3.0_MC_Series_14-Slot_Rackmount_Chassis_03_normal_20220421032052h.jpg",
+              "text": "<p>Troca rápida, fácil e rápida substituição do conversor</p>",
+              "alt": "Troca rápida, fácil e rápida substituição do conversor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a9cf8afe-2c62-438e-b590-099ac20200b4/TL-MC1400(UN)3.0_MC_Series_14-Slot_Rackmount_Chassis_04_normal_20220421032105l.jpg",
+              "text": "<p>Dois ventiladores Montados para uma melhor ventilação</p>",
+              "alt": "Dois ventiladores Montados para uma melhor ventilação"
+            }
+          ],
+          "productId": "156045"
         }
       ]
     },
