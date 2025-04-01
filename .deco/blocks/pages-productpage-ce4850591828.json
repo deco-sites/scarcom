@@ -8342,6 +8342,46 @@
             }
           ],
           "productId": "156059"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9bbc3dca-996d-4013-89f4-0f7cab7991b4/TL-SG105E-01_1480036461094g.jpg",
+              "title": "Switch Gigabit Easy Smart de Mesa de 5 Portas",
+              "text": "<p>Gerencie de forma centralizada todos os switches smarts com o Utilitário de Configuração Easy Smart.</p>",
+              "alt": "Switch Gigabit Easy Smart de Mesa de 5 Portas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bb0dc582-a02b-45fb-9079-b9aaada2af01/TL-SG105E-02_1480036489954k.jpg",
+              "title": "O que este produto faz?",
+              "text": "<p>O Switch Easy Smart Gigabit TL-SG105E de 5 Portas é a evolução ideal do switch não-gerenciável, projetado para as redes corporativas de pequeno e médio porte que necessitam de gerenciamento de redes simples. Os administradores de rede podem monitorar com eficácia o tráfego através de funções como Espelhamento de Porta, Prevenção de Loop e Diagnóstico de Cabo. A fim de melhorar o tráfego em sua rede corporativa, o TL-SG105E oferece QoS tanto por porta como por tag, o que reduz a sensibilidade de latência, tornando as transferências mais livres de impedimentos e instabilidades.. Como adicional, a MTU com VLAN por tag e por porta pode melhorar a segurança e preencher os requisitos de segmentação de rede. Além disso, com a inovadora tecnologia de energia eficiente, o TL-SG105E pode economizar até 75% do consumo de energia, fazendo-o uma solução de rede ecologicamente correta.</p>",
+              "alt": "O que este produto faz?"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad71e7db-e3e2-4cc0-8c7a-b398c55d2dd7/TL-SG105E-03_1480036515835b-(1).jpg",
+              "title": "Seja ecologicamente correto com a Tecnologia Green Ethernet",
+              "text": "<p>Você tem agora a escolha a chance de ter uma rede Gigabit sustentável! A nova geração de Switches Easy Smart Gigabit TL-SG105E 10/100Mbps possui as tecnologias mais recentes na eficiência de energia que podem expandir a capacidade de sua rede com muito menos energia. Ajusta automaticamente o consumo de potência de acordo com o status da conexão e o comprimento de cabo para reduzir a pegada de carbono da sua rede.</p>",
+              "alt": "Seja ecologicamente correto com a Tecnologia Green Ethernet"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/03a6e45c-f29e-4902-9564-a13733639c0f/TL-SG105E-04_1480036569337o.jpg",
+              "title": "Desligue todas as portas ociosas",
+              "text": "<p>Quando um computador ou um equipamento da rede está desligado, a porta correspondente de um switch tradicional irá continuar a consumir energia de forma considerável. O TL-SG105E pode automaticamente detectar o status da ligação de cada porta e reduzir o consumo de potência das portas que estão inativas.</p>",
+              "alt": "Desligue todas as portas ociosas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a9621a7f-c331-4564-abcd-ab1d707d1fc9/TL-SG105E_UN_3.0_05_normal_1508817011924o.jpg",
+              "title": "Consumo de Energia de Acordo com o Comprimento de Cabo",
+              "text": "<p>Teoricamente, cabos mais curtos utilizam menos energia e com menos danos em seu comprimento, não é este o caso com a maioria dos dispositivos uma vez que eles irão utilizar a mesma quantidade de energia através do cabo independente se ele é de 10 ou 50 metros. O TL-SG105E analisa o comprimento do cabo Ethernet conectado e ajusta o uso de energia conformemente, melhor que mantendo o consumo de potência em uma solução convencional.</p>",
+              "alt": "Consumo de Energia de Acordo com o Comprimento de Cabo"
+            }
+          ],
+          "productId": "1455"
         }
       ]
     },
