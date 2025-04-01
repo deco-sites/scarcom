@@ -8455,6 +8455,60 @@
             }
           ],
           "productId": "156043"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/39095989-b98e-4e67-8766-3be1412a2021/TL-SL1218P(UN)1.0_Overview_01_normal_1595313904832r.jpg",
+              "title": "Switch de 16 Portas PoE+ 10/100Mbps com 2 Portas Gigabit",
+              "text": "<p> Alta capacidade de energia PoE com até 30 W para cada porta PoE e 150 W para todas as portas PoE.</p>",
+              "alt": "Switch de 16 Portas PoE+ 10/100Mbps com 2 Portas Gigabit"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Profissional de 16 portas 10/100 Mbps + 2 portas Gigabit para montagem em rack com 16 portas PoE+",
+              "text": "<p>Plug and Play, com Transmissão PoE para Vigilância até 250 m</p>",
+              "alt": "Switch Profissional de 16 portas 10/100 Mbps + 2 portas Gigabit para montagem em rack com 16 portas PoE+",
+              "banner": "https://assets.decocache.com/scarcom/7b6e6e03-eafb-4ca1-abf1-3347d07d130d/a.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch PoE+ de 16 Portas Dedicado (Capacidade de 150 W) para Diversas Aplicações",
+              "text": "<p>A conformidade com o padrão 802.3af/at PoE+ suporta até 30 W em cada porta PoE. A capacidade total de energia PoE de 150 W para as 16× portas PoE+ oferece uma ampla gama de aplicações, como vigilância para escritórios, dormitórios e pequenas empresas. O produto é totalmente compatível com câmeras IP, access points, telefones IP.</p>",
+              "banner": "https://assets.decocache.com/scarcom/b615bbbb-8009-40e8-a449-4bc1855afd2f/Design-sem-nome---2025-03-31T222746.751.png",
+              "alt": "Switch PoE+ de 16 Portas Dedicado (Capacidade de 150 W) para Diversas Aplicações"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/73c06735-b501-4b60-9b83-2c7a432efff0/TL-SL1218P(UN)1.0_Overview_04_large_1595313927001g.jpg",
+              "title": "Modo Prioridade para Aplicações Específicas",
+              "text": "<p>A qualidade de aplicações sensíveis, como o monitoramento de vídeo em áreas críticas de negócios, é garantida ao oferecer opções de prioridade mais alta para as portas 1 a 8 quando o Modo de Prioridade está ativado.</p>",
+              "alt": "Modo Prioridade para Aplicações Específicas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a4a21693-3a0f-4a76-a519-478b639bf984/j.jpg",
+              "title": "Monitoramento Contínuo de Vídeos em HD",
+              "text": "<p>2× portas RJ45 gigabit e 1× slot combo SFP gigabit garantem uma transmissão (streaming) estável, até quando 16× câmeras IP funcionam em HD simultaneamente.</p>",
+              "alt": "Monitoramento Contínuo de Vídeos em HD"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bb0b9d58-669e-486e-827e-85563de88886/f.png",
+              "title": "Gerenciamento Inteligente de Energia Prevenindo Sobrecarga",
+              "text": "<p>Quando o consumo total de energia excede 150 W, o Gerenciamento Inteligente de Energia corta automaticamente a energia das portas com prioridade mais baixa para garantir o fornecimento de energia para as portas de alta prioridade. Isso protege o dispositivo contra operação em sobrecarga de energia. O produto também detecta automaticamente a energia PoE necessária para o seu dispositivo e protege o seu equipamento não PoE contra danos</p>",
+              "alt": "Gerenciamento Inteligente de Energia Prevenindo Sobrecarga"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2cddae52-0249-4e4d-8438-77cf2a3bb90e/Design-sem-nome---2025-03-31T223619.447.png",
+              "title": "Ampla Temperatura Operacional com Eliminação do Calor",
+              "text": "<p>O gabinete de metal durável e o design de dissipação de calor profissional garantem uma ampla temperatura operacional (0–50℃) com confiabilidade.</p>",
+              "alt": "Ampla Temperatura Operacional com Eliminação do Calor"
+            }
+          ],
+          "productId": "156163"
         }
       ]
     },
