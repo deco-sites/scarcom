@@ -8585,6 +8585,53 @@
             }
           ],
           "productId": "155044"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8980a67d-6c6d-4b8c-87a6-e888b643654a/overview_TL-SG3428X_10G_Switch_1_normal_1604657572826e.jpg",
+              "title": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps",
+              "text": "<p>Uplink Ultrarrápido de 10G: 4× Slots SFP+ de 10 Gbps que possibilitam uma conectividade com alta largura de banda e capacidade sem bloqueio.</p>",
+              "alt": "Switch Gerenciável L2+ de 28 Portas com 24 Portas Gigabit e 4 Slots SFP+ de 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c42c9d91-904d-41c5-abc8-749ead1f83ca/overview_TL-SG3428X_10G_Switch_2_normal_1604657584413b.jpg",
+              "title": "Velocidades Gigabit",
+              "text": "<p> 24× portas RJ45 Gigabit oferecem conexões confiáveis e de alta velocidade para outros switches e dispositivos.</p>",
+              "alt": "Velocidades Gigabit"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Gerenciável com Uplink de 10G para uma Rede Omada Completa",
+              "text": "<p>Integrado ao Omada SDN: Provisionamento Zero-Touch (ZTP), Gerenciamento de Nuvem Centralizado e Monitoramento Inteligente.</p>",
+              "alt": "Switch Gerenciável com Uplink de 10G para uma Rede Omada Completa",
+              "banner": "https://assets.decocache.com/scarcom/dfa36896-1978-44d4-9bbe-807f83179be0/01-bg.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Corporativo com Uplink de 10G",
+              "text": "<p>Os 4× slots SFP+ de 10 Gbps fornecem desempenho sem bloqueios e latência ultrabaixa, possibilitando estabelecer conexões rápidas e confiáveis com o servidor e outros switches facilmente.</p>",
+              "alt": "Switch Corporativo com Uplink de 10G",
+              "banner": "https://assets.decocache.com/scarcom/95867d6b-4bfa-48a4-89e7-8a38ac0699f6/03-bg.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc024aad-efe4-460c-92c4-a702e4dfdb5b/05-img.png",
+              "title": "Rede Definida por Software (SDN) com Acesso à Nuvem",
+              "text": "<p>A plataforma Software Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e gateways, fornecendo gerenciamento centralizado 100% via nuvem. O Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. Conexões wireless e com fio são fornecidas de forma contínua, ideais para uso em hoteis, lojas, escola e muito mais.</p>",
+              "alt": "Rede Definida por Software (SDN) com Acesso à Nuvem"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0341c5f1-92c0-4cc8-b43a-ef02161a8fff/06-bg.jpg",
+              "title": "Recursos L3 Avançados",
+              "text": "<p>Suporta diversos recursos L2+ e L3  para ajudar a construir uma rede altamente escalável e robusta, fornecendo uma solução confiável e eficiente para empresas, campus e ISPs.</p>",
+              "alt": "Recursos L3 Avançados"
+            }
+          ],
+          "productId": "156159"
         }
       ]
     },
