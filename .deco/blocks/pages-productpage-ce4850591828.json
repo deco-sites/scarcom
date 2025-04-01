@@ -8245,6 +8245,49 @@
             }
           ],
           "productId": "156137"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/14a6bba0-6e8f-43af-92c1-6d3f52464b55/TL-SM5110-LR(UN)1.0-R4_normal_1608119836179f.jpg",
+              "title": "Módulo SFP+ de 10G LC Duplex Monomodo Base-LR",
+              "text": "<p>Compatível com 10G Small Form Pluggable e Multi-Source Agreement (SFP + MSA)</p>",
+              "alt": "Módulo SFP+ de 10G LC Duplex Monomodo Base-LR"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f7a9752f-329f-449b-b7b7-f0dacec3c59e/TL-SM5110-LR(UN)1.0-R1_normal_1608119851368y.jpg",
+              "title": "O que este produto faz",
+              "text": "<p>O TL-SM5110-LR foi projetado para estender distâncias de transferência com base na conectividade Ethernet de 10 Gbps. É um transceptor SFP + Single-mode de 1310 nm de alto desempenho 10GBASE-LR. Ele oferece suporte a conexões Ethernet 10G full duplex de até 10 KM com cabos de fibra de 90 / 125µm.</p>",
+              "alt": "O que este produto faz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a1bc440-a5d7-433b-b1fe-ec27de05ff28/Design-sem-nome---2025-03-31T214148.457.png",
+              "text": "<p>Compatível com monitoramento de diagnóstico digital (DDM)</p>",
+              "alt": "Compatível com monitoramento de diagnóstico digital (DDM)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d84c8866-7dbe-413d-82cc-f41c3fac318a/Design-sem-nome---2025-03-31T214309.593.png",
+              "text": "<p>Compatível com monitoramento de diagnóstico digital (DDM)</p>",
+              "alt": "Compatível com monitoramento de diagnóstico digital (DDM)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4b217875-7798-4758-a013-9542426483d6/Design-sem-nome---2025-03-31T214417.438.png",
+              "text": "<p>Compatível com o switch JetStream como TL-SG3428X, TL-SG3428XMP, e muito mais.</p>",
+              "alt": "Compatível com o switch JetStream como TL-SG3428X, TL-SG3428XMP, e muito mais."
+            },
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Hot-Pluggable com flexibilidade máxima</p>",
+              "alt": "Hot-Pluggable com flexibilidade máxima",
+              "banner": "https://assets.decocache.com/scarcom/29533495-5fe9-47a4-8d16-8bef6f49d63e/Design-sem-nome---2025-03-31T214533.446.png"
+            }
+          ],
+          "productId": "155964"
         }
       ]
     },
