@@ -8509,6 +8509,42 @@
             }
           ],
           "productId": "156163"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e76d5257-fed1-4c39-ac4f-eda5dafa62e4/SG2428LP_UN_1.0_1_normal_20240319025507c.jpg",
+              "title": "Switch Smart de 24 portas Gigabit com16 portas PoE+",
+              "text": "<p>16 Portas Gigabit 802.3af/at PoE+</p>",
+              "alt": "Switch Smart de 24 portas Gigabit com16 portas PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad60288b-fc1b-42d3-922f-17a17433a6e4/SG2428LP_UN_1.0_2_normal_20240319025545v.jpg",
+              "text": "<p>8 Portas Gigabit RJ45 não-PoE e 4 Slots Gigabit SFP</p>",
+              "alt": "8 Portas Gigabit RJ45 não-PoE e 4 Slots Gigabit SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/be31ce99-e820-433c-97e4-1093971198ea/SG2428LP_UN_1.0_3_normal_20240319025555c.jpg",
+              "text": "<p>Orçamento Total de PoE de 150 W com até 30 W de Saída PoE por Porta</p>",
+              "alt": "Orçamento Total de PoE de 150 W com até 30 W de Saída PoE por Porta"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1072362e-7b2a-4b5d-9db3-7923069a6c1b/SG2428LP_UN_1.0_4_normal_20240319025605p.jpg",
+              "text": "<p>Gerenciamento Centralizado na Nuvem via web ou aplicativo Omada</p>",
+              "alt": "Gerenciamento Centralizado na Nuvem via web ou aplicativo Omada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fc6fa5aa-8a32-42cb-ab8a-2b7832057712/SG2428LP_UN_1.0_5_normal_20240319025614g.jpg",
+              "text": "<p>Roteamento Estático para rotear o tráfego interno com maior eficiência</p>",
+              "alt": "Roteamento Estático para rotear o tráfego interno com maior eficiência"
+            }
+          ],
+          "productId": "156158"
         }
       ]
     },
