@@ -8632,6 +8632,46 @@
             }
           ],
           "productId": "156159"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/031589ae-14ab-4a93-bbfa-e8c9b598f590/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_01_normal_20231110073609z.jpg",
+              "title": "Switch Gerenciável L3 Empilhável de 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps",
+              "text": "<p>Empilhamento Físico para redundância e desempenho integrados</p>",
+              "alt": "Switch Gerenciável L3 Empilhável de 48 Portas Gigabit e 6 Slots SFP+ de 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d3bdb59f-04a2-4b05-b142-ee5fc44897e0/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_02_normal_20231110073633h.jpg",
+              "title": "O que Este Produto Faz",
+              "text": "<p>O Omada SG6654XHP, um switch avançado PoE+ gerenciado pela camada 3, é projetado para requisitos de camada de convergência, com recursos como roteamento L3, conectividade com fio rápida de 10 Gbps, empilhamento e fontes de alimentação redundantes. Oferece um impressionante orçamento PoE de 1440 W,* 48 portas gigabit RJ45 PoE+, 6 slots SFP+ de 10 Gbps e empilhamento físico. Combinado com gerenciamento centralizado, segurança robusta e recursos abrangentes de gerenciamento, o SG6654XHP é uma solução de rede ideal e confiável para pequenas e médias empresas, empresas e provedores de serviços de Internet.</p><p><br></p>",
+              "alt": "O que Este Produto Faz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/50efebea-ff2c-4209-9e19-3b1932f9decd/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_03_normal_20231110073654w.jpg",
+              "title": "IEEE 802.3at/af PoE+ Compatível",
+              "text": "<p>48 portas PoE IEEE 802.3at/af fornecem até 1440 W de potência total para dispositivos 802.3at e 802.3af,* com cada porta fornecendo até 30 W de potência. Configure pontos de acesso sem fio, câmeras de vigilância, telefones IP e outros dispositivos PoE de maneira rápida e fácil, sem a complicação e custo da instalação de cabos de alimentação.</p><p><br></p>",
+              "alt": "IEEE 802.3at/af PoE+ Compatível"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6f7fac0e-2194-4a69-96a3-6e231e72ee53/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_04_normal_20231110073800r.jpg",
+              "title": "Abundantes Recursos de Camada 3",
+              "text": "<p>Vem com abundantes protocolos de roteamento de Camada 3 que suportam uma rede escalável. Roteamento estático, RIP, OSPF, ECMP, VRRP, DHCP Server e DHCP Relay são suportados. O protocolo de roteamento multicast PIM-DM garante roteamento eficiente para grupos multicast.</p><p><br></p>",
+              "alt": "Abundantes Recursos de Camada 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6ee31c6d-78db-451a-a023-ad3da4950bdc/SG6654XHP(UN)1.0_10G_L3_PoE_Switch_05_normal_20231110073819q.jpg",
+              "title": "Altamente Disponível",
+              "text": "<p>Fontes de alimentação redundantes substituíveis em campo e hot-swappable opcionais e VRRP tornam-no uma escolha ideal para arquitetura de rede confiável. ERPS oferece proteção e recuperação rápidas em uma topologia de anel.</p>",
+              "alt": "Altamente Disponível"
+            }
+          ],
+          "productId": "156151"
         }
       ]
     },
