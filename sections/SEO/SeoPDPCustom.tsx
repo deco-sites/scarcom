@@ -91,6 +91,14 @@ export function loader(props: Props, _req: Request, ctx: AppContext) {
     }
   }
 
+  if(jsonLD?.product.offers?.offers) {
+    jsonLD?.product.offers?.offers.forEach((e)=> {
+      e["name"] = e.sellerName;
+      delete(e.sellerName);
+      delete(e.teasers);
+    });
+  }
+
   return {
     ...seoSiteProps,
     title,
