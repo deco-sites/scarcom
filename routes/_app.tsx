@@ -26,9 +26,9 @@ export default defineApp(async (_req, ctx) => {
 
         {/* Web Manifest */}
         <link rel="manifest" href={asset("/site.webmanifest")} />
-        
+
         {/* Google Tag Manager */}
-        
+
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -37,7 +37,8 @@ export default defineApp(async (_req, ctx) => {
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.<wbr>com/gtm.js?id='+i+dl;f.<wbr>parentNode.insertBefore(j,f)https://www.googletagmanager.<wbr>com/gtm.js?id='+i+dl;f.<wbr>parentNode.insertBefore(j,f)https://www.googletagmanager.<wbr>com/gtm.js?id='+i+dl;f.<wbr>parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer','GTM-PD5C6K');
-          ` }}
+          `,
+          }}
         />
 
         {/* End Google Tag Manager */}
@@ -45,7 +46,13 @@ export default defineApp(async (_req, ctx) => {
         {/* Google Tag Manager (noscript) */}
 
         <noscript>
-          <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PD5C6K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-PD5C6K"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden"
+          >
+          </iframe>
         </noscript>
 
         {/* End Google Tag Manager (noscript) */}
