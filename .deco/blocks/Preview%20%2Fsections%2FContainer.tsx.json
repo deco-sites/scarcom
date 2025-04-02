@@ -30,8 +30,8 @@
               "badges": [],
               "buttonColor": "primary"
             },
-            "srcDesktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/87079be1-99f3-4b04-871b-9a2bbbd23970",
-            "srcMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/87079be1-99f3-4b04-871b-9a2bbbd23970",
+            "srcDesktop": "https://assets.decocache.com/scarcom/f8027714-1bbb-434e-a432-9fa56785ee1f/1742476434707-87079be1-99f3-4b04-871b-9a2bbbd23970",
+            "srcMobile": "https://assets.decocache.com/scarcom/f8027714-1bbb-434e-a432-9fa56785ee1f/1742476434707-87079be1-99f3-4b04-871b-9a2bbbd23970",
             "alt": "Stones",
             "href": "/stones",
             "columnStart": 1,
@@ -47,10 +47,10 @@
               "buttonColor": "neutral",
               "reverse": true
             },
-            "srcDesktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0fcad9e6-8d94-40c8-a274-9a2e5fb63937",
+            "srcDesktop": "https://assets.decocache.com/scarcom/0b75639f-0e92-498a-8fb6-c54e1fbcdb4f/1742476436607-0fcad9e6-8d94-40c8-a274-9a2e5fb63937",
             "alt": "Mini",
             "href": "/mini",
-            "srcMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/0fcad9e6-8d94-40c8-a274-9a2e5fb63937"
+            "srcMobile": "https://assets.decocache.com/scarcom/0b75639f-0e92-498a-8fb6-c54e1fbcdb4f/1742476436607-0fcad9e6-8d94-40c8-a274-9a2e5fb63937"
           },
           {
             "textColor": "primary",
@@ -60,8 +60,8 @@
               "badges": [],
               "buttonColor": "secondary"
             },
-            "srcDesktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/f4ff5ec1-8bd3-4d66-84ce-fc9f7d71e080",
-            "srcMobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/8938/f4ff5ec1-8bd3-4d66-84ce-fc9f7d71e080",
+            "srcDesktop": "https://assets.decocache.com/scarcom/61c433a8-b620-461a-b660-042272437136/1742476438670-f4ff5ec1-8bd3-4d66-84ce-fc9f7d71e080",
+            "srcMobile": "https://assets.decocache.com/scarcom/61c433a8-b620-461a-b660-042272437136/1742476438670-f4ff5ec1-8bd3-4d66-84ce-fc9f7d71e080",
             "alt": "Glitz",
             "href": "/glitz"
           }

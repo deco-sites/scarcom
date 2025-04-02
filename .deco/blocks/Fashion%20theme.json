@@ -56,6 +56,6 @@
     "primary-content": "#000000",
     "secondary-content": "#000000"
   },
-  "mode": "dark",
-  "colorScheme": "dark"
+  "colorScheme": "light",
+  "mode": "light"
 }

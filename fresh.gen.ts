@@ -38,6 +38,7 @@ import * as $ProductImageZoom from "./islands/ProductImageZoom.tsx";
 import * as $ProductShelf from "./islands/ProductShelf.tsx";
 import * as $RequestQuote from "./islands/RequestQuote.tsx";
 import * as $SearchControls from "./islands/SearchControls.tsx";
+import * as $Searchbar from "./islands/Searchbar.tsx";
 import * as $ShippingSimulation from "./islands/ShippingSimulation.tsx";
 import * as $ShowMore from "./islands/ShowMore.tsx";
 import * as $SliderProductShowcase from "./islands/SliderProductShowcase.tsx";
@@ -87,6 +88,7 @@ const manifest = {
     "./islands/ProductShelf.tsx": $ProductShelf,
     "./islands/RequestQuote.tsx": $RequestQuote,
     "./islands/SearchControls.tsx": $SearchControls,
+    "./islands/Searchbar.tsx": $Searchbar,
     "./islands/ShippingSimulation.tsx": $ShippingSimulation,
     "./islands/ShowMore.tsx": $ShowMore,
     "./islands/SliderProductShowcase.tsx": $SliderProductShowcase,

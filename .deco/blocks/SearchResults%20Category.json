@@ -63,7 +63,16 @@
             "layout": {
               "headerAlignment": "center",
               "headerfontSize": "Normal",
-              "itemsPerPage": []
+              "itemsPerPage": [
+                {
+                  "screenWidth": 425,
+                  "itemsQuantity": 1
+                },
+                {
+                  "screenWidth": 700,
+                  "itemsQuantity": 4
+                }
+              ]
             },
             "showPaginationArrows": "Always",
             "showPaginationDots": "Always",
@@ -100,7 +109,8 @@
       "overFlow": "overflow-none",
       "verticalSpacing": "both",
       "label": "Search Results",
-      "withContainer": true
+      "withContainer": true,
+      "spacing": 0
     }
   ]
 }
