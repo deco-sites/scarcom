@@ -25,8 +25,8 @@ export interface IContentDetailsProps {
 }
 
 /**
-* @titleBy productId
-*/
+ * @titleBy productId
+ */
 export interface IAdvancedDetailListProps {
   /** @title Id do Produto */
   productId: string;
