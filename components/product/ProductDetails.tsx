@@ -222,7 +222,9 @@ function ProductInfo(
             {product?.isVariantOf?.model && (
               <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
                 <strong class="text-[#015388]">Modelo:</strong>{" "}
-                { product?.description && extractModel(product.description) ? extractModel(product.description) : product?.brand?.name}
+                {product?.description && extractModel(product.description)
+                  ? extractModel(product.description)
+                  : product?.brand?.name}
               </p>
             )}
             {product?.isVariantOf?.model && (
