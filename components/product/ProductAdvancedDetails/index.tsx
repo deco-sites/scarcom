@@ -24,6 +24,9 @@ export interface IContentDetailsProps {
   text: RichText;
 }
 
+/**
+ * @titleBy productId
+ */
 export interface IAdvancedDetailListProps {
   /** @title Id do Produto */
   productId: string;
