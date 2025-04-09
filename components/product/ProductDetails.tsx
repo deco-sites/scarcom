@@ -65,6 +65,19 @@ export interface Props {
 const WIDTH = 500;
 const HEIGHT = 500;
 const ASPECT_RATIO = `${WIDTH} / ${HEIGHT}`;
+
+function extractModel(texto: string) {
+  const default_1 = /Modelo:<BR>(.*?)<BR>/i;
+  const match1 = texto.match(default_1);
+  if (match1) return match1[1].trim();
+
+  const default_2 = /modelo\s+([A-Z0-9\-]+)/i;
+  const match2 = texto.match(default_2);
+  if (match2) return match2[1].trim();
+
+  return null;
+}
+
 function ProductInfo(
   {
     page,
@@ -190,6 +203,7 @@ function ProductInfo(
   //     </li>
   //   ));
   // };
+
   return (
     <>
       {/* Code and name */}
@@ -208,7 +222,7 @@ function ProductInfo(
             {product?.isVariantOf?.model && (
               <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
                 <strong class="text-[#015388]">Modelo:</strong>{" "}
-                {product?.brand?.name}
+                { product?.description ? extractModel(product.description) : product?.brand?.name}
               </p>
             )}
             {product?.isVariantOf?.model && (
