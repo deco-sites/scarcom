@@ -77,5 +77,4 @@ function ProductAdvancedDetails(props: SectionProps<typeof loader>) {
     </div>
   );
 }
-
 export default ProductAdvancedDetails;
