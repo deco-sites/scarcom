@@ -120,7 +120,9 @@
                     "description": "<p>A página que você esta procurando não<br>existe ou não esta mais disponível em<br>nosso site.</p>",
                     "image": "https://assets.decocache.com/scarcom/a188a542-2ca2-478e-bacc-f6a28c0a2c3d/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca"
                   },
-                  "discountPercent": 10
+                  "discountPercent": 10,
+                  "appKeyCurrent": "vtexappkey-scarcom-SPEPHX",
+                  "appTokenCurrent": "YJGLFSESLCVEPIELVAVNBKOWDPIYFJENRWFXLTQUDMGBZHFUZKKWAXXHEKYZDJQDHWJOWESSJSQUPAESAMUIJNZYTFHBKTFCGEBYOTQGCCHNNFAEVNKDNRGBQNXXJRLQ"
                 },
                 "shadow": "none",
                 "overFlow": "overflow-none",
