@@ -1,4 +1,6 @@
 import { useId } from "preact/hooks";
+import { type SectionProps as SectionProps } from "@deco/deco";
+import { AppContext } from "apps/vtex/mod.ts";
 import ShippingSimulation from "$store/islands/ShippingSimulation.tsx";
 import Breadcrumb from "$store/components/ui/Breadcrumb.tsx";
 import Image from "apps/website/components/Image.tsx";
@@ -62,20 +64,42 @@ export interface Props {
    */
   notFoundSection: Section;
 }
+
+export interface LoaderProps extends Props {
+  appKeyCurrent?: string;
+  appTokenCurrent?: string;
+}
+
 const WIDTH = 500;
 const HEIGHT = 500;
 const ASPECT_RATIO = `${WIDTH} / ${HEIGHT}`;
 
-function extractModel(texto: string) {
-  const default_1 = /Modelo:<BR>(.*?)<BR>/i;
-  const match1 = texto.match(default_1);
-  if (match1) return match1[1].trim();
+export async function loader(props: LoaderProps, _req: Request, _: AppContext) {
+  const { appKeyCurrent, appTokenCurrent, ...defaultProps } = props;
 
-  const default_2 = /modelo\s+([A-Z0-9\-]+)/i;
-  const match2 = texto.match(default_2);
-  if (match2) return match2[1].trim();
+  if (!appKeyCurrent || !appTokenCurrent) {
+    return {
+      manufacturerCode: null,
+      ...defaultProps,
+    };
+  }
 
-  return null;
+  const response = await fetch(
+    `https://scarcom.myvtex.com/api/catalog_system/pvt/sku/stockkeepingunitbyid/${defaultProps.page?.product.sku}`,
+    {
+      headers: {
+        "X-VTEX-API-AppKey": appKeyCurrent,
+        "X-VTEX-API-AppToken": appTokenCurrent,
+        "Content-Type": "application/json",
+      },
+    },
+  );
+  const dataStockKeeping = await response.json();
+
+  return {
+    manufacturerCode: dataStockKeeping.ManufacturerCode as string,
+    ...defaultProps,
+  };
 }
 
 function ProductInfo(
@@ -85,12 +109,14 @@ function ProductInfo(
     shareableNetworks,
     discountPercent,
     measurementChart,
+    manufacturerCode,
   }: {
     page: ProductDetailsPage;
     shipmentPolitics?: Props["shipmentPolitics"];
     shareableNetworks?: Props["shareableNetworks"];
     discountPercent?: number;
     measurementChart?: Props["measurementChart"];
+    manufacturerCode: string | null;
   },
 ) {
   const { product } = page;
@@ -208,7 +234,6 @@ function ProductInfo(
     <>
       {/* Code and name */}
       <div class="mt-4 sm:mt-0">
-        {/* <LogComponent data={product} /> */}
         <h1>
           <span class="font-medium text-base-content text-xl lg:text-2xl">
             {isVariantOf?.name}
@@ -216,19 +241,17 @@ function ProductInfo(
         </h1>
         <div className="mt-[12px]">
           <div class="flex flex-col items-start gap-[4px]">
-            <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+            <p className="not-italic font-bold text-[14px] leading-[16px] text-[#585858] m-0">
               <strong class="text-[#015388]">Ref.:</strong> {referenceID}
             </p>
             {product?.isVariantOf?.model && (
-              <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+              <p className="not-italic font-bold text-[14px] leading-[16px] text-[#585858] m-0">
                 <strong class="text-[#015388]">Modelo:</strong>{" "}
-                {product?.description && extractModel(product.description)
-                  ? extractModel(product.description)
-                  : product?.brand?.name}
+                {manufacturerCode ? manufacturerCode : product?.brand?.name}
               </p>
             )}
             {product?.isVariantOf?.model && (
-              <p className="not-italic font-normal font-bold text-[14px] leading-[16px] text-[#585858] m-0">
+              <p className="not-italic font-bold text-[14px] leading-[16px] text-[#585858] m-0">
                 <strong class="text-[#015388]">EAN:</strong> {product?.gtin}
               </p>
             )}
@@ -367,6 +390,7 @@ function ProductInfo(
     </>
   );
 }
+
 const useStableImages = (product: ProductDetailsPage["product"]) => {
   const imageNameFromURL = (url = "") => {
     const segments = new URL(url).pathname.split("/");
@@ -386,6 +410,7 @@ const useStableImages = (product: ProductDetailsPage["product"]) => {
     return { ...img, url: allImages[name] ?? img.url };
   });
 };
+
 function Details(
   {
     page,
@@ -396,6 +421,7 @@ function Details(
     discount,
     discountPercent,
     measurementChart,
+    manufacturerCode,
   }: {
     page: ProductDetailsPage;
     variant: Variant;
@@ -405,6 +431,7 @@ function Details(
     discount?: DiscountBadgeProps;
     discountPercent?: number;
     measurementChart?: Props["measurementChart"];
+    manufacturerCode: string | null;
   },
 ) {
   const { product, breadcrumbList } = page;
@@ -432,6 +459,7 @@ function Details(
           {/* Product Info */}
           <div class="w-full lg:pr-0 lg:pl-6">
             <ProductInfo
+              manufacturerCode={manufacturerCode}
               page={page}
               shipmentPolitics={shipmentPolitics}
               shareableNetworks={shareableNetworks}
@@ -472,11 +500,12 @@ function Details(
 
       {/* Product Info */}
       <div class="px-4 lg:pr-0 lg:pl-6">
-        <ProductInfo page={page} />
+        <ProductInfo manufacturerCode={manufacturerCode} page={page} />
       </div>
     </div>
   );
 }
+
 function ProductDetails({
   page,
   variant: maybeVar = "auto",
@@ -487,7 +516,8 @@ function ProductDetails({
   discount,
   discountPercent,
   measurementChart,
-}: Props) {
+  manufacturerCode,
+}: SectionProps<typeof loader>) {
   const variant = maybeVar === "auto"
     ? page?.product.image?.length && page?.product.image?.length < 2
       ? "front-back"
@@ -498,6 +528,7 @@ function ProductDetails({
       {page
         ? (
           <Details
+            manufacturerCode={manufacturerCode}
             page={page}
             variant={variant}
             shipmentPolitics={shipmentPolitics}
@@ -512,4 +543,5 @@ function ProductDetails({
     </div>
   );
 }
+
 export default ProductDetails;
