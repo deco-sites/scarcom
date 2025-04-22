@@ -8782,6 +8782,74 @@
             }
           ],
           "productId": "464"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad1594e1-0b5d-4507-bec8-43c16947d11b/ST10000NM020B-1.png",
+              "title": "Exos X18 de 10 TB",
+              "text": "<p>EFICIENTE: alcance desempenho consistente com baixa latência e tempos de resposta reproduzíveis com armazenamento em cache avançado.</p>",
+              "alt": "Exos X18 de 10 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a4d1f8af-28f5-420b-97d2-8efc94609600/ST10000NM020B-1-(1).png",
+              "title": "ALTA CAPACIDADE: ",
+              "text": "<p>suporte a recursos de análise de dados e outras arquiteturas densas para garantir a mais alta eficiência de espaço em rack.</p>",
+              "alt": "ALTA CAPACIDADE: "
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "CONFIÁVEL: ",
+              "text": "<p>desfrute da confiabilidade ampliada com MTBF de 2,5 milhões de horas e garantia limitada de 5 anos.</p>",
+              "alt": "CONFIÁVEL: ",
+              "banner": "https://assets.decocache.com/scarcom/59ca3160-edab-42c7-9f38-3d07e5bc2afe/ST10000NM020B-1-(2).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/755ebfcf-34a5-4083-ab56-ea8c0c0e3428/vertical-slider-desktop-1.jpg",
+              "title": "Escalável. Ágil. Inovador.",
+              "text": "<p>Com o Exos X18, você pode oferecer suporte a recursos de análise de dados e a outras arquiteturas mais densas para elevar ao máximo a eficiência no uso de espaço de rack.</p>",
+              "alt": "Escalável. Ágil. Inovador."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/419de17b-0def-4cfb-9713-93f6ec5d5d3a/ST10000NM020B-1-(3).png",
+              "title": "Confiabilidade superior",
+              "text": "<p>O disco de classe corporativa com taxa de carga de trabalho de 550 TB/ano e MTBF de 2,5 milhões de horas atende aos requisitos de armazenamento mais exigentes.</p>",
+              "alt": "Confiabilidade superior"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Opções de energia personalizáveis",
+              "text": "<p>PowerChoice™ e PowerBalance™ para proporcionar consumo de energia otimizado quando em uso e ocioso — personalizável para atender às suas necessidades.</p>",
+              "alt": "Opções de energia personalizáveis",
+              "banner": "https://assets.decocache.com/scarcom/ba1bd3b5-3de7-4c85-805a-b4bcfb5918ee/vertical-slider-desktop-3.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho surpreendente",
+              "text": "<p>O cache de gravação avançado, com taxas de transferência de dados de até 270 MB/s, acelera o desempenho sem comprometer a capacidade.</p>",
+              "alt": "Desempenho surpreendente",
+              "banner": "https://assets.decocache.com/scarcom/355407df-ceff-4d1a-9389-8dc85f275d75/ST10000NM020B-1-(4).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d21d8133-ad1c-42f6-93b6-413318a1f8eb/vertical-slider-desktop-5-(1).jpg",
+              "title": "Segurança avançada de dados",
+              "text": "<p>Proteção por senha e criptografia de hardware AES-256 com Seagate Secure™ — para oferecer discos nos quais você pode confiar.</p>",
+              "alt": "Segurança avançada de dados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Documentação",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/migrated-assets/www-content/datasheets/pdfs/exos-x18-channel-DS2045-4-2106BR-pt_BR.pdf\"><u>Folha de Especificações <br>Manual do Usuário</u></a></p>",
+              "alt": "Documentação",
+              "banner": "https://assets.decocache.com/scarcom/42dfb0c2-412f-4cd3-9dc4-974cbf593808/Captura-de-tela-2025-04-22-162446.png"
+            }
+          ],
+          "productId": "5718"
         }
       ]
     },
