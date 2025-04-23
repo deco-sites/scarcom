@@ -9380,6 +9380,60 @@
             }
           ],
           "productId": "584"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b956e861-89a2-4bbf-858b-a25e57a29c0a/wd-red-sata-ssd-4tb.png.wdthumb.1280.1280.webp",
+              "title": "SSD SATA para NAS WD Red™ SA500 2,5”/7 mm encapsulado - 4 TB",
+              "text": "<p>Aumente o desempenho e a capacidade de resposta do seu sistema NAS com o SSD SATA para NAS WD Red™ SA500. Seu sistema NAS está sempre ligado, é essencial contar com uma unidade confiável. Diferentemente de SSDs padrão, os SSDs SATA para NAS WD Red são projetados e testados especificamente para uso 24/7. </p>",
+              "alt": "SSD SATA para NAS WD Red™ SA500 2,5”/7 mm encapsulado - 4 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7a4f08ae-110c-4b86-a754-7c9c8a974be1/ST10000NM020B-1-(25).png",
+              "title": "Reforce o seu NAS",
+              "text": "<p>A durabilidade, juntamente com o cache eficiente de arquivos grandes, torna o SSD SATA para NAS WD Red™ SA500 ideal para bancos de dados OLTP, ambientes multiusuários, processamento de fotos, edição de vídeo 4K e 8K e outras aplicações.</p>",
+              "alt": "Reforce o seu NAS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Trabalhe com mais eficiência",
+              "text": "<p>Feito especificamente para NAS com o comprovado Western Digital® 3D NAND, o SSD WD Red™ fornece desempenho SATA máximo para aumentar a sua produtividade e eficácia em casa ou no escritório.</p>",
+              "alt": "Trabalhe com mais eficiência",
+              "banner": "https://assets.decocache.com/scarcom/ffa7cacb-d154-4059-b45e-70f00aa53eb4/ST10000NM020B-1-(26).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/41c96821-7c6f-4228-b727-f974409650d2/nas-bay-configuration-unlimited.jpg.wdthumb.319.319.webp",
+              "title": "Acesse rapidamente arquivos grandes",
+              "text": "<p>O armazenamento SSD SATA para NAS WD Red™ SA500 é otimizado para cache em sistemas NAS para acessar rapidamente seu conteúdo usado com mais frequência. </p>",
+              "alt": "Acesse rapidamente arquivos grandes"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2e51843d-8f4d-4aba-8bf6-491dccf3589c/nas-bay-configuration.jpg.wdthumb.319.319-(1).webp",
+              "title": "Use para as suas aplicações de alta demanda",
+              "text": "<p>A unidade reduz a latência e aumenta a capacidade de resposta para bancos de dados OLTP, ambientes multiusuário, processamento de fotos, edição de vídeos 4K e 8K, e outras aplicações.</p>",
+              "alt": "Use para as suas aplicações de alta demanda"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2e5596ad-e2fb-41d0-a063-af617e864986/WD-Red-Pro-feature1.jpg.wdthumb.319.319.webp",
+              "title": "Dê a ele as suas cargas de trabalho mais pesadas",
+              "text": "<p>A resistência superior do SSD WD Red™ oferecem resistência superior que pode operar as pesadas cargas de leitura e gravação demandadas pelo NAS, dando a você a confiabilidade de que você precisa em um ambiente 24/7. </p>",
+              "alt": "Dê a ele as suas cargas de trabalho mais pesadas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Documentação",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "alt": "Documentação",
+              "banner": "https://assets.decocache.com/scarcom/d4de7fa7-d212-4ef5-aca9-f50c92836d34/Captura-de-tela-2025-04-22-173646.png"
+            }
+          ],
+          "productId": "155587"
         }
       ]
     },
