@@ -9434,6 +9434,60 @@
             }
           ],
           "productId": "155587"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3d29745b-6e86-4e19-90de-108795c53e55/ST10000NM020B-1-(27).png",
+              "title": "Disco Rígido para Vídeo Inteligente WD Purple Pro - 14 TB",
+              "text": "<p>As unidades WD Purple Pro são projetadas para gravadores avançados habilitados para IA, servidores de análise de vídeo e soluções de deep learning que exigem capacidade, desempenho e carga de trabalho nominal adicionais.</p>",
+              "alt": "Disco Rígido para Vídeo Inteligente WD Purple Pro - 14 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/86907986-8b55-4be8-97bb-e6f96ad4e17d/ST10000NM020B-1-(28).png",
+              "title": "Armazenamento feito especificamente para a sua solução de vídeo inteligente",
+              "text": "<p>O HDD WD Purple™ Pro com tecnologia OptiNAND™ em 26TB oferece grande capacidade em uma unidade de classe empresarial para servidores de análise de vídeo, IA e deep learning para permitir resultados orientados por dados.</p>",
+              "alt": "Armazenamento feito especificamente para a sua solução de vídeo inteligente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Capacidade avançada de carga de trabalho para sistemas avançados",
+              "text": "<p>Essas unidades confiáveis são feitas com uma classificação de carga de trabalho de até 550TB/ano para suportar a demanda da captura e análise de dados 24/7 de gravadores avançados habilitados para IA, dispositivos de análise de vídeo e servidores de análise de deep learning.</p>",
+              "alt": "Capacidade avançada de carga de trabalho para sistemas avançados",
+              "banner": "https://assets.decocache.com/scarcom/a5c8d072-7f91-4bfd-87c8-ba92148fec0d/ST10000NM020B-1-(29).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/41c96821-7c6f-4228-b727-f974409650d2/nas-bay-configuration-unlimited.jpg.wdthumb.319.319.webp",
+              "title": "Tecnologia AllFrame™ exclusiva da Western Digital",
+              "text": "<p>A tecnologia de IA AllFrame suporta até 32 fluxos de IA para análises de aprendizado profundo dentro do sistema, reduzindo as quedas de quadros.</p>",
+              "alt": "Tecnologia AllFrame™ exclusiva da Western Digital"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2e51843d-8f4d-4aba-8bf6-491dccf3589c/nas-bay-configuration.jpg.wdthumb.319.319-(1).webp",
+              "title": "Projetadas para operação confiável",
+              "text": "<p>Projetado com um MTBF de até 2,5 milhões de horas e com garantia limitada de 5 anos, o HDD WD Purple™ Pro também apresenta componentes resistentes a corrosão e suporte completo a vários compartimentos para operação confiável em sistemas de vigilância em grande escala.</p>",
+              "alt": "Projetadas para operação confiável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2e5596ad-e2fb-41d0-a063-af617e864986/WD-Red-Pro-feature1.jpg.wdthumb.319.319.webp",
+              "title": "Várias câmeras, vários streams",
+              "text": "<p>As unidades WD Purple™ Pro são otimizadas para lidar com até 64 câmeras HD de stream único, além de 32 fluxos de IA simultâneos. Essa flexibilidade permite que você atualize e amplie a sua solução de vídeo inteligente para atender às mudanças em suas necessidades. </p>",
+              "alt": "Várias câmeras, vários streams"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Documentação",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/pt_br/assets/public/western-digital/product/internal-drives/wd-purple-pro-hdd/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "alt": "Documentação",
+              "banner": "https://assets.decocache.com/scarcom/0222c8ec-5e38-4aaf-af0d-37ba15d38feb/Captura-de-tela-2025-04-23-182730.png"
+            }
+          ],
+          "productId": "155312"
         }
       ]
     },
