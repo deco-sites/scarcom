@@ -9488,6 +9488,36 @@
             }
           ],
           "productId": "155312"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3d916364-3563-491f-97fb-de616e81d6d8/AP5717-1.png",
+              "alt": "AP5717 Informa rapidamente o estado da sua unidade mediante indicadores visuais.",
+              "text": "<p><strong>Características Gerais</strong>  <br>LED s de indicação de status <br>Informa rapidamente o estado da sua unidade mediante indicadores visuais.  <br>Rack LCD Consoles <br><strong>Custo total de Propriedade</strong><br>Ocupa 1U de espaço em rack. Conserve espaço de rack precioso no centro de dados.  <br><strong>Suporte Multi-plataforma</strong><br>Compatibilidade com Windows, Sun, Unix e Linux.  </p>",
+              "title": "AP5717 - Painel LCD de 17\" para rack da APC"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9ba70bc9-a334-4ddd-96d2-fca078879f1e/AP5717-5.png",
+              "text": "<p><strong>Integrated Touchpad Pointing Device</strong><br>Dispensa a necessidade de um mouse externo separado. <strong>Sensor de redução de energia</strong><br>Economize energia apagando o dispositivo automaticamente que o sistema fechar. </p>",
+              "alt": "AP5717 Dispensa a necessidade de um mouse externo separado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ed629409-eee8-47ef-9ed0-ae71c596fe80/AP5717-3.png",
+              "alt": "AP5717 Conecta-se a um servidor ou switch KVM via conectores PS/2 padrão.  Conector VGA Padrão",
+              "text": "<p><strong>Terminais para PS/2 </strong> <br>Conecta-se a um servidor ou switch KVM via conectores PS/2 padrão.  <br><strong>Conector VGA Padrão</strong>  <br>Conecta-se a um servidor ou switch KVM via um conector VGA padrão.  <br><strong>Pouca Necessidade de Resfriamento </strong> <br>Emite menos calor que os monitores de CRT similares. <br><strong>Baixo Consumo de Energia </strong> <br>Usa menos da metade da energia de monitores de CRT similares. <br><br></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/81f99256-6ff7-4665-8450-62d2d35b6012/AP5717-2.png",
+              "alt": "AP5717 Instale com rapidez e facilidade em racks com orifícios quadrados, redondos e de rosca. ",
+              "text": "<p><strong>Agilidade Trilhos deslizantes </strong> <br>Instale com rapidez e facilidade em racks com orifícios quadrados, redondos e de rosca.  <br><strong>Abas para remoção rápida</strong> <br>Insira ou retire o dispositivo facilmente.  <br><strong>Ajustes de Monitor na Tela (OSD) </strong> <br>Ajusta a imagem na tela, incluindo: ajuste automático, saída, liga/desliga, brilho, menu e um indicador de alimentação. <br><strong>Cable management arm  </strong><br>Evite interferências com dispositivos próximos organizando muitos cabos</p>"
+            }
+          ],
+          "productId": "153879"
         }
       ]
     },
