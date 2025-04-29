@@ -9555,6 +9555,32 @@
             }
           ],
           "productId": "155904"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://assets.decocache.com/scarcom/04224e12-ef06-46d7-9d6b-a1d636a080f1/SMV.1.png",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6DQBGbwpRVk?si=mzwjz0kEP8XfX9Is\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Conheça - No-breaks APC Smart-ups SMV",
+              "title": "Conheça - No-breaks APC Smart-ups SMV",
+              "text": "<p>Tenha energia essencial de reserva e proteção contra surtos para seus equipamentos com a Linha Easy UPS monofásico Linha Interativa SMV</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f3b267b3-c6f3-4c69-8b77-cd5505055ce6/SMV.2.png",
+              "alt": "Nobreak 3000VA APC Smart-ups SMV Substituto do SUA3000I",
+              "text": "<p>O APC Smart-UPS SMV3000CAI-BR é um nobreak interativo de linha monofásico, projetado para fornecer energia de qualidade e proteger equipamentos sensíveis contra interrupções e flutuações na rede elétrica.</p>",
+              "title": "Nobreak 3000VA APC Smart-ups SMV SMV3000CAI-BR 220Volts"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8b00c4f-2756-4e29-85f8-e21c050c3ee8/SMV.3.png",
+              "text": "<p>Nobreak Easy UPS da APC, interativo com a linha, 3 kVA, torre, 220 V, 6 tomadas de saída NBR 14136, slot para cartão inteligente + contato seco, AVR, LCD</p>",
+              "alt": "Nobreak Easy UPS da APC, interativo com a linha, 3 kVA, torre, 220 V, 6 tomadas de saída NBR 14136, slot para cartão inteligente + contato seco, AVR, LCD"
+            }
+          ],
+          "productId": "153222"
         }
       ]
     },
