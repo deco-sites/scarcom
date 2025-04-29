@@ -9518,6 +9518,43 @@
             }
           ],
           "productId": "153879"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e6713391-a415-4e96-905d-92c98856f7b5/SRT10KXLI-2.png",
+              "alt": "SRT10KXLI 2U No-break inteligente SRT da APC, 10.000 VA e 230 V",
+              "text": "<p>O No-break APC SRT10KXLI foi desenvolvido para garantir proteção, disponibilidade e energia pura e estabilizada aos equipamentos sensíveis.  <br>Os produtos são compatíveis com fontes PFC, possuem display que fornece informações claras e rápidas sobre o status do Nobreak e suas baterias, alta eficiência energética com a função Green Mode, aliada ao software de gerenciamento com recursos que asseguram o controle e monitoramento do Nobreak e dispositivos conectados.</p>",
+              "title": "SRT10KXLI 2U - No-break inteligente SRT da APC, 10.000 VA e 230 V"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e6713391-a415-4e96-905d-92c98856f7b5/SRT10KXLI-2.png",
+              "text": "<ul><li><p>Ideal para servidores, armazenamento, redes de voz/dados, laboratórios médicos e aplicações industriais leves.</p></li><li><p>Conversível para rack/torre (kit de trilhos SRTRK2 ou SRTRK3 vendido separadamente).</p></li><li><p>Fornece energia limpa com tempo de transferência zero para dispositivos críticos ou sensíveis.</p></li><li><p>Adicione até 10 conjuntos de baterias externas (SRT192BP2) para maior autonomia.</p></li></ul><p></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4f430ffd-a0f2-4e6d-a487-fce3c6b6a6f3/SRT10KXLI-4.png",
+              "text": "<p>Potência (VA) 10.000 Potência (W) 10.000 <br>Tensão de Entrada (V) 230 (220V, 240V selecionável) ou 400V (380V, 415V selecionável) <br>Tensão de Saída (V) 230 (220V, 240V selecionável) |<br>Conexão de Entrada Borne (F+N+T) / Borne (F+F+F+N+T) <br>Conexão de Saída (6) IEC 320 C13 / (4) IEC 320 C19 / Borne (F+N+T) <br>Padrão Rack/Torre – SRTRK2 opcional <br>Meia Carga 12 min <br>Plena Carga 4 min</p>",
+              "alt": "SRT10KXLI especificações otência (VA) 10.000 Potência (W) 10.000  Tensão de Entrada (V) 230 "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c1afae7b-1b67-447f-b640-74a3eb174484/SRT10KXLI-5.png",
+              "alt": "SRT10KXLI-4 tempo de autonomia ",
+              "title": "Tempo de autonomia ",
+              "text": "<p>Curva adequada aos dados de tempo de funcionamento medidos. Todas as medições foram feitas com baterias novas e totalmente carregadas, em condições ambientais típicas, sem entrada elétrica e saída de carga resistiva equilibrada (FP = 1,0).</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dbb3f196-deb3-4218-a5ac-a110f757eecc/SRT10KXLI-6.png",
+              "text": "<p>Ajuste de curvas a partir de dados mensurados conforme o Método de teste do programa ENERGY STAR para fornecimentos de energia ininterrupta. Todas as medições foram feitas em modo(s) normal(ais), em condições ambientais típicas, com entrada de 230V e 50Hz e saída de carga resistiva equilibrada (FP = 1,0).</p>",
+              "alt": "SRT10KXLI Eficiência ",
+              "title": "Eficiência "
+            }
+          ],
+          "productId": "155904"
         }
       ]
     },
