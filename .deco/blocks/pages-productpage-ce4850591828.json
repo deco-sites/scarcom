@@ -9615,6 +9615,54 @@
             },
             {
               "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f3b267b3-c6f3-4c69-8b77-cd5505055ce6/SMV.2.png",
+              "alt": "Nobreak 2000VA APC Smart-ups SMV SMV2000CAI-BR 220Volts",
+              "text": "<p>O APC Smart-UPS SMV2000CAI-BR é um no-break (UPS) projetado para fornecer proteção de energia confiável para equipamentos críticos, como servidores, redes e sistemas de armazenamento.&nbsp;</p>",
+              "title": "Nobreak 2000VA APC Smart-ups SMV SMV2000CAI-BR 220Volts"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8b00c4f-2756-4e29-85f8-e21c050c3ee8/SMV.3.png",
+              "text": "<p>Altura: 24cm<br>Largura: 18cm</p><p>Profundidade: 45,5cm</p><p>Peso: 22,2 kg</p>",
+              "alt": "Nobreak Easy UPS da APC, interativo com a linha, 3 kVA, torre, 220 V, 6 tomadas de saída NBR 14136, slot para cartão inteligente + contato seco, AVR, LCD",
+              "title": "Dimensões: "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fdda7a45-a450-4c94-962b-f32c9ccf2e55/SMV2000CAI.1.png",
+              "title": "Tempo de autonomia Curva adequada aos dados de tempo de funcionamento medidos. Todas as medições foram feitas com baterias novas e totalmente carregadas, em condições ambientais típicas, sem entrada elétrica e saída de carga resistiva equilibrada (FP = 1,0).",
+              "text": "<p>Curva adequada aos dados de tempo de funcionamento medidos. Todas as medições foram feitas com baterias novas e totalmente carregadas, em condições ambientais típicas, sem entrada elétrica e saída de carga resistiva equilibrada (FP = 1,0).</p>",
+              "alt": "SMV2000CAI-BR Tempo de autonomia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3ea19fbb-d00d-416e-8336-47fb79fae6df/SMV2000CAI.2.png",
+              "text": "<p>A curva é adequada para os dados de eficiência mensurados. Todas as medições foram tomadas em modo operacional normal, em condições ambientais típicas, com entrada elétrica nominal e saída de cargas resistivas.</p>",
+              "title": "Eficiência ",
+              "alt": "SMV2000CAI-BR Eficiência "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8d581f3e-7858-4056-9731-e2e68521c4e1/SMV3000CA-7.png",
+              "text": "<p>Instruções importantes de segurança<br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://download.schneider-electric.com/files?p_enDocType=User+guide&amp;p_File_Name=EU-UM-TME10317-PB.pdf&amp;p_Doc_Ref=SPD_EU-UM-TME10317_PB\"><strong><u>Clique aqui para abrir o Manual do Usuário</u></strong></a></p>",
+              "alt": "Guia de instalação Easy UPS 1000 / 1500 / 2000 / 3000 VA 230 Vac Torre",
+              "title": "Guia de instalação Easy UPS 1000 / 1500 / 2000 / 3000 VA 230 Vac Torre"
+            }
+          ],
+          "productId": "153798"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://assets.decocache.com/scarcom/04224e12-ef06-46d7-9d6b-a1d636a080f1/SMV.1.png",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6DQBGbwpRVk?si=mzwjz0kEP8XfX9Is\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Conheça - No-breaks APC Smart-ups SMV",
+              "title": "Conheça - No-breaks APC Smart-ups SMV",
+              "text": "<p>Tenha energia essencial de reserva e proteção contra surtos para seus equipamentos com a Linha Easy UPS monofásico Linha Interativa SMV</p>"
+            },
+            {
+              "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/9d84b357-9085-486b-adc1-84df38201ba4/SMV3000CA-2.png",
               "alt": "Nobreak 3000VA APC Smart-ups SMV Substituto do SUA3000I",
               "text": "<p>O Nobreak APC SMV3000CA-BR oferece proteção de energia garantida para equipamentos eletrônicos conectados.</p>",
