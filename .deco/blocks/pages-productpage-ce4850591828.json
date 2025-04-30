@@ -9581,6 +9581,60 @@
             }
           ],
           "productId": "153222"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://assets.decocache.com/scarcom/04224e12-ef06-46d7-9d6b-a1d636a080f1/SMV.1.png",
+              "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6DQBGbwpRVk?si=mzwjz0kEP8XfX9Is\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+              "alt": "Conheça - No-breaks APC Smart-ups SMV",
+              "title": "Conheça - No-breaks APC Smart-ups SMV",
+              "text": "<p>Tenha energia essencial de reserva e proteção contra surtos para seus equipamentos com a Linha Easy UPS monofásico Linha Interativa SMV</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d84b357-9085-486b-adc1-84df38201ba4/SMV3000CA-2.png",
+              "alt": "Nobreak 3000VA APC Smart-ups SMV Substituto do SUA3000I",
+              "text": "<p>O Nobreak APC SMV3000CA-BR oferece proteção de energia garantida para equipamentos eletrônicos conectados.</p>",
+              "title": "Nobreak Easy UPS SMV da APC de 3.000 VA e 120 V com onda senoidal"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e9f3264a-f02e-4b84-91f2-55fe8bf13ccd/SMV3000CA-1.png",
+              "text": "<p>Quando o fornecimento elétrico é interrompido, ou quando ele oscila fora de níveis seguros, o nobreak começa a fornecer, instantaneamente, energia reserva limpa através de baterias e proteção contra picos de tensão a equipamentos sensíveis conectados.</p>",
+              "alt": "Nobreak Easy UPS da APC, interativo com a linha, 3 kVA, torre, 220 V, 6 tomadas de saída NBR 14136, slot para cartão inteligente + contato seco, AVR, LCD"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/feab53ee-070a-4105-a3ff-69c68405ac3e/SMV3000CA-3.png",
+              "title": "Dimensões",
+              "text": "<p>Altura:  24 cm   <br>Largura:  18 cm   <br>Profundidade:  45,5 cm   <br>Peso líquido: 25,4 kg</p>",
+              "alt": "Nobreak 3000VA APC Smart-ups SMV SMV3000CA-BR 110Volts dimensões"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d6c240ad-a9e5-4bd5-86f1-79d349a8712d/SMV3000CA-5.png",
+              "text": "<p>Curva adequada aos dados de tempo de funcionamento medidos. Todas as medições foram feitas com baterias novas e totalmente carregadas, em condições ambientais típicas, sem entrada elétrica e saída de carga resistiva equilibrada (FP = 1,0).</p>",
+              "title": "Tempo de Autonomia",
+              "alt": "Nobreak Easy UPS SMV da APC de 3.000 VA e 120 V com onda senoidal - tempo de autonomia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/826c53b7-7828-4e13-94ca-98475ef3ff33/SMV3000CA-6.png",
+              "text": "<p>Ajuste de curvas a partir de dados mensurados conforme o Método de teste do programa ENERGY STAR para fornecimentos de energia ininterrupta. Todas as medições foram feitas em modo(s) normal(ais), em condições ambientais típicas, com entrada de 120V e 60Hz e saída de carga resistiva equilibrada (FP = 1,0).</p>",
+              "alt": "Nobreak Easy UPS SMV da APC de 3.000 VA e 120 V com onda senoidal - tempo de eficiência ",
+              "title": "Eficiência "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8d581f3e-7858-4056-9731-e2e68521c4e1/SMV3000CA-7.png",
+              "alt": "Manual do Usuário do Easy UPS SMV Séries 750, 1000, 1500, 2000, 3000 VA",
+              "text": "<p>Mensagens Importantes sobre Segurança</p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://download.schneider-electric.com/files?p_enDocType=User+guide&amp;p_File_Name=AHUG-BDA4UJ_R0_BR.pdf&amp;p_Doc_Ref=SPD_AHUG-BDA4UJ_BZ\"><strong><u>Clique aqui para abrir o Manual do Usuário </u></strong></a></p>",
+              "title": "Manual do Usuário do Easy UPS SMV Séries 750, 1000, 1500, 2000, 3000 VA"
+            }
+          ],
+          "productId": "154257"
         }
       ]
     },
