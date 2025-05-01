@@ -9704,6 +9704,46 @@
             }
           ],
           "productId": "154257"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/be421504-4e95-492a-8a1e-c1e19024e1c8/ST10000NM020B-1-(34).png",
+              "title": "My Cloud Expert Series EX4100 - 0 TB",
+              "text": "<p>Salve todas as suas fotos, vídeos, músicas e arquivos valiosos nesta solução de NAS de alto desempenho pronta para usar, e acesse-os a qualquer hora e em qualquer lugar que tenha uma conexão com a internet. </p>",
+              "alt": "My Cloud Expert Series EX4100 - 0 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/eb4ab17e-3170-4602-95b7-b2e700ae12bb/ST10000NM020B-1-(35).png",
+              "title": "Controlado Pelo My Cloud OS 5",
+              "text": "<p>O My Cloud OS 5 da WD vem com uma variedade de ferramentas e aplicativos para dar a você controle completo da sua mídia.  Crie uma pasta personalizada para compartilhar seu conteúdo favorito. Sincronize automaticamente seus dados entre todos os seus computadores, para saber que seu conteúdo está sempre atualizado. Transfira com facilidade conteúdo entre seu NAS e um serviço da nuvem suportado, como o Dropbox, ou Google Drive.</p>",
+              "alt": "Controlado Pelo My Cloud OS 5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd7140fa-057a-4dbf-ac3d-5209ed75ce68/ST10000NM020B-1-(36).png",
+              "title": "Funcionando Em Minutos",
+              "text": "<p>O My Cloud EX4100 vêm pré-configurado para você configurar do seu jeito, sem complicações. O painel intuitivo o guia passo a passo pelo processo de configuração de usuários e compartilhamentos, personalizando recursos do sistema e monitorando seu armazenamento. Com um desenho de compartimentos sem bandejas ou ferramentas, a instalação da unidade e a troca a quente não requer nenhum esforço.</p>",
+              "alt": "Funcionando Em Minutos"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/95e53be8-1209-47c6-a082-fcdff3421512/ST10000NM020B-1-(37).png",
+              "title": "Apresentando as unidades WD Red NAS ultraconfiáveis",
+              "text": "<p>O My Cloud EX4100 vem pré-configurado com unidades de disco rígido WD Red, construídas especificamente para sistemas NAS, para fornecer melhor desempenho em ambientes 24x7. O My Cloud EX4100 está disponível também em uma versão sem disco para que você possa criar um NAS personalizado com discos rígidos compatíveis.</p>",
+              "alt": "Apresentando as unidades WD Red NAS ultraconfiáveis"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c8123fa6-a9b9-4559-828e-2c230743c954/MyCloudEX4100-EnvironmentalTile-6.jpg.wdthumb.1280.1280.webp",
+              "title": "Backup automático para todos os seus computadores",
+              "text": "<p>Com o software de backup WD SmartWare Pro, você pode personalizar quando e onde o conteúdo de todos os PCs da sua rede será salvo, e usuários do Mac têm acesso total ao Apple Time Machine para backup personalizado. Você pode até mesmo fazer backup de seus dados automaticamente para um dispositivo My Cloud NAS separado ou para qualquer serviço da nuvem suportado.</p>",
+              "alt": "Backup automático para todos os seus computadores"
+            }
+          ],
+          "productId": "155859"
         }
       ]
     },
