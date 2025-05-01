@@ -10525,6 +10525,74 @@
             }
           ],
           "productId": "154329"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13479a91-0893-4696-968c-edd5e6b4b2a7/ST10000NM020B-1---2025-05-01T160903.338.png",
+              "title": "DRIVESTOR 2 Lite (AS1102TL)",
+              "text": "<p>Ótimo valor, ótimo desempenho</p>",
+              "alt": "DRIVESTOR 2 Lite (AS1102TL)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/215ed5df-b787-44cd-b9cd-77d958b0cdd6/ST10000NM020B-1---2025-05-01T161002.307.png",
+              "title": "1GB DDR4 RAM",
+              "text": "<p>Drivestor 2 Lite lida com multitarefa com facilidade, utilizando seus 1 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "1GB DDR4 RAM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/080f62a4-65f3-475c-a602-f6a58a4ca9e2/feature729_item-(2).png",
+              "title": "Comece facilmente com ASUSTOR",
+              "text": "<p>A nova página de navegação ajuda a tornar o controle do NAS e dos dados ainda mais fácil. Uma interface de usuário amigável incentiva a familiarização com os inúmeros recursos que um NAS ASUSTOR fornece para garantir uma melhor segurança de dados.</p>",
+              "alt": "Comece facilmente com ASUSTOR"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a5dc2fca-d02c-40d9-a582-9982de09fc6b/ST10000NM020B-1---2025-05-01T161134.701.png",
+              "title": "Eficiente e poderoso",
+              "text": "<p>Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fae65f9a-482d-4fad-8f7b-baee60c50829/ST10000NM020B-1---2025-05-01T161245.920.png",
+              "title": "Compartilhe e compartilhe igualmente!",
+              "text": "<p>Os links de compartilhamento podem criar hiperlinks para compartilhar com outras pessoas para fazer upload e download de arquivos de e para um NAS ASUSTOR. Embora os links de compartilhamento venham com várias opções personalizáveis para aumentar a conveniência ou a segurança, as pessoas que usam um link de compartilhamento não precisam ter uma conta para fazer upload e download de arquivos no link de compartilhamento, tornando-o mais conveniente para colaboração em projetos ou organização de fotos de viagens.</p>",
+              "alt": "Compartilhe e compartilhe igualmente!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Btrfs para ARM está aqui!",
+              "text": "<p>O Drivestor 2 Lite é o primeiro ARM NAS da ASUSTOR a suportar Btrfs. Use seu Drivestor 2 Lite para criar instantâneos Btrfs no Snapshot Center para proteção extra de dados. O Snapshot Center suporta agendamento ou criação manual de snapshots, facilitando a restauração de arquivos após modificações não intencionais. Os instantâneos podem ser usados para responder a ameaças de ransomware em tempo real e ajudar a proteger eficazmente a integridade dos dados.</p>",
+              "banner": "https://assets.decocache.com/scarcom/776f59d1-332d-4d9d-8e41-a36f01b48042/ST10000NM020B-1---2025-05-01T161344.387.png",
+              "alt": "Btrfs para ARM está aqui!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/248aa70c-6887-4aea-89d2-f57d10b29b8c/ST10000NM020B-1-(99).png",
+              "title": "Protegido contra Ransomware",
+              "text": "<p>O ASUSTOR NAS vem com a versão mais atualizada do ADM para ajudar a proteger contra ataques de ransomware. O Snapshot Center oferece a capacidade de criar instantâneos com eficiência para proteger e restaurar facilmente dados perdidos de volumes iSCSI. Outros recursos de segurança encontrados no ASUSTOR NAS são a capacidade de criar uma ou mais contas de administrador de substituição, um firewall do ADM Defender que apresenta listas negras e brancas, a capacidade de alterar as portas padrão, desabilitar SSH e Terminal para evitar ataques remotos.</p>",
+              "alt": "Protegido contra Ransomware"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/269a6b7a-c07c-4182-9fbf-343659267d69/ST10000NM020B-1---2025-05-01T161504.317.png",
+              "title": "Web Center",
+              "text": "<p>O Web Center, nosso mais novo recurso, torna a configuração de um site no seu NAS fácil e tranquila. Instale rapidamente implementações de servidor da web como Nginx e Apache para construir e desenvolver seu próprio site hospedado em casa ou no escritório e vários portais de site no Web Center podem ser criados para hospedar uma variedade de sites diferentes, aumentando a eficiência.</p>",
+              "alt": "Web Center"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/de4765b8-3f8c-49cd-98ff-8cad6d6597ad/ST10000NM020B-1---2025-05-01T161614.021.png",
+              "title": "Cloud Backup Center",
+              "text": "<p>O Cloud Backup Center oferece suporte para vários serviços de cloud comercial, incluindo, entre outros, Amazon S3, Backblaze B2, Microsoft Azure Blob Storage, Alibaba Cloud, Google Cloud Storage, Box, hicloud S3, Lyve Cloud, SFTP e WebDAV. Controle os seus dados com backups instantâneos e agendados, além de usar o Cloud Backup Center para criar uma cloud híbrida que mantém os seus dados online e offline, colocando a sua informação sob proteção.</p>",
+              "alt": "Cloud Backup Center"
+            }
+          ],
+          "productId": "5254"
         }
       ]
     },
