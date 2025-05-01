@@ -10593,6 +10593,60 @@
             }
           ],
           "productId": "5254"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6f1cf416-7a26-4b6c-8111-86e4e0b83431/ST10000NM020B-1---2025-05-01T162033.359.png",
+              "title": "NIMBUSTOR 2 (AS5202T)",
+              "text": "<p>Faça mais com 2.5GbE e AS5202T. O dispositivo de armazenamento em nuvem nº 1 para entusiastas</p>",
+              "alt": "NIMBUSTOR 2 (AS5202T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ded4001c-f38b-46ae-8298-3f30c3adb629/ST10000NM020B-1---2025-05-01T162128.327.png",
+              "title": "2.0Ghz Dual Core Boosts CPU 2.7GHz",
+              "text": "<p>O AS5202T utiliza a CPU Intel Gemini Lake Celeron J4005 Quad Core e é 30% mais rápido que o Apollo lake. O Celeron J4105 também dobra o cache no chip para 4 MB, tornando o AS5202T um dos nossos dispositivos NAS mais rápidos de todos os tempos.</p>",
+              "alt": "2.0Ghz Dual Core Boosts CPU 2.7GHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "150% mais rápido com 2,5-Gigabit Ethernet",
+              "text": "<p>O AS5202T fornece duas portas 2,5-Gigabit Ethernet. Permitir que até 150% mais rápido do que o desempenho Gigabit Ethernet com hardware compatível e até 5 Gbps usando Link Aggregation. * * Link Aggregation suportado apenas com hardware compatível. Por favor, verifique com antecedência e verificar se Agregação de Link é suportado em seu equipamento.</p>",
+              "alt": "150% mais rápido com 2,5-Gigabit Ethernet",
+              "banner": "https://assets.decocache.com/scarcom/5d37e7e3-26cf-4133-a973-b5d7a5b8d684/ST10000NM020B-1---2025-05-01T162223.293.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Novo tema inspirado em jogos para ADM",
+              "text": "<p>Dê uma olhada nos novos elementos inspirados em jogos trazidos para a ADM.</p>",
+              "alt": "Novo tema inspirado em jogos para ADM",
+              "banner": "https://assets.decocache.com/scarcom/5cf753f1-9a7e-495a-803d-53ad9c7b3c4e/ST10000NM020B-1---2025-05-01T162318.329.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Transmissão ao vivo com seu NAS",
+              "text": "<p>Os dispositivos ASUSTOR NAS oferecem registros de transmissão ao vivo em até 4K HDR para serem salvos diretamente em um NAS sem afetar o desempenho do jogo. Para jogadores sem grandes capacidades de disco rígido, LAN parties e cybercafés, a ADM oferece ao iSCSI o armazenamento de títulos menos exigentes para reprodução em vários dispositivos simultaneamente.</p>",
+              "alt": "Transmissão ao vivo com seu NAS",
+              "banner": "https://assets.decocache.com/scarcom/0073ad2d-ff0c-4e1b-bc73-4a5eb13635be/ST10000NM020B-1---2025-05-01T162423.583.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b6d904e2-565f-40eb-872b-cf090d3a7d07/ST10000NM020B-1---2025-05-01T162508.247.png",
+              "title": "Tanto espaço quanto necessário",
+              "text": "<p>O AS5202T suporta até 36 TB, permitindo o armazenamento de grandes transmissões ao vivo e vídeos. gravações de jogo do complemento com um NAS. Insuficiente? Expanda sua AS5202T com até três unidades de expansão AS6004U para um total de 252 TB. Lista de compatibilidade</p>",
+              "alt": "Tanto espaço quanto necessário"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Esmagadora 4K HDR Experience",
+              "text": "<p>O AS5202T apresenta 2.0a HDMI com 10bit 4K decodificação de hardware, HEVC decodificando e VP9 10bit Profile2 descodificação para uma experiência mais suave e uso de CPU mais baixa. Use Plex passagem ou um leitor de terceiros para reproduzir vídeos 4K HDR.</p>",
+              "alt": "Esmagadora 4K HDR Experience",
+              "banner": "https://assets.decocache.com/scarcom/c41091f2-996b-4298-9acc-9312e6d5a7e3/s8_icon.png"
+            }
+          ],
+          "productId": "155874"
         }
       ]
     },
