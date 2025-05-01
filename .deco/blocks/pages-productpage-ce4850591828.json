@@ -10309,6 +10309,60 @@
             }
           ],
           "productId": "155773"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d10aa23-5602-4c6b-9566-339e39877e35/ST10000NM020B-1-(93).png",
+              "title": "DRIVESTOR 2 Lite (AS1102TL)",
+              "text": "<p>Ótimo valor, ótimo desempenho</p>",
+              "alt": "DRIVESTOR 2 Lite (AS1102TL)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cce0a1fb-63ee-4f76-9a83-3e8136f32707/ST10000NM020B-1-(94).png",
+              "title": "1GB DDR4 RAM",
+              "text": "<p>Drivestor 2 Lite lida com multitarefa com facilidade, utilizando seus 1 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "1GB DDR4 RAM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Comece facilmente com ASUSTOR",
+              "text": "<p>A nova página de navegação ajuda a tornar o controle do NAS e dos dados ainda mais fácil. Uma interface de usuário amigável incentiva a familiarização com os inúmeros recursos que um NAS ASUSTOR fornece para garantir uma melhor segurança de dados.</p>",
+              "alt": "Comece facilmente com ASUSTOR",
+              "banner": "https://assets.decocache.com/scarcom/224627f0-7132-4e6a-b0fc-83f17b2c0072/ST10000NM020B-1-(95).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Eficiente e poderoso",
+              "text": "<p>Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso",
+              "banner": "https://assets.decocache.com/scarcom/7ca3f729-5377-4559-9398-5eb82eb880b5/ST10000NM020B-1-(96).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Compartilhe e compartilhe igualmente!",
+              "text": "<p>Os links de compartilhamento podem criar hiperlinks para compartilhar com outras pessoas para fazer upload e download de arquivos de e para um NAS ASUSTOR. Embora os links de compartilhamento venham com várias opções personalizáveis para aumentar a conveniência ou a segurança, as pessoas que usam um link de compartilhamento não precisam ter uma conta para fazer upload e download de arquivos no link de compartilhamento, tornando-o mais conveniente para colaboração em projetos ou organização de fotos de viagens.</p>",
+              "alt": "Compartilhe e compartilhe igualmente!",
+              "banner": "https://assets.decocache.com/scarcom/9be4a676-f22c-4932-b305-d04e2202c5ce/ST10000NM020B-1-(97).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/15c65125-a2a5-44ea-8016-47a3b5473d1c/ST10000NM020B-1-(98).png",
+              "title": "Btrfs para ARM está aqui!",
+              "text": "<p>O Drivestor 2 Lite é o primeiro ARM NAS da ASUSTOR a suportar Btrfs. Use seu Drivestor 2 Lite para criar instantâneos Btrfs no Snapshot Center para proteção extra de dados. O Snapshot Center suporta agendamento ou criação manual de snapshots, facilitando a restauração de arquivos após modificações não intencionais. Os instantâneos podem ser usados para responder a ameaças de ransomware em tempo real e ajudar a proteger eficazmente a integridade dos dados.</p>",
+              "alt": "Btrfs para ARM está aqui!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/248aa70c-6887-4aea-89d2-f57d10b29b8c/ST10000NM020B-1-(99).png",
+              "title": "Protegido contra Ransomware",
+              "text": "<p>O ASUSTOR NAS vem com a versão mais atualizada do ADM para ajudar a proteger contra ataques de ransomware. O Snapshot Center oferece a capacidade de criar instantâneos com eficiência para proteger e restaurar facilmente dados perdidos de volumes iSCSI. Outros recursos de segurança encontrados no ASUSTOR NAS são a capacidade de criar uma ou mais contas de administrador de substituição, um firewall do ADM Defender que apresenta listas negras e brancas, a capacidade de alterar as portas padrão, desabilitar SSH e Terminal para evitar ataques remotos.</p>",
+              "alt": "Protegido contra Ransomware"
+            }
+          ],
+          "productId": "154630"
         }
       ]
     },
