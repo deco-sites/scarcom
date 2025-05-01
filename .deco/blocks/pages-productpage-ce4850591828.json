@@ -10424,6 +10424,67 @@
             }
           ],
           "productId": "154830"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e37a0938-e54e-4300-ba0e-0dce206f28b0/ST10000NM020B-1---2025-05-01T155145.286.png",
+              "title": "DRIVESTOR 2 Pro Gen2 (AS3302T v2)",
+              "text": "<p>Transcodificação multimídia - Suporte Btrfs - Valor Máximo Nuvem pessoal acessível trazendo altas velocidades para indivíduos e famílias.</p>",
+              "alt": "DRIVESTOR 2 Pro Gen2 (AS3302T v2)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/99ac5e8f-188b-439f-9430-202f08a986ab/ST10000NM020B-1---2025-05-01T155340.396.png",
+              "title": "Ethernet 2,5-Gigabit – Velocidade dobrada",
+              "text": "<p>O Drivestor 2 Pro Gen2, apesar de ser extremamente acessível, contém 2,5 Gigabit Ethernet e mais do que duplica o desempenho de dispositivos comparáveis ​​da classe Gigabit.</p>",
+              "alt": "Ethernet 2,5-Gigabit – Velocidade dobrada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e433e813-a7a9-4e10-bff6-ef69bc49aade/ST10000NM020B-1---2025-05-01T155340.396.png",
+              "title": "Ethernet 2,5-Gigabit – Velocidade dobrada",
+              "text": "<p>O Drivestor 2 Pro Gen2, apesar de ser extremamente acessível, contém 2,5 Gigabit Ethernet e mais do que duplica o desempenho de dispositivos comparáveis ​​da classe Gigabit.</p>",
+              "alt": "Ethernet 2,5-Gigabit – Velocidade dobrada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1a00d741-8b4a-4041-8fe5-7d1e67a7cbd5/feature728_item-(1).png",
+              "title": "2GB DDR4 RAM",
+              "text": "<p>Drivestor Pro Gen2 lida com multitarefa com facilidade, utilizando seus 2 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "2GB DDR4 RAM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Comece facilmente com ASUSTOR",
+              "text": "<p>A nova página de navegação ajuda a tornar o controle do NAS e dos dados ainda mais fácil. Uma interface de usuário amigável incentiva a familiarização com os inúmeros recursos que um NAS ASUSTOR fornece para garantir uma melhor segurança de dados.</p>",
+              "alt": "Comece facilmente com ASUSTOR",
+              "banner": "https://assets.decocache.com/scarcom/0cfac30d-ec86-42f7-a541-ddd373dc4bd0/ST10000NM020B-1---2025-05-01T155604.341.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Compartilhe e compartilhe igualmente!",
+              "text": "<p>Os links de compartilhamento podem criar hiperlinks para compartilhar com outras pessoas para fazer upload e download de arquivos de e para um NAS ASUSTOR. Embora os links de compartilhamento venham com várias opções personalizáveis para aumentar a conveniência ou a segurança, as pessoas que usam um link de compartilhamento não precisam ter uma conta para fazer upload e download de arquivos no link de compartilhamento, tornando-o mais conveniente para colaboração em projetos ou organização de fotos de viagens.</p>",
+              "alt": "Compartilhe e compartilhe igualmente!",
+              "banner": "https://assets.decocache.com/scarcom/a47f0a23-ae6c-42a2-90fd-e7337a3a6830/ST10000NM020B-1---2025-05-01T155654.875.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Btrfs para ARM está aqui!",
+              "text": "<p>O Drivestor Pro Gen2 é o primeiro ARM NAS da ASUSTOR a suportar Btrfs. Use seu Drivestor Pro Gen2 para criar instantâneos Btrfs no Snapshot Center para proteção extra de dados. O Snapshot Center suporta agendamento ou criação manual de snapshots, facilitando a restauração de arquivos após modificações não intencionais. Os instantâneos podem ser usados para responder a ameaças de ransomware em tempo real e ajudar a proteger eficazmente a integridade dos dados.</p>",
+              "banner": "https://assets.decocache.com/scarcom/2a02ebe5-caf9-4d52-a88f-8a355409660d/ST10000NM020B-1---2025-05-01T155734.645.png",
+              "alt": "Btrfs para ARM está aqui!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/869fdeb8-59bb-4d18-9cf0-c644ff6e3a15/ST10000NM020B-1---2025-05-01T155820.544.png",
+              "title": "DataSync Center",
+              "text": "<p>O DataSync Center combina diversos serviços cloud numa única app. O DataSync Center inclui – mas não está limitado a – Google Drive, Dropbox, OneDrive e Yandex e suporta multitasking bem como múltiplas contas. Controle os seus dados com backups instantâneos e agendados bem como usando o Cloud Backup Center para criar uma cloud híbrida que mantém os seus dados online e offline, colocando a sua informação sob proteção.</p>",
+              "alt": "DataSync Center"
+            }
+          ],
+          "productId": "154700"
         }
       ]
     },
