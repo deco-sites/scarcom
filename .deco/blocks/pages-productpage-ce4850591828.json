@@ -10485,6 +10485,46 @@
             }
           ],
           "productId": "154700"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc5467dd-5cff-4c2c-9bee-67301b2eca77/ST10000NM020B-1---2025-05-01T160133.375.png",
+              "title": "AS1002T",
+              "text": "<p>O melhor NAS básico para ambiente doméstico digital</p>",
+              "alt": "AS1002T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho supremo em um pacote compacto",
+              "text": "<p>Os dispositivos da série AS10 estão equipados com processadores de núcleo duplo, interfaces Gigabit Ethernet e vêm com o sistema operacional ADM dedicado da ASUSTOR. Eles oferecem velocidades de leitura acima de 110 MB / se velocidades de gravação acima de 96 MB / s, redefinindo a relação preço / desempenho de um NAS básico.</p>",
+              "alt": "Desempenho supremo em um pacote compacto",
+              "banner": "https://assets.decocache.com/scarcom/3d3932db-0278-4566-926d-ec5de368c476/ST10000NM020B-1---2025-05-01T160259.867.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f1dc978d-c762-4907-b098-f50c1acd4e16/AS1002T_feature3.gif",
+              "title": "Adicione um toque moderno ao seu espaço favorito",
+              "text": "<p>Os dispositivos da série AS10 redefinem a estética de um NAS. A elegante capa com acabamento em placa de diamante é uma adição elegante a qualquer espaço, independentemente de ser uma sala de estar, sala de estar ou escritório.</p>",
+              "alt": "Adicione um toque moderno ao seu espaço favorito"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/356f0dbf-a4ec-4358-82d1-0a4736207829/ST10000NM020B-1---2025-05-01T160421.289.png",
+              "title": "Motor de criptografia de hardware",
+              "text": "<p>Proteger seus dados é a principal prioridade do ASUSTOR. Os dispositivos da série AS10 recurso built-in motores de criptografia, permitindo que os dados sejam completamente protegidos do momento em que é primeiro armazenada no NAS. Isto significa que você nunca tem que se preocupar com seus dados confidenciais caiam nas mãos erradas, mesmo se os seus discos rígidos tornam-se perdidos ou roubados. As velocidades de built-in mecanismo de criptografia de hardware também funções ler de mais de 39 MB / se velocidade de gravação de mais de 31 MB / s para dados criptografados proporcionando uma óptima combinação de segurança de arquivos e desempenho do sistema.</p>",
+              "alt": "Motor de criptografia de hardware"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/aea22849-f194-4f98-ae55-45ab42639df4/ST10000NM020B-1---2025-05-01T160512.396.png",
+              "title": "Eficiência Energética Verde",
+              "text": "<p>Todos os produtos ASUSTOR NAS são projetados e desenvolvidos com base em conceitos ecologicamente corretos. Os dispositivos ASUSTOR NAS não apenas consomem muito menos energia que o computador ou servidor médio, mas as funções de gerenciamento e economia de energia do ASUSTOR permitem que os usuários planejem uma programação de controle de energia de uma semana inteira. O agendamento de energia pode permitir que o NAS ligue, desligue, durma ou execute outras tarefas em horários específicos do dia. Essa função pode ajudar a economizar uma quantidade considerável de energia, além de prolongar a vida útil dos discos rígidos. Além disso, a nova função avançada WOW (Wake-On-WAN) permite que os usuários ativem seu NAS e acessem seus arquivos a qualquer momento.</p>",
+              "alt": "Eficiência Energética Verde"
+            }
+          ],
+          "productId": "154329"
         }
       ]
     },
