@@ -10005,6 +10005,39 @@
             }
           ],
           "productId": "154620"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/21d95c6a-5649-449e-a5de-e0ac9270d57d/ST10000NM020B-1-(59).png",
+              "title": "SSD SATA para NAS WD Red™ SA500 2,5”/7 mm encapsulado - 500 GB",
+              "text": "<p>Aumente o desempenho e a capacidade de resposta do seu sistema NAS com o SSD SATA para NAS WD Red™ SA500. Seu sistema NAS está sempre ligado, é essencial contar com uma unidade confiável. Diferentemente de SSDs padrão, os SSDs SATA para NAS WD Red são projetados e testados especificamente para uso 24/7. </p>",
+              "alt": "SSD SATA para NAS WD Red™ SA500 2,5”/7 mm encapsulado - 500 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6789bf4a-04da-4e33-a999-6197a052304b/ST10000NM020B-1-(60).png",
+              "title": "Reforce o seu NAS",
+              "text": "<p>A durabilidade, juntamente com o cache eficiente de arquivos grandes, torna o SSD SATA para NAS WD Red™ SA500 ideal para bancos de dados OLTP, ambientes multiusuários, processamento de fotos, edição de vídeo 4K e 8K e outras aplicações.</p>",
+              "alt": "Reforce o seu NAS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8eae2dd6-6645-45f6-ac45-16613e21dc25/ST10000NM020B-1-(61).png",
+              "title": "Trabalhe com mais eficiência",
+              "text": "<p>Feito especificamente para NAS com o comprovado Western Digital® 3D NAND, o SSD WD Red™ fornece desempenho SATA máximo para aumentar a sua produtividade e eficácia em casa ou no escritório.</p>",
+              "alt": "Trabalhe com mais eficiência"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Acesse rapidamente arquivos grandes",
+              "text": "<p>O armazenamento SSD SATA para NAS WD Red™ SA500 é otimizado para cache em sistemas NAS para acessar rapidamente seu conteúdo usado com mais frequência. </p>",
+              "alt": "Acesse rapidamente arquivos grandes",
+              "banner": "https://assets.decocache.com/scarcom/f2b7cbfc-c3cc-40ff-8be1-17ea493e46a7/ST10000NM020B-1-(62).png"
+            }
+          ],
+          "productId": "155818"
         }
       ]
     },
