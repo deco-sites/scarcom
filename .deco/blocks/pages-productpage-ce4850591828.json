@@ -10255,6 +10255,60 @@
             }
           ],
           "productId": "155774"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9e56a4ad-2355-48a5-bd61-f593ecf1680e/ST10000NM020B-1-(86).png",
+              "title": "LOCKERSTOR 12RD (AS6512RD)",
+              "text": "<p>Para pequenos e médios negócios</p>",
+              "alt": "LOCKERSTOR 12RD (AS6512RD)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/585ce3f5-4153-4c99-b9cf-45a123ccb2fe/ST10000NM020B-1-(87).png",
+              "title": "Servidor de montagem em Rack de 2,5GbE 2U de baixo custo",
+              "text": "<p>Um servidor de rack de 2,5 GbE fino 2U fornecendo desempenho estável e 12 compartimentos para armazenamento SATA expansível e fácil. O Lockerstor 12RD trazem capacidade de expansão ao trazer recursos PCI Express, criando uma das soluções mais flexíveis e leves para pequenas empresas.</p>",
+              "alt": "Servidor de montagem em Rack de 2,5GbE 2U de baixo custo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "CPU Intel Atom Quad-Core de nível empresarial e RAM DDR4",
+              "text": "<p>Equipado com o novo Quad-Core Intel Atom C3538 com freqüência de 2,1 GHz e combinado com mais de 8 GB de RAM DDR4, proporciona uma experiência de compartilhamento de arquivos ultrarrápida e suave em seu escritório.</p>",
+              "alt": "CPU Intel Atom Quad-Core de nível empresarial e RAM DDR4",
+              "banner": "https://assets.decocache.com/scarcom/26f7c542-0570-402c-b55c-58e796cf7cf8/ST10000NM020B-1-(88).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Enterprise Backup",
+              "text": "<p>O Lockerstor 12RD possui mecanismos de backup e segurança completos, incluindo fontes de alimentação de backup duplo para segurança, enquanto inclui quatro portas Ethernet para desempenho adicional e redundância. Duas portas Gigabit e duas portas Ethernet de 2,5 Gigabit adornam a parte traseira do NAS, garantindo que todos possam acessar seus arquivos de forma rápida e eficiente. O Lockerstor 12RD não faz sacrifícios, garantindo tempo de inatividade zero se uma porta ou fonte de alimentação estiver offline.</p>",
+              "alt": "Enterprise Backup",
+              "banner": "https://assets.decocache.com/scarcom/b53b6e6f-b121-454d-83e8-93c5bb1b5f17/ST10000NM020B-1-(89).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Função \"Encontre-me\" e luz de serviço para salas de servidores",
+              "text": "<p>Nos ambientes corporativos, os dispositivos de armazenamento geralmente são colocados juntos em uma sala do servidor. Para permitir que os administradores encontrem rapidamente o NAS entre muitos servidores, o Lockerstor 12RD(2U) fornece um botão dedicado no painel frontal. Quando este botão é pressionado, a luz de serviço do LED no painel traseiro do NAS acende. A ASUSTOR também oferece o aplicativo de gerenciamento NAS móvel, AiMaster, que fornece a função exclusiva Find Me. Quando o recurso Find Me estiver ativado, a luz de status do sistema na frente do NAS piscará e a campainha do sistema tocará, ajudando os usuários a encontrar rapidamente o NAS.</p>",
+              "alt": "Função \"Encontre-me\" e luz de serviço para salas de servidores",
+              "banner": "https://assets.decocache.com/scarcom/da6e02b8-ce02-4ba8-bb55-3c819d0544b1/ST10000NM020B-1-(90).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Expansão Ágil",
+              "text": "<p>A série de montagem em rack ASUSTOR Lockerstor 12RD prepara você para as necessidades de amanhã. A expansão PCIe permite que placa 10 Gigabit Ethernet possam ser instaladas para aumentar o desempenho e a capacidade de expansão. Combine as portas Ethernet e conecte-se a um switch Ethernet de 2,5 Gigabit para aproveitar as vantagens de velocidades extremas. Liberte-se das restrições com o Lockerstor 12RD.</p>",
+              "alt": "Expansão Ágil",
+              "banner": "https://assets.decocache.com/scarcom/5fdc263f-79f1-44f3-bf7d-8f0097c74793/ST10000NM020B-1-(91).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/16efb132-5b8a-474a-be78-44696ad3c763/ST10000NM020B-1-(92).png",
+              "title": "Eficiente, Redundante e Poderoso",
+              "text": "<p>O Lockerstor 12RD contém quatro portas Ethernet. Dois são Gigabit e dois são 2,5 Gigabit Ethernet. Combine as duas portas Ethernet de 2,5 Gigabit para aumentar o desempenho e a redundância. A agregação de links aumenta o desempenho em até 5 gbps, garantindo também tempo de inatividade zero no caso de uma porta ficar offline.</p>",
+              "alt": "Eficiente, Redundante e Poderoso"
+            }
+          ],
+          "productId": "155773"
         }
       ]
     },
