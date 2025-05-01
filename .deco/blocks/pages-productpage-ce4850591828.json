@@ -9911,6 +9911,60 @@
             }
           ],
           "productId": "155498"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a7674b8f-e3cf-45a2-8ab4-973f5ff48e54/ST10000NM020B-1-(50).png",
+              "title": "Disco rígido para NAS WD Red Plus de 3,5\" - 2 TB",
+              "text": "<p>Unidades WD Red Plus são projetadas para lidar com cargas de trabalho de usuários avançados e ambientes NAS de pequenas e médias empresas. As unidades WD Red Plus oferecem a velocidade e capacidade necessárias para armazenar, proteger e compartilhar quantidades crescentes de dados em sistemas NAS otimizados para RAID de porte médio com maior eficiência energética.</p>",
+              "alt": "Disco rígido para NAS WD Red Plus de 3,5\" - 2 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c4a1cae5-81f5-4a13-a50b-f587bf69a82a/ST10000NM020B-1-(52).png",
+              "title": "Ajustado para NAS com NASware™",
+              "text": "<p>A exclusiva tecnologia NASware™ da Western Digital faz o ajuste fino dos parâmetros da unidade para corresponder às cargas de trabalho do sistema NAS, o que ajuda a aumentar o desempenho e a confiabilidade.</p>",
+              "alt": "Ajustado para NAS com NASware™"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Otimizada para Menos Custo Total de Propriedade",
+              "text": "<p>As unidades WD Red Plus são projetadas para usar menos energia (em comparação com modelos anteriores) e operar mais frios, o que reduz os custos operacionais e ajuda a reduzir o calor em gabinetes NAS com desafios térmicos.</p>",
+              "alt": "Otimizada para Menos Custo Total de Propriedade",
+              "banner": "https://assets.decocache.com/scarcom/b34e2eea-ebe5-48cb-9a82-acdf1d9aa433/ST10000NM020B-1-(51).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/651c533f-6807-443f-b2c0-de6cccfdd1c5/nas-bay-configuration.jpg.wdthumb.319.319-(2).webp",
+              "title": "Alimentado para Desempenho Forte",
+              "text": "<p>Apesar de usarem menos energia, as unidades têm bastante largura de banda para atender às diversas demandas de desempenho de sistemas NAS de várias unidades.</p>",
+              "alt": "Alimentado para Desempenho Forte"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/718be3e2-1786-42fd-9098-070c22c9c366/nas-bay-configuration-unlimited.jpg.wdthumb.319.319-(1).webp",
+              "title": "Balanceado para Maior Confiabilidade",
+              "text": "<p>Unidades de disco rígido que não são balanceadas corretamente podem causar ruído e vibração excessivos em um sistema de unidades múltiplas, o que pode reduzir a vida útil da unidade e degradar o desempenho ao longo do tempo. Nossa tecnologia de controle de balanceamento em dois planos melhora significativamente o desempenho e a confiabilidade geral da unidade.</p>",
+              "alt": "Balanceado para Maior Confiabilidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/51bc3d44-b46a-473b-b2d4-a5c8eecc1523/WD-Red-Pro-feature1.jpg.wdthumb.319.319-(1).webp",
+              "title": "Testados para Compatibilidade Confiável",
+              "text": "<p>A Western Digital faz parceria com uma ampla gama de fornecedores de sistemas NAS para testes extensivos para garantir a compatibilidade com a maioria dos gabinetes NAS.</p>",
+              "alt": "Testados para Compatibilidade Confiável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4de7fa7-d212-4ef5-aca9-f50c92836d34/Captura-de-tela-2025-04-22-173646.png",
+              "title": "Documentação",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"file:///C:/Users/lucas/Downloads/brochure-wd-color-brand%20(3).pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/pt_br/assets/public/western-digital/product/internal-drives/wd-red-plus-hdd/product-brief-western-digital-wd-red-plus-hdd.pdf\"><u>Manual do Usuário</u></a><br></p>",
+              "alt": "Documentação"
+            }
+          ],
+          "productId": "154532"
         }
       ]
     },
