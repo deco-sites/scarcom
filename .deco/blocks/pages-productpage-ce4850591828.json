@@ -10363,6 +10363,67 @@
             }
           ],
           "productId": "154630"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b4da0467-8e3a-425f-a085-8684558f12ef/ST10000NM020B-1-(100).png",
+              "title": "DRIVESTOR 4 (AS1104T)",
+              "text": "<p>O Drivestor 4 - Ótimo valor, ótimo desempenho</p>",
+              "alt": "DRIVESTOR 4 (AS1104T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Novo ADM 4.0",
+              "text": "<p>O ADM 4.0 está aqui e traz uma série de alterações de design intuitivas para o SO ADM. A IU atualizada traz um novo modo escuro esteticamente agradável que ajuda a salvar e preservar as telas OLED. O ADM 4.0 apresenta uma nova página de login que contém uma variedade de elementos personalizáveis, um recurso de pesquisa rápida mais conveniente e fácil de usar e novos temas personalizados. De modo transparente, o ADM 4.0 traz melhorias de desempenho, compatibilidade e segurança à medida que a nova versão do OpenSSL bloqueia vulnerabilidades encontradas em versões anteriores, aumentando a segurança enquanto melhorias de eficiência trazem melhor desempenho.</p>",
+              "alt": "Novo ADM 4.0",
+              "banner": "https://assets.decocache.com/scarcom/1ebe98b7-5b4a-45de-88a5-913d116971db/ST10000NM020B-1---2025-05-01T154041.784.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Coloração rosa ouro",
+              "text": "<p>O novo logotipo Rose Gold é elegante e distinto, permitindo fácil distinção entre os modelos ASUSTOR NAS.</p>",
+              "alt": "Coloração rosa ouro",
+              "banner": "https://assets.decocache.com/scarcom/26b7a1f6-2468-46d6-9d69-abb580a0c35a/ST10000NM020B-1---2025-05-01T154138.695.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/272eabf6-0eec-4ac9-bbc3-d93e828ea8e9/t6-(2).png",
+              "title": "CPU Realtek Quad-Core e RAM DDR4\u000b",
+              "text": "<p>O Drivestor 2 e o Drivestor 4 são equipados com uma CPU Realtek RTD1296 1,4 GHz Quad-Core de 64 bits. Transcodifique, reproduza stream e reproduza multimídia em 4K, transfira arquivos e realize multitarefas facilmente com a série Drivestor. O Drivestor lida com multitarefa com facilidade, utilizando seus 1 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "CPU Realtek Quad-Core e RAM DDR4\u000b"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Eficiente e poderoso",
+              "text": "<p>O Drivestor 2 e 4 são os dispositivos de maior valor da ASUSTOR de todos os tempos. Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso",
+              "banner": "https://assets.decocache.com/scarcom/5327bc64-555a-48fc-971c-9524f22cff37/ST10000NM020B-1---2025-05-01T154252.385.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a676b48e-cab3-4463-8449-bd8cfedfa2a3/ST10000NM020B-1---2025-05-01T154400.325.png",
+              "title": "Modo de Mídia",
+              "text": "<p>O Drivestor 2 e 4 vêm com 1 GB de memória. O Modo de mídia é um novo recurso que reserva de forma eficiente 512 MB de RAM para tarefas de multimídia, pois uma variedade de tarefas requer grandes quantidades de RAM. Com RAM dedicada para multimídia, a reprodução de vídeo permanece suave e não é interrompida por outras tarefas.</p>",
+              "alt": "Modo de Mídia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3b3af7c-a8ae-42a7-98a0-45e99fd6cdaf/ST10000NM020B-1---2025-05-01T154450.673.png",
+              "title": "Ethernet 2,5-Gigabit – Velocidade dobrada",
+              "text": "<p>O Drivestor 4, apesar de ser extremamente acessível, contém 2,5 Gigabit Ethernet e mais do que duplica o desempenho de dispositivos comparáveis ​​da classe Gigabit.</p>",
+              "alt": "Ethernet 2,5-Gigabit – Velocidade dobrada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a40ea794-78bb-446b-b219-9fdb0b24ed10/ST10000NM020B-1---2025-05-01T154549.302.png",
+              "title": "Operação ultra silenciosa",
+              "text": "<p>Os dispositivos da série AS11 produzem apenas 19 decibéis de ruído durante o modo de espera do sistema, equivalente ao som quase inaudível de uma queda de pinos. Durante a operação do sistema, apenas 32 decibéis de ruído são produzidos, equivalentes aos tons silenciosos de uma biblioteca silenciosa, permitindo que os dispositivos da série AS11 se integrem de maneira fácil e confortável a qualquer ambiente de vida.</p>",
+              "alt": "Operação ultra silenciosa"
+            }
+          ],
+          "productId": "154830"
         }
       ]
     },
