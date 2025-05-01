@@ -10078,6 +10078,46 @@
             }
           ],
           "productId": "154914"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3008d33-bf7b-4b96-b55e-e300c7d6cd38/ST10000NM020B-1-(66).png",
+              "title": "HDD NAS interno WD Red Plus de 3,5\" - 2 TB",
+              "text": "<p>Os HDDs internos WD Red Plus são projetados para lidar com cargas de trabalho de usuários avançados e ambientes NAS de pequenas e médias empresas . As unidades WD Red Plus oferecem a velocidade e a capacidade necessárias para armazenar, proteger e compartilhar quantidades crescentes de dados em sistemas NAS otimizados para RAID de médio porte com maior eficiência energética.</p>",
+              "alt": "HDD NAS interno WD Red Plus de 3,5\" - 2 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1af63616-2b7f-4449-a6cb-15dfaed32ea7/ST10000NM020B-1-(67).png",
+              "title": "Otimizadas para menor TCO,",
+              "text": "<p>as unidades WD Red Plus são projetadas para usar menos energia (em comparação aos modelos anteriores) e operar em temperaturas mais baixas, o que reduz os custos operacionais e ajuda a reduzir o calor em caixas NAS com problemas térmicos.</p>",
+              "alt": "Otimizadas para menor TCO,"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f38fe35e-ab8c-4cde-9859-c1f51679f53c/ST10000NM020B-1-(68).png",
+              "title": "Projetado para operação contínua.",
+              "text": "<p>Como seu sistema NAS está sempre ligado, uma unidade confiável é essencial. Os discos rígidos WD Red Plus são projetados para sistemas que operam 24 horas por dia, 7 dias por semana, dando aos usuários a confiança de saber que podem acessar seus dados com segurança.</p>",
+              "alt": "Projetado para operação contínua."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/651c533f-6807-443f-b2c0-de6cccfdd1c5/nas-bay-configuration.jpg.wdthumb.319.319-(2).webp",
+              "title": "Desenvolvido para alto desempenho",
+              "text": "<p>Apesar de consumir menos energia, as unidades têm largura de banda suficiente para lidar com as demandas de desempenho misto dos sistemas NAS com várias unidades.</p>",
+              "alt": "Desenvolvido para alto desempenho"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/718be3e2-1786-42fd-9098-070c22c9c366/nas-bay-configuration-unlimited.jpg.wdthumb.319.319-(1).webp",
+              "title": "Balanceado para Maior Confiabilidade",
+              "text": "<p>Discos rígidos que não estejam balanceados corretamente podem causar vibração e ruído excessivos em sistemas com vários discos, o que pode reduzir a vida útil do disco rígido e degradar o desempenho ao longo do tempo. Nossa tecnologia aprimorada de controle de balanceamento de plano duplo melhora significativamente o balanceamento e aumenta o desempenho e a confiabilidade geral do disco.</p>",
+              "alt": "Balanceado para Maior Confiabilidade"
+            }
+          ],
+          "productId": "154533"
         }
       ]
     },
