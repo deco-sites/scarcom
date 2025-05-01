@@ -10647,6 +10647,53 @@
             }
           ],
           "productId": "155874"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e8bfc0d4-6598-4e88-a241-88090c4a2f16/ST10000NM020B-1---2025-05-01T191244.006.png",
+              "title": "AS6104T",
+              "text": "<p>Os primeiros modelos NAS para ser alimentado por os mais recentes processadores Intel Celeron</p>",
+              "alt": "AS6104T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Motor de criptografia de hardware",
+              "text": "<p>Com foco nas necessidades de encriptação de ficheiros de classe empresarial, ASUSTOR lançou os modelos da série AS61 / AS62 com built-in motores de criptografia de hardware, permitindo que os dados sejam completamente protegidos do momento em que é primeiro armazenada no NAS. Isto significa que você nunca tem que se preocupar com seus dados confidenciais caiam nas mãos erradas, mesmo se os seus discos rígidos tornam-se perdidos ou roubados. As velocidades de built-in AES-NI mecanismo de criptografia de hardware também fornece leitura de mais de 224,71 MB / s e escrever velocidades de mais de 132,56 MB / s para dados criptografados <em>. </em> Windows seqüencial de leitura / gravação (arquivo de 10GB, 1GbE x 4 Link Aggregation ALB, AES256)</p>",
+              "alt": "Motor de criptografia de hardware",
+              "banner": "https://assets.decocache.com/scarcom/b37a66e7-658c-4c37-a4cb-96b989f40426/AES-NI-CUP_animation.gif"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8d04bff-2df3-431d-a766-3f458e22108d/ST10000NM020B-1---2025-05-01T191712.172.png",
+              "title": "Conecte-se a uma nova geração de tecnologia de E / S para possibilidades ilimitadas",
+              "text": "<p>Um nível profissional NAS precisa de ser equipado com um conjunto diversificado de funcionalidade expansão. ASUSTOR foi construído em USB 3.0, portas HDMI 1.4b, juntamente com uma porta de áudio S / PDIF alta fidelidade USB 2.0, eSATA, Gigabit Ethernet e, permitindo que o NAS para conectar-se a diferentes tipos de dispositivos externos e não se limitam a sua capacidade interna. ASUSTOR NAS redefine o significado de flexibilidade e capacidade de expansão no armazenamento de rede.</p>",
+              "alt": "Conecte-se a uma nova geração de tecnologia de E / S para possibilidades ilimitadas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9852f10d-7029-4386-b7b6-27047fac78b1/ST10000NM020B-1---2025-05-01T191903.213.png",
+              "title": "Atualize a memória sem esforço",
+              "text": "<p>Dependendo das suas preferências de uso, você pode decidir se deseja ou não atualizar a memória. Os dispositivos AS61 / 62 fornecem aos usuários a capacidade de atualizar de forma flexível a memória, para que você não precise se preocupar com a memória antes de comprar o dispositivo. Ao atualizar a memória, basta remover a tampa do NAS para fazer isso (existem 2 slots de memória de expansão no total. A memória pode ser expandida até um máximo de 8 GB.), Permitindo melhorar facilmente o desempenho do sistema e permitir que o NAS para executar simultaneamente mais aplicativos.</p>",
+              "alt": "Atualize a memória sem esforço"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instantâneos do iSCSI LUN",
+              "text": "<p>A tecnologia de instantâneos da ASUSTOR fornece criação quase instantânea de instantâneos. Ele economiza uma quantidade significativa de tempo e capacidade de armazenamento quando comparado aos backups tradicionais de LUN. Se os arquivos forem danificados ou corrompidos, a interface simples e intuitiva permite que os administradores restaurem dados rapidamente, concluindo a recuperação de desastres no menor tempo possível e fornecendo serviço ininterrupto.</p>",
+              "alt": "Instantâneos do iSCSI LUN",
+              "banner": "https://assets.decocache.com/scarcom/ec76a734-5331-42d9-9bc7-c87e4a71a225/ST10000NM020B-1---2025-05-01T192233.085.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9ddf5a6c-636d-433f-b21a-c0628017ad6b/Kodi_7series-(1).png",
+              "title": "Crie o melhor centro multimídia doméstico",
+              "text": "<p>Desfrute de entretenimento digital eletrizante sob demanda com o ASUSTOR NAS. A interface HDMI incorporada e a variedade de aplicativos multimídia permitem que você aproveite todas as suas multimídia favoritas do seu NAS conectando-as diretamente a uma TV ou amplificador LCD / LED. O ASUSTOR NAS suporta saída Full HD (1080p), permitindo saborear seus filmes, programas de TV, músicas e fotos em alta definição. Além disso, através do App Central da ASUSTOR, você pode instalar aplicativos adicionais de servidor multimídia, como o UPnP Media Server e o OwnTone, oferecendo ao seu NAS a capacidade de transmitir conteúdo multimídia para seus computadores, TVs e dispositivos móveis.</p>",
+              "alt": "Crie o melhor centro multimídia doméstico"
+            }
+          ],
+          "productId": "154645"
         }
       ]
     },
