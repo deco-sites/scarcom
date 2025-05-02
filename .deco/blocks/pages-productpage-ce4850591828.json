@@ -10803,6 +10803,53 @@
             }
           ],
           "productId": "154602"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1efb013b-003b-4fd0-a1b6-ee68c06dadbf/ST10000NM020B-1---2025-05-02T003100.577.png",
+              "title": "NIMBUSTOR 4 (AS5304T)",
+              "text": "<p>O 2.5GbE armazena ainda mais com o AS5304T! O dispositivo de armazenamento em nuvem nº 1 para criadores de conteúdo e de coleta de transmissão ao vivo.</p>",
+              "alt": "NIMBUSTOR 4 (AS5304T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b4e8a6fd-19d0-4138-bdd3-f6e2f5af539a/ST10000NM020B-1---2025-05-02T003248.947.png",
+              "title": "1.5Ghz Quad-core aumenta para 2.5Ghz",
+              "text": "<p>O AS5304T utiliza a CPU Intel Gemini Lake Celeron J4105 Quad Core e é 30% mais rápido que o Apollo lake. O Celeron J4105 também dobra o cache no chip para 4 MB, tornando o AS5304T um dos nossos dispositivos NAS mais rápidos de todos os tempos.</p>",
+              "alt": "1.5Ghz Quad-core aumenta para 2.5Ghz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4efcc661-41c8-4157-9543-5fa5a46700d6/ST10000NM020B-1---2025-05-02T003441.945.png",
+              "title": "Upgradeable 4GB DDR4-2400 RAM",
+              "text": "<p>O AS5304T vem com quatro Gigabytes de RAM DDR4 e pode ser atualizado até 8 GB. A RAM DDR4 oferece desempenho até 30% maior que o DDR3, além de reduzir os requisitos de energia em 40%.</p>",
+              "alt": "Upgradeable 4GB DDR4-2400 RAM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "150% mais rápido com 2,5-Gigabit Ethernet",
+              "text": "<p>O AS5304T fornece duas portas 2,5-Gigabit Ethernet. Permitir que até 150% mais rápido do que o desempenho Gigabit Ethernet com hardware compatível e até 5 Gbps usando Link Aggregation. * * Link Aggregation suportado apenas com hardware compatível. Por favor, verifique com antecedência e verificar se Agregação de Link é suportado em seu equipamento.</p>",
+              "alt": "150% mais rápido com 2,5-Gigabit Ethernet",
+              "banner": "https://assets.decocache.com/scarcom/c38216fc-679b-45cd-ab05-00d68e69ab27/ST10000NM020B-1---2025-05-02T003535.458.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/30fc033f-16c4-423a-b938-834acd0c1398/ST10000NM020B-1---2025-05-02T003630.915.png",
+              "title": "Transmissão ao vivo com seu NAS",
+              "text": "<p>Os dispositivos ASUSTOR NAS oferecem registros de transmissão ao vivo em até 4K HDR para serem salvos diretamente em um NAS sem afetar o desempenho do jogo. Para jogadores sem grandes capacidades de disco rígido, LAN parties e cybercafés, a ADM oferece ao iSCSI o armazenamento de títulos menos exigentes para reprodução em vários dispositivos simultaneamente.</p>",
+              "alt": "Transmissão ao vivo com seu NAS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dee3b010-0083-4dce-8fef-69eb5efad2cd/ST10000NM020B-1---2025-05-02T003740.458.png",
+              "title": "Tanto espaço quanto necessário",
+              "text": "<p>O AS304T suporta até 72 TB, permitindo o armazenamento de grandes transmissões ao vivo e vídeos. gravações de jogo do complemento com um NAS. Insuficiente? Expanda sua AS5304T com até três unidades de expansão AS6004U para um total de 288 TB. Lista de compatibilidade</p>",
+              "alt": "Tanto espaço quanto necessário"
+            }
+          ],
+          "productId": "155304"
         }
       ]
     },
