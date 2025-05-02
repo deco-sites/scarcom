@@ -10748,6 +10748,61 @@
             }
           ],
           "productId": "154623"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4d5183fe-b568-45d9-94b2-cbba0531d03b/ST10000NM020B-1---2025-05-02T000655.039.png",
+              "title": "AS6204RS / AS6204RD",
+              "text": "<p>Uma solução de armazenamento ideal para pequenas e médias empresas com desempenho e funcionalidade de elite</p>",
+              "alt": "AS6204RS / AS6204RD"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/90601edf-060f-4e3c-abc0-5b44a4cea3ef/ASXXXRS_RD_cpu_performance.png",
+              "title": "Equipado com um processador quad-core Intel Celeron",
+              "text": "<p>AS6212RD é alimentado pela Intel Celeron processador quad-core, equipado com 4GB de memória dual-channel, e apresentam velocidades de leitura de mais de 112.80 MB / se velocidade de gravação de mais de 111.95 MB / s em RAID 5 configurações.</p>",
+              "alt": "Equipado com um processador quad-core Intel Celeron"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6bad8572-3d14-40ad-baf3-1ce9177ca98c/ST10000NM020B-1---2025-05-02T001227.977.png",
+              "title": "iSCSI e virtualização",
+              "text": "<p>A ASUSTOR reconhece que o armazenamento compartilhado estável e eficiente é uma obrigação para o seu ambiente virtual. O uso suportado de iSCSI e NFS permite que você se integre perfeitamente a qualquer ambiente de TI existente. Além disso, todos os dispositivos ASUSTOR NAS são verificados como prontos para VMware, Citrix e Hyper-V, fornecendo uma solução de armazenamento virtual flexível e econômica. Os recursos iSCSI suportados pelos dispositivos ASUSTOR NAS incluem: - Mapeamento de LUN - Mascaramento de LUN - Arquivo ISO Montagem - Suporte MPIO - Reservas persistentes (SCSI-3)</p>",
+              "alt": "iSCSI e virtualização"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/511ab618-0287-4144-a872-efacc608435a/ST10000NM020B-1---2025-05-02T001315.386.png",
+              "videoHtml": "Para profissionais de TI, a configuração de permissões de arquivo é um tópico muito importante, especialmente em ambientes corporativos. Como os mecanismos de permissão de arquivo do sistema Linux nativo são diferentes dos do Windows, no passado, os profissionais de TI precisavam criar um conjunto separado de permissões para os arquivos armazenados nos servidores NAS. Isso também limitou o número de opções de configuração de permissão disponíveis. Para ajudar os profissionais de TI a simplesmente trabalhar, o ASUSTOR integrou de maneira abrangente o Windows ACL no ADM. O Windows ACL fornece um conjunto de 13 configurações de permissões diferentes, permitindo que os administradores configurem permissões para arquivos e pastas individuais que podem ser aplicados a diferentes grupos e usuários. As permissões da ACL do Windows podem ser configuradas no File Explorer do ADM ou no Microsoft Windows Explorer, permitindo que os administradores gerenciem facilmente as permissões usando métodos familiares.",
+              "title": "Gerenciamento avançado de permissões de arquivo - Windows ACL",
+              "text": "<p>Para profissionais de TI, a configuração de permissões de arquivo é um tópico muito importante, especialmente em ambientes corporativos. Como os mecanismos de permissão de arquivo do sistema Linux nativo são diferentes dos do Windows, no passado, os profissionais de TI precisavam criar um conjunto separado de permissões para os arquivos armazenados nos servidores NAS. Isso também limitou o número de opções de configuração de permissão disponíveis. Para ajudar os profissionais de TI a simplesmente trabalhar, o ASUSTOR integrou de maneira abrangente o Windows ACL no ADM. O Windows ACL fornece um conjunto de 13 configurações de permissões diferentes, permitindo que os administradores configurem permissões para arquivos e pastas individuais que podem ser aplicados a diferentes grupos e usuários. As permissões da ACL do Windows podem ser configuradas no File Explorer do ADM ou no Microsoft Windows Explorer, permitindo que os administradores gerenciem facilmente as permissões usando métodos familiares.</p>",
+              "alt": "Gerenciamento avançado de permissões de arquivo - Windows ACL"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/91ce9a48-87fd-46e9-afb9-c51fd8b8e368/ST10000NM020B-1---2025-05-02T001404.938.png",
+              "title": "Enterprise Backup",
+              "text": "<p>O AS6204RD apresenta soluções abrangentes de backup. A built-in fonte de alimentação redundante e 4 portas Gigabit Ethernet efetivamente aumentar a confiabilidade, integridade de dados e velocidades de execução. As portas Ethernet e poder fornecer todos os recursos de recurso de failover (quando um falhar, o outro pode continuar a operar), a fim de assegurar a disponibilidade contínua de dados.</p>",
+              "alt": "Enterprise Backup"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2203c4eb-d9db-4e97-bd91-42730e9dfcad/ST10000NM020B-1---2025-05-02T002046.255.png",
+              "title": "Serviço pós-venda ainda mais confiável",
+              "text": "<p>A ASUSTOR estendeu o período de garantia de todos os seus produtos para três anos, continuando a tornar o atendimento ao cliente uma grande prioridade. É missão da ASUSTOR continuar a fornecer a seus clientes produtos da mais alta qualidade, além de apenas o serviço pós-venda mais confiável e atencioso e o suporte técnico.</p>",
+              "alt": "Serviço pós-venda ainda mais confiável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd45bf6b-6ac1-43cd-b923-c320fc2644a9/ST10000NM020B-1---2025-05-02T001924.938.png",
+              "title": "Seguro de disco bandeja Bloqueio projeto",
+              "text": "<p>A fim de ajudar os usuários a evitar que acidentalmente empurrando botões da bandeja de disco e liberando discos rígidos durante a operação, ASUSTOR adicionou um novo mecanismo de bloqueio às suas bandejas de disco rígido. garante de design de cabeça chata da fechadura que os usuários não precisam de quaisquer teclas especiais ou ferramentas para desbloqueá-lo, apenas uma motorista simples parafuso de cabeça chata. As bandejas de novos discos podem ser usados ​​com todos os dispositivos ASUSTOR NAS, proporcionando uma camada adicional de segurança para aplicações que requerem a troca frequente de discos rígidos (por exemplo, MyArchive).</p>",
+              "alt": "Seguro de disco bandeja Bloqueio projeto"
+            }
+          ],
+          "productId": "154602"
         }
       ]
     },
