@@ -11160,6 +11160,53 @@
             }
           ],
           "productId": "155785"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2b76d512-3829-4b00-834c-5cbb2d4f8413/ST10000NM020B-1---2025-05-02T015800.868.png",
+              "title": "LOCKERSTOR 4RS (AS6504RS) / LOCKERSTOR 4RD (AS6504RD)",
+              "text": "<p>Para pequenos e médios negócios</p>",
+              "alt": "LOCKERSTOR 4RS (AS6504RS) / LOCKERSTOR 4RD (AS6504RD)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad1d6c71-1fbe-4aa8-8086-218b52205ea0/t4-(4).png",
+              "title": "Servidor de montagem em Rack de 2,5GbE 1U de baixo custo",
+              "text": "<p>Um servidor de rack de 2,5 GbE fino 1U fornecendo desempenho estável e quatro compartimentos para armazenamento SATA expansível e fácil. O Lockerstor 4RS e 4RD trazem capacidade de expansão ao trazer recursos PCI Express, criando uma das soluções mais flexíveis e leves para pequenas empresas.</p>",
+              "alt": "Servidor de montagem em Rack de 2,5GbE 1U de baixo custo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/785bf31b-2cee-40f5-a54d-83169caf7c4f/ST10000NM020B-1---2025-05-02T012903.949.png",
+              "title": "CPU Intel Atom Quad-Core de nível empresarial e RAM DDR4",
+              "text": "<p>Equipado com o novo Quad-Core Intel Atom C3538 com freqüência de 2,1 GHz e combinado com mais de 8 GB de RAM DDR4, proporciona uma experiência de compartilhamento de arquivos ultrarrápida e suave em seu escritório.</p>",
+              "alt": "CPU Intel Atom Quad-Core de nível empresarial e RAM DDR4"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Enterprise Backup",
+              "text": "<p>O Lockerstor RD possui mecanismos de backup e segurança completos, incluindo fontes de alimentação de backup duplo para segurança, enquanto inclui quatro portas Ethernet para desempenho adicional e redundância. Duas portas Gigabit e duas portas Ethernet de 2,5 Gigabit adornam a parte traseira do NAS, garantindo que todos possam acessar seus arquivos de forma rápida e eficiente. O Lockerstor RD não faz sacrifícios, garantindo tempo de inatividade zero se uma porta ou fonte de alimentação estiver offline.</p>",
+              "alt": "Enterprise Backup",
+              "banner": "https://assets.decocache.com/scarcom/e058b224-bdd4-4f98-82c7-638e1689d894/t6-(5).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f91f4a0a-572d-40e2-b6b6-f88631e9d1ae/ST10000NM020B-1---2025-05-02T013104.634.png",
+              "title": "Função \"Encontre-me\" e luz de serviço para salas de servidores",
+              "text": "<p>Nos ambientes corporativos, os dispositivos de armazenamento geralmente são colocados juntos em uma sala do servidor. Para permitir que os administradores encontrem rapidamente o NAS entre muitos servidores, o Lockerstor 4RS/RD(1U) fornece um botão dedicado no painel frontal. Quando este botão é pressionado, a luz de serviço do LED no painel traseiro do NAS acende. A ASUSTOR também oferece o aplicativo de gerenciamento NAS móvel, AiMaster, que fornece a função exclusiva Find Me. Quando o recurso Find Me estiver ativado, a luz de status do sistema na frente do NAS piscará e a campainha do sistema tocará, ajudando os usuários a encontrar rapidamente o NAS.</p>",
+              "alt": "Função \"Encontre-me\" e luz de serviço para salas de servidores"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5fdc263f-79f1-44f3-bf7d-8f0097c74793/ST10000NM020B-1-(91).png",
+              "title": "Expansão Ágil",
+              "text": "<p>A série de montagem em rack ASUSTOR Lockerstor 4RD prepara você para as necessidades de amanhã. A expansão PCIe permite que placa 10 Gigabit Ethernet possam ser instaladas para aumentar o desempenho e a capacidade de expansão. Combine as portas Ethernet e conecte-se a um switch Ethernet de 2,5 Gigabit para aproveitar as vantagens de velocidades extremas. Liberte-se das restrições com o Lockerstor 4RD.</p>",
+              "alt": "Expansão Ágil"
+            }
+          ],
+          "productId": "155516"
         }
       ]
     },
