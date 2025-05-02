@@ -10904,6 +10904,53 @@
             }
           ],
           "productId": "155420"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/49f1b4c4-11e3-4c13-a043-3d301316c9a5/ST10000NM020B-1---2025-05-02T005220.279.png",
+              "title": "AS1004T",
+              "text": "<p>Um hub multimídia doméstico de alta capacidade</p>",
+              "alt": "AS1004T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f1dc978d-c762-4907-b098-f50c1acd4e16/AS1002T_feature3.gif",
+              "title": "Adicione um toque moderno ao seu espaço favorito",
+              "text": "<p>Os dispositivos da série AS10 redefinem a estética de um NAS. A elegante capa com acabamento em placa de diamante é uma adição elegante a qualquer espaço, independentemente de ser uma sala de estar, sala de estar ou escritório.</p>",
+              "alt": "Adicione um toque moderno ao seu espaço favorito"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f4e942da-d3f1-4154-9ba9-39a7fbf09c9e/ST10000NM020B-1---2025-05-02T005437.938.png",
+              "title": "Motor de criptografia de hardware",
+              "text": "<p>Proteger seus dados é a principal prioridade do ASUSTOR. Os dispositivos da série AS10 recurso built-in motores de criptografia, permitindo que os dados sejam completamente protegidos do momento em que é primeiro armazenada no NAS. Isto significa que você nunca tem que se preocupar com seus dados confidenciais caiam nas mãos erradas, mesmo se os seus discos rígidos tornam-se perdidos ou roubados. As velocidades de built-in mecanismo de criptografia de hardware também funções ler de mais de 39 MB / se velocidade de gravação de mais de 31 MB / s para dados criptografados proporcionando uma óptima combinação de segurança de arquivos e desempenho do sistema.</p>",
+              "alt": "Motor de criptografia de hardware"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7626cc4e-8c3a-49c1-9f64-0fa8af04b74c/ST10000NM020B-1---2025-05-02T005732.949.png",
+              "title": "Operação ultra silenciosa",
+              "text": "<p>Os dispositivos da série AS10 produzem apenas 19 decibéis de ruído durante o modo de espera do sistema, equivalente ao som quase inaudível de uma queda de pinos. Durante a operação do sistema, apenas 32 decibéis de ruído são produzidos, equivalentes aos tons silenciosos de uma biblioteca silenciosa, permitindo que os dispositivos da série AS10 se integrem de maneira fácil e confortável a qualquer ambiente de vida.</p>",
+              "alt": "Operação ultra silenciosa"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24a5743b-092d-494d-8d8e-a51148391875/ST10000NM020B-1---2025-05-02T005823.933.png",
+              "title": "Servidor multimídia doméstico ideal",
+              "text": "<p>A unidade de ponto flutuante da CPU embutida da série AS10 é capaz de processar rapidamente grandes quantidades de miniaturas de fotos, permitindo transferir e navegar instantaneamente pelas fotos a qualquer momento. A rica variedade de aplicativos de servidor multimídia é capaz de transmitir com facilidade entretenimento multimídia de alta definição para dispositivos como players UPnP / DLNA, navegadores da Web em computadores, tablets e smartphones.</p>",
+              "alt": "Servidor multimídia doméstico ideal"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/154f769d-8b5a-49ae-9b7d-55871e1455f2/ST10000NM020B-1---2025-05-02T005916.188.png",
+              "title": "Eficiência Energética Verde",
+              "text": "<p>Todos os produtos ASUSTOR NAS são projetados e desenvolvidos com base em conceitos ecologicamente corretos. Os dispositivos ASUSTOR NAS não apenas consomem muito menos energia que o computador ou servidor médio, mas as funções de gerenciamento e economia de energia do ASUSTOR permitem que os usuários planejem uma programação de controle de energia de uma semana inteira. O agendamento de energia pode permitir que o NAS ligue, desligue, durma ou execute outras tarefas em horários específicos do dia. Essa função pode ajudar a economizar uma quantidade considerável de energia, além de prolongar a vida útil dos discos rígidos. Além disso, a nova função avançada WOW (Wake-On-WAN) permite que os usuários ativem seu NAS e acessem seus arquivos a qualquer momento.</p>",
+              "alt": "Eficiência Energética Verde"
+            }
+          ],
+          "productId": "154351"
         }
       ]
     },
