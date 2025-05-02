@@ -10951,6 +10951,60 @@
             }
           ],
           "productId": "154351"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "AS3204T",
+              "banner": "https://assets.decocache.com/scarcom/2517c4e9-439f-4e22-9d22-6e7295acb74f/ST10000NM020B-1---2025-05-02T010334.615.png",
+              "text": "<p>Equipado com um processador quad-core Intel Celeron</p>",
+              "alt": "AS3204T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f1dc978d-c762-4907-b098-f50c1acd4e16/AS1002T_feature3.gif",
+              "title": "Adicione um toque moderno ao seu espaço favorito",
+              "text": "<p>Os dispositivos da série AS32 redefinem a estética de um NAS. A elegante capa com acabamento em placa de diamante é uma adição elegante a qualquer espaço, independentemente de ser uma sala de estar, sala de estar ou escritório.</p>",
+              "alt": "Adicione um toque moderno ao seu espaço favorito"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instalação sem ferramentas",
+              "text": "<p>O design da tampa externa deslizante da série AS32 permite que ela seja convenientemente removida quando necessário. Os trilhos internos do disco rígido e a tampa externa usam parafusos manuais, permitindo a instalação simples de discos rígidos sem nenhuma ferramenta extra.</p>",
+              "alt": "Instalação sem ferramentas",
+              "banner": "https://assets.decocache.com/scarcom/aab2f84e-e060-4f97-84bc-ad824ce1e0f8/ST10000NM020B-1---2025-05-02T010522.951.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Sobrecarregar sua experiência multimídia",
+              "text": "<p>Você não precisa mais se preocupar com problemas de compatibilidade de resolução ao reproduzir vídeos no seu telefone, tablet ou computador. O Media Converter utiliza um método de conversão rápido e simples, permitindo executar tarefas de conversão em segundo plano. A exclusiva tecnologia Hyper-Transcoding incorporada foi habilmente criada pela ASUSTOR. Essa tecnologia utiliza a função de aceleração de hardware da CPU Intel para tornar as conversões de arquivos de vídeo mais rápidas e simples do que nunca. O uso da Hyper-Transcoding para converter arquivos de vídeo pode reduzir o tempo normal de conversão em pelo menos 10 vezes. Recursos de transcodificação</p>",
+              "alt": "Sobrecarregar sua experiência multimídia",
+              "banner": "https://assets.decocache.com/scarcom/115dcbbd-3a39-4f7f-aaf8-bc7fb4dbea0e/ST10000NM020B-1---2025-05-02T010805.250.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f4e942da-d3f1-4154-9ba9-39a7fbf09c9e/ST10000NM020B-1---2025-05-02T005437.938.png",
+              "title": "Motor de criptografia de hardware",
+              "text": "<p>Proteger seus dados é a principal prioridade do ASUSTOR. Os dispositivos da série AS32 apresentam mecanismos de criptografia Intel AES-NI, permitindo que os dados sejam completamente protegidos do momento em que é primeiro armazenada no NAS. Isto significa que você nunca tem que se preocupar com seus dados confidenciais caiam nas mãos erradas, mesmo se os seus discos rígidos tornam-se perdidos ou roubados. As velocidades de built-in mecanismo de criptografia de hardware também funções ler de mais de 112 MB / se velocidade de gravação de mais de 71 MB / s para dados criptografados proporcionando uma óptima combinação de segurança de arquivos e desempenho do sistema.</p>",
+              "alt": "Motor de criptografia de hardware"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9ddf5a6c-636d-433f-b21a-c0628017ad6b/Kodi_7series-(1).png",
+              "title": "Crie o melhor centro multimídia doméstico",
+              "text": "<p>Desfrute de entretenimento digital eletrizante sob demanda com o ASUSTOR NAS. A interface HDMI incorporada e a variedade de aplicativos multimídia permitem que você aproveite todas as suas multimídia favoritas do seu NAS conectando-as diretamente a uma TV ou amplificador LCD / LED. O ASUSTOR NAS suporta saída Full HD (1080p), permitindo saborear seus filmes, programas de TV, músicas e fotos em alta definição. Além disso, através do App Central da ASUSTOR, você pode instalar aplicativos adicionais de servidor multimídia, como o UPnP Media Server e o OwnTone, oferecendo ao seu NAS a capacidade de transmitir conteúdo multimídia para seus computadores, TVs e dispositivos móveis.</p>",
+              "alt": "Crie o melhor centro multimídia doméstico"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Serviço pós-venda ainda mais confiável",
+              "text": "<p>A ASUSTOR estendeu o período de garantia de todos os seus produtos para três anos, continuando a tornar o atendimento ao cliente uma grande prioridade. É missão da ASUSTOR continuar a fornecer a seus clientes produtos da mais alta qualidade, além de apenas o serviço pós-venda mais confiável e atencioso e o suporte técnico.</p>",
+              "alt": "Serviço pós-venda ainda mais confiável",
+              "banner": "https://assets.decocache.com/scarcom/2203c4eb-d9db-4e97-bd91-42730e9dfcad/ST10000NM020B-1---2025-05-02T002046.255.png"
+            }
+          ],
+          "productId": "154803"
         }
       ]
     },
