@@ -11059,6 +11059,60 @@
             }
           ],
           "productId": "155784"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "LOCKERSTOR 4 (AS6604T)",
+              "text": "<p>Poder para o utilizador avançado</p>",
+              "alt": "LOCKERSTOR 4 (AS6604T)",
+              "banner": "https://assets.decocache.com/scarcom/fe7054b9-9b41-4fa4-95a7-617325245c1c/ST10000NM020B-1---2025-05-02T013705.951.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad840ec3-28a7-4895-baf2-4fcb911ab258/t4-(5).png",
+              "title": "Equipado com um processador quad-core Intel Celeron J4125 (Gemini Lake)",
+              "text": "<p>O Lockerstor 4 utiliza a CPU Intel Gemini Lake Celeron J4125 Quad Core e é 30% mais rápido que o Apollo lake. O Celeron J4125 também dobra o cache no chip para 4 MB, tornando o Lockerstor 4 um dos nossos dispositivos NAS mais rápidos de todos os tempos.</p>",
+              "alt": "Equipado com um processador quad-core Intel Celeron J4125 (Gemini Lake)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Upgradeable 4GB DDR4-2400 RAM",
+              "text": "<p>O Lockerstor 4 vem com quatro Gigabytes de RAM DDR4 e pode ser atualizado até 8 GB. A RAM DDR4 oferece desempenho até 30% maior que o DDR3, além de reduzir os requisitos de energia em 40%.</p>",
+              "alt": "Upgradeable 4GB DDR4-2400 RAM",
+              "banner": "https://assets.decocache.com/scarcom/bf5ee339-bd7c-4b0c-b809-206be1be8fd3/t5-(5).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f230ad56-ad5c-45ff-8c4d-12d066544d7d/ST10000NM020B-1---2025-05-02T013928.727.png",
+              "title": "150% mais rápido com 2,5-Gigabit Ethernet",
+              "text": "<p>O Lockerstor 4 fornece duas portas 2,5-Gigabit Ethernet. Permitir que até 150% mais rápido do que o desempenho Gigabit Ethernet com hardware compatível e até 5 Gbps usando Link Aggregation. * * Link Aggregation suportado apenas com hardware compatível. Por favor, verifique com antecedência e verificar se Agregação de Link é suportado em seu equipamento.</p>",
+              "alt": "150% mais rápido com 2,5-Gigabit Ethernet"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6e5fed1e-2ab9-42df-b4b6-99c116814548/ST10000NM020B-1---2025-05-02T014038.334.png",
+              "title": "4 baías com storage flexível M.2 SSD caching",
+              "text": "<p>O LOCKERSTOR 4 é uma NAS económica e de grande capacidade desenhada para ambientes corporativos. O LOCKERSTOR 4 suporta expansão de capacidade online, permitindo a compra flexível de equipamentos de armazenamento empresarial. Quando os seu orçamento e necessidades de armazenamento forem menores, pode comprar um número menor de discos rígidos. Os discos adicionais podem ser adquiridos à medida que os requisitos de armazenamento aumentarem. Combinado com a tecnologia de armazenamento MyArchive da ASUSTOR, isto permite alcançar efetivamente armazenamento ilimitado.</p>",
+              "alt": "4 baías com storage flexível M.2 SSD caching"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/16d9dafd-9b18-4b27-a46d-fbc386e53bdb/ST10000NM020B-1---2025-05-02T014138.956.png",
+              "title": "Confiabilidade e durabilidade 24/7",
+              "text": "<p>Todos os NAS ASUSTOR foram projetados e adequados para uso 24/7. Os dispositivos ASUSTOR NAS também passaram por testes rigorosos, como testes de queda e queima, para testar a durabilidade em condições extremas. Dissipadores de calor foram adicionados a componentes sensíveis para dissipar o calor, ajudando a manter a longevidade do dispositivo.</p>",
+              "alt": "Confiabilidade e durabilidade 24/7"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/179bf6ba-0bb3-41d7-85cc-212f8cf4290b/ST10000NM020B-1---2025-05-02T014232.643.png",
+              "title": "Proteção Contra Ransomware",
+              "text": "<p>O Lockerstor inclui a versão mais atualizada do ADM para ajudar a proteger contra ataques de ransomware. Com o Snapshot Center e o Btrfs, obtém snapshots eficientes para restaurar facilmente os dados perdidos. Outros recursos de segurança encontrados no Lockerstor são a capacidade de criar uma ou mais contas de administrador substitutas, uma firewall ADM Defender que apresenta listas negras e brancas e a capacidade de alterar portas padrão, desativar o SSH e o Terminal para impedir ataques remotos. A segurança do cold storage MyArchive também pode ser aumentada com a implementação de encriptação AES 256 bit.</p>",
+              "alt": "Proteção Contra Ransomware"
+            }
+          ],
+          "productId": "155063"
         }
       ]
     },
