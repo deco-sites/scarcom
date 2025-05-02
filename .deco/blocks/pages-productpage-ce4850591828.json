@@ -11113,6 +11113,53 @@
             }
           ],
           "productId": "155063"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "LOCKERSTOR 4 Gen2 (AS6704T)",
+              "text": "<p>O NAS 2,5 GbE sem compromissos  NAS de nível entusiasta com dois, quatro ou seis compartimentos</p>",
+              "alt": "LOCKERSTOR 4 Gen2 (AS6704T)",
+              "banner": "https://assets.decocache.com/scarcom/dea5d8c5-f63a-48d3-b5f1-e9367845f453/ST10000NM020B-1---2025-05-02T014629.317.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5cbe79c0-a622-4f87-bcd7-b51ad9077848/ST10000NM020B-1---2025-05-02T014736.416.png",
+              "title": "Equipado com um processador quad-core Intel 10nm Celeron N5105 (Jasper Lake)",
+              "text": "<p>A mais nova CPU Quad-Core N5105 da Intel vem com tecnologia Intel 10 nm e desempenho até 31% maior em relação aos SoCs Gemini Lake. O N5105 tem clock de 2,0 GHz com um aumento de até 2,9 GHz, permitindo a criação de conteúdo eficiente com a flexibilidade adicional de atualizações de 10 Gigabit Ethernet.</p>",
+              "alt": "Equipado com um processador quad-core Intel 10nm Celeron N5105 (Jasper Lake)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f546da7a-a243-4dab-bf98-fb4e38f506bb/ST10000NM020B-1---2025-05-02T014851.166.png",
+              "title": "Quatro slots M.2",
+              "text": "<p>A série Lockerstor Gen2 de dispositivos NAS vem com quatro slots M.2 para armazenamento em cache ou armazenamento ou ambos. Use todos os slots para uma finalidade ou misture e combine, dependendo de suas necessidades.</p>",
+              "alt": "Quatro slots M.2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Mantendo fresco",
+              "text": "<p>Com até quatro SSDs, uma quantidade considerável de calor pode ser gerada. Com ventilação extra, o Lockerstor Gen2 garante que todos os componentes do seu NAS recebam refrigeração.</p>",
+              "alt": "Mantendo fresco",
+              "banner": "https://assets.decocache.com/scarcom/55b5383b-638e-4f82-afd7-7de7dd9d814d/ST10000NM020B-1---2025-05-02T014940.953.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7edcd6ef-57e0-4b57-8367-8853f7d785b2/ST10000NM020B-1---2025-05-02T015100.281.png",
+              "title": "Instalação SSD M.2 sem ferramentas",
+              "text": "<p>Usa travas em vez de parafusos para facilitar a instalação.</p>",
+              "alt": "Instalação SSD M.2 sem ferramentas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Também suporta Ethernet de 10 Gigabits",
+              "text": "<p>O slot PCIe da série Lockerstor Gen2 não é mais proprietário e agora aceita placas Ethernet de 10 Gigabit para máxima flexibilidade.</p>",
+              "alt": "Também suporta Ethernet de 10 Gigabits",
+              "banner": "https://assets.decocache.com/scarcom/f03a581d-413e-4c33-b0c1-7008c7882ef5/sec8_t1.png"
+            }
+          ],
+          "productId": "155785"
         }
       ]
     },
