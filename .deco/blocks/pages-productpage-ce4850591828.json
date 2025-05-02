@@ -10694,6 +10694,60 @@
             }
           ],
           "productId": "154645"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4269ecea-248a-408b-bc53-4c3a8f5959c6/ST10000NM020B-1---2025-05-01T235625.988.png",
+              "title": "DRIVESTOR 4 (AS1104T)",
+              "text": "<p>O Drivestor 4 - Ótimo valor, ótimo desempenho</p>",
+              "alt": "DRIVESTOR 4 (AS1104T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0ce55ded-b2e9-4fcc-9e91-3e2d833bb992/ST10000NM020B-1---2025-05-01T235728.965.png",
+              "title": "Novo ADM 4.0",
+              "text": "<p>O ADM 4.0 está aqui e traz uma série de alterações de design intuitivas para o SO ADM. A IU atualizada traz um novo modo escuro esteticamente agradável que ajuda a salvar e preservar as telas OLED. O ADM 4.0 apresenta uma nova página de login que contém uma variedade de elementos personalizáveis, um recurso de pesquisa rápida mais conveniente e fácil de usar e novos temas personalizados. De modo transparente, o ADM 4.0 traz melhorias de desempenho, compatibilidade e segurança à medida que a nova versão do OpenSSL bloqueia vulnerabilidades encontradas em versões anteriores, aumentando a segurança enquanto melhorias de eficiência trazem melhor desempenho.</p>",
+              "alt": "Novo ADM 4.0"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/977cc168-4579-4cb2-9152-884940ad25a2/ST10000NM020B-1---2025-05-01T235953.253.png",
+              "title": "Coloração rosa ouro",
+              "text": "<p>O novo logotipo Rose Gold é elegante e distinto, permitindo fácil distinção entre os modelos ASUSTOR NAS.</p>",
+              "alt": "Coloração rosa ouro"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8443f9de-2899-4cbb-93e5-589b9ed93338/ST10000NM020B-1---2025-05-02T000122.970.png",
+              "title": "CPU Realtek Quad-Core e RAM DDR4\u000b",
+              "text": "<p>O Drivestor 2 e o Drivestor 4 são equipados com uma CPU Realtek RTD1296 1,4 GHz Quad-Core de 64 bits. Transcodifique, reproduza stream e reproduza multimídia em 4K, transfira arquivos e realize multitarefas facilmente com a série Drivestor. O Drivestor lida com multitarefa com facilidade, utilizando seus 1 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "CPU Realtek Quad-Core e RAM DDR4\u000b"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/340860c5-8b02-4c41-aabd-b24f60cd862e/ST10000NM020B-1---2025-05-02T000241.680.png",
+              "title": "Eficiente e poderoso",
+              "text": "<p>O Drivestor 2 e 4 são os dispositivos de maior valor da ASUSTOR de todos os tempos. Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/99f4a04e-1794-4c0f-b9bb-c6bd343ee6da/ST10000NM020B-1---2025-05-02T000338.977.png",
+              "title": "Modo de Mídia",
+              "text": "<p>O Drivestor 2 e 4 vêm com 1 GB de memória. O Modo de mídia é um novo recurso que reserva de forma eficiente 512 MB de RAM para tarefas de multimídia, pois uma variedade de tarefas requer grandes quantidades de RAM. Com RAM dedicada para multimídia, a reprodução de vídeo permanece suave e não é interrompida por outras tarefas.</p>",
+              "alt": "Modo de Mídia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a40ea794-78bb-446b-b219-9fdb0b24ed10/ST10000NM020B-1---2025-05-01T154549.302.png",
+              "title": "Operação ultra silenciosa",
+              "text": "<p>Os dispositivos da série AS11 produzem apenas 19 decibéis de ruído durante o modo de espera do sistema, equivalente ao som quase inaudível de uma queda de pinos. Durante a operação do sistema, apenas 32 decibéis de ruído são produzidos, equivalentes aos tons silenciosos de uma biblioteca silenciosa, permitindo que os dispositivos da série AS11 se integrem de maneira fácil e confortável a qualquer ambiente de vida.</p>",
+              "alt": "Operação ultra silenciosa"
+            }
+          ],
+          "productId": "154623"
         }
       ]
     },
