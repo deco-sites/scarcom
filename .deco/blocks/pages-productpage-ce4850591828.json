@@ -10850,6 +10850,60 @@
             }
           ],
           "productId": "155304"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ca12b067-80dd-46ab-8cf8-3246173f167d/ST10000NM020B-1---2025-05-02T004020.201.png",
+              "title": "AS6404T",
+              "text": "<p>Um NAS abrangente de 4 baías, equipado com um processador quad-core Intel Celeron (Apollo Lake) para uma saída poderosa, econômico e perfeito para uso doméstico e pessoal.</p>",
+              "alt": "AS6404T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Processador Apollo Lake Poder máximo de computação",
+              "text": "<p>O novo AS6404T está equipado com o processador quad-core Intel Celeron (Apollo Lake) de sexta geração e processo de 14nm. Possui overclock para 2,5 GHz e desempenho geral que é aprimorado em 30% quando comparado com as gerações anteriores, satisfazendo as necessidades de acesso 24/7 em ambientes de pequenas empresas.</p>",
+              "alt": "Processador Apollo Lake Poder máximo de computação",
+              "banner": "https://assets.decocache.com/scarcom/d2b6ae7b-376e-494e-9d1e-d5dd2883f493/ST10000NM020B-1---2025-05-02T004223.008.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1c8d6a13-8d84-4830-aea5-28d2f72eee60/ST10000NM020B-1---2025-05-02T004307.942.png",
+              "title": "GPU aprimorada Maior poder de processamento de multimídia",
+              "text": "<p>O AS6404T possui um mecanismo gráfico Intel HD integrado, suportando a transcodificação de hardware HEVC e VP9 que melhora significativamente o desempenho do processamento de multimídia e imagem em 30%. Isso fornece uma experiência incomparável de uso de fluidos tanto para consumidores de produtos tecnológicos quanto para profissionais da área.</p>",
+              "alt": "GPU aprimorada Maior poder de processamento de multimídia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d53fe92-6433-4513-896f-667a0159057c/ST10000NM020B-1---2025-05-02T004638.930.png",
+              "title": "Portas USB tipo C permitem conectar a uma nova geração de dispositivos",
+              "text": "<p>Além das portas USB 3.0 Tipo A existentes, os dispositivos da série AS63 / 64 adicionaram portas bidirecionais Tipo C que permitem que seu NAS se conecte facilmente a uma nova geração de dispositivos, concluindo rapidamente transferências de grandes arquivos multimídia.</p>",
+              "alt": "Portas USB tipo C permitem conectar a uma nova geração de dispositivos"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/17c62e66-0667-438a-855f-27affb67cd56/ST10000NM020B-1---2025-05-02T004825.950.png",
+              "title": "HDMI 2.0 combinado com saída 4K / UHD fornece qualidade cristalina exibida perfeitamente",
+              "text": "<p>A série AS63 / 64 suporta as especificações HDMI 2.0 de próxima geração, com vídeo com resolução de até 60 / 50P 4K que fornece o dobro da fluidez de 4K 30P. Combinado com a memória interna de canal duplo de 2 GB / 8 GB, isso permite a reprodução de 4K / UHD com suavidade incomparável. Não importa se é sua coleção preciosa de filmes ou vídeos com qualidade Blu-ray que você gravou com câmeras de qualidade profissional, o ASUSTOR NAS pode exibir perfeitamente tudo isso em qualidade cristalina. * Observe que, para reproduzir vídeos 4K / UHD 60P, você precisará usar um cabo HDMI 2.0</p>",
+              "alt": "HDMI 2.0 combinado com saída 4K / UHD fornece qualidade cristalina exibida perfeitamente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c43dfcbc-aea7-492f-86f3-5c41a683b9e5/ST10000NM020B-1---2025-05-02T004919.937.png",
+              "title": "Aplicativos de máquina virtual",
+              "text": "<p>Transformar seu NAS em um computador com disponibilidade 24 horas por dia, 7 dias por semana e uma tremenda eficiência energética não é mais apenas um sonho. Você poderá usar o VirtualBox para instalar diferentes tipos de sistemas operacionais no seu NAS, criando máquinas virtuais. Após criar uma máquina virtual, seu NAS pode se tornar o computador de backup da sua empresa, permitindo que a equipe de TI maximize os recursos e obtenha a eficácia ideal.</p>",
+              "alt": "Aplicativos de máquina virtual"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3f6f994-50ad-4625-bb82-4d4e3a2316f3/ST10000NM020B-1---2025-05-02T005015.703.png",
+              "title": "Sistema de vigilância abrangente",
+              "text": "<p>O poderoso ASUSTOR NAS oferece confiabilidade ideal para usuários domésticos e SMB que desejam configurar um sistema de vigilância. São oferecidos 4 canais de câmera gratuitos, tornando-se uma solução de vigilância extremamente econômica para usuários com demandas menores. Para usuários com demandas maiores, o número de canais de câmera pode ser expandido até 36 por meio de licenças de câmera compráveis. Depois de instalar o Surveillance Center e o aplicativo móvel correspondente AiSecure, os usuários também poderão transmitir feeds de vigilância ao vivo para seus smartphones em movimento, mantendo um olho em seus ativos mais valiosos de qualquer lugar.</p>",
+              "alt": "Sistema de vigilância abrangente"
+            }
+          ],
+          "productId": "155420"
         }
       ]
     },
