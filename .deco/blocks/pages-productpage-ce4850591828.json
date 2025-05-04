@@ -11470,6 +11470,53 @@
             }
           ],
           "productId": "156211"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd937f3a-6af0-47d7-ba77-c6d26c0601cc/banner_model-(14).png",
+              "title": "FLASHSTOR 12 Pro Gen2 (FS6812X)",
+              "text": "<p>Com o Ryzen, a velocidade não para de “Rising”</p>",
+              "alt": "FLASHSTOR 12 Pro Gen2 (FS6812X)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9e2a8ae6-2019-4feb-8185-335c7beeeb0a/ST10000NM020B-1---2025-05-02T021434.928.png",
+              "title": "Seu ASUSTOR traz potencial virtualmente ilimitado para o Final Cut Pro",
+              "text": "<p>O arquivamento e o conteúdo bruto inacabado estão entre os problemas de armazenamento mais comuns que os criadores de conteúdo encontram ao trabalhar em um Mac. As bibliotecas do Final Cut Pro podem crescer rapidamente e fora de controle. Os criadores de conteúdo costumam recorrer a drives externos USB para armazenar material para o Final Cut Pro. Ao usar um Mac, especialmente Macs portáteis como o MacBook Pro, as unidades externas são freqüentemente conectadas e desconectadas, o que pode levar ao desgaste da porta. Unidades externas também são inconvenientes, pois os arquivos não podem ser convenientemente compartilhados com colegas de trabalho ou colaboradores e as unidades externas são suscetíveis a danos de uma forma que um NAS não é. Um NAS permanece estacionário enquanto disponibiliza digitalmente seus arquivos enquanto um drive externo é portátil, aumentando o risco de quedas, derramamentos ou outros tipos de danos.</p>",
+              "alt": "Seu ASUSTOR traz potencial virtualmente ilimitado para o Final Cut Pro"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fb57b7d9-6ef5-4817-9ee1-6692a014c55d/t8-(5).png",
+              "title": "Mantendo os SSDs Resfriados",
+              "text": "<p>O ventilador silencioso e o design eficiente do duto de ar proporcionam rápida dissipação de calor para garantir que os SSDs recebam o resfriamento de que precisam.</p>",
+              "alt": "Mantendo os SSDs Resfriados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d2c41d6a-743c-42f9-a98b-e6db5a4be9c1/t10.png",
+              "title": "Eficiente e Silencioso",
+              "text": "<p>O Flashstor mantém seus SSDs e NAS refrigerados, silenciosos e eficientes. Quando em marcha lenta, o Flashstor emite apenas 18,7 decibéis de som. Ao dissipar silenciosamente o calor, o Flashstor facilita o foco na criação e consumo de conteúdo sem interferência de ruído.</p>",
+              "alt": "Eficiente e Silencioso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "A velocidade nunca pareceu tão boa",
+              "text": "<p>A estética do Flashstor não é apenas para aparência, mas é projetada para garantir um resfriamento eficiente para manter os componentes funcionando em suas velocidades máximas.</p>",
+              "alt": "A velocidade nunca pareceu tão boa",
+              "banner": "https://assets.decocache.com/scarcom/477a8865-fd7e-4e60-9d51-053f12eecece/t693.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c9944580-31cc-4809-aca6-3696a5b58271/ST10000NM020B-1---2025-05-02T021850.993.png",
+              "title": "Mais eficiente do que nunca",
+              "text": "<p>Transcodifique facilmente mídia 4K H.265 de 10 bits com decodificação de hardware com reprodução de vídeo incrivelmente suave no LooksGood para o máximo em diversão 4K.</p>",
+              "alt": "Mais eficiente do que nunca"
+            }
+          ],
+          "productId": "156209"
         }
       ]
     },
