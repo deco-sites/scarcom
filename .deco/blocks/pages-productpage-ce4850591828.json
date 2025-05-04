@@ -11254,6 +11254,60 @@
             }
           ],
           "productId": "155787"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/47955360-2b74-4f2a-945b-f4aba3ea73ba/ST10000NM020B-1---2025-05-04T191729.616.png",
+              "title": "AS6208T",
+              "text": "<p>Um NAS de 8 baias emblemático de quatro núcleos</p>",
+              "alt": "AS6208T"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c0c07318-3abd-4802-b9a9-5e57de817043/ST10000NM020B-1---2025-05-04T191838.574.png",
+              "title": "Desempenho poderoso",
+              "text": "<p>O AS6208T está equipado com um poderoso processador quad-core Intel Celeron, 4 GB de memória (expansível até 8 GB) e criptografia de hardware AES-NI integrada, proporcionando desempenho e segurança de transferência superiores. Seus dados são completamente protegidos a partir do momento em que são armazenados pela primeira vez no NAS. Isso significa que você nunca precisa se preocupar com a queda de dados confidenciais em mãos erradas, mesmo que seus discos rígidos sejam perdidos ou roubados. Sob agregação de links, o AS6208T oferece velocidades impressionantes de leitura e gravação de mais de 398+ MB / se 355+ MB / s.</p>",
+              "alt": "Desempenho poderoso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b5522390-0181-4040-ac4b-902fee04fa26/ST10000NM020B-1---2025-05-04T191943.797.png",
+              "title": "Integra uma rica variedade de interfaces de E / S, redefinindo a flexibilidade e a expansibilidade",
+              "text": "<p>Um NAS de nível profissional precisa estar equipado com uma variedade diversificada de funcionalidades de expansão. O ASUSTOR construiu portas USB 3.0, USB 2.0, eSATA e 4 Gigabit Ethernet, juntamente com memória de canal duplo, para permitir que este NAS se conecte a diferentes tipos de dispositivos externos e se torne um dispositivo de armazenamento de rede multifuncional completo. O AS6208T também é equipado com uma porta S / PDIF de áudio de alta fidelidade e uma porta HDMI 1.4b, permitindo uma reprodução de resolução perfeita e uma experiência de entretenimento digital superior.</p>",
+              "alt": "Integra uma rica variedade de interfaces de E / S, redefinindo a flexibilidade e a expansibilidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c62f9131-0c7e-410d-a629-796ea5dcfb83/ST10000NM020B-1---2025-05-04T192043.015.png",
+              "title": "Seguro de disco bandeja Bloqueio projeto",
+              "text": "<p>Para ajudar os usuários a evitar pressionar acidentalmente os botões da bandeja de disco e liberar discos rígidos durante a operação, a ASUSTOR adicionou um novo mecanismo de bloqueio às bandejas do disco rígido. O design de cabeça chata da fechadura garante que os usuários não precisem de chaves ou ferramentas especiais para desbloqueá-la, apenas uma simples chave de fenda. As novas bandejas de discos podem ser usadas com todos os dispositivos ASUSTOR NAS, fornecendo uma camada adicional de segurança para aplicativos que exigem a troca frequente de discos rígidos (por exemplo, MyArchive).</p>",
+              "alt": "Seguro de disco bandeja Bloqueio projeto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b1a3636d-18a5-4a67-870a-44b059947f2c/ST10000NM020B-1---2025-05-04T192142.874.png",
+              "title": "Gerenciamento Simplificado",
+              "text": "<p>O sistema operacional ADM dedicado do ASUSTOR NAS fornece uma interface de operação simples e uma variedade de ferramentas de gerenciamento para a equipe MIS corporativa. Essas ferramentas incluem expansão da capacidade do disco rígido on-line, migração de sistema perfeita em três etapas, notificações de eventos e suporte abrangente para todas as 13 permissões de arquivo ACL do Windows, permitindo uma estreita integração com os domínios do AD e fornecendo gerenciamento simplificado de TI e maior produtividade.</p>",
+              "alt": "Gerenciamento Simplificado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instalação de software sem PC",
+              "text": "<p>A instalação móvel com o AiMaster leva apenas 3 etapas! Encontre seu NAS, inicialização e instalação do sistema, gerenciamento de energia, atualizações de firmware do ADM, informações do sistema e muito mais, disponíveis a partir da conveniência do seu dispositivo móvel a qualquer momento.</p>",
+              "alt": "Instalação de software sem PC",
+              "banner": "https://assets.decocache.com/scarcom/072571fd-b256-42c2-ba7b-cd275a93196e/ST10000NM020B-1---2025-05-04T192351.297.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3ec11354-ff43-42d6-9a16-5bd2bf49e9ec/ST10000NM020B-1---2025-05-04T192443.755.png",
+              "title": "Integre perfeitamente o armazenamento virtual",
+              "text": "<p>O AS6208T fornece hardware e software de classe empresarial e é compatível com os ambientes de armazenamento virtual VMware, Citrix, Hyper-V. O suporte iSCSI / IP-SAN e NFS permite uma integração perfeita com os ambientes de TI existentes, fornecendo uma solução de armazenamento ideal e econômica.</p>",
+              "alt": "Integre perfeitamente o armazenamento virtual"
+            }
+          ],
+          "productId": "154330"
         }
       ]
     },
