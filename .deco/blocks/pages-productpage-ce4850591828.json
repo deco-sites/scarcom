@@ -11308,6 +11308,60 @@
             }
           ],
           "productId": "154330"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/eebf47b5-8301-41d6-9d0d-4ac5bba32d4f/ST10000NM020B-1---2025-05-04T192910.735.png",
+              "title": "LOCKERSTOR 8 Gen3 (AS6808T)",
+              "text": "<p>Ryzen à altura do desafio!</p>",
+              "alt": "LOCKERSTOR 8 Gen3 (AS6808T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4f0660eb-6ac2-4961-9015-5815dcf19a6b/ST10000NM020B-1---2025-05-04T193022.493.png",
+              "title": "Ryzen à altura do desafio!",
+              "text": "<p>Os SoCs Ryzen Embedded da AMD são tão eficientes que trazem economia de energia e desempenho incomparável de desktop. Quatro núcleos de até 3,8 GHz ajudam você a transferir, armazenar, criar e muito mais com eficiência inacreditável.</p>",
+              "alt": "Ryzen à altura do desafio!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6eaae06f-f146-4e2a-8aeb-6e21d4857d5b/ST10000NM020B-1---2025-05-04T195404.923.png",
+              "title": "Memória ECC de Classe de Servidor",
+              "text": "<p>A memória ECC é normalmente usada em servidores para deteção e correção dos tipos mais comuns de corrupção de dados. Isto pode ajudar a impedir a perda de dados devido a interferências eletromagnéticas ou falhas, tornando o Lockerstor 16R pro na solução NAS mais estável de sempre.</p>",
+              "alt": "Memória ECC de Classe de Servidor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/31b2582c-703b-4984-87fa-6008a72347a5/t5-(7).png",
+              "title": "As velocidades mantêm o Ryzen cada vez mais o Ryzen!",
+              "text": "<p>A série Lockerstor Gen3 é o NAS mais rápido da ASUSTOR de todos os tempos! A combinação do SoC incorporado Ryzen da AMD, SSDs M.2 usando PCIe 4.0, USB4 e 10GbE duplo para garantir que tudo o que você deseja fazer com seu NAS seja extremamente rápido. Com quatro slots M.2 para SSDs NVMe e até dez compartimentos para HDDs, a série Lockerstor Gen3 garante que você obtenha o melhor em velocidade e capacidade.</p>",
+              "alt": "As velocidades mantêm o Ryzen cada vez mais o Ryzen!"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "USB4 – O 4 significa 40 Gbps!",
+              "text": "<p>O Lockerstor Gen3 é equipado com duas portas USB4* Tipo C, fornecendo velocidades ultra-altas de até 40 Gbps. Conecte dispositivos de armazenamento USB4, Thunderbolt 3 ou Thunderbolt 4 para transferir seus dados pessoais e de trabalho em velocidades nunca vistas antes em um NAS ASUSTOR.</p>",
+              "alt": "USB4 – O 4 significa 40 Gbps!",
+              "banner": "https://assets.decocache.com/scarcom/8900a823-895c-4584-9d71-7c77ed1dd88b/ST10000NM020B-1---2025-05-04T195704.804.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f81ae4d-8a95-437a-bedc-1ec2c23dc15c/ST10000NM020B-1---2025-05-04T195756.567.png",
+              "title": "Tecnologia exclusiva de backup a frio MyArchive Expansão de capacidade ilimitada",
+              "text": "<p>A tecnologia de backup a frio do MyArchive transforma os discos rígidos NAS em arquivos de armazenamento removíveis. Insira diretamente um disco rígido MyArchive no NAS para acessar, fazer backup e compartilhar com facilidade terabytes de conteúdo.</p>",
+              "alt": "Tecnologia exclusiva de backup a frio MyArchive Expansão de capacidade ilimitada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/101a987c-04a6-41d0-b689-85852d1af53e/ST10000NM020B-1---2025-05-04T195920.928.png",
+              "title": "Snapshot Center",
+              "text": "<p>O Snapshot Center é um novo recurso dos dispositivos NAS ASUSTOR para utilizar volumes Btrfs e iSCSI para tirar instantâneos das informações dentro de um NAS. O Snapshot Center suporta até 256 instantâneos de volume e pode ser feito a cada cinco minutos, criando um backup que pode ser restaurado facilmente se os dados forem danificados ou perdidos. MyArchive agora suporta Btrfs e snapshots. Btrfs for MyArchive suporta snapshots e historico da versão para ajudar a proteger face a eliminações e modificações adicionais.</p>",
+              "alt": "Snapshot Center"
+            }
+          ],
+          "productId": "156212"
         }
       ]
     },
