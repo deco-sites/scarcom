@@ -11564,6 +11564,60 @@
             }
           ],
           "productId": "155985"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "LOCKERSTOR 10 Pro (AS7110T)",
+              "text": "<p>Xeon A Toda a Velocidade! Solução de armazenamento e virtualização estável e altamente eficiente para empresas</p>",
+              "alt": "LOCKERSTOR 10 Pro (AS7110T)",
+              "banner": "https://assets.decocache.com/scarcom/f111547f-43ba-4100-a1cc-c8c4939a18bf/ST10000NM020B-1---2025-05-04T213300.862.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/eb99644b-36a7-42ea-8d77-0fc13fc3fae0/ST10000NM020B-1---2025-05-04T213413.153.png",
+              "title": "CPU Quad-Core Intel Xeon",
+              "text": "<p>O Lockerstor 10 Pro possui um poderoso Intel Xeon de 9ª geração com quatro núcleos. O Xeon não só é extremamente rápido nas velocidades de leitura e gravação, como também oferece um desempenho incrível para máquinas virtuais e aplicações Docker.</p>",
+              "alt": "CPU Quad-Core Intel Xeon"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Portas 10-Gigabit e Tripla 2.5-Gigabit. Velocidades extremas.",
+              "text": "<p>A nova NAS Lockerstor 10 Pro possui uma poderosa porta Aquantia 10-Gigabit Ethernet, bem como portas triplas Aquantia 2.5-Gigabit Ethernet. Com um switch gerido que suporta múltiplas velocidades, pode aproveitar até 10 Gbps de velocidade na porta 10-Gigabit ou até 7,5 Gbps em todas as portas 2.5-Gigabit.</p>",
+              "alt": "Portas 10-Gigabit e Tripla 2.5-Gigabit. Velocidades extremas.",
+              "banner": "https://assets.decocache.com/scarcom/ffc59ea8-b24e-4301-8406-28dc81986143/ST10000NM020B-1---2025-05-04T213515.504.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória ECC de Classe de Servidor",
+              "text": "<p>A memória ECC é normalmente usada em servidores para deteção e correção dos tipos mais comuns de corrupção de dados. Isto pode ajudar a impedir a perda de dados devido a interferências eletromagnéticas ou falhas, tornando o Lockerstor 10 Pro na solução NAS mais estável de sempre.</p>",
+              "alt": "Memória ECC de Classe de Servidor",
+              "banner": "https://assets.decocache.com/scarcom/979de2c9-6a7d-4b13-9027-506a8190b6e2/ST10000NM020B-1---2025-05-04T213612.532.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "10 baías com storage flexível M.2 SSD caching",
+              "text": "<p>O LOCKERSTOR 10 Pro é uma NAS económica e de grande capacidade desenhada para ambientes corporativos. O LOCKERSTOR 10 Pro suporta expansão de capacidade online, permitindo a compra flexível de equipamentos de armazenamento empresarial. Quando os seu orçamento e necessidades de armazenamento forem menores, pode comprar um número menor de discos rígidos. Os discos adicionais podem ser adquiridos à medida que os requisitos de armazenamento aumentarem. Combinado com a tecnologia de armazenamento MyArchive da ASUSTOR, isto permite alcançar efetivamente armazenamento ilimitado.</p>",
+              "alt": "10 baías com storage flexível M.2 SSD caching",
+              "banner": "https://assets.decocache.com/scarcom/938ad4b0-d1f3-4b0f-8b9b-0accafa7bdd5/ST10000NM020B-1---2025-05-04T213712.907.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dbeac106-3938-4018-8dcb-1757f47b99ee/ST10000NM020B-1---2025-05-04T213805.903.png",
+              "title": "Cache SSD",
+              "text": "<p>A SSD caching no Lockerstor 10 Pro eleva o desempenho das unidades de disco, mesmo que apenas o uso de alguns discos rígidos possa aumentar o desempenho para velocidades semelhantes a SSD.</p>",
+              "alt": "Cache SSD"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Confiabilidade e durabilidade 24/7",
+              "text": "<p>Todos os NAS ASUSTOR foram projetados e adequados para uso 24/7. Os dispositivos ASUSTOR NAS também passaram por testes rigorosos, como testes de queda e queima, para testar a durabilidade em condições extremas. Dissipadores de calor foram adicionados a componentes sensíveis para dissipar o calor, ajudando a manter a longevidade do dispositivo.</p>",
+              "alt": "Confiabilidade e durabilidade 24/7",
+              "banner": "https://assets.decocache.com/scarcom/0e6286a8-7ea0-449d-bb26-9f1b1e3eb75f/t9-(5).png"
+            }
+          ],
+          "productId": "155772"
         }
       ]
     },
