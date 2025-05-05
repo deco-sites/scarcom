@@ -11517,6 +11517,53 @@
             }
           ],
           "productId": "156209"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e9dec994-40f3-4a57-bf4e-60fb3dc8003e/banner_model-(18).png",
+              "title": "LOCKERSTOR 10 (AS6510T)",
+              "text": "<p>Entre no overdrive com Intel 10GbE, M.2 SSD Cache e 2.5GbE!</p>",
+              "alt": "LOCKERSTOR 10 (AS6510T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/406cdb65-af27-4abd-a76c-fb26d0107e7b/t3.png",
+              "title": "Portas duplas de 10 e 2,5 Gigabit. Mais rápido do que nunca.",
+              "text": "<p>A nova série de NAS da Lockerstor possui duas portas Intel 10-Gigabit Ethernet, bem como duas portas Ethernet Realtek 2.5-Gigabit. Com um comutador gerenciado que suporta múltiplas velocidades, aproveite até 20 gbps de velocidade com portas de 10 Gigabit ou até 5 gbps nas duas portas de 2,5 Gigabit.</p>",
+              "alt": "Portas duplas de 10 e 2,5 Gigabit. Mais rápido do que nunca."
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d8a73aca-ce7b-4b28-834a-d19d14f70c07/ST10000NM020B-1---2025-05-04T202952.404.png",
+              "title": "SSD Cache",
+              "text": "<p>O ADM atualizado recentemente apresenta um Kernel Linux atualizado e aprimoramentos adicionais de desempenho. A série Lockerstor apresenta o cache SSD M.2 PCIe NVMe aumentando o desempenho. 1. O armazenamento em cache do Lockerstor NVMe SSD aumenta o desempenho em até 60%. 2. O cache do SSD Lockerstor NVMe é mais rápido do que se todos os compartimentos fossem preenchidos com SSDs SATA, mantendo-se mais baratos. Com a dupla Ethernet de 10 Gigabit, os gargalos nos SSDs NVMe foram removidos, tornando o Lockerstor um dos dispositivos NAS mais rápidos de todos os tempos.</p>",
+              "alt": "SSD Cache"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/54f361bb-6cf0-4800-af31-c5585f2788ca/ST10000NM020B-1---2025-05-04T212745.915.png",
+              "title": "Ten Bay com armazenamento flexível M.2 SSD Cache",
+              "text": "<p>O AS6510T é um NAS de grande capacidade e econômico, projetado para ambientes corporativos. O AS6510T suporta expansão de capacidade on-line, permitindo a compra flexível de equipamentos de armazenamento corporativo. Quando seus requisitos de orçamento e armazenamento são menores, você pode comprar um número menor de discos rígidos. Discos adicionais podem ser adquiridos à medida que seus requisitos de armazenamento aumentam. Combinado com a tecnologia de armazenamento MyArchive da ASUSTOR, isso permite alcançar efetivamente armazenamento ilimitado.</p>",
+              "alt": "Ten Bay com armazenamento flexível M.2 SSD Cache"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Design de refrigeração poderoso e de alta eficiência",
+              "text": "<p>O Lockerstor utiliza ventiladores PWM com controles de velocidade inteligentes e dissipadores de calor com montagem com pino para obter o fluxo de ar ideal, melhorando a estabilidade e mantendo o alto desempenho, mesmo sob altas cargas. O design aprimorado do Lockerstor apresenta dissipadores de calor mais altos que os modelos anteriores para garantir um resfriamento e dissipação de calor ainda mais eficientes.</p>",
+              "alt": "Design de refrigeração poderoso e de alta eficiência",
+              "banner": "https://assets.decocache.com/scarcom/5c9e22a6-3408-4234-9ed9-f7fd97969850/ST10000NM020B-1---2025-05-04T212900.861.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0e6286a8-7ea0-449d-bb26-9f1b1e3eb75f/t9-(5).png",
+              "title": "Confiabilidade e durabilidade 24/7",
+              "text": "<p>Todos os NAS ASUSTOR foram projetados e adequados para uso 24/7. Os dispositivos ASUSTOR NAS também passaram por testes rigorosos, como testes de queda e queima, para testar a durabilidade em condições extremas. Dissipadores de calor foram adicionados a componentes sensíveis para dissipar o calor, ajudando a manter a longevidade do dispositivo.</p>",
+              "alt": "Confiabilidade e durabilidade 24/7"
+            }
+          ],
+          "productId": "155985"
         }
       ]
     },
