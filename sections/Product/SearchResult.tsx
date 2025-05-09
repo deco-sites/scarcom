@@ -3,7 +3,6 @@ import SearchControls from "$store/islands/SearchControls.tsx";
 import ProductGallery, {
   Columns,
 } from "$store/components/product/ProductGallery.tsx";
-import { LoaderReturnType } from "deco/mod.ts";
 import type { ProductListingPage } from "apps/commerce/types.ts";
 import Sort from "$store/islands/Sort.tsx";
 import { DiscountBadgeColors } from "$store/components/product/DiscountBadge.tsx";
@@ -14,6 +13,7 @@ import NotFound from "$store/components/search/NotFound.tsx";
 import Pagination from "deco-sites/scarcom/components/search/Pagination.tsx";
 import { type Section as Section } from "@deco/deco/blocks";
 import { type SectionProps as SectionProps } from "@deco/deco";
+import { type LoaderReturnType } from "@deco/deco";
 export interface DiscountBadgeProps {
   label: string;
   variant: DiscountBadgeColors;
@@ -51,7 +51,6 @@ export const loader = (props: Props, req: Request) => {
   console.log(req.url);
   return { ...props, url: req.url };
 };
-
 function Result(
   {
     page,
@@ -63,7 +62,9 @@ function Result(
     url,
   }: Omit<Omit<Props, "page">, "notFoundSection"> & {
     page: ProductListingPage;
-  } & { url: string },
+  } & {
+    url: string;
+  },
 ) {
   const { products, filters, breadcrumb, pageInfo, sortOptions } = page;
   const { nextPage, previousPage } = pageInfo;

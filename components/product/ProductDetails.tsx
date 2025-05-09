@@ -7,7 +7,6 @@ import Image from "apps/website/components/Image.tsx";
 import OutOfStock from "$store/islands/OutOfStock.tsx";
 import { formatPrice } from "$store/sdk/format.ts";
 import type { ProductDetailsPage } from "apps/commerce/types.ts";
-import { LoaderReturnType } from "deco/mod.ts";
 import AddToCartActions from "$store/islands/AddToCartActions.tsx";
 import Icon from "$store/components/ui/Icon.tsx";
 import { getShareLink } from "$store/sdk/shareLinks.tsx";
@@ -17,6 +16,7 @@ import ProductSelector from "./ProductVariantSelector.tsx";
 import { DiscountBadgeProps } from "$store/components/product/DiscountBadge.tsx";
 import { type Section as Section } from "@deco/deco/blocks";
 import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
+import { type LoaderReturnType } from "@deco/deco";
 export type Variant = "front-back" | "slider" | "auto";
 export type ShareableNetwork = "Facebook" | "Twitter" | "Email" | "WhatsApp";
 export interface LabelBuyButton {
@@ -64,26 +64,21 @@ export interface Props {
    */
   notFoundSection: Section;
 }
-
 export interface LoaderProps extends Props {
   appKeyCurrent?: string;
   appTokenCurrent?: string;
 }
-
 const WIDTH = 500;
 const HEIGHT = 500;
 const ASPECT_RATIO = `${WIDTH} / ${HEIGHT}`;
-
 export async function loader(props: LoaderProps, _req: Request, _: AppContext) {
   const { appKeyCurrent, appTokenCurrent, ...defaultProps } = props;
-
   if (!appKeyCurrent || !appTokenCurrent) {
     return {
       manufacturerCode: null,
       ...defaultProps,
     };
   }
-
   const response = await fetch(
     `https://scarcom.myvtex.com/api/catalog_system/pvt/sku/stockkeepingunitbyid/${defaultProps.page?.product.sku}`,
     {
@@ -95,13 +90,11 @@ export async function loader(props: LoaderProps, _req: Request, _: AppContext) {
     },
   );
   const dataStockKeeping = await response.json();
-
   return {
     manufacturerCode: dataStockKeeping.ManufacturerCode as string,
     ...defaultProps,
   };
 }
-
 function ProductInfo(
   {
     page,
@@ -130,15 +123,12 @@ function ProductInfo(
     additionalProperty,
   } = product;
   const { price, listPrice, seller, installment_text, availability_quantity } =
-    useOffer(
-      offers,
-    );
+    useOffer(offers);
   const referenceID =
     additionalProperty?.find(({ valueReference }) =>
       valueReference == "ReferenceID"
     )?.value ?? gtin;
   // const especifications = page?.product?.isVariantOf?.additionalProperty;
-
   // const renderItem = (item: any) => {
   //   switch (item.name) {
   //     case "Gênero":
@@ -229,7 +219,6 @@ function ProductInfo(
   //     </li>
   //   ));
   // };
-
   return (
     <>
       {/* Code and name */}
@@ -390,7 +379,6 @@ function ProductInfo(
     </>
   );
 }
-
 const useStableImages = (product: ProductDetailsPage["product"]) => {
   const imageNameFromURL = (url = "") => {
     const segments = new URL(url).pathname.split("/");
@@ -410,7 +398,6 @@ const useStableImages = (product: ProductDetailsPage["product"]) => {
     return { ...img, url: allImages[name] ?? img.url };
   });
 };
-
 function Details(
   {
     page,
@@ -505,7 +492,6 @@ function Details(
     </div>
   );
 }
-
 function ProductDetails({
   page,
   variant: maybeVar = "auto",
@@ -543,5 +529,4 @@ function ProductDetails({
     </div>
   );
 }
-
 export default ProductDetails;

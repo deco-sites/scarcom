@@ -2,7 +2,6 @@ import Filters from "../../components/search/Filters.tsx";
 import SearchControls from "../../islands/SearchControls.tsx";
 import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalyticsItem.ts";
 import ProductGallery, { Columns } from "../product/ProductGallery.tsx";
-import { LoaderReturnType } from "deco/mod.ts";
 import type { ProductListingPage } from "apps/commerce/types.ts";
 import Sort from "../../islands/Sort.tsx";
 import SearchPagination from "../../components/search/SearchPagination.tsx";
@@ -14,6 +13,7 @@ import { SendEventOnView } from "../../components/Analytics.tsx";
 import { useId } from "../../sdk/useId.ts";
 import { type Section as Section } from "@deco/deco/blocks";
 import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
+import { type LoaderReturnType } from "@deco/deco";
 export interface DiscountBadgeProps {
   label: string;
   variant: DiscountBadgeColors;
