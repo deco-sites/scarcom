@@ -1,4 +1,3 @@
-import { LoaderReturnType } from "deco/mod.ts";
 import type { Layout as CardLayout } from "../../components/product/ProductCard.tsx";
 import ProductCard from "../../components/product/ProductCard.tsx";
 import {
@@ -14,7 +13,7 @@ import { mapProductToAnalyticsItem } from "apps/commerce/utils/productToAnalytic
 import { useId } from "preact/hooks";
 import { HighLight } from "../../components/product/ProductHighlights.tsx";
 import { useOffer } from "deco-sites/scarcom/utils/useOffer.ts";
-
+import { type LoaderReturnType } from "@deco/deco";
 interface MarginItem {
   0: string;
   1: string;
@@ -23,7 +22,6 @@ interface MarginItem {
   4: string;
   5: string;
 }
-
 const marginItem: MarginItem = {
   0: "0px",
   1: "0px",
@@ -32,7 +30,6 @@ const marginItem: MarginItem = {
   4: "20px",
   5: "20px",
 };
-
 export interface Props {
   products: LoaderReturnType<Product[] | null>;
   title?: string;
@@ -61,11 +58,9 @@ export interface Props {
   showPaginationDots?: ResponsiveConditionals;
   cardLayout?: CardLayout;
 }
-
 interface ButtonsProps {
   className: string;
 }
-
 // deno-lint-ignore no-explicit-any
 function itemPerPage(itemsPerPage: any) {
   return Object.entries(itemsPerPage).sort(([widthA], [widthB]) =>
@@ -73,33 +68,28 @@ function itemPerPage(itemsPerPage: any) {
   )
     .find(([width]) => Number(width) <= globalThis.window.innerWidth) ?? [0, 1];
 }
-
-function ProductShelf({
-  products,
-  title,
-  layout,
-  cardLayout,
-  seeMore,
-  showPaginationArrows,
-  showPaginationDots,
-  highlights,
-}: Props) {
+function ProductShelf(
+  {
+    products,
+    title,
+    layout,
+    cardLayout,
+    seeMore,
+    showPaginationArrows,
+    showPaginationDots,
+    highlights,
+  }: Props,
+) {
   const id = useId();
-
   if (!products || products.length === 0) {
     return null;
   }
-
   const [, perPage] = itemPerPage(
-    layout?.itemsPerPage?.reduce(
-      (initial, { screenWidth, itemsQuantity }) => ({
-        ...initial,
-        [screenWidth?.toString() ?? "0"]: itemsQuantity ?? 1,
-      }),
-      {},
-    ),
+    layout?.itemsPerPage?.reduce((initial, { screenWidth, itemsQuantity }) => ({
+      ...initial,
+      [screenWidth?.toString() ?? "0"]: itemsQuantity ?? 1,
+    }), {}),
   );
-
   return (
     <div class="relative w-full py-8 mb-6 flex flex-col gap-12 lg:gap-7 lg:py-10">
       <div class="flex items-center justify-between relative pb-3 border-b border-neutral-100">
@@ -121,10 +111,7 @@ function ProductShelf({
           : null}
       </div>
 
-      <div
-        id={id}
-        class="grid grid-cols-[48px_1fr_48px] px-0"
-      >
+      <div id={id} class="grid grid-cols-[48px_1fr_48px] px-0">
         <Slider class="carousel carousel-start gap-6 col-span-full row-start-2 row-end-5">
           {products?.map((product, index) => (
             <Slider.Item
@@ -158,9 +145,7 @@ function ProductShelf({
             showPaginationDots ? showPaginationDots : "Always"
           ]}
         />
-        <Slider.JS
-          rootId={id}
-        />
+        <Slider.JS rootId={id} />
         <SendEventOnView
           id={id}
           event={{
@@ -181,7 +166,6 @@ function ProductShelf({
     </div>
   );
 }
-
 function Buttons({ className }: ButtonsProps) {
   return (
     <>
@@ -222,7 +206,6 @@ function Buttons({ className }: ButtonsProps) {
     </>
   );
 }
-
 interface DotsProps {
   products: LoaderReturnType<Product[] | null>;
   /**
@@ -234,7 +217,6 @@ interface DotsProps {
    */
   className: string;
 }
-
 function Dots({ products, className, interval = 0 }: DotsProps) {
   return (
     <>
@@ -272,5 +254,4 @@ function Dots({ products, className, interval = 0 }: DotsProps) {
     </>
   );
 }
-
 export default ProductShelf;
