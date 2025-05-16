@@ -11618,6 +11618,107 @@
             }
           ],
           "productId": "155772"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "FLASHSTOR 12 Pro (FS6712X)",
+              "text": "<p>NAS Flashstor totalmente SSD</p>",
+              "alt": "FLASHSTOR 12 Pro (FS6712X)",
+              "banner": "https://assets.decocache.com/scarcom/ea4218c2-70f5-4b6a-9669-50fdbed8241f/Design-sem-nome---2025-05-16T141350.788.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/adeb6ec7-d5c3-4bba-be2a-953d1225b7c6/Design-sem-nome---2025-05-16T141454.013.png",
+              "title": "Seus dados – Com você na estrada",
+              "text": "<p>Não mais nem mais largo do que um pedaço de papel de tamanho A4 . SSDs não são tão sensíveis quanto discos rígidos . Extremamente rápido em qualquer situação</p>",
+              "alt": "Seus dados – Com você na estrada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Seu ASUSTOR traz potencial virtualmente ilimitado para o Final Cut Pro",
+              "text": "<p>O arquivamento e o conteúdo bruto inacabado estão entre os problemas de armazenamento mais comuns que os criadores de conteúdo encontram ao trabalhar em um Mac. As bibliotecas do Final Cut Pro podem crescer rapidamente e fora de controle. Os criadores de conteúdo costumam recorrer a drives externos USB para armazenar material para o Final Cut Pro. Ao usar um Mac, especialmente Macs portáteis como o MacBook Pro, as unidades externas são freqüentemente conectadas e desconectadas, o que pode levar ao desgaste da porta. Unidades externas também são inconvenientes, pois os arquivos não podem ser convenientemente compartilhados com colegas de trabalho ou colaboradores e as unidades externas são suscetíveis a danos de uma forma que um NAS não é. Um NAS permanece estacionário enquanto disponibiliza digitalmente seus arquivos enquanto um drive externo é portátil, aumentando o risco de quedas, derramamentos ou outros tipos de danos.</p>",
+              "alt": "Seu ASUSTOR traz potencial virtualmente ilimitado para o Final Cut Pro",
+              "banner": "https://assets.decocache.com/scarcom/9b06bbca-32d0-46bf-93e1-f848836af31b/Design-sem-nome---2025-05-16T141629.572.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f7e73089-4049-49eb-9815-8209f46242f3/Design-sem-nome---2025-05-16T141742.878.png",
+              "title": "Armazene Jogos numa Drive iSCSI",
+              "text": "<p>A enorme capacidade de uma NAS ajuda a expandir o armazenamento do PC. De acordo com os sistemas operativos modernos, as unidades iSCSI aparecem como unidades locais e os programas que não podem ser instalados em partilhas de rede podem ser instaladas. Isso permite que certos jogos sejam jogados numa NAS quando não podem ser executados numa partilha de rede.</p><p><br></p>",
+              "alt": "Armazene Jogos numa Drive iSCSI"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/54fbe37e-e162-4ff8-a32d-5a313813d4be/Design-sem-nome---2025-05-16T141855.572.png",
+              "title": "Mantendo os SSDs Resfriados",
+              "text": "<p>O ventilador silencioso e o design eficiente do duto de ar proporcionam rápida dissipação de calor para garantir que os SSDs recebam o resfriamento de que precisam.</p>",
+              "alt": "Mantendo os SSDs Resfriados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Eficiente e Silencioso",
+              "text": "<p>O Flashstor mantém seus SSDs e NAS refrigerados, silenciosos e eficientes. Quando em marcha lenta, o Flashstor emite apenas 18,7 decibéis de som. Ao dissipar silenciosamente o calor, o Flashstor facilita o foco na criação e consumo de conteúdo sem interferência de ruído.</p>",
+              "alt": "Eficiente e Silencioso",
+              "banner": "https://assets.decocache.com/scarcom/58b3775d-87d4-42e1-97e1-d6dba3ab9b98/Design-sem-nome---2025-05-16T142000.820.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ca8a2486-bc36-4c7e-ade6-309cfcdf56fb/Design-sem-nome---2025-05-16T142038.270.png",
+              "title": "A velocidade nunca pareceu tão boa",
+              "text": "<p>A estética do Flashstor não é apenas para aparência, mas é projetada para garantir um resfriamento eficiente para manter os componentes funcionando em suas velocidades máximas.</p>",
+              "alt": "A velocidade nunca pareceu tão boa"
+            }
+          ],
+          "productId": "155776"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1016b88d-de31-4914-a26b-c69136548177/Design-sem-nome---2025-05-16T142626.853.png",
+              "title": "LOCKERSTOR 16R Pro (AS7116RDX)",
+              "text": "<p>Solução de armazenamento em massa, escalável e de Virtualização para empresas</p>",
+              "alt": "LOCKERSTOR 16R Pro (AS7116RDX)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1a2a9f77-a917-4120-92e2-e01bb64ddc59/Design-sem-nome---2025-05-16T142729.916.png",
+              "title": "CPU Quad-Core Intel Xeon",
+              "text": "<p>O Lockerstor 12R/16R Pro possui um poderoso Intel Xeon de 9ª geração com quatro núcleos. O Xeon não só é extremamente rápido nas velocidades de leitura e gravação, como também oferece um desempenho incrível para máquinas virtuais e aplicações Docker.</p>",
+              "alt": "CPU Quad-Core Intel Xeon"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória ECC de Classe de Servidor",
+              "text": "<p>A memória ECC é normalmente usada em servidores para deteção e correção dos tipos mais comuns de corrupção de dados. Isto pode ajudar a impedir a perda de dados devido a interferências eletromagnéticas ou falhas, tornando o Lockerstor 16R pro na solução NAS mais estável de sempre.</p>",
+              "banner": "https://assets.decocache.com/scarcom/6379164a-1801-4fc8-b5e7-3266dcb11a58/Design-sem-nome---2025-05-16T142835.045.png",
+              "alt": "Memória ECC de Classe de Servidor"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Enterprise Backup",
+              "text": "<p>O Lockerstor 16R Pro(3U) apresenta soluções abrangentes de backup. A built-in fonte de alimentação redundante e 4 portas Gigabit Ethernet efetivamente aumentar a confiabilidade, integridade de dados e velocidades de execução. As portas Ethernet e poder fornecer todos os recursos de recurso de failover (quando um falhar, o outro pode continuar a operar), a fim de assegurar a disponibilidade contínua de dados.</p>",
+              "banner": "https://assets.decocache.com/scarcom/8f25d372-ad1d-4908-b0ad-cd4274c87f36/Design-sem-nome---2025-05-16T142930.589.png",
+              "alt": "Enterprise Backup"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d99fb4cc-90c4-4b48-a527-f738dc19e76b/Design-sem-nome---2025-05-16T143155.495.png",
+              "title": "Confiabilidade e durabilidade 24/7",
+              "text": "<p>Todos os NAS ASUSTOR foram projetados e adequados para uso 24/7. Os dispositivos ASUSTOR NAS também passaram por testes rigorosos, como testes de queda e queima, para testar a durabilidade em condições extremas. Dissipadores de calor foram adicionados a componentes sensíveis para dissipar o calor, ajudando a manter a longevidade do dispositivo.</p>",
+              "alt": "Confiabilidade e durabilidade 24/7"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d5c71f22-41fb-47a5-b0d9-b0a6083ad60e/Design-sem-nome---2025-05-16T143316.537.png",
+              "title": "Proteção Contra Ransomware",
+              "text": "<p>O Lockerstor Pro inclui a versão mais atualizada do ADM para ajudar a proteger contra ataques de ransomware. Com o Snapshot Center e o Btrfs, obtém snapshots eficientes para restaurar facilmente os dados perdidos. Outros recursos de segurança encontrados no Lockerstor Pro são a capacidade de criar uma ou mais contas de administrador substitutas, uma firewall ADM Defender que apresenta listas negras e brancas e a capacidade de alterar portas padrão, desativar o SSH e o Terminal para impedir ataques remotos. A segurança do cold storage MyArchive também pode ser aumentada com a implementação de encriptação AES 256 bit.</p>",
+              "alt": "Proteção Contra Ransomware"
+            }
+          ],
+          "productId": "155777"
         }
       ]
     },
