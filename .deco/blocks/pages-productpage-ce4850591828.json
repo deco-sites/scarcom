@@ -11719,6 +11719,53 @@
             }
           ],
           "productId": "155777"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8306ab48-3162-4196-abb0-3aad0f7cb641/Design-sem-nome---2025-05-17T104453.589.png",
+              "title": "DRIVESTOR 2 Pro (AS3302T)",
+              "text": "<p>Rápido,eficiente,confiável,acessível Nuvem pessoal acessível trazendo altas velocidades para indivíduos e famílias.</p>",
+              "alt": "DRIVESTOR 2 Pro (AS3302T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9a2b8ba1-355e-46cd-8a67-6014c29c80c2/Design-sem-nome---2025-05-17T104605.046.png",
+              "title": "Novo ADM 4.0",
+              "text": "<p>O ADM 4.0 está aqui e traz uma série de alterações de design intuitivas para o SO ADM. A IU atualizada traz um novo modo escuro esteticamente agradável que ajuda a salvar e preservar as telas OLED. O ADM 4.0 apresenta uma nova página de login que contém uma variedade de elementos personalizáveis, um recurso de pesquisa rápida mais conveniente e fácil de usar e novos temas personalizados. De modo transparente, o ADM 4.0 traz melhorias de desempenho, compatibilidade e segurança à medida que a nova versão do OpenSSL bloqueia vulnerabilidades encontradas em versões anteriores, aumentando a segurança enquanto melhorias de eficiência trazem melhor desempenho.</p>",
+              "alt": "Novo ADM 4.0"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Coloração rosa ouro",
+              "text": "<p>O novo logotipo Rose Gold é elegante e distinto, permitindo fácil distinção entre os modelos ASUSTOR NAS.</p>",
+              "alt": "Coloração rosa ouro",
+              "banner": "https://assets.decocache.com/scarcom/8f62cedd-7e82-4bf0-87c5-4851cbd348f2/Design-sem-nome---2025-05-17T104702.729.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "CPU Realtek Quad-Core e RAM DDR4\u000b",
+              "text": "<p>O Drivestor 2 Pro e o Drivestor 4 Pro são equipados com uma CPU Realtek RTD1296 1,4 GHz Quad-Core de 64 bits. Transcodifique, reproduza stream e reproduza multimídia em 4K, transfira arquivos e realize multitarefas facilmente com a série Drivestor Pro. O Drivestor Pro lida com multitarefa com facilidade, utilizando seus 2 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "CPU Realtek Quad-Core e RAM DDR4\u000b",
+              "banner": "https://assets.decocache.com/scarcom/4e88a770-a9c9-47a3-bbc0-43a211cfad2f/Design-sem-nome---2025-05-17T104751.536.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/754253ff-55e7-4034-8fad-cf502c89f337/Design-sem-nome---2025-05-17T104837.743.png",
+              "title": "Modo de Mídia",
+              "text": "<p>O Drivestor 2 Pro e 4 Pro vêm com 2 GB de memória. O Modo de mídia é um novo recurso que reserva de forma eficiente 512 MB de RAM para tarefas de multimídia, pois uma variedade de tarefas requer grandes quantidades de RAM. Com RAM dedicada para multimídia, a reprodução de vídeo permanece suave e não é interrompida por outras tarefas.</p>",
+              "alt": "Modo de Mídia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Eficiente e poderoso",
+              "text": "<p>O Drivestor 2 Pro e 4 Pro são os dispositivos de maior valor da ASUSTOR de todos os tempos. Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso",
+              "banner": "https://assets.decocache.com/scarcom/047709dd-6aa3-4fc4-8131-4efd429642af/Design-sem-nome---2025-05-17T104942.543.png"
+            }
+          ],
+          "productId": "155778"
         }
       ]
     },
