@@ -11860,6 +11860,53 @@
             }
           ],
           "productId": "155780"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/04e5bdcd-1dff-4d4e-81fa-585cd3052bd3/Design-sem-nome---2025-05-17T124149.534.png",
+              "title": "DRIVESTOR 4 (AS1104T)",
+              "text": "<p>O Drivestor 4 - Ótimo valor, ótimo desempenho</p>",
+              "alt": "DRIVESTOR 4 (AS1104T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Coloração rosa ouro",
+              "text": "<p>O novo logotipo Rose Gold é elegante e distinto, permitindo fácil distinção entre os modelos ASUSTOR NAS.</p>",
+              "alt": "Coloração rosa ouro",
+              "banner": "https://assets.decocache.com/scarcom/e0c935c0-bc25-4b12-8b70-ba0510bc44c1/Design-sem-nome---2025-05-17T124309.690.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "CPU Realtek Quad-Core e RAM DDR4",
+              "text": "<p>O Drivestor 2 e o Drivestor 4 são equipados com uma CPU Realtek RTD1296 1,4 GHz Quad-Core de 64 bits. Transcodifique, reproduza stream e reproduza multimídia em 4K, transfira arquivos e realize multitarefas facilmente com a série Drivestor. O Drivestor lida com multitarefa com facilidade, utilizando seus 1 GB de memória DDR4 garantindo que praticamente qualquer tarefa em um NA ASUSTOR seja executada sem problemas.</p>",
+              "alt": "CPU Realtek Quad-Core e RAM DDR4",
+              "banner": "https://assets.decocache.com/scarcom/341b1808-2cab-4e4b-bec4-0562df00e40e/Design-sem-nome---2025-05-17T124403.700.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Eficiente e poderoso",
+              "text": "<p>O Drivestor 2 e 4 são os dispositivos de maior valor da ASUSTOR de todos os tempos. Transcodifique mídia 4K H.265 de 10 bits com decodificação de hardware facilmente que permite uma reprodução de vídeo incrivelmente suave no LooksGood.</p>",
+              "alt": "Eficiente e poderoso",
+              "banner": "https://assets.decocache.com/scarcom/1d0ba236-f2ea-453a-bf32-528b85251696/Design-sem-nome---2025-05-17T124445.736.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Modo de Mídia",
+              "text": "<p>O Drivestor 2 e 4 vêm com 1 GB de memória. O Modo de mídia é um novo recurso que reserva de forma eficiente 512 MB de RAM para tarefas de multimídia, pois uma variedade de tarefas requer grandes quantidades de RAM. Com RAM dedicada para multimídia, a reprodução de vídeo permanece suave e não é interrompida por outras tarefas.</p>",
+              "alt": "Modo de Mídia",
+              "banner": "https://assets.decocache.com/scarcom/aa7b0794-f057-4bb9-8bf2-02de0e978271/Design-sem-nome---2025-05-17T124554.073.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Ethernet 2,5-Gigabit – Velocidade dobrada",
+              "text": "<p>O Drivestor 4, apesar de ser extremamente acessível, contém 2,5 Gigabit Ethernet e mais do que duplica o desempenho de dispositivos comparáveis ​​da classe Gigabit.</p>",
+              "alt": "Ethernet 2,5-Gigabit – Velocidade dobrada",
+              "banner": "https://assets.decocache.com/scarcom/366bc844-53db-4ae5-9ac8-208d3054297f/Design-sem-nome---2025-05-17T124647.875.png"
+            }
+          ],
+          "productId": "155781"
         }
       ]
     },
