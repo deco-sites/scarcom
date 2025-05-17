@@ -11813,6 +11813,53 @@
             }
           ],
           "productId": "155779"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/76b518e8-29a3-4e01-81d6-3b46f3366439/Design-sem-nome---2025-05-17T110802.477.png",
+              "title": "LOCKERSTOR 2 Gen2 (AS6702T)",
+              "text": "<p>O NAS 2,5 GbE sem compromissos  NAS de nível entusiasta com dois, quatro ou seis compartimentos</p>",
+              "alt": "LOCKERSTOR 2 Gen2 (AS6702T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b36e639e-5665-4fcc-b327-23bbc25d1d36/Design-sem-nome---2025-05-17T110915.530.png",
+              "title": "Quatro slots M.2",
+              "text": "<p>A série Lockerstor Gen2 de dispositivos NAS vem com quatro slots M.2 para armazenamento em cache ou armazenamento ou ambos. Use todos os slots para uma finalidade ou misture e combine, dependendo de suas necessidades.</p>",
+              "alt": "Quatro slots M.2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3037bfbe-650f-425a-9405-dd3b79d2e428/Design-sem-nome---2025-05-17T111000.613.png",
+              "title": "Mantendo fresco",
+              "text": "<p>Com até quatro SSDs, uma quantidade considerável de calor pode ser gerada. Com ventilação extra, o Lockerstor Gen2 garante que todos os componentes do seu NAS recebam refrigeração.</p>",
+              "alt": "Mantendo fresco"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instalação SSD M.2 sem ferramentas",
+              "text": "<p>Usa travas em vez de parafusos para facilitar a instalação.</p>",
+              "alt": "Instalação SSD M.2 sem ferramentas",
+              "banner": "https://assets.decocache.com/scarcom/f89f89a5-9e31-462c-be84-e49037f9475a/Design-sem-nome---2025-05-17T123321.949.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4c52d2e6-9bd9-45a7-9bdb-36d0eb618c65/Design-sem-nome---2025-05-17T123411.877.png",
+              "title": "2.5 + 2.5 = Velocidades extremas",
+              "text": "<p>O Lockerstor Gen2 possui duas portas de 2,5 GbE que mais que dobram o desempenho dos dispositivos Gigabit Ethernet. Mas isso não é tudo, com a recente introdução do suporte para SMB Multichannel, seu NAS poderá combinar a velocidade de várias portas Ethernet para velocidades muito além da Ethernet de 2,5 Gigabit</p>",
+              "alt": "2.5 + 2.5 = Velocidades extremas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24855453-3e81-4660-86a2-d0eeb6605d1b/Design-sem-nome---2025-05-17T123937.060.png",
+              "title": "PCIe 3.0 – Desempenho dobrado de SSD",
+              "text": "<p>O PCIe 3.0 é suportado pela série Lockerstor Gen2 de dispositivos NAS que quase dobram o desempenho dos SSDs M.2 instalados em seu NAS, garantindo uma experiência SSD mais suave.</p>",
+              "alt": "PCIe 3.0 – Desempenho dobrado de SSD"
+            }
+          ],
+          "productId": "155780"
         }
       ]
     },
