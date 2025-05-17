@@ -11954,6 +11954,53 @@
             }
           ],
           "productId": "155782"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "NIMBUSTOR 4 Gen2 (AS5404T)",
+              "text": "<p>O Melhor NAS 4 Flash Discos rígidos + Flash SSDs = O melhor dos dois mundos</p>",
+              "alt": "NIMBUSTOR 4 Gen2 (AS5404T)",
+              "banner": "https://assets.decocache.com/scarcom/11e711db-f254-4d10-8f28-a34df22fe72c/Design-sem-nome---2025-05-17T130259.288.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8742c5a9-e02b-4b1d-8880-5348dacff7cc/Design-sem-nome---2025-05-17T110046.857.png",
+              "title": "Upgrade 4GB DDR4-2933 RAM",
+              "text": "<p>O AS54 vem com quatro Gigabytes de RAM DDR4 e pode ser atualizado até 16 GB. A RAM DDR4 oferece desempenho até 30% maior que o DDR3, além de reduzir os requisitos de energia em 40%.</p>",
+              "alt": "Upgrade 4GB DDR4-2933 RAM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Fim da estrada... para Gigabit Ethernet",
+              "text": "<p>2,5 GbE não é o futuro. É agora. Com 2,5 GbE onipresente em placas-mãe entusiastas e disponível como um adaptador USB acessível, a onipresença de 2,5 GbE torna todas as transferências rápidas. Quebre ainda mais as barreiras combinando as duas portas Ethernet de 2,5 Gigabit no SMB Multichannel para desfrutar de velocidades superiores a 2,5 Gbps.</p>",
+              "alt": "Fim da estrada... para Gigabit Ethernet",
+              "banner": "https://assets.decocache.com/scarcom/366bc844-53db-4ae5-9ac8-208d3054297f/Design-sem-nome---2025-05-17T124647.875.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Melhores 4 flashes",
+              "text": "<p>A série Nimbustor Gen2 é equipada com quatro slots M.2 para SSDs NVMe para acelerar tarefas que exigem alto desempenho de IO aleatório para economizar uma quantidade inacreditável de tempo em aplicativos que podem tirar proveito de SSDs, como criação de conteúdo. Cada slot M.2 para SSDs NVMe dispensa ferramentas para uma instalação mais fácil, enquanto as aberturas de resfriamento garantem que os SSDs funcionem com desempenho ideal.</p>",
+              "alt": "Melhores 4 flashes",
+              "banner": "https://assets.decocache.com/scarcom/3037bfbe-650f-425a-9405-dd3b79d2e428/Design-sem-nome---2025-05-17T111000.613.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4929a169-1820-406b-a810-5fa45fba9d0b/Design-sem-nome---2025-05-17T110413.345.png",
+              "title": "USB 3.2 Gen 2 (10Gbps) – Dupla Performance",
+              "text": "<p>A série AS54 atualiza a interface USB para USB 3.2 Gen 2 (10Gbps). Isso significa que as portas USB têm até o dobro da velocidade das portas USB encontradas na geração anterior de dispositivos NAS a 10 Gbps. Conecte vários dispositivos de expansão para armazenamento extra ou utilize as portas USB para backups e outros periféricos para uma experiência verdadeiramente personalizada.</p>",
+              "alt": "USB 3.2 Gen 2 (10Gbps) – Dupla Performance"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Looks inspirados em jogos",
+              "text": "<p>Aberturas de resfriamento estéticas: Garantindo transmissão de dados em alta velocidade no SSD M.2 com boa aparência.  Discos rígidos e SSDs sem ferramentas: Instale ou substitua rapidamente discos rígidos e SSDs sem ferramentas.  Painel magnético: Resistente a poeira para garantir longevidade extra de discos rígidos e componentes internos.</p>",
+              "alt": "Looks inspirados em jogos",
+              "banner": "https://assets.decocache.com/scarcom/c21040a2-59a4-4cec-8fc0-f583996cf134/Design-sem-nome---2025-05-17T130839.430.png"
+            }
+          ],
+          "productId": "155783"
         }
       ]
     },
