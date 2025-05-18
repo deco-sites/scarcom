@@ -12001,6 +12001,53 @@
             }
           ],
           "productId": "155783"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0698a3e4-470e-4872-b9b0-e58e1a2ec499/Design-sem-nome---2025-05-17T233513.388.png",
+              "title": "LOCKERSTOR 6 Gen2 (AS6706T)",
+              "text": "<p>O NAS 2,5 GbE sem compromissos  NAS de nível entusiasta com dois, quatro ou seis compartimentos</p>",
+              "alt": "LOCKERSTOR 6 Gen2 (AS6706T)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Equipado com um processador quad-core Intel 10nm Celeron N5105 (Jasper Lake)",
+              "text": "<p>A mais nova CPU Quad-Core N5105 da Intel vem com tecnologia Intel 10 nm e desempenho até 31% maior em relação aos SoCs Gemini Lake. O N5105 tem clock de 2,0 GHz com um aumento de até 2,9 GHz, permitindo a criação de conteúdo eficiente com a flexibilidade adicional de atualizações de 10 Gigabit Ethernet.</p>",
+              "alt": "Equipado com um processador quad-core Intel 10nm Celeron N5105 (Jasper Lake)",
+              "banner": "https://assets.decocache.com/scarcom/9354ccf1-7650-4737-8a30-965f26323eb4/Design-sem-nome---2025-05-17T233619.980.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/be08a19d-2bb5-4f11-964b-39b69f387845/Design-sem-nome---2025-05-17T233903.871.png",
+              "title": "Um clássico renasce com melhor hardware do que nunca",
+              "text": "<p>Armazenamento híbrido ASUSTOR Ultimate de 6 baias. Espaço gigante e alta velocidade elástica com cartão M.2 ou 10G.</p>",
+              "alt": "Um clássico renasce com melhor hardware do que nunca"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b4234af9-7e6e-4d86-b6dc-81b2f23e4bb1/Design-sem-nome---2025-05-17T233954.016.png",
+              "title": "Quatro slots M.2",
+              "text": "<p>A série Lockerstor Gen2 de dispositivos NAS vem com quatro slots M.2 para armazenamento em cache ou armazenamento ou ambos. Use todos os slots para uma finalidade ou misture e combine, dependendo de suas necessidades.</p>",
+              "alt": "Quatro slots M.2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3037bfbe-650f-425a-9405-dd3b79d2e428/Design-sem-nome---2025-05-17T111000.613.png",
+              "title": "Mantendo fresco",
+              "text": "<p>Com até quatro SSDs, uma quantidade considerável de calor pode ser gerada. Com ventilação extra, o Lockerstor Gen2 garante que todos os componentes do seu NAS recebam refrigeração.</p>",
+              "alt": "Mantendo fresco"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/366bc844-53db-4ae5-9ac8-208d3054297f/Design-sem-nome---2025-05-17T124647.875.png",
+              "title": "2.5 + 2.5 = Velocidades extremas",
+              "text": "<p>O Lockerstor Gen2 possui duas portas de 2,5 GbE que mais que dobram o desempenho dos dispositivos Gigabit Ethernet. Mas isso não é tudo, com a recente introdução do suporte para SMB Multichannel, seu NAS poderá combinar a velocidade de várias portas Ethernet para velocidades muito além da Ethernet de 2,5 Gigabit</p>",
+              "alt": "2.5 + 2.5 = Velocidades extremas"
+            }
+          ],
+          "productId": "155786"
         }
       ]
     },
