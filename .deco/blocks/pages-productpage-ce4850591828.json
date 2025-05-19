@@ -12148,6 +12148,60 @@
             }
           ],
           "productId": "156213"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2c78e067-08f6-421b-830f-477cdaa191a3/Design-sem-nome---2025-05-19T144700.170.png",
+              "title": "FLASHSTOR 6 Gen2 (FS6806X)",
+              "text": "<p>Com o Ryzen, a velocidade não para de “Rising”</p>",
+              "alt": "FLASHSTOR 6 Gen2 (FS6806X)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/adf1c432-cf8e-4923-be6b-df5fae2f4309/Design-sem-nome---2025-05-19T145308.137.png",
+              "title": "Ryzen + Flash = Rápido",
+              "text": "<p>O processador AMD Ryzen™ Embedded V3C14 integra núcleos Zen 3 de alto desempenho em uma CPU fria e silenciosa. A excepcional eficiência de processamento e a conectividade de E/S de alta velocidade da CPU Ryzen Embedded asseguram um funcionamento eficiente, permitindo uma transferência de dados rápida e uma computação de alta velocidade, com um consumo mínimo de energia.</p>",
+              "alt": "Ryzen + Flash = Rápido"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b16317f3-0979-4d09-87d7-fc8eed49c140/Design-sem-nome---2025-05-19T145346.551.png",
+              "title": "Ultrapassar a barreira dos 10 Gbps",
+              "text": "<p>A série Flashstor 6 Gen2 possui Ethernet de 10 Gigabits, permitindo transferências de alta velocidade quando emparelhada com um dispositivo compatível com 10GbE e um router ou switch compatível.</p>",
+              "alt": "Ultrapassar a barreira dos 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/360b7e33-326d-411f-a523-c9b0e54996aa/Design-sem-nome---2025-05-19T145437.457.png",
+              "title": "Compacto, mas potente",
+              "text": "<p>Compacto: Design compacto para uma fácil mobilidade. Protegido: Proteja ficheiros valiosos com RAID e instantâneos. Ligado: A Ethernet de 10 Gigabits proporciona um desempenho extremo. Estável: O suporte de memória ECC assegura a exatidão e a estabilidade dos dados. USB4: Ligue dispositivos USB4 e Thunderbolt para obter o máximo desempenho</p>",
+              "alt": "Compacto, mas potente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Suporte para RAM ECC",
+              "text": "<p>O ECC (Código de Correção de Erros) pode detectar e corrigir erros de memória, melhorando a estabilidade e fiabilidade do sistema. Reduz o risco de erros de dados, garantindo a integridade dos dados em ambientes empresariais. Para as empresas que exigem uma elevada fiabilidade, considere atualizar o seu Flashstor Gen2 para o máximo de 64 GB de memória para servidores e estações de trabalho empresariais.</p>",
+              "alt": "Suporte para RAM ECC",
+              "banner": "https://assets.decocache.com/scarcom/6a2e395b-0a3f-40d4-819d-882e6a4f37ca/Design-sem-nome---2025-05-19T145547.150.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e506d9d-f014-49d1-ba01-4bddbe792085/Design-sem-nome---2025-05-19T145636.779.png",
+              "title": "Mantendo fresco",
+              "text": "<p>A série Flashstor Gen2 incorpora agora um design de dissipação térmica melhorado que inclui ventoinhas estrategicamente colocadas que são eficientes e silenciosas para arrefecer todos os componentes de elevado desempenho da série Flashstor Gen2. Esta eficiência de arrefecimento optimizada assegura um elevado desempenho sustentado, mantendo baixos níveis de ruído.</p>",
+              "alt": "Mantendo fresco"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c0f2503e-afd2-4792-b995-7e604bb739ff/Design-sem-nome---2025-05-19T145722.896.png",
+              "title": "Os discos rígidos são bem-vindos!",
+              "text": "<p>O Flashstor totalmente SSD continua o fantástico suporte da ADM para discos rígidos ao ligar uma unidade de expansão AS6004U às portas USB 3 do seu NAS. Quando é necessária uma capacidade bruta, o Flashstor oferece o melhor dos dois mundos.</p>",
+              "alt": "Os discos rígidos são bem-vindos!"
+            }
+          ],
+          "productId": "156206"
         }
       ]
     },
