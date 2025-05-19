@@ -12048,6 +12048,60 @@
             }
           ],
           "productId": "155786"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "LOCKERSTOR 8 (AS6508T)",
+              "text": "<p>Entre no overdrive com Intel 10GbE, M.2 SSD Cache e 2.5GbE!</p>",
+              "alt": "LOCKERSTOR 8 (AS6508T)",
+              "banner": "https://assets.decocache.com/scarcom/b648aa5a-d8a9-4a15-859a-b47016758b04/Design-sem-nome---2025-05-19T142301.457.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Portas duplas de 10 e 2,5 Gigabit. Mais rápido do que nunca.",
+              "text": "<p>A nova série de NAS da Lockerstor possui duas portas Intel 10-Gigabit Ethernet, bem como duas portas Ethernet Realtek 2.5-Gigabit. Com um comutador gerenciado que suporta múltiplas velocidades, aproveite até 20 gbps de velocidade com portas de 10 Gigabit ou até 5 gbps nas duas portas de 2,5 Gigabit.</p>",
+              "alt": "Portas duplas de 10 e 2,5 Gigabit. Mais rápido do que nunca.",
+              "banner": "https://assets.decocache.com/scarcom/e83b5219-2f7a-4df0-875e-56bb5268ec2a/Design-sem-nome---2025-05-19T142429.690.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD Cache",
+              "text": "<p>O ADM atualizado recentemente apresenta um Kernel Linux atualizado e aprimoramentos adicionais de desempenho. A série Lockerstor apresenta o cache SSD M.2 PCIe NVMe aumentando o desempenho. 1. O armazenamento em cache do Lockerstor NVMe SSD aumenta o desempenho em até 60%. 2. O cache do SSD Lockerstor NVMe é mais rápido do que se todos os compartimentos fossem preenchidos com SSDs SATA, mantendo-se mais baratos. Com a dupla Ethernet de 10 Gigabit, os gargalos nos SSDs NVMe foram removidos, tornando o Lockerstor um dos dispositivos NAS mais rápidos de todos os tempos.</p>",
+              "alt": "SSD Cache",
+              "banner": "https://assets.decocache.com/scarcom/79036d2b-7289-4b88-abd2-e590144c29c2/Design-sem-nome---2025-05-19T142530.737.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Oito baias com armazenamento em cache SSD M.2 flexível",
+              "text": "<p>O AS6508T é um NAS de grande capacidade e econômico, projetado para ambientes corporativos. O AS6508T suporta expansão de capacidade on-line, permitindo a compra flexível de equipamentos de armazenamento corporativo. Quando seus requisitos de orçamento e armazenamento são menores, você pode comprar um número menor de discos rígidos. Discos adicionais podem ser adquiridos à medida que seus requisitos de armazenamento aumentam. Combinado com a tecnologia de armazenamento MyArchive da ASUSTOR, isso permite alcançar efetivamente armazenamento ilimitado.</p>",
+              "alt": "Oito baias com armazenamento em cache SSD M.2 flexível",
+              "banner": "https://assets.decocache.com/scarcom/d10db57b-fa94-4798-965b-f93f372d2018/Design-sem-nome---2025-05-19T142652.138.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Design de refrigeração poderoso e de alta eficiência",
+              "text": "<p>O Lockerstor utiliza ventiladores PWM com controles de velocidade inteligentes e dissipadores de calor com montagem com pino para obter o fluxo de ar ideal, melhorando a estabilidade e mantendo o alto desempenho, mesmo sob altas cargas. O design aprimorado do Lockerstor apresenta dissipadores de calor mais altos que os modelos anteriores para garantir um resfriamento e dissipação de calor ainda mais eficientes.</p>",
+              "alt": "Design de refrigeração poderoso e de alta eficiência",
+              "banner": "https://assets.decocache.com/scarcom/67866542-6d75-41f7-b6be-2cd56b7b425d/Design-sem-nome---2025-05-19T142744.534.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Confiabilidade e durabilidade 24/7",
+              "text": "<p>Todos os NAS ASUSTOR foram projetados e adequados para uso 24/7. Os dispositivos ASUSTOR NAS também passaram por testes rigorosos, como testes de queda e queima, para testar a durabilidade em condições extremas. Dissipadores de calor foram adicionados a componentes sensíveis para dissipar o calor, ajudando a manter a longevidade do dispositivo.</p>",
+              "alt": "Confiabilidade e durabilidade 24/7",
+              "banner": "https://assets.decocache.com/scarcom/519ca445-0597-477e-a190-8557427eba7c/Design-sem-nome---2025-05-19T142846.390.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Acorde de qualquer lugar",
+              "text": "<p>Os Lockerstor 8 e 10 apresentam a tecnologia Wake on WAN. Nenhum equipamento ou configuração especializada é necessária para ativar o NAS. Basta usar a grande variedade de aplicativos móveis da ASUSTOR, incluindo, entre outros, AiMaster, AiMusic, AiVideos e AiData para ativar ou desativar o NAS remotamente. Wake on WAN ajuda a proteger os dados, mantendo o NAS desligado quando não estiver em uso; ajudando assim a prevenir ataques, protege a integridade dos dados mantendo-se desligado durante falhas de energia e o Wake on WAN também economiza eletricidade, criando um NAS ainda mais eficiente.</p>",
+              "alt": "Acorde de qualquer lugar",
+              "banner": "https://assets.decocache.com/scarcom/8f4fffe0-78b0-4bee-971b-f9da434ba609/Design-sem-nome---2025-05-19T142943.731.png"
+            }
+          ],
+          "productId": "155769"
         }
       ]
     },
