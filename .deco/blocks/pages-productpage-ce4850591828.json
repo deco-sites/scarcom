@@ -12329,6 +12329,39 @@
             }
           ],
           "productId": "156068"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Chave de Transferência Automática APC NetShelter – 2U, 32A, 230V, 2 Entradas IEC 309, 16x C13, 2x C19 – 50/60 Hz (Modelo AP7724)",
+              "text": "<p>A Chave de Transferência Automática APC AP7724 é uma solução robusta e confiável para garantir redundância de energia elétrica em equipamentos de TI críticos com fonte única de alimentação. Projetada especialmente para ambientes de missão crítica como data centers, salas de servidores e infraestruturas corporativas, a unidade permite a comutação automática entre duas fontes de alimentação independentes, protegendo os equipamentos contra interrupções causadas por falhas de energia.</p>",
+              "alt": "Chave de Transferência Automática APC NetShelter – 2U, 32A, 230V, 2 Entradas IEC 309, 16x C13, 2x C19 – 50/60 Hz (Modelo AP7724)",
+              "banner": "https://assets.decocache.com/scarcom/e3690948-75c6-485b-bd8f-ff09c01a52a1/Design-sem-nome---2025-05-22T160110.439.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/da777aee-6002-4e6c-a301-807477f56349/Design-sem-nome---2025-05-22T160121.242.png",
+              "title": "Descrição Geral",
+              "text": "<p>Com capacidade de 32 amperes, este modelo oferece maior suporte de carga, sendo ideal para sistemas que operam com maior demanda energética. A unidade é montável em rack (2U), possui duas entradas IEC 309 e 18 saídas (sendo 16 C13 e 2 C19), permitindo ampla conectividade e flexibilidade operacional.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a67cfa81-02cf-453f-82d8-c9c44ec57966/Design-sem-nome---2025-05-22T160131.253.png",
+              "title": "Redundância de energia inteligente",
+              "text": "<p>Alterna automaticamente entre duas fontes distintas, garantindo que os dispositivos conectados permaneçam alimentados mesmo em caso de falha de uma das fontes.</p>",
+              "alt": "Redundância de energia inteligente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Alta capacidade elétrica",
+              "text": "<p>Ideal para equipamentos com consumo elevado, suportando até 32A – muito acima de modelos básicos.</p>",
+              "alt": " Alta capacidade elétrica",
+              "banner": "https://assets.decocache.com/scarcom/d86c6830-a4d5-4ea5-87dc-565eed9bbcc6/Design-sem-nome---2025-05-22T160143.252.png"
+            }
+          ],
+          "productId": "156066"
         }
       ]
     },
