@@ -12402,6 +12402,46 @@
             }
           ],
           "productId": "155891"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cdd6215b-23a2-4fae-a2d6-c7cf950d6f5d/Design-sem-nome---2025-05-22T160643.585.png",
+              "title": "Chave de Transferência Automática APC NetShelter – 1U, 15A, 100/120V, Plugue NEMA 5-15P, 10x Saídas NEMA 5-15R – 50/60 Hz (AP7721)",
+              "text": "<p>A Chave de Transferência Automática APC AP7721 é uma solução eficaz para garantir redundância de energia em equipamentos com fonte única de alimentação, especialmente em ambientes com infraestrutura baseada em padrão americano (120V). Este modelo oferece comutação automática entre duas fontes de energia distintas, protegendo os dispositivos contra falhas elétricas e mantendo a operação ininterrupta.</p>",
+              "alt": "Chave de Transferência Automática APC NetShelter – 1U, 15A, 100/120V, Plugue NEMA 5-15P, 10x Saídas NEMA 5-15R – 50/60 Hz (AP7721)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/00c9c94d-427d-4f9f-89bb-b5e16d3db3ed/Design-sem-nome---2025-05-22T160915.260.png",
+              "title": "Descrição Geral",
+              "text": "<p>Ideal para racks de servidores, armários de rede e pequenas salas técnicas, a AP7721 possui formato compacto (1U) e 10 saídas NEMA 5-15R, sendo perfeita para equipamentos de TI com consumo moderado, como switches, roteadores, servidores de pequeno porte e appliances de segurança.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Comutação automática confiável",
+              "text": "<p>Garante que os equipamentos conectados permaneçam alimentados ao alternar automaticamente entre as fontes A e B em caso de falha.</p>",
+              "alt": " Comutação automática confiável",
+              "banner": "https://assets.decocache.com/scarcom/3d87c4ac-78af-4d38-9d1e-13b385ed6630/Design-sem-nome---2025-05-22T160909.866.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/589d2d6d-7c0c-4d78-8810-76dac9c700da/Design-sem-nome---2025-05-22T160655.785.png",
+              "title": " Ampla conectividade",
+              "text": "<p>Com 10 saídas NEMA 5-15R, permite conectar múltiplos dispositivos simultaneamente.</p>",
+              "alt": " Ampla conectividade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af0da024-5f44-4f58-aedf-bb2175ac222e/Design-sem-nome---2025-05-22T160704.468.png",
+              "title": " Solução econômica",
+              "text": "<p>Excelente alternativa para garantir redundância energética sem a necessidade de adquirir equipamentos com fontes duplas.</p>",
+              "alt": " Solução econômica"
+            }
+          ],
+          "productId": "156063"
         }
       ]
     },
