@@ -12468,6 +12468,39 @@
             }
           ],
           "productId": "156056"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "PDU 2G para Rack Sob Medida – 32A, 230V, 36x C13 + 6x C19 – Instalação Vertical (0U), Sem Ocupação de U",
+              "text": "<p>A PDU 2G para rack sob medida é uma solução de distribuição elétrica avançada, desenvolvida para atender às demandas de alta densidade de equipamentos em data centers e infraestruturas críticas de TI. Com capacidade de 32 amperes a 230V e um total de 42 conexões (36 C13 + 6 C19), este modelo é ideal para ambientes que exigem alto desempenho e confiabilidade energética.</p>",
+              "alt": "PDU 2G para Rack Sob Medida – 32A, 230V, 36x C13 + 6x C19 – Instalação Vertical (0U), Sem Ocupação de U",
+              "banner": "https://assets.decocache.com/scarcom/84cbe24e-c0aa-4096-85af-dab34c4bbe87/Design-sem-nome---2025-05-22T162740.241.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/443f2095-4a9c-4103-9b55-2c1e1ebcdb1c/Design-sem-nome---2025-05-22T162747.359.png",
+              "title": "Descrição Geral",
+              "text": "<p>Projetada para instalação vertical (0U), esta unidade não ocupa espaço útil no rack, permitindo um aproveitamento máximo dos equipamentos montados em U. É uma solução sob medida, ideal para racks personalizados, racks de alta densidade ou aplicações com equipamentos que consomem grande quantidade de energia.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alta capacidade de distribuição",
+              "text": "<p> Suporte para até 42 equipamentos simultaneamente, otimizando o uso de espaço e reduzindo a necessidade de PDUs adicionais.</p>",
+              "alt": "Alta capacidade de distribuição",
+              "banner": "https://assets.decocache.com/scarcom/540b3299-429e-47e4-8ca5-e013d0cc52fd/Design-sem-nome---2025-05-22T162753.891.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5cc09ba4-796c-43d8-89b5-65a4c9d91fea/Design-sem-nome---2025-05-22T162828.244.png",
+              "title": "Instalação vertical (0U)",
+              "text": "<p>Libera totalmente o espaço frontal do rack para equipamentos, mantendo a organização e o fluxo de ar.</p>",
+              "alt": "Instalação vertical (0U)"
+            }
+          ],
+          "productId": "156132"
         }
       ]
     },
