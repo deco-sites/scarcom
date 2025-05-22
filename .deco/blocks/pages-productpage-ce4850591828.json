@@ -12296,6 +12296,39 @@
             }
           ],
           "productId": "154036"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Chave de Transferência Automática APC NetShelter – 1U, 10A, 230V (AP7723)",
+              "text": "<p>A Chave de Transferência Automática APC AP7723 é um equipamento essencial para ambientes de TI que exigem alta disponibilidade e redundância de energia. Projetada para ser instalada em racks padrão de 19\" (1U de altura), ela fornece uma solução simples, confiável e econômica para manter a alimentação ininterrupta de dispositivos com fonte única de energia, como switches, roteadores, servidores e equipamentos de rede em geral.</p>",
+              "banner": "https://assets.decocache.com/scarcom/a9f9a985-6c1c-4d9d-8508-709848ee5920/Design-sem-nome---2025-05-22T155311.791.png",
+              "alt": "Chave de Transferência Automática APC NetShelter – 1U, 10A, 230V (AP7723)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com capacidade para detectar automaticamente falhas na fonte de energia principal, a chave realiza a comutação para uma fonte secundária em milissegundos, garantindo a continuidade da operação e a proteção dos dispositivos conectados.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/0b82593e-4d33-4fb7-9403-0775db278c97/Design-sem-nome---2025-05-22T155330.868.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Comutação automática sem interrupção",
+              "text": "<p>Permite alternância entre duas fontes independentes (como dois circuitos UPS ou uma UPS e a rede elétrica) automaticamente em caso de falha, sem a necessidade de intervenção humana.</p>",
+              "alt": "Comutação automática sem interrupção",
+              "banner": "https://assets.decocache.com/scarcom/ec4f8513-689f-4523-b4d2-de28a69953ba/Design-sem-nome---2025-05-22T155422.284.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c626bb08-e6f7-4217-854a-e5b2a35eb122/Design-sem-nome---2025-05-22T155434.190.png",
+              "title": "Compatível com uma ampla gama de equipamentos de TI",
+              "text": "<p>Ideal para dispositivos com uma única fonte de alimentação, que normalmente não teriam redundância energética.</p>",
+              "alt": "Compatível com uma ampla gama de equipamentos de TI"
+            }
+          ],
+          "productId": "156068"
         }
       ]
     },
