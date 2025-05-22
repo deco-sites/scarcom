@@ -12442,6 +12442,32 @@
             }
           ],
           "productId": "156063"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/32434084-0aa8-43d8-b359-e38a2b046eb7/Design-sem-nome---2025-05-22T162421.270.png",
+              "title": "PDU Básica APC para Rack – 32A, 230V, 20x C13 e 4x C19 – Sem Ocupação de U",
+              "text": "<p>A PDU Básica APC (Unidade de Distribuição de Energia) é uma solução eficiente e econômica para a distribuição de energia elétrica em racks de TI de alta densidade. Projetada para ambientes que demandam grande quantidade de conexões elétricas com confiabilidade, esta PDU suporta até 32 amperes a 230V, fornecendo alimentação segura para uma ampla gama de equipamentos de missão crítica, como servidores, storages, switches e appliances.</p>",
+              "alt": "PDU Básica APC para Rack – 32A, 230V, 20x C13 e 4x C19 – Sem Ocupação de U"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f6ce6194-5275-4239-9667-e7f870d2c074/Design-sem-nome---2025-05-22T162515.197.png",
+              "title": "Descrição Geral",
+              "text": "<p>Este modelo não ocupa espaço em U, sendo instalada verticalmente na parte traseira do rack, o que otimiza o aproveitamento do espaço útil e permite melhor organização dos cabos de energia.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3be3aedc-3265-4d54-8484-4521ac50555d/Design-sem-nome---2025-05-22T162521.851.png",
+              "title": "Alta densidade de tomadas",
+              "text": "<p>Permite conectar até 24 equipamentos simultaneamente com padrão internacional IEC.</p>",
+              "alt": "Alta densidade de tomadas"
+            }
+          ],
+          "productId": "156056"
         }
       ]
     },
