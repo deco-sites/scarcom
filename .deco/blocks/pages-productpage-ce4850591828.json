@@ -12501,6 +12501,25 @@
             }
           ],
           "productId": "156132"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Sensor de Temperatura e Umidade APC – Inteligente, Preciso e Integrável a PDUs, NetBotz e InfraStruXure",
+              "text": "<p>O Sensor de Temperatura e Umidade da APC foi desenvolvido para monitorar com precisão as condições ambientais críticas em ambientes de TI, como data centers, salas de servidores, armários de rede e centros de distribuição. Compatível com sistemas de gerenciamento APC, como NetBotz, PDUs inteligentes (rack PDU) e InfraStruXure, este sensor permite a coleta de dados ambientais em tempo real, prevenindo falhas causadas por superaquecimento ou umidade inadequada.</p>",
+              "alt": "Sensor de Temperatura e Umidade APC – Inteligente, Preciso e Integrável a PDUs, NetBotz e InfraStruXure",
+              "banner": "https://assets.decocache.com/scarcom/5c76035e-5745-4108-b44b-b7e059a88046/Design-sem-nome---2025-05-22T163522.126.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com instalação simples via plug-and-play, este sensor fornece uma solução confiável e escalável para garantir a integridade dos equipamentos de missão crítica, ajudando a manter a temperatura e a umidade dentro dos níveis recomendados pelos padrões ASHRAE.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/4cff9fe5-5d62-4831-8e3c-1f30e65cd3f5/Design-sem-nome---2025-05-22T163532.867.png"
+            }
+          ],
+          "productId": "156065"
         }
       ]
     },
