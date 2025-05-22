@@ -12362,6 +12362,46 @@
             }
           ],
           "productId": "156066"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Chave de Transferência Automática APC NetShelter – 1U, 20A, 200/208V, 2 Entradas NEMA L6-20, 8x C13, 1x C19 – 50/60 Hz (AP7722)",
+              "text": "<p>A Chave de Transferência Automática APC AP7722 é a escolha ideal para empresas que precisam garantir alta disponibilidade energética para equipamentos com fonte única, sem a necessidade de investir em fontes redundantes. Projetada para ambientes de missão crítica como data centers, salas de servidores e redes corporativas, ela permite a comutação automática entre duas fontes de alimentação independentes, garantindo continuidade operacional mesmo em caso de falha elétrica.</p>",
+              "alt": "Chave de Transferência Automática APC NetShelter – 1U, 20A, 200/208V, 2 Entradas NEMA L6-20, 8x C13, 1x C19 – 50/60 Hz (AP7722)",
+              "banner": "https://assets.decocache.com/scarcom/cdd6215b-23a2-4fae-a2d6-c7cf950d6f5d/Design-sem-nome---2025-05-22T160643.585.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com suporte para corrente de 20 amperes e tensão nominal de 200 a 208V, esse modelo oferece conectividade via entradas NEMA L6-20 (padrão americano para alta corrente) e saídas versáteis para diferentes tipos de equipamentos, incluindo servidores, switches e storages.</p>",
+              "banner": "https://assets.decocache.com/scarcom/589d2d6d-7c0c-4d78-8810-76dac9c700da/Design-sem-nome---2025-05-22T160655.785.png",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Redundância energética inteligente",
+              "text": "<p> Comuta automaticamente entre duas fontes de energia, protegendo dispositivos essenciais contra interrupções inesperadas.</p>",
+              "alt": " Redundância energética inteligente",
+              "banner": "https://assets.decocache.com/scarcom/af0da024-5f44-4f58-aedf-bb2175ac222e/Design-sem-nome---2025-05-22T160704.468.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/00c9c94d-427d-4f9f-89bb-b5e16d3db3ed/Design-sem-nome---2025-05-22T160915.260.png",
+              "title": "20A de potência",
+              "text": "<p>Capacidade ideal para ambientes com equipamentos de médio a alto consumo energético.</p>",
+              "alt": "20A de potência"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3d87c4ac-78af-4d38-9d1e-13b385ed6630/Design-sem-nome---2025-05-22T160909.866.png",
+              "title": " Versatilidade nas conexões",
+              "text": "<p>Compatível com diversos dispositivos, com 8 saídas C13 e 1 saída C19, ideal para cargas mistas.</p>",
+              "alt": " Versatilidade nas conexões"
+            }
+          ],
+          "productId": "155891"
         }
       ]
     },
