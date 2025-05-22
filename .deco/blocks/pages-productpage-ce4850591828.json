@@ -12256,6 +12256,46 @@
             }
           ],
           "productId": "155235"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "My Cloud Expert Series EX2 Ultra - 0 TB",
+              "text": "<p>Mantenha a sua mídia segura em um único lugar neste dispositivo de Network Attached Storage (NAS) de alto desempenho e acesse e reproduza com segurança a partir de qualquer lugar que tenha uma conexão com a internet.</p><p><br></p>",
+              "alt": "My Cloud Expert Series EX2 Ultra - 0 TB",
+              "banner": "https://assets.decocache.com/scarcom/5840d303-54f9-4bce-9870-ba42e9928997/Design-sem-nome---2025-05-22T152225.545.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a616acde-dc63-4208-8ad8-0e6f559a8122/Design-sem-nome---2025-05-22T152553.002.png",
+              "title": "Backup de rede centralizado",
+              "text": "<p>Faça backup e organize altos volumes de conteúdo de vários computadores, smartphones e tablets em seu My Cloud EX2 Ultra, em sua própria rede privada e sem assinaturas caras.</p>",
+              "alt": "Backup de rede centralizado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/37791387-5c59-41e0-b80c-39129e0f2264/Design-sem-nome---2025-05-22T152615.690.png",
+              "title": "Proteção de dados robusta",
+              "text": "<p>O software Acronis True Image para Western Digital disponíel fornece ciberproteção fácil eficiente e segura, integrando backup premiado com uma defesa baseada em IA contra ataques de ransomware e criptojacking. O software Acronis True Image para Western Digital faz backup de tudo, dos sistemas operacionais e aplicativos às configurações e arquivos individuais, com suporte para máquinas PC e Mac.</p>",
+              "alt": "Proteção de dados robusta"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/95c8e04e-2014-4db2-aa5e-ee1f4b7c6b9d/Design-sem-nome---2025-05-22T152635.337.png",
+              "title": "Compartilhamento simplificado de arquivo e pasta",
+              "text": "<p>Personalize com facilidade a forma como compartilha usando links públicos ou privados. Com um link público, você pode compartilhar seu conteúdo de forma que qualquer pessoa possa vê-lo. Usando um link privado, você pode conceder acesso limitado por usuário ou completo, e colaborar com segurança com qualquer pessoa.</p>",
+              "alt": "Compartilhamento simplificado de arquivo e pasta"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e4026676-5886-47ee-89dc-16094956f5ff/Design-sem-nome---2025-05-22T152651.200.png",
+              "title": "Várias opções de RAID",
+              "text": "<p>Com as configurações de RAID do My Cloud EX2 Ultra, você pode personalizar seu sistema com a configuração mais adequada para você. Use RAID 0 para um melhor desempenho, RAID 1 para proteção de dados espelhados, ou uma estrutura JBOD/spanning para configurações não RAID.</p>",
+              "alt": "Várias opções de RAID"
+            }
+          ],
+          "productId": "154036"
         }
       ]
     },
