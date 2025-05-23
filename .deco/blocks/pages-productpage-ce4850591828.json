@@ -12593,6 +12593,39 @@
             }
           ],
           "productId": "155055"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/37984f21-5598-4049-8767-4cd584649ef9/Design-sem-nome---2025-05-23T192521.618.png",
+              "title": "SSD ADATA Ultimate SU630 240GB – 2.5\", SATA III, Leitura 520MB/s, Gravação 450MB/s – ASU630SS-240GQ",
+              "text": "<p>O ADATA SU630 240GB é um SSD de entrada confiável e acessível, ideal para substituir HDs tradicionais e trazer um desempenho muito superior para notebooks e desktops. Com interface SATA III de 6Gb/s e memória 3D QLC NAND Flash, ele oferece velocidades de até 520MB/s em leitura e 450MB/s em gravação, garantindo inicialização rápida do sistema, carregamento ágil de aplicativos e maior fluidez geral no uso diário.</p>",
+              "alt": "SSD ADATA Ultimate SU630 240GB – 2.5\", SATA III, Leitura 520MB/s, Gravação 450MB/s – ASU630SS-240GQ"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4c90edcc-65dd-4999-825e-b5f83ba9ae51/Design-sem-nome---2025-05-23T192531.671.png",
+              "title": "Descrição Geral",
+              "text": "<p>Compacto no formato 2.5 polegadas, o SU630 é compatível com praticamente todos os computadores que possuam conexão SATA, sendo perfeito para upgrades em PCs antigos ou novos, aumentando a vida útil e a performance da máquina sem a necessidade de grandes investimentos.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/76b90af3-6fe3-4947-9285-db8a6a1b78fa/Design-sem-nome---2025-05-23T192543.419.png",
+              "title": " Melhore a performance do seu PC ou notebook",
+              "text": "<p> Velocidade até 4x maior que um HD mecânico tradicional.</p>",
+              "alt": " Melhore a performance do seu PC ou notebook"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f0289346-4e8a-4f01-856e-bcbea6660ac8/Design-sem-nome---2025-05-23T192552.018.png",
+              "title": "Armazenamento confiável para uso diário",
+              "text": "<p>Ótimo para o sistema operacional, navegação, aplicativos e escritório.</p>",
+              "alt": "Armazenamento confiável para uso diário"
+            }
+          ],
+          "productId": "155018"
         }
       ]
     },
