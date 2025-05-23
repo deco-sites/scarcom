@@ -12560,6 +12560,39 @@
             }
           ],
           "productId": "155027"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fc7cc538-da68-4bca-8a6f-594631797b0d/Design-sem-nome---2025-05-23T190930.545.png",
+              "title": "SSD XPG SX8100 2TB – M.2 NVMe PCIe Gen3x4 – Desempenho Premium para Profissionais e Gamers Exigentes",
+              "text": "<p>O ADATA XPG SX8100 2TB é um SSD de alto desempenho com interface PCIe Gen3x4 NVMe 1.3, ideal para usuários que demandam velocidade extrema, alta capacidade de armazenamento e eficiência energética. Projetado para gamers, criadores de conteúdo, engenheiros e profissionais de TI, o SX8100 combina tecnologia de ponta, confiabilidade robusta e excelente custo-benefício.</p>",
+              "alt": "SSD XPG SX8100 2TB – M.2 NVMe PCIe Gen3x4 – Desempenho Premium para Profissionais e Gamers Exigentes"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com velocidades impressionantes de até 3500 MB/s para leitura e 3000 MB/s para gravação, esse modelo oferece carregamentos instantâneos, transferências rápidas e performance excepcional em qualquer tarefa intensiva. Seu formato compacto M.2 2280 permite fácil instalação em notebooks, ultrabooks, desktops e estações de trabalho.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/336061ac-5328-4294-b3b6-f45648f9eef0/Design-sem-nome---2025-05-23T191947.632.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2f0edb60-9fe5-42fb-bc9a-6e68d1b2a716/Design-sem-nome---2025-05-23T192008.201.png",
+              "title": "Velocidade extrema para multitarefa intensiva",
+              "text": "<p>Carregue sistemas operacionais, jogos pesados, editores gráficos e arquivos grandes em questão de segundos.</p>",
+              "alt": "Velocidade extrema para multitarefa intensiva"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7bd15f80-1b0a-40b3-b664-ae65db7ae41d/Design-sem-nome---2025-05-23T192020.731.png",
+              "title": "2TB de armazenamento ultrarrápido",
+              "text": "<p>Ideal para quem precisa de espaço para projetos criativos, bibliotecas de jogos e grandes volumes de dados.</p>",
+              "alt": "2TB de armazenamento ultrarrápido"
+            }
+          ],
+          "productId": "155055"
         }
       ]
     },
