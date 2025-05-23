@@ -12520,6 +12520,46 @@
             }
           ],
           "productId": "156065"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fc7cc538-da68-4bca-8a6f-594631797b0d/Design-sem-nome---2025-05-23T190930.545.png",
+              "title": "SSD ADATA XPG SX6000 Lite 1TB – M.2 NVMe PCIe Gen3x4 – Alta Performance e Confiabilidade",
+              "text": "<p>O ADATA XPG SX6000 Lite 1TB é um SSD M.2 NVMe de alto desempenho, projetado para usuários que buscam velocidade, confiabilidade e excelente custo-benefício. Com interface PCIe Gen3x4 e tecnologia NVMe 1.3, este SSD entrega velocidades muito superiores às de um SSD SATA convencional, sendo ideal para gamers, entusiastas de hardware, criadores de conteúdo e usuários profissionais.</p>",
+              "alt": "SSD ADATA XPG SX6000 Lite 1TB – M.2 NVMe PCIe Gen3x4 – Alta Performance e Confiabilidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1b5c1ab7-355b-4b5f-806d-86e432326815/Design-sem-nome---2025-05-23T190942.941.png",
+              "title": "Descrição Geral",
+              "text": "<p>Compacto e eficiente, o modelo SX6000 Lite é uma excelente opção para upgrades em notebooks, desktops, mini PCs e placas-mãe compatíveis com M.2 2280, garantindo tempos de carregamento reduzidos, inicialização rápida do sistema e melhor performance geral em aplicações do dia a dia e jogos.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f021a689-a8fe-4e17-9ba7-98c10e4aba77/Design-sem-nome---2025-05-23T191017.845.png",
+              "title": "Alta performance com NVMe",
+              "text": "<p>Até 3x mais rápido que SSDs SATA convencionais, com inicialização quase instantânea e carregamento de jogos e programas em segundos.</p>",
+              "alt": "Alta performance com NVMe"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6b07592a-29da-4d18-adcb-d67e790477be/Design-sem-nome---2025-05-23T191031.099.png",
+              "title": "1 TB de armazenamento ultrarrápido",
+              "text": "<p>Perfeito para armazenar o sistema operacional, jogos pesados, arquivos multimídia e softwares profissionais.</p>",
+              "alt": "1 TB de armazenamento ultrarrápido"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f9c7a87-cdd8-4b9f-ad2c-cd2a381aa04f/Design-sem-nome---2025-05-23T191039.515.png",
+              "title": "Eficiência energética e controle térmico",
+              "text": "<p>Ideal para notebooks e sistemas compactos onde o gerenciamento de calor e consumo é essencial.</p>",
+              "alt": "Eficiência energética e controle térmico"
+            }
+          ],
+          "productId": "155027"
         }
       ]
     },
