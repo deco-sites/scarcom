@@ -12626,6 +12626,39 @@
             }
           ],
           "productId": "155018"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c0def4ba-d77c-4be4-a336-7285718d9612/101637_1558380444_index_g.webp",
+              "title": "SSD ADATA XPG SX6000 Lite 256GB – M.2 NVMe PCIe Gen3x4 – Desempenho Rápido para Upgrades Inteligentes",
+              "text": "<p>O ADATA XPG SX6000 Lite 256GB é uma excelente opção de SSD NVMe de entrada, ideal para quem busca uma atualização significativa no desempenho do computador sem comprometer o orçamento. Com interface PCIe Gen3x4 e protocolo NVMe 1.3, oferece velocidades até 3 vezes maiores que SSDs SATA, garantindo inicializações mais rápidas, maior fluidez em aplicativos e carregamento instantâneo de arquivos e jogos.</p>",
+              "alt": "SSD ADATA XPG SX6000 Lite 256GB – M.2 NVMe PCIe Gen3x4 – Desempenho Rápido para Upgrades Inteligentes"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Seu formato compacto M.2 2280 permite instalação prática em notebooks, ultrabooks e desktops com suporte a NVMe, sendo a solução ideal para uso diário, produtividade leve, games e sistemas operacionais.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/8c7a8008-eddf-416c-a432-86283b274db1/ssd-adata-xpg-sx6000-lite-256gb-m-2-nvme-leitura-1800mb-s-gravacao-600mb-s-asx6000lnp-256gt-c_ssd-adata-xpg-sx6000-lite-256gb-m-2-nvme-leitura-1800mb-s-gravacao-600mb-s-asx6000lnp-256gt-c_1558380416_g.webp"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/31d0d46d-7239-4bf9-8128-79450205543b/ssd-adata-xpg-sx6000-lite-256gb-m-2-nvme-leitura-1800mb-s-gravacao-600mb-s-asx6000lnp-256gt-c_ssd-adata-xpg-sx6000-lite-256gb-m-2-nvme-leitura-1800mb-s-gravacao-600mb-s-asx6000lnp-256gt-c_1558380418_g.webp",
+              "title": "Desempenho NVMe com preço acessível",
+              "text": "<p>Até 1800 MB/s em leitura, ideal para quem quer fugir da lentidão dos HDs e SATA SSDs.</p>",
+              "alt": "Desempenho NVMe com preço acessível"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1299a33c-7ddc-49f6-a8cf-8f8755ad07e7/Design-sem-nome---2025-05-23T193359.415.png",
+              "title": "Upgrade prático para notebooks e desktops modernos",
+              "text": "<p>Formato M.2 2280, sem necessidade de cabos ou energia extra.</p>",
+              "alt": "Upgrade prático para notebooks e desktops modernos"
+            }
+          ],
+          "productId": "155029"
         }
       ]
     },
