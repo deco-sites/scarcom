@@ -12821,6 +12821,39 @@
             }
           ],
           "productId": "156010"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": " Memória ADATA Premier 16GB DDR5 5600MHz SO-DIMM para Notebook – AD5S560016G-S",
+              "text": "<p>A ADATA Premier DDR5 5600MHz 16GB SO-DIMM é uma memória de alto desempenho desenvolvida para notebooks e sistemas compactos compatíveis com a nova geração DDR5. Oferecendo largura de banda superior, menor consumo de energia e ECC integrado, esta memória proporciona desempenho máximo com estabilidade e confiabilidade.</p>",
+              "banner": "https://assets.decocache.com/scarcom/13b0252c-7a4d-4bc6-92f3-e95d4ddc0dd2/Design-sem-nome---2025-05-28T211533.570.png",
+              "alt": " Memória ADATA Premier 16GB DDR5 5600MHz SO-DIMM para Notebook – AD5S560016G-S"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com velocidade de 5600MHz, é ideal para tarefas exigentes como edição de vídeo, renderização, desenvolvimento de software e jogos, além de garantir fluidez no multitarefa pesado. A ADATA é reconhecida mundialmente por sua qualidade, tornando essa memória uma escolha confiável para quem busca um upgrade de última geração.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/cc8455a1-f5c3-454a-84ed-bf2984a40009/Design-sem-nome---2025-05-28T211547.369.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9a2d2c9b-2af4-4805-9e5f-19bb652a8745/Design-sem-nome---2025-05-28T211601.879.png",
+              "title": "Mais eficiente",
+              "text": "<p>menor consumo de energia (1.1V) comparado ao DDR4</p>",
+              "alt": "Mais eficiente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Estabilidade extra",
+              "text": "<p>ECC integrado para correção automática de erros</p>",
+              "alt": "Estabilidade extra",
+              "banner": "https://assets.decocache.com/scarcom/13904daa-51dc-4322-930a-c3f9d30ac0be/Design-sem-nome---2025-05-28T211623.905.png"
+            }
+          ],
+          "productId": "156001"
         }
       ]
     },
