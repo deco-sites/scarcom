@@ -12957,6 +12957,39 @@
             }
           ],
           "productId": "156016"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória ADATA 8GB DDR5 4800MHz U-DIMM para Desktop – AD5U48008G-S",
+              "text": "<p>A evolução da performance chegou com a Memória ADATA DDR5 8GB 4800MHz U-DIMM, modelo AD5U48008G-S, desenvolvida para levar os desktops de nova geração a um patamar superior de velocidade, eficiência e estabilidade. Ideal para usuários que buscam mais desempenho em multitarefa, jogos, produtividade e criação de conteúdo, este módulo DDR5 oferece frequência impressionante de 4800MHz, superando os limites das gerações anteriores.</p>",
+              "alt": "Memória ADATA 8GB DDR5 4800MHz U-DIMM para Desktop – AD5U48008G-S",
+              "banner": "https://assets.decocache.com/scarcom/13b0252c-7a4d-4bc6-92f3-e95d4ddc0dd2/Design-sem-nome---2025-05-28T211533.570.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc8455a1-f5c3-454a-84ed-bf2984a40009/Design-sem-nome---2025-05-28T211547.369.png",
+              "title": "Descrição Geral",
+              "text": "<p>Além da maior largura de banda, a tecnologia DDR5 proporciona melhor gerenciamento de energia, redução no consumo, e estabilidade superior com ECC on-die, que realiza correções automáticas de erros em tempo real – fundamental para manter a integridade dos dados em sistemas exigentes.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho de última geração",
+              "text": "<p>Com um design padrão U-DIMM, este módulo é compatível com placas-mãe de desktop que suportam DDR5, sendo a solução ideal para gamers, criadores, engenheiros, desenvolvedores e entusiastas de hardware que querem acompanhar a evolução da computação.</p>",
+              "alt": "Desempenho de última geração",
+              "banner": "https://assets.decocache.com/scarcom/9a2d2c9b-2af4-4805-9e5f-19bb652a8745/Design-sem-nome---2025-05-28T211601.879.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13904daa-51dc-4322-930a-c3f9d30ac0be/Design-sem-nome---2025-05-28T211623.905.png",
+              "title": " Mais largura de banda",
+              "text": "<p>ransferência de dados mais rápida e fluida em qualquer cenário</p>",
+              "alt": " Mais largura de banda"
+            }
+          ],
+          "productId": "156018"
         }
       ]
     },
