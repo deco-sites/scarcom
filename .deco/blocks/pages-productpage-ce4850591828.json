@@ -12854,6 +12854,43 @@
             }
           ],
           "productId": "156001"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13b0252c-7a4d-4bc6-92f3-e95d4ddc0dd2/Design-sem-nome---2025-05-28T211533.570.png",
+              "title": "Memória ADATA Premier 32GB DDR4 3200MHz SO-DIMM para Notebook – AD4S320032G22-SGN",
+              "text": "<p>A Memória ADATA Premier 32GB DDR4 3200MHz SO-DIMM é a escolha ideal para quem busca alto desempenho, estabilidade e capacidade ampliada em notebooks. Com frequência de 3200MHz, este módulo de memória permite um desempenho superior em multitarefas, softwares pesados, jogos, edição de mídia e ambientes profissionais.</p>",
+              "alt": "Memória ADATA Premier 32GB DDR4 3200MHz SO-DIMM para Notebook – AD4S320032G22-SGN"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc8455a1-f5c3-454a-84ed-bf2984a40009/Design-sem-nome---2025-05-28T211547.369.png",
+              "title": "Descrição Geral",
+              "text": "<p>Projetada com componentes de alta qualidade e compatível com o padrão JEDEC, essa memória é perfeita tanto para upgrades quanto para sistemas de alto desempenho que exigem grande capacidade de RAM. A ADATA oferece uma solução robusta com excelente custo-benefício, ideal para usuários que desejam extrair o máximo dos seus notebooks.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Alta capacidade",
+              "text": "<p>32GB para lidar com multitarefas e grandes volumes de dados</p>",
+              "alt": " Alta capacidade",
+              "banner": "https://assets.decocache.com/scarcom/9a2d2c9b-2af4-4805-9e5f-19bb652a8745/Design-sem-nome---2025-05-28T211601.879.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13904daa-51dc-4322-930a-c3f9d30ac0be/Design-sem-nome---2025-05-28T211623.905.png",
+              "title": "Desempenho superior",
+              "text": "<p>3200MHz para notebooks mais rápidos e responsivos</p>",
+              "alt": "Desempenho superior"
+            }
+          ],
+          "productId": "156008"
+        },
+        {
+          "contentDetails": [],
+          "productId": "156008"
         }
       ]
     },
