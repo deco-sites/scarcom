@@ -12659,6 +12659,39 @@
             }
           ],
           "productId": "155029"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0e041170-85f1-4bc9-a81d-d11d4805adac/Design-sem-nome---2025-05-28T205814.451.png",
+              "title": "SSD ADATA Ultimate SU630 480GB – SATA III 2.5”, Leitura 520MB/s, Gravação 450MB/s – ASU630SS-480GQ-R",
+              "text": "<p>O ADATA Ultimate SU630 480GB é um SSD de entrada confiável, ideal para substituir HDs mecânicos e turbinar o desempenho de notebooks e desktops. Equipado com memória 3D QLC NAND Flash e interface SATA III 6Gb/s, oferece velocidades de leitura de até 520MB/s e gravação de até 450MB/s, garantindo inicializações rápidas, respostas ágeis do sistema e maior produtividade no dia a dia.</p>",
+              "alt": "SSD ADATA Ultimate SU630 480GB – SATA III 2.5”, Leitura 520MB/s, Gravação 450MB/s – ASU630SS-480GQ-R"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Com formato 2.5” ultrafino (7 mm), é compatível com praticamente todos os computadores que suportam interface SATA, sendo ideal para upgrades acessíveis e com ótimo custo-benefício.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/59e13883-268e-4f13-bc9d-6cdc31b4561f/Design-sem-nome---2025-05-28T205756.768.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/93f36a5e-b99f-4d80-99f1-8a12dd09705d/Design-sem-nome---2025-05-28T205742.391.png",
+              "title": "Desempenho superior ao HD convencional",
+              "text": "<p>até 4x mais rápido na inicialização do sistema e carregamento de programas.</p>",
+              "alt": "Desempenho superior ao HD convencional"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Aumente a produtividade",
+              "text": "<p> mais fluidez em tarefas comuns como navegação, edição de documentos, streaming e multitarefa.</p>",
+              "alt": "Aumente a produtividade",
+              "banner": "https://assets.decocache.com/scarcom/d7ffd293-56ed-4c89-8e63-227fa50e0de9/Design-sem-nome---2025-05-28T205656.706.png"
+            }
+          ],
+          "productId": "155023"
         }
       ]
     },
