@@ -12758,6 +12758,38 @@
             }
           ],
           "productId": "155020"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13b0252c-7a4d-4bc6-92f3-e95d4ddc0dd2/Design-sem-nome---2025-05-28T211533.570.png",
+              "title": "Memória ADATA Premier 16GB DDR4 3200MHz SO-DIMM – AD4S320016G22-SGN 5271",
+              "text": "<p>A ADATA Premier 16GB DDR4 3200MHz SO-DIMM é uma memória RAM de alto desempenho desenvolvida especialmente para notebooks, mini PCs e sistemas compactos. Com frequência de 3200MHz e tecnologia DDR4, proporciona respostas mais rápidas, melhor desempenho multitarefa e menor consumo de energia, ideal para quem busca um upgrade eficiente e confiável.</p>",
+              "alt": "Memória ADATA Premier 16GB DDR4 3200MHz SO-DIMM – AD4S320016G22-SGN 5271"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Fabricada com componentes de alta qualidade e testada rigorosamente pela ADATA, essa memória oferece alta compatibilidade e estabilidade, sendo compatível com diversos modelos de notebooks que suportam DDR4 SO-DIMM.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/cc8455a1-f5c3-454a-84ed-bf2984a40009/Design-sem-nome---2025-05-28T211547.369.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9a2d2c9b-2af4-4805-9e5f-19bb652a8745/Design-sem-nome---2025-05-28T211601.879.png",
+              "title": "Desempenho superior",
+              "text": "<p>aumente a velocidade geral do sistema com 3200MHz de frequência.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/13904daa-51dc-4322-930a-c3f9d30ac0be/Design-sem-nome---2025-05-28T211623.905.png",
+              "title": "Eficiência energética",
+              "alt": "Eficiência energética",
+              "text": "<p>voltagem de apenas 1.2V, ideal para notebooks e dispositivos móveis.</p>"
+            }
+          ],
+          "productId": "155389"
         }
       ]
     },
