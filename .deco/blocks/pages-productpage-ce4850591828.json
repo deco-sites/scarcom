@@ -12891,6 +12891,39 @@
         {
           "contentDetails": [],
           "productId": "156008"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": " Memória ADATA Premier 32GB DDR5 5600MHz SO-DIMM para Notebook – AD5S560032G-S",
+              "text": "<p>A Memória ADATA Premier 32GB DDR5 5600MHz SO-DIMM é a escolha ideal para quem busca o máximo desempenho e capacidade em notebooks de última geração. Projetada para operar com altíssima frequência e largura de banda expandida, essa memória oferece velocidade impressionante, eficiência energética e estabilidade com correção de erros integrada (on-die ECC).</p>",
+              "alt": " Memória ADATA Premier 32GB DDR5 5600MHz SO-DIMM para Notebook – AD5S560032G-S",
+              "banner": "https://assets.decocache.com/scarcom/13b0252c-7a4d-4bc6-92f3-e95d4ddc0dd2/Design-sem-nome---2025-05-28T211533.570.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc8455a1-f5c3-454a-84ed-bf2984a40009/Design-sem-nome---2025-05-28T211547.369.png",
+              "title": "Descrição Geral",
+              "text": "<p>Com 32GB de capacidade e frequência de 5600MHz, este módulo DDR5 é ideal para profissionais exigentes, gamers, desenvolvedores e criadores de conteúdo, que utilizam aplicações pesadas, trabalham com multitarefa intensa e demandam performance de alto nível.</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9a2d2c9b-2af4-4805-9e5f-19bb652a8745/Design-sem-nome---2025-05-28T211601.879.png",
+              "title": "Alto desempenho",
+              "text": "<p>Frequência de 5600MHz para resposta ultrarrápida</p>",
+              "alt": "Alto desempenho"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Correção de erros integrada",
+              "text": "<p>Mais estabilidade com ECC on-die</p>",
+              "alt": " Correção de erros integrada",
+              "banner": "https://assets.decocache.com/scarcom/13904daa-51dc-4322-930a-c3f9d30ac0be/Design-sem-nome---2025-05-28T211623.905.png"
+            }
+          ],
+          "productId": "156005"
         }
       ]
     },
