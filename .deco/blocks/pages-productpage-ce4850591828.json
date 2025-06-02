@@ -13285,6 +13285,46 @@
             }
           ],
           "productId": "156276"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD ADATA LEGEND 710 1TB M.2 PCIe Gen3 x4 – ALEG-710-1TCS",
+              "text": "<p>O ADATA LEGEND 710 1TB é um SSD NVMe M.2 2280 que combina desempenho sólido, eficiência térmica e recursos de segurança avançados. Projetado para criadores de conteúdo, profissionais e usuários que buscam um upgrade confiável e acessível, este SSD oferece velocidades de leitura de até 2.400 MB/s e gravação de até 1.800 MB/s, proporcionando uma experiência de uso fluida em diversas aplicações .</p>",
+              "alt": "SSD ADATA LEGEND 710 1TB M.2 PCIe Gen3 x4 – ALEG-710-1TCS",
+              "banner": "https://assets.decocache.com/scarcom/2bfd5ff0-185b-44e9-8020-887d34fe693a/Design-sem-nome---2025-06-02T165145.612.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3d6765f-c988-49ca-a5d3-66cc9e80b1be/Design-sem-nome---2025-06-02T165247.971.png",
+              "title": "Descrição Geral",
+              "text": "<p>Com suporte ao protocolo NVMe 1.4 e interface PCIe Gen3 x4, o LEGEND 710 é compatível com uma ampla gama de sistemas, incluindo desktops e laptops modernos. Seu dissipador de calor integrado reduz as temperaturas em até 15%, mantendo o desempenho estável mesmo sob cargas intensas .</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a268e3b9-bc6b-46ad-90a7-d2a69af3e669/Design-sem-nome---2025-06-02T165308.273.png",
+              "title": "Desempenho Aprimorado",
+              "text": "<p>Com velocidades de leitura e gravação sequenciais de até 2.400 MB/s e 1.800 MB/s, respectivamente, o LEGEND 710 garante inicializações rápidas, carregamento ágil de aplicativos e transferências de arquivos eficientes . Vedant Computers +6</p>",
+              "alt": "Desempenho Aprimorado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d63d527b-8656-499f-a55c-a2922b6f5d32/Design-sem-nome---2025-06-02T165321.567.png",
+              "title": "Eficiência Térmica",
+              "text": "<p>O dissipador de calor integrado reduz as temperaturas em até 15%, mantendo o desempenho consistente e prolongando a vida útil do SSD .</p>",
+              "alt": "Eficiência Térmica"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8dc58e13-dc2d-4a28-8eef-c99ff87a7081/Design-sem-nome---2025-06-02T165332.279.png",
+              "text": "<p> Equipado com LDPC (Low-Density Parity-Check) e criptografia AES de 256 bits, o LEGEND 710 assegura a integridade e a confidencialidade dos dados armazenados</p>",
+              "title": "Segurança Avançada",
+              "alt": "Segurança Avançada"
+            }
+          ],
+          "productId": "156027"
         }
       ]
     },
