@@ -13590,6 +13590,39 @@
             }
           ],
           "productId": "154748"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c732d3b4-d2a9-40ec-9338-e333e00f85bd/WesternDigital.red.1-(9).png",
+              "title": " Access Point Aruba Instant On AP11 – Modelo R2W96A (Região RW)",
+              "text": "<p>O Aruba Instant On AP11 (R2W96A) é um access point Wi‑Fi 5 de alto desempenho, pensado para pequenas empresas, consultórios, cafés e home offices. Com padrão 802.11ac Wave 2, oferece conexão dual-band simultânea (2.4 GHz + 5 GHz) e velocidades agregadas de até 1,2 Gbps, aliando eficiência, facilidade de instalação e gerenciamento totalmente via aplicativo ou nuvem </p>",
+              "alt": " Access Point Aruba Instant On AP11 – Modelo R2W96A (Região RW)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/29218789-b9b9-4c6f-a46d-3d44cb6481e9/WesternDigital.red.1-(10).png",
+              "title": "Alta velocidade e desempenho confiável",
+              "text": "<p>Suporte a dual‑band simultâneo e MU‑MIMO garante conexões rápidas e estáveis, suportando até 50 dispositivos simultâneos </p>",
+              "alt": "Alta velocidade e desempenho confiável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Instalação simples e limpa",
+              "text": "<p>Alimentado via PoE ou adaptador 12 V, elimina a necessidade de tomadas extras; suporta montagem em parede ou teto.</p>",
+              "alt": "Instalação simples e limpa",
+              "banner": "https://assets.decocache.com/scarcom/0c353f9e-5199-41e8-b8e9-61bcb71186f8/WesternDigital.red.1-(11).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/81d12d2b-95b7-499d-a2f7-441d31a1c109/WesternDigital.red.1-(12).png",
+              "title": "Gerenciamento sem complicação",
+              "text": "<p>Configuração intuitiva via app ou portal em nuvem, com funcionalidades como firmware automático, rede de convidados e visão geral do tráfego </p>",
+              "alt": "Gerenciamento sem complicação"
+            }
+          ],
+          "productId": "154483"
         }
       ]
     },
