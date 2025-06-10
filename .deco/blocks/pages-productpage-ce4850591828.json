@@ -13462,6 +13462,39 @@
             }
           ],
           "productId": "156026"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/95cc65eb-2de9-4d62-869a-f7eb1c969231/WesternDigital.red.1-(5).png",
+              "title": "SSD ADATA Ultimate SU650 480 GB – SATA III 2,5″ (ASU650SS‑480GT‑R)",
+              "text": "<p>O ADATA Ultimate SU650 480 GB é um SSD SATA III com tecnologia 3D NAND TLC, oferecendo um desempenho consistente e excelente custo-benefício.</p>",
+              "alt": "SSD ADATA Ultimate SU650 480 GB – SATA III 2,5″ (ASU650SS‑480GT‑R)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Ideal para notebooks e desktops, ele acelera significativamente o sistema, proporcionando inicializações e carregamentos mais rápidos, além de maior fluidez em tarefas do dia a dia.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/cc4a1a46-cffd-4d9b-8ec9-e04dd964e708/WesternDigital.red.1-(6).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af61231f-b1d4-4c27-95c2-86b2fe964928/WesternDigital.red.1-(7).png",
+              "title": "erformance acelerada",
+              "text": "<p>até 520 MB/s de leitura e 450 MB/s de gravação — um salto de desempenho comparado a HDs, em boot, apps e arquivos.</p>",
+              "alt": "erformance acelerada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/84ddcfff-61ef-47f2-8a16-ddbb638f6cb4/WesternDigital.red.1-(8).png",
+              "title": "Cache SLC dinâmico",
+              "text": "<p>transfere dados temporariamente na forma SLC para maximizar a velocidade em picos, mantendo performance estável.</p>",
+              "alt": "Cache SLC dinâmico"
+            }
+          ],
+          "productId": "155627"
         }
       ]
     },
