@@ -13528,6 +13528,37 @@
             }
           ],
           "productId": "156015"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4c90edcc-65dd-4999-825e-b5f83ba9ae51/Design-sem-nome---2025-05-23T192531.671.png",
+              "title": "SSD ADATA Ultimate SU650 960 GB – SATA III 2,5″",
+              "text": "<p>O ADATA SU650 960 GB é um SSD SATA III moderno que utiliza tecnologia 3D NAND (TLC), ideal para quem deseja substituir seu HD por uma solução mais rápida, silenciosa e durável. Com um controlador de alto desempenho, o SU650 oferece velocidades de até 520 MB/s para leitura e 450 MB/s para gravação, representando um salto significativo em fluidez para sistemas de entrada e intermediários </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho até 4x superior ao HD",
+              "text": "<p>acelera o boot, a abertura de programas e a transferência de arquivos</p>",
+              "alt": "Desempenho até 4x superior ao HD",
+              "banner": "https://assets.decocache.com/scarcom/37984f21-5598-4049-8767-4cd584649ef9/Design-sem-nome---2025-05-23T192521.618.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/93f36a5e-b99f-4d80-99f1-8a12dd09705d/Design-sem-nome---2025-05-28T205742.391.png",
+              "title": "SLC Caching Dinâmico Inteligente",
+              "text": "<p>graças ao cache SLC, o SSD mantém picos de desempenho mesmo em cargas intensas</p>",
+              "alt": "SLC Caching Dinâmico Inteligente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Proteção de dados robusta",
+              "text": "<p>o ECC integrado corrige erros, preservando a integridade dos seus arquivos e prolongando a vida útil</p>",
+              "banner": "https://assets.decocache.com/scarcom/d7ffd293-56ed-4c89-8e63-227fa50e0de9/Design-sem-nome---2025-05-28T205656.706.png"
+            }
+          ],
+          "productId": "155756"
         }
       ]
     },
