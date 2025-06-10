@@ -13559,6 +13559,37 @@
             }
           ],
           "productId": "155756"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c732d3b4-d2a9-40ec-9338-e333e00f85bd/WesternDigital.red.1-(9).png",
+              "title": "Access Point HPE Aruba Instant On AP11D (modelo R2X16A)",
+              "text": "<p>O Aruba Instant On AP11D (R2X16A) é um Access Point Wi‑Fi para ambientes empresariais pequenos a médios, como escritórios, consultórios e acomodações. Com suporte a padrão 802.11ac Wave 2, banda dupla (2.4 GHz e 5 GHz) e desempenho até 1.167 Mbps, o AP11D fornece cobertura de qualidade e conexão estável. Ele suporta PoE (802.3af) para alimentação via rede e pode ser montado na parede ou mesa para fácil instalação </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/29218789-b9b9-4c6f-a46d-3d44cb6481e9/WesternDigital.red.1-(10).png",
+              "title": "Instalação simples e rápida",
+              "text": "<p>plug &amp; play via PoE, sem necessidade de fonte separada</p>",
+              "alt": "Instalação simples e rápida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "App intuitivo",
+              "text": "<p>configuração remota pelo aplicativo Aruba Instant On, gestão de convidados e monitoramento</p>",
+              "alt": "App intuitivo",
+              "banner": "https://assets.decocache.com/scarcom/0c353f9e-5199-41e8-b8e9-61bcb71186f8/WesternDigital.red.1-(11).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/81d12d2b-95b7-499d-a2f7-441d31a1c109/WesternDigital.red.1-(12).png",
+              "title": "Conectividade dedicada",
+              "text": "<p>redes independentes para funcionários e visitantes, com WPA2/WPA3</p>"
+            }
+          ],
+          "productId": "154748"
         }
       ]
     },
