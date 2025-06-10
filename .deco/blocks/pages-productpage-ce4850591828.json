@@ -13325,6 +13325,39 @@
             }
           ],
           "productId": "156027"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD ADATA Ultimate SU650 120 GB – ASU650SS‑120GT‑R",
+              "text": "<p>O ADATA Ultimate SU650 120 GB é um SSD SATA III de alto custo-benefício, pensado para turbinizar notebooks e computadores de entrada. Com tecnologia 3D NAND, este modelo oferece desempenho até 4 vezes superior a discos rígidos (HDs), mantendo excelente durabilidade e confiabilidade.</p>",
+              "banner": "https://assets.decocache.com/scarcom/59e13883-268e-4f13-bc9d-6cdc31b4561f/Design-sem-nome---2025-05-28T205756.768.png",
+              "alt": "SSD ADATA Ultimate SU650 120 GB – ASU650SS‑120GT‑R"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Equipado com recursos como cache SLC inteligente e ECC avançado, o SU650 disponível em formato 2,5″ e espessura de 7 mm, garante carregamentos mais rápidos, boot instantâneo e fluidez em aplicações cotidianas, evitando os gargalos dos sistemas baseados em HD.</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/93f36a5e-b99f-4d80-99f1-8a12dd09705d/Design-sem-nome---2025-05-28T205742.391.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d7ffd293-56ed-4c89-8e63-227fa50e0de9/Design-sem-nome---2025-05-28T205656.706.png",
+              "title": "Desempenho instantâneo sobre HD",
+              "text": "<p>Esqueça a lentidão ao abrir o sistema, aplicativos e arquivos; o SU650 carrega tudo em segundos com velocidades de até 520 MB/s </p>",
+              "alt": "Desempenho instantâneo sobre HD"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0e041170-85f1-4bc9-a81d-d11d4805adac/Design-sem-nome---2025-05-28T205814.451.png",
+              "title": "Cache SLC inteligente",
+              "text": "<p>O SLC Caching permite que o SSD use parte da memória TLC como se fosse SLC, acelerando significativamente as transferências em picos de uso </p>",
+              "alt": "Cache SLC inteligente"
+            }
+          ],
+          "productId": "155038"
         }
       ]
     },
