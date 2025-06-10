@@ -13358,6 +13358,46 @@
             }
           ],
           "productId": "155038"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b362dc7e-86a6-4e4f-b635-c51288946f97/WesternDigital.red.1-(2).png",
+              "title": "SSD XPG SPECTRIX S20G 1 TB – NVMe PCIe Gen3x4, RGB – ASPECTRIXS20G‑1T‑C",
+              "text": "<p>O XPG SPECTRIX S20G 1 TB é um SSD NVMe de alto impacto, combinando desempenho sólido com visual gamer atraente. Com interface PCIe 3.0 x4 e protocolo NVMe 1.3, entrega velocidades de até 2500 MB/s em leitura e 1800 MB/s em gravação, proporcionando agilidade em boot do sistema, carregamento de jogos e aplicações pesadas </p>",
+              "alt": "SSD XPG SPECTRIX S20G 1 TB – NVMe PCIe Gen3x4, RGB – ASPECTRIXS20G‑1T‑C"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9aef5b41-5bc7-4158-acda-fab2c01440bb/WesternDigital.red.1.png",
+              "title": "Descrição Geral",
+              "text": "<p>Seu design exclusivo em formato <strong>M.2 2280</strong> conta com um <strong>dissipador integrado</strong> e iluminação <strong>RGB personalizável</strong>, ideal para setups gamers temáticos</p>",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db6f04a9-2d96-475e-99f7-72a00a1ab1ee/WesternDigital.red.1-(1).png",
+              "title": "Alta performance para games e aplicações",
+              "text": "<p> com até 2500 MB/s de leitura e 1800 MB/s de gravação, o S20G reduz tempos de carregamento e melhora a fluidez geral</p>",
+              "alt": "Alta performance para games e aplicações"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f921f3f0-ce62-424f-813e-7b6902b2f81d/WesternDigital.red.1-(4).png",
+              "title": "RGB integrado para visual gamer premium",
+              "text": "<p>o dissipador com iluminação personalizável garante estética impactante sem interferir no desempenho</p>",
+              "alt": "RGB integrado para visual gamer premium"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Estabilidade e longevidade",
+              "text": "<p>a combinação de tecnologias como SLC cache, HMB e ECC assegura desempenho consistente e maior durabilidade (600 TBW) </p>",
+              "alt": "Estabilidade e longevidade",
+              "banner": "https://assets.decocache.com/scarcom/0a8a1180-45a9-4c3d-8ebc-5e0202615da2/WesternDigital.red.1-(3).png"
+            }
+          ],
+          "productId": "155532"
         }
       ]
     },
