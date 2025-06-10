@@ -13495,6 +13495,39 @@
             }
           ],
           "productId": "155627"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2bfd5ff0-185b-44e9-8020-887d34fe693a/Design-sem-nome---2025-06-02T165145.612.png",
+              "title": " SSD ADATA LEGEND 710 512 GB – M.2 2280 NVMe PCIe Gen3×4 (ALEG‑710‑512GCS)",
+              "text": "<p>O ADATA LEGEND 710 512 GB é um SSD NVMe avançado que combina alto desempenho, refrigeração eficiente e segurança para dados sensíveis, ideal para criadores de conteúdo, gamers e usuários de PCs potentes que buscam performance com visual sóbrio e robusto.</p>",
+              "alt": " SSD ADATA LEGEND 710 512 GB – M.2 2280 NVMe PCIe Gen3×4 (ALEG‑710‑512GCS)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Equipado com interface PCIe&nbsp;3.0&nbsp;×4 e protocolo NVMe&nbsp;1.4, oferece velocidades até 2.400 MB/s em leitura e 1.800 MB/s em gravação, garantindo carregamento ágil de sistemas, jogos e edição de arquivos grandes </p>",
+              "banner": "https://assets.decocache.com/scarcom/c3d6765f-c988-49ca-a5d3-66cc9e80b1be/Design-sem-nome---2025-06-02T165247.971.png",
+              "alt": "Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a268e3b9-bc6b-46ad-90a7-d2a69af3e669/Design-sem-nome---2025-06-02T165308.273.png",
+              "title": "Desempenho robusto com NVMe",
+              "text": "<p>acelera o boot, carregamento de apps e jogos com leitura de 2.400 MB/s e gravação de 1.800 MB/s</p>",
+              "alt": "Desempenho robusto com NVMe"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d63d527b-8656-499f-a55c-a2922b6f5d32/Design-sem-nome---2025-06-02T165321.567.png",
+              "title": "Alto padrão de durabilidade",
+              "text": "<p> com TBW de 130 TB e suporte a choque de 1 500 G, oferece longa vida útil e uso portátil seguro.</p>",
+              "alt": "Alto padrão de durabilidade"
+            }
+          ],
+          "productId": "156015"
         }
       ]
     },
