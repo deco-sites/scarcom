@@ -13429,6 +13429,39 @@
             }
           ],
           "productId": "155715"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2bfd5ff0-185b-44e9-8020-887d34fe693a/Design-sem-nome---2025-06-02T165145.612.png",
+              "title": "SSD ADATA LEGEND 710 256 GB – M.2 NVMe PCIe Gen3×4 – ALEG‑710‑256GCS",
+              "text": "<p>O ADATA LEGEND 710 256 GB é um SSD NVMe M.2 2280 de alta performance, projetado para entrega de velocidade, confiabilidade e eficiência térmica. Com interface PCIe 3.0 x4 e suporte ao protocolo NVMe 1.4, atinge velocidades de até 2.400 MB/s em leitura e 1.800 MB/s em gravação, ideal tanto para uso profissional quanto para gamers </p>",
+              "alt": "SSD ADATA LEGEND 710 256 GB – M.2 NVMe PCIe Gen3×4 – ALEG‑710‑256GCS"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Este modelo conta com um dissipador de calor integrado, reduzindo a temperatura em até 15%, o que mantém o desempenho estável mesmo sob uso intenso </p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/c3d6765f-c988-49ca-a5d3-66cc9e80b1be/Design-sem-nome---2025-06-02T165247.971.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a268e3b9-bc6b-46ad-90a7-d2a69af3e669/Design-sem-nome---2025-06-02T165308.273.png",
+              "title": "Desempenho para gerar e criar conteúdo",
+              "text": "<p>Velocidade de leitura/gravação sustentada de até 2.400/1.800 MB/s permite edição de vídeo, manipulação de grandes arquivos e armazenamento ágil</p>",
+              "alt": "Desempenho para gerar e criar conteúdo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d63d527b-8656-499f-a55c-a2922b6f5d32/Design-sem-nome---2025-06-02T165321.567.png",
+              "title": "Controle térmico eficiente",
+              "text": "<p> Dissipador reduz temperatura em até 15%, evitando queda de performance sob uso prolongado</p>",
+              "alt": "Controle térmico eficiente"
+            }
+          ],
+          "productId": "156026"
         }
       ]
     },
