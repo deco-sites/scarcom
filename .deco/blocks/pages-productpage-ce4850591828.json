@@ -13623,6 +13623,38 @@
             }
           ],
           "productId": "154483"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": " Access Point Aruba Instant On AP17 – Outdoor – R2X11A (RW)",
+              "text": "<p>O Aruba Instant On AP17 (R2X11A) é um access point Wi‑Fi 5 (802.11ac Wave 2) projetado para uso em ambientes externos como varandas, áreas externas de cafés, restaurantes e pátios. Desenvolvido para operar com robustez em condições adversas, ele oferece rede sem fio de alta velocidade (até 1.167 Mbps) e design resistente conforme padrão IP55, combinando performance corporativa com facilidade de uso residencial ou empresarial </p>",
+              "alt": " Access Point Aruba Instant On AP17 – Outdoor – R2X11A (RW)",
+              "banner": "https://assets.decocache.com/scarcom/b8315742-d19d-48fb-bd17-6a0750a7652a/WesternDigital.red.1-(13).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b2f7cb2a-c5f1-4f27-988d-222755fe8526/WesternDigital.red.1-(14).png",
+              "title": "Conexão rápida e abrangente em ambientes externos",
+              "text": "<p>Com taxa agregada de até 1.167 Mbps, garante cobertura robusta mesmo ao ar livre, suportando múltiplos dispositivos.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb529a54-7b6b-425f-aa9d-e8b9e6b400ba/WesternDigital.red.1-(15).png",
+              "title": "Robustez certificada para uso externo",
+              "text": "<p>O design IP55 protege contra poeira, chuva e ventos, e o gabinete metálico com antenas integradas e kit de fixação garante durabilidade.</p>",
+              "alt": "Robustez certificada para uso externo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f7cff5c0-bad3-42a7-ab68-76368a6bb801/WesternDigital.red.1-(17).png",
+              "title": "Fácil de instalar e expandir",
+              "text": "<p>Alimentado via PoE, dispensa fontes externas e pode ser facilmente integrado a uma rede PoE. A função Smart Mesh também permite expandir sem cabeamento adicional.</p>",
+              "alt": "Fácil de instalar e expandir"
+            }
+          ],
+          "productId": "154661"
         }
       ]
     },
