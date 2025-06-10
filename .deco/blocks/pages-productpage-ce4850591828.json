@@ -13398,6 +13398,37 @@
             }
           ],
           "productId": "155532"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/95cc65eb-2de9-4d62-869a-f7eb1c969231/WesternDigital.red.1-(5).png",
+              "title": "SSD ADATA Ultimate SU650 240 GB – SATA III 2,5″ Descrição Geral",
+              "text": "<p>O ADATA Ultimate SU650 240 GB é um SSD SATA III com tecnologia 3D NAND, oferecendo um upgrade eficiente para quem busca substituição de HDs mecânicos por uma solução mais rápida, durável e confiável.</p>",
+              "alt": "SSD ADATA Ultimate SU650 240 GB – SATA III 2,5″ Descrição Geral"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af61231f-b1d4-4c27-95c2-86b2fe964928/WesternDigital.red.1-(7).png",
+              "title": "Descrição Geral",
+              "text": "<p>Com desempenho de até 520 MB/s em leitura e 450 MB/s em gravação, ele proporciona inícios de sistema, abertura de aplicativos e transferências de arquivos muito mais ágeis, eliminando gargalos comuns em computadores antigos ou de entrada </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc4a1a46-cffd-4d9b-8ec9-e04dd964e708/WesternDigital.red.1-(6).png",
+              "title": "Performance até 4x superior ao HD ",
+              "text": "<p>carga rápida de SO, apps e jogos com velocidades de até 520/450 MB/s </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/84ddcfff-61ef-47f2-8a16-ddbb638f6cb4/WesternDigital.red.1-(8).png",
+              "title": "Alta resistência física",
+              "text": "<p>suporte a choques, vibrações e altas temperaturas, além de operação silenciosa e sem partes móveis</p>",
+              "alt": "Alta resistência física"
+            }
+          ],
+          "productId": "155715"
         }
       ]
     },
