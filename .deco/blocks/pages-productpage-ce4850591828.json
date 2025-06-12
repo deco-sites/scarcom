@@ -13688,6 +13688,39 @@
             }
           ],
           "productId": "154484"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": " Access Point Aruba Instant On IAP‑315 – JW811A (RW)",
+              "text": "<p>O Aruba Instant On IAP‑315 (código JW811A – Rest of World) é um access point de alto desempenho, desenhado para ambientes corporativos ou de alta densidade, como escritórios, escolas, hotéis e comércios. Suporta o padrão Wi‑Fi 5 (802.11ac Wave 2) e combina conectividade dual-band simultânea, tecnologia MU‑MIMO 4×4 e banda de até 1,7 Gbps na frequência de 5 GHz + 300 Mbps em 2,4 GHz, totalizando uma conexão robusta de até 2,1 Gbps. </p>",
+              "alt": " Access Point Aruba Instant On IAP‑315 – JW811A (RW)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alta performance com MU‑MIMO 4×4 e dual‑band",
+              "text": "<p>Conexões simultâneas rápidas e estáveis, suportando muitos dispositivos com total eficiência. </p>",
+              "alt": "Alta performance com MU‑MIMO 4×4 e dual‑band",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png",
+              "title": "Gerenciamento simples e sem controlador",
+              "text": "<p>Operação “flare &amp; forget” – um AP pode atuar como controlador, sem necessidade de hardware adicional, com gestão via app ou nuvem. </p>",
+              "alt": "Gerenciamento simples e sem controlador"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png",
+              "title": "Recursos corporativos avançados",
+              "text": "<p>ClientMatch, AppRF, ARM e ACC garantem otimização automática da rede, QoS para voz/vídeo e proteção contra interferências celulares. </p>",
+              "alt": "Recursos corporativos avançados"
+            }
+          ],
+          "productId": "154324"
         }
       ]
     },
