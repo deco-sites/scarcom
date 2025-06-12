@@ -13655,6 +13655,39 @@
             }
           ],
           "productId": "154661"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": " Access Point Aruba Instant On AP12 (Indoor) – R2X01A",
+              "text": "<p>O Aruba Instant On AP12 (código R2X01A – Rest of World) é um access point Wi‑Fi 5 (802.11ac Wave 2) de alto desempenho para ambientes internos, como escritórios, consultórios, pequenos comércios e espaços corporativos. Seu design moderno e discreto combina com qualquer ambiente, enquanto oferece conectividade dual-band simultânea, MU-MIMO 3x3, e velocidade combinada de até 1,600 Mbps, garantindo cobertura eficiente para até 75 dispositivos</p>",
+              "alt": " Access Point Aruba Instant On AP12 (Indoor) – R2X01A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Conexão rápida e confiável",
+              "text": "<p>MU-MIMO 3×3, dual-band simultâneo e agregação de até 1.600 Mbps garantem comunicação fluida para mídias pesadas, videoconferências e múltiplos dispositivos</p>",
+              "alt": "Conexão rápida e confiável",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png",
+              "title": "Segurança avançada",
+              "text": "<p> WPA3, WPA2, Enhanced Open (OWE) e rede para convidados com captive portal oferecem controle e proteção de acesso </p>",
+              "alt": "Segurança avançada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Gerenciamento descomplicado",
+              "text": "<p>app intuitivo e portal cloud permitem monitoramento, configurações e firmware OTA sem equipamentos adicionais  </p>",
+              "alt": "Gerenciamento descomplicado",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png"
+            }
+          ],
+          "productId": "154484"
         }
       ]
     },
