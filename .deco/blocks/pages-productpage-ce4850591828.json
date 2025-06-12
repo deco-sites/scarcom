@@ -13721,6 +13721,38 @@
             }
           ],
           "productId": "154324"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": " Access Point Aruba Instant On AP15 – R2X06A (Indoor, RW)",
+              "text": "<p>O Aruba Instant On AP15 (R2X06A) é um access point Wi‑Fi 5 (802.11ac Wave 2) de alta performance, projetado para ambientes internos com média densidade, como escritórios, coworkings, consultórios e lojas. Com suporte a dual-band simultâneo e MU‑MIMO 4×4, ele oferece até 1.733 Mbps na banda de 5 GHz e 300 Mbps em 2.4 GHz, totalizando velocidade agregada de aproximadamente 2 Gbps </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Ideal para fornecer conexão estável, rápida e escalável, sem a necessidade de controladoras externas — o próprio AP atua como controlador virtual no cluster .</p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png",
+              "title": "Conectividade Wi‑Fi 5 de alto desempenho",
+              "text": "<p>Com MU‑MIMO 4×4 e dual-band simultâneo, suporta altas demandas de tráfego, ideal para videoconferência, streaming e múltiplos dispositivos conectados por AP </p>",
+              "alt": "Conectividade Wi‑Fi 5 de alto desempenho"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Implantação rápida e sem controladora física",
+              "text": "<p>Alimentado via PoE e com virtual controller integrado, o AP15 possibilita operação plug-and-play e fácil escalabilidade com até 25 unidades </p>",
+              "alt": "Implantação rápida e sem controladora física",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png"
+            }
+          ],
+          "productId": "155275"
         }
       ]
     },
