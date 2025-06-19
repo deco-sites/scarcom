@@ -13753,6 +13753,46 @@
             }
           ],
           "productId": "155275"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": "Access Point Aruba AP‑565 Outdoor – R4W43A (Wi‑Fi 6)",
+              "text": "<p>O Aruba AP‑565 (modelo R4W43A) é um ponto de acesso ideal para ambientes externos profissionais, como estacionamentos, pátios, áreas industriais e setores logísticos. Com suporte ao padrão Wi‑Fi 6 (802.11ax 2×2:2), oferece conectividade rápida, confiável e segura, mesmo em condições adversas.</p>",
+              "alt": "Access Point Aruba AP‑565 Outdoor – R4W43A (Wi‑Fi 6)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ef782427-c683-4c0b-8fa9-7f7dd5963eea/WesternDigital.red.1-(22).png",
+              "title": "Wi‑Fi 6 outdoor de alta performance",
+              "text": "<p>MU‑MIMO e OFDMA reduzem latência e aumentam a eficiência em uso com muitos dispositivos</p>",
+              "alt": "Wi‑Fi 6 outdoor de alta performance"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5596a547-07b8-4269-88a1-bcb0ca955977/WesternDigital.red.1-(23).png",
+              "title": "Cobertura resistente em qualquer clima",
+              "text": "<p>proteção IP55 e certificação para ambientes severos oferecendo robustez durável .</p>",
+              "alt": "Cobertura resistente em qualquer clima"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3aae55be-f4ed-46b9-b09e-e2e142db8013/WesternDigital.red.1-(25).png",
+              "title": "Segurança avançada de nível corporativo",
+              "text": "<p>suporta WPA3, Passpoint, Segmentação Dinâmica e firewall de políticas </p>",
+              "alt": "Segurança avançada de nível corporativo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/637c1707-65a9-4ddb-bf40-bab8f28e2017/WesternDigital.red.1-(24).png",
+              "alt": "Gerenciamento inteligente",
+              "title": "Gerenciamento inteligente",
+              "text": "<p>uso de ClientMatch e AirMatch com Aruba Central para performance otimizada e fácil configuração </p>"
+            }
+          ],
+          "productId": "1263"
         }
       ]
     },
