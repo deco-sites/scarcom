@@ -13899,6 +13899,38 @@
             }
           ],
           "productId": "1425"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Access Point Aruba Instant On AP25 – R9B28A (Wi‑Fi 6 Indoor, RW)",
+              "text": "<p>O Aruba Instant On AP25 (SKU R9B28A – Rest of World) é um access point Wi‑Fi 6 de alto desempenho, projetado para ambientes com alto volume de usuários, como escritórios, hotéis, residências premium e espaços corporativos. Equipado com radios 4×4 MU‑MIMO nas bandas de 5 GHz e 2.4 GHz, entrega uma velocidade combinada de até 5,3 Gbps, garantindo alta capacidade, baixa latência e cobertura robusta </p>",
+              "alt": "Access Point Aruba Instant On AP25 – R9B28A (Wi‑Fi 6 Indoor, RW)",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png",
+              "title": "Wi‑Fi 6 para ambientes dense",
+              "text": "<p>suporte total a MU‑MIMO, OFDMA, TWT e 160 MHz para desempenho e eficiência superiores, reduzindo latência e aumentando a capacidade</p>",
+              "alt": "Wi‑Fi 6 para ambientes dense"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png",
+              "title": "Velocidade de uplink ampliada",
+              "text": "<p>porta 2,5 GbE permite explorar ao máximo a capacidade do Wi‑Fi relatada, ideal para redes modernas</p>",
+              "alt": "Velocidade de uplink ampliada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Conectividade confiável para muitas estações",
+              "text": "<p>até 100+ dispositivos por AP; ideal para empresas com demandas intensas de acesso .</p>",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png"
+            }
+          ],
+          "productId": "156299"
         }
       ]
     },
