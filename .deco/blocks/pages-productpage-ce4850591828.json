@@ -13833,6 +13833,39 @@
             }
           ],
           "productId": "1404"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": "Access Point Aruba AP‑515 Wi‑Fi 6 – Q9H62A (RW)",
+              "text": "<p>O Aruba AP‑515 (SKU Q9H62A) é um access point corporativo de alto desempenho com padrão Wi‑Fi 6 (802.11ax), indicado para ambientes de densidade média, como escritórios, hotéis, escolas e hospitais. Com arquitetura dual-band (4x4 em 5 GHz + 2x2 em 2,4 GHz), oferece taxa combinada de até 5,4 Gbps, conectividade inteligente e otimização de rede por meio de ClientMatch e AirMatch, garantindo performance confiável para múltiplos dispositivos e aplicações modernas</p>",
+              "alt": "Access Point Aruba AP‑515 Wi‑Fi 6 – Q9H62A (RW)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png",
+              "title": "Desempenho extremo com Wi‑Fi 6",
+              "text": "<p>Taxa de 5,4 Gbps, MU‑MIMO e OFDMA suportam aplicações exigentes como videoconferência, streaming e IoT simultâneos </p>",
+              "alt": "Desempenho extremo com Wi‑Fi 6"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png",
+              "title": "Otimização automática da rede",
+              "text": "<p>Tecnologias como ClientMatch e AirMatch garantem distribuição inteligente de carga e minimizam interferências </p>",
+              "alt": "Otimização automática da rede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png",
+              "title": "Alta densidade de usuários por rádio",
+              "text": "<p>Suporte para até 256 clientes por rádio permite uso corporativo intenso sem queda de desempenho </p>",
+              "alt": "Alta densidade de usuários por rádio"
+            }
+          ],
+          "productId": "1396"
         }
       ]
     },
