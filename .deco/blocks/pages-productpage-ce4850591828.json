@@ -13793,6 +13793,46 @@
             }
           ],
           "productId": "1263"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": "Access Point Aruba Instant On AP‑505 – R2H28A (Wi‑Fi 6, Indoor)",
+              "text": "<p>O Aruba AP‑505 (R2H28A) é um access point de alta performance com Wi‑Fi 6 (802.11ax), especialmente projetado para ambientes corporativos internos, como escritórios, escolas, consultórios e espaços comerciais. Ele oferece conectividade dual-band simultânea, taxa agregada de até 1,49 Gbps, e suporta multiusuários com OFDMA e MU-MIMO, garantindo eficiência e velocidade mesmo com múltiplos dispositivos conectados </p>",
+              "alt": "Access Point Aruba Instant On AP‑505 – R2H28A (Wi‑Fi 6, Indoor)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Descrição Geral",
+              "text": "<p>Além disso, possui Bluetooth 5 e suporte a Zigbee embutidos, facilitando a integração com dispositivos IoT. Sua segurança é reforçada com WPA3 e Enhanced Open, e conta com recursos como ClientMatch que mantém os dispositivos conectados ao ponto ideal </p>",
+              "alt": "Descrição Geral",
+              "banner": "https://assets.decocache.com/scarcom/ef782427-c683-4c0b-8fa9-7f7dd5963eea/WesternDigital.red.1-(22).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5596a547-07b8-4269-88a1-bcb0ca955977/WesternDigital.red.1-(23).png",
+              "title": "Wi‑Fi 6 Full-Feature",
+              "text": "<p> Suporta até 1,49 Gbps com eficiência para múltiplos dispositivos, ideal para videoconferências, streaming e uso corporativo .</p>",
+              "alt": "Wi‑Fi 6 Full-Feature"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Melhor distribuição de sinal",
+              "text": "<p>Com ClientMatch, o AP equilibra a conexão dos dispositivos entre access points, garantindo performance sempre consistente </p>",
+              "alt": "Melhor distribuição de sinal",
+              "banner": "https://assets.decocache.com/scarcom/3aae55be-f4ed-46b9-b09e-e2e142db8013/WesternDigital.red.1-(25).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/637c1707-65a9-4ddb-bf40-bab8f28e2017/WesternDigital.red.1-(24).png",
+              "title": "Segurança atualizada",
+              "text": "<p>WPA3, Enhanced Open e segmentação de rede via Dynamic Segmentation oferecem proteção moderna tanto para usuários quanto para convidados</p>",
+              "alt": "Segurança atualizada"
+            }
+          ],
+          "productId": "1404"
         }
       ]
     },
