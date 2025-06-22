@@ -13931,6 +13931,38 @@
             }
           ],
           "productId": "156299"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/056b1b19-0ac8-4e12-94e4-72037d7ee718/WesternDigital.red.1-(26).png",
+              "title": "Switch Aruba CX 6200F 24G 4SFP+ – JL724A",
+              "text": "<p>O Aruba CX 6200F (JL724A) é um switch de agregação empilhável da nova geração, projetado para atender redes corporativas, operando com inteligência e simplicidade. Combinando arquitetura Gen7 ASIC, análise em tempo real via Network Analytics Engine (NAE) e opções de empilhamento com VSF (até 8 unidades), ele oferece uma solução poderosa e escalável para ambientes branch, campus ou SMB </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd9fc889-31f4-4b20-9902-cb4197095ff4/WesternDigital.red.1-(27).png",
+              "title": "Alto desempenho corporativo",
+              "text": "<p>com 128 Gbps de switching e processador dedicado para funções avançadas, mantém desempenho sem queda mesmo sob cargas intensas .</p>",
+              "alt": "Alto desempenho corporativo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": " Empilhamento eficaz (VSF)",
+              "text": "<p>facilita a expansão de rede com administração unificada de até oito unidades</p>",
+              "alt": " Empilhamento eficaz (VSF)",
+              "banner": "https://assets.decocache.com/scarcom/b100ef5c-8833-499b-acf4-9fff6151a94d/WesternDigital.red.1-(28).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/37c8b59b-85ac-4e51-8ec0-b597d710206e/WesternDigital.red.1-(29).png",
+              "title": "Monitoramento avançado",
+              "text": "<p>o NAE oferece visibilidade em tempo real e automação de troubleshooting, reduzindo o tempo de resposta</p>",
+              "alt": "Monitoramento avançado"
+            }
+          ],
+          "productId": "156288"
         }
       ]
     },
