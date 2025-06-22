@@ -13866,6 +13866,39 @@
             }
           ],
           "productId": "1396"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/71e48676-556f-4d55-8934-0bebb77c9c95/WesternDigital.red.1-(18).png",
+              "title": "Access Point Aruba AP‑535 Wi‑Fi 6 – Modelo JZ336A (RW)",
+              "text": "<p>O Aruba AP‑535 é um ponto de acesso corporativo de alta densidade, equipado com Wi‑Fi 6 (802.11ax) e arquitetura 4×4 MU‑MIMO em ambas as bandas, projetado para ambientes de grande demanda, como grandes escritórios, auditórios, hospitais, hotéis e campus. Com taxa agregada de até 2,97 Gbps, ele atende até 1.024 dispositivos por rádio, oferecendo performance e escalabilidade excepcionais para uso contemporâneo .</p>",
+              "alt": "Access Point Aruba AP‑535 Wi‑Fi 6 – Modelo JZ336A (RW)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b231ab1-38ff-4d5f-9367-7994fb1f6c54/WesternDigital.red.1-(19).png",
+              "title": "Ultra alta densidade e throughput",
+              "text": "<p>com MU‑MIMO 4×4, OFDMA e taxa combinada de até 2,97 Gbps, o AP‑535 é ideal para ambientes com muitos usuários e dispositivos </p>",
+              "alt": "Ultra alta densidade e throughput"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Otimização de tráfego com ClientMatch e AirMatch",
+              "text": "<p>distribui os dispositivos pelo melhor canal e sinal, evitando interferência e congestionamento</p>",
+              "alt": "Otimização de tráfego com ClientMatch e AirMatch",
+              "banner": "https://assets.decocache.com/scarcom/bd7a0914-bc65-4659-a678-ae59357d28e7/WesternDigital.red.1-(20).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fffa1857-6c4f-4ce8-b037-a2409afdea51/WesternDigital.red.1-(21).png",
+              "title": " Por que escolher o Aruba AP‑535 (JZ336A)?",
+              "text": "<p>Ideal para ambientes que demandam Wi‑Fi de alto desempenho, alta densidade, segurança avançada e suporte a IoT, o AP‑535 entrega tecnologias modernas, integração com Aruba Central e garantia de longo prazo — tudo em um formato único que combina eficiência e escalabilidade.</p>",
+              "alt": " Por que escolher o Aruba AP‑535 (JZ336A)?"
+            }
+          ],
+          "productId": "1425"
         }
       ]
     },
