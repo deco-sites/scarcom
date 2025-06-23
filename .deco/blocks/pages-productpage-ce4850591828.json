@@ -13963,6 +13963,39 @@
             }
           ],
           "productId": "156288"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/056b1b19-0ac8-4e12-94e4-72037d7ee718/WesternDigital.red.1-(26).png",
+              "title": "Switch Aruba CX 6200F 24G 4SFP+ – JL724B",
+              "text": "<p>O Aruba CX 6200F JL724B é um switch gerenciável de acesso, 24 portas Gigabit com 4 uplinks SFP+ (1/10 GbE), projetado para pequenas e médias empresas, filiais, ambientes industriais e integrações de IoT. Equipado com ASIC Gen 7 da Aruba, traz telemetria inteligente, empilhamento VSF de até 8 unidades, PoE+ opcional e arquitetura moderna para facilitar operações em rede </p>",
+              "alt": "Switch Aruba CX 6200F 24G 4SFP+ – JL724B"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alto desempenho corporativo",
+              "text": "<p>128 Gbps de switching com ASIC Gen 7, garantindo baixíssima latência e eficiência</p>",
+              "alt": "Alto desempenho corporativo",
+              "banner": "https://assets.decocache.com/scarcom/b100ef5c-8833-499b-acf4-9fff6151a94d/WesternDigital.red.1-(28).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd9fc889-31f4-4b20-9902-cb4197095ff4/WesternDigital.red.1-(27).png",
+              "title": "Escalonável e pronto para crescer",
+              "text": "<p>Empilhamento VSF de até 8 switches com gerenciamento unificado </p>",
+              "alt": "Escalonável e pronto para crescer"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/37c8b59b-85ac-4e51-8ec0-b597d710206e/WesternDigital.red.1-(29).png",
+              "title": "Segmentação segura e gerenciável",
+              "text": "<p> Suporte a Dynamic Segmentation oferece políticas consistentes entre cabeado e Wi‑Fi</p>",
+              "alt": "Segmentação segura e gerenciável"
+            }
+          ],
+          "productId": "156289"
         }
       ]
     },
