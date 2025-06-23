@@ -14192,6 +14192,39 @@
             }
           ],
           "productId": "155984"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": "Transceiver Óptico 10 Gb/s SFP+ LC SR – Aruba Instant On R9D18A",
+              "text": "<p>O R9D18A é um transceiver óptico 10 Gbps SFP+ LC, projetado para conexões de alta velocidade em fibra multimodo (MMF) com alcance de até 300 metros utilizando cabo OM3. Compatível com switches Aruba Instant On (modelos 1930, 1960, 2530 e 2540), oferece desempenho superior para interligações de data center, backbone de campus e ambientes corporativos exigentes.</p>",
+              "alt": "Transceiver Óptico 10 Gb/s SFP+ LC SR – Aruba Instant On R9D18A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c806fe3c-9840-43da-b6c3-5cb22369e55e/WesternDigital.red.1-(35).png",
+              "title": "Alto desempenho",
+              "text": "<p> suporte a 10 Gbps para aplicações que exigem alta largura de banda.</p>",
+              "alt": "Alto desempenho"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f036f82-cdb4-4f80-8aa6-72398cd65e72/WesternDigital.red.1-(36).png",
+              "title": "Compatibilidade garantida",
+              "text": "<p>homologado para switches Aruba Instant On, garantindo interoperabilidade e suporte.</p>",
+              "alt": "Compatibilidade garantida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b8f6efcd-ee78-4ca4-8209-ddc44cddacb4/WesternDigital.red.1-(37).png",
+              "title": "Fácil instalação",
+              "text": "<p>design hot-plug permite substituição rápida sem interromper o funcionamento da rede.</p>",
+              "alt": "Fácil instalação"
+            }
+          ],
+          "productId": "155906"
         }
       ]
     },
