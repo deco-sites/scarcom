@@ -13996,6 +13996,38 @@
             }
           ],
           "productId": "156289"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/056b1b19-0ac8-4e12-94e4-72037d7ee718/WesternDigital.red.1-(26).png",
+              "title": " Switch Aruba CX 6200F 24G 4SFP+ 370 W PoE+ – JL725B",
+              "text": "<p>O Aruba CX 6200F JL725B é um switch de acesso gerenciável de alto desempenho, ideal para pequenas e médias empresas, filiais, ambientes industriais e projetos IoT. Equipado com 24 portas Gigabit PoE+ (Classe 4) e 4 uplinks SFP+ de 1/10 GbE, oferece 370 W de orçamento PoE, empilhamento VSF, inteligência embarcada via Network Analytics Engine (NAE) e sistema operacional Aruba AOS‑CX com APIs modernas </p>",
+              "alt": " Switch Aruba CX 6200F 24G 4SFP+ 370 W PoE+ – JL725B"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b100ef5c-8833-499b-acf4-9fff6151a94d/WesternDigital.red.1-(28).png",
+              "title": "Performance corporativa garantida",
+              "text": "<p>com 128 Gbps switching e CPU poderosa, mantém redes exigentes e com baixa latência.</p>",
+              "alt": "Performance corporativa garantida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd9fc889-31f4-4b20-9902-cb4197095ff4/WesternDigital.red.1-(27).png",
+              "title": " Escalabilidade flexível via VSF",
+              "text": "<p> até 8 switches podem atuar como uma única unidade lógica, com conectividade simplificada.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/37c8b59b-85ac-4e51-8ec0-b597d710206e/WesternDigital.red.1-(29).png",
+              "title": "Visibilidade em tempo real",
+              "text": "<p>NAE permite monitorar o tráfego, identificar gargalos e automatizar diagnósticos.</p>",
+              "alt": "Visibilidade em tempo real"
+            }
+          ],
+          "productId": "JL725B"
         }
       ]
     },
