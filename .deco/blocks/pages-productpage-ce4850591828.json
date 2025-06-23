@@ -14154,6 +14154,44 @@
             }
           ],
           "productId": "155979"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": "Transceiver Aruba Instant On 1Gb SFP RJ45 – R9D17A",
+              "text": "<p>O R9D17A é um módulo transceiver 1 Gigabit SFP RJ45, projetado para conexões via cabo de cobre Cat5e/6 até 100 metros. Ideal para expandir a conectividade de switches Aruba Instant On (linhas 1830, 1930, 1960) e HPE OfficeConnect sem o custo de fibras, oferece solução plug &amp; play com alta compatibilidade e performance estável </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": "Transceiver Aruba Instant On 1Gb SFP RJ45 – R9D17A",
+              "text": "<p>O R9D17A é um módulo transceiver 1 Gigabit SFP RJ45, projetado para conexões via cabo de cobre Cat5e/6 até 100 metros. Ideal para expandir a conectividade de switches Aruba Instant On (linhas 1830, 1930, 1960) e HPE OfficeConnect sem o custo de fibras, oferece solução plug &amp; play com alta compatibilidade e performance estável <br></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c806fe3c-9840-43da-b6c3-5cb22369e55e/WesternDigital.red.1-(35).png",
+              "title": "Conexão Gigabit sem fibra",
+              "text": "<p>Permite uso de infraestrutura de cobre existente, reduzindo custos e simplificando a expansão </p>",
+              "alt": "Conexão Gigabit sem fibra"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f036f82-cdb4-4f80-8aa6-72398cd65e72/WesternDigital.red.1-(36).png",
+              "title": "Ampla compatibilidade e instalação simples",
+              "text": "<p>Projeto plug &amp; play com suporte nativo nos switches Aruba Instant On; instalação rápida e sem complicações </p>",
+              "alt": "Ampla compatibilidade e instalação simples"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b8f6efcd-ee78-4ca4-8209-ddc44cddacb4/WesternDigital.red.1-(37).png",
+              "title": "Operação em condições comerciais padrão",
+              "text": "<p>Suporta amplitude térmica típica de escritórios, garantindo estabilidade operacional </p>",
+              "alt": "Operação em condições comerciais padrão"
+            }
+          ],
+          "productId": "155984"
         }
       ]
     },
