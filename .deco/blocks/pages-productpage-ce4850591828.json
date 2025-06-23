@@ -14117,6 +14117,24 @@
             }
           ],
           "productId": "156241"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/009e2c6a-d8a3-4466-aaa3-b9c433fa7056/WesternDigital.red.1-(32).png",
+              "title": "Transceiver Óptico 10Gb/s SFP+ LC LR – HPE Aruba J9151E",
+              "text": "<p>O J9151E é um transceiver óptico compatível com o padrão 10GBase-LR, projetado para conexão de longa distância em fibra monomodo (SMF) com alcance de até 10 km. Compacto, confiável e aprovado pela Aruba/HPE, ele oferece alto desempenho para backbone, data centers e redes corporativas robustas </p>",
+              "alt": "Transceiver Óptico 10Gb/s SFP+ LC LR – HPE Aruba J9151E"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f00db5a7-4813-45c0-9233-5fac428d857c/WesternDigital.red.1-(33).png",
+              "title": "Por que escolher o J9151E?",
+              "text": "<p>Se você busca um módulo óptico 10 Gb/s confiável, durável e compatível com Aruba/HPE, o J9151E oferece performance de longa distância, monitoramento avançado e facilidade de instalação — ideal para redes empresariais robustas.</p>"
+            }
+          ],
+          "productId": "155992"
         }
       ]
     },
