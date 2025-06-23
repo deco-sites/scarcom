@@ -14027,7 +14027,40 @@
               "alt": "Visibilidade em tempo real"
             }
           ],
-          "productId": "JL725B"
+          "productId": "156290"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/056b1b19-0ac8-4e12-94e4-72037d7ee718/WesternDigital.red.1-(26).png",
+              "title": "Switch Aruba CX 6200F 48G 4SFP+ – JL726B",
+              "text": "<p>O JL726B faz parte da série Aruba CX 6200F, oferecendo 48 portas Gigabit Ethernet com 4 uplinks SFP+ (1/10 GbE) em um chassi empilhável (VSF), ideal para filiais, SMBs, campi e infraestruturas modernas. Com legendária confiabilidade e simplicidade, ele une camada 3, PoE inteligente e desempenho inteligente, tudo gerenciado via Aruba Central ou app AOS-CX </p>",
+              "alt": "Switch Aruba CX 6200F 48G 4SFP+ – JL726B"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Performance corporativa",
+              "text": "<p>Gen7 ASIC com baixa latência (~2 µs) e throughput de 128 Gbps para suportar ambientes de alta demanda .</p>",
+              "alt": "Performance corporativa",
+              "banner": "https://assets.decocache.com/scarcom/b100ef5c-8833-499b-acf4-9fff6151a94d/WesternDigital.red.1-(28).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd9fc889-31f4-4b20-9902-cb4197095ff4/WesternDigital.red.1-(27).png",
+              "title": "Escalabilidade simplificada",
+              "text": "<p>empilhamento VSF para até 384 portas com gestão unificada </p>",
+              "alt": "Escalabilidade simplificada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Políticas de segurança consistentes",
+              "text": "<p>Dynamic Segmentation estende políticas automáticas à rede cabeada e wireless </p>",
+              "alt": "Políticas de segurança consistentes",
+              "banner": "https://assets.decocache.com/scarcom/37c8b59b-85ac-4e51-8ec0-b597d710206e/WesternDigital.red.1-(29).png"
+            }
+          ],
+          "productId": "156291"
         }
       ]
     },
