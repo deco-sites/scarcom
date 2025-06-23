@@ -14061,6 +14061,25 @@
             }
           ],
           "productId": "156291"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ee56c903-26e9-4844-bd6a-62d68d96649e/WesternDigital.red.1-(31).png",
+              "title": "Cabo DAC 10 Gb/s SFP+ para SFP+ – R9D19A (1 Metro)",
+              "text": "<p>O R9D19A é um cabo de 10 G SFP+ Direct Attach Copper (DAC), com conectores SFP+ em ambas as extremidades, criado para conectar switches e transceivers de alta velocidade sem necessidade de transceivers ópticos. Compatível com toda a linha HPE/Aruba Instant On e switches OfficeConnect 1950, oferece instalação rápida, confiável e econômica, ideal para links curtos até 1 metro </p>",
+              "alt": "Cabo DAC 10 Gb/s SFP+ para SFP+ – R9D19A (1 Metro)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/59ffb645-9ff7-4dd2-bba6-cf3fd607229a/WesternDigital.red.1-(30).png",
+              "title": " Por que escolher o Cabo R9D19A?",
+              "text": "<p>Se você busca link 10 Gb/s de alta performance com baixo custo e máxima confiabilidade, o R9D19A da Aruba/HPE Instant On é uma solução ideal. Compatível, eficiente, sem transceivers e com garantia – perfeito para infraestruturas modernas em conectividade de alta velocidade.</p>",
+              "alt": " Por que escolher o Cabo R9D19A?"
+            }
+          ],
+          "productId": "155735"
         }
       ]
     },
