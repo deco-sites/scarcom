@@ -14099,6 +14099,24 @@
             }
           ],
           "productId": "155736"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/009e2c6a-d8a3-4466-aaa3-b9c433fa7056/WesternDigital.red.1-(32).png",
+              "title": "Transceiver 10G SFP+ LR – HPE/Aruba X130 (JD094B)",
+              "text": "<p>O JD094B, também conhecido como HPE Networking X130 10G SFP+ LC LR, é um transceiver óptico de alta performance que permite conectividade de longa distância em 10 Gigabit Ethernet por meio de fibra monomodo. Compatível com a linha Aruba/HPE, é uma solução confiável e testada, adequada para ambientes corporativos, data centers e redes de campus </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f00db5a7-4813-45c0-9233-5fac428d857c/WesternDigital.red.1-(33).png",
+              "title": "Por que escolher o JD094B?",
+              "text": "<p>Se você precisa de uma solução 10G otimizada, estável e compatível com Aruba/HPE, o JD094B X130 LR é ideal. Ele oferece alta performance, certificação para longa distância, monitoramento ativo e confiabilidade, além de ser economicamente eficiente para upgrades e expansões de rede.</p>",
+              "alt": "Por que escolher o JD094B?"
+            }
+          ],
+          "productId": "156241"
         }
       ]
     },
