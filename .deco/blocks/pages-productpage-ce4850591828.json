@@ -14135,6 +14135,25 @@
             }
           ],
           "productId": "155992"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/009e2c6a-d8a3-4466-aaa3-b9c433fa7056/WesternDigital.red.1-(32).png",
+              "title": "Transceiver Óptico 1Gb/s SFP LC LX – HPE/Aruba J4859D",
+              "text": "<p>O J4859D é um transceiver óptico 1 Gbps (1000 Base-LX), projetado para conexões de longa distância em fibra monomodo (SMF), com alcance de até 10 km. Compatível com switches Aruba/HPE e soluções MSA, proporciona um enlace confiável e sem falhas para data centers, campus e ativos de infraestrutura </p>",
+              "alt": "Transceiver Óptico 1Gb/s SFP LC LX – HPE/Aruba J4859D"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f00db5a7-4813-45c0-9233-5fac428d857c/WesternDigital.red.1-(33).png",
+              "title": "Por que usar o J4859D?",
+              "text": "<p>Se você precisa de uma solução sólida e econômica para enlaces ópticos de até 10 km, o J4859D oferece performance estável, monitoramento contínuo e compatibilidade rubrica com Aruba/HPE — ideal para ambientes corporativos, datacenters e instalações de campus.</p>",
+              "alt": "Por que usar o J4859D?"
+            }
+          ],
+          "productId": "155979"
         }
       ]
     },
