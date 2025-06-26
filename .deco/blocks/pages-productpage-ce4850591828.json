@@ -14374,6 +14374,45 @@
             }
           ],
           "productId": "155931"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4e0411b8-f7da-475b-927b-91bbb4cad712/JW627A_I_0__1.webp",
+              "title": " PoE Midspan 802.3af 15,4 W – HPE Aruba JW627A",
+              "text": "<p>O JW627A, também conhecido como PD‑3501G‑AC ou PD‑3510G‑AC, é um injetor PoE de uma porta Gigabit RJ‑45, seguindo o padrão IEEE 802.3af, que fornece até 15,4 W em uma única saída. Totalmente compatível com APs Aruba/HPE Instant On e outros dispositivos 802.3af, é ideal para alimentar equipamentos sem necessidade de switches PoE </p>",
+              "alt": " PoE Midspan 802.3af 15,4 W – HPE Aruba JW627A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8a1c7c67-14b4-4ce8-8af1-63cf55b71de9/vfxx3ozbd56rtafzrzxq8dxn5fusgiuqwbxy_640x640-fill_ffffff.webp",
+              "title": "Instalação rápida e limpa",
+              "text": "<p>ideal para APs e câmeras em ambientes sem switches PoE, usando apenas uma tomada e um cabo de rede.</p>",
+              "alt": "Instalação rápida e limpa"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2a45b68b-c52a-4cc9-9d9f-1fd7153bed1d/s3xdxzt2s0h13ocam2mixyastxu8yalfuvn8_640x640-fill_ffffff.webp",
+              "title": "Compatibilidade Aruba/HPE garantida",
+              "text": "<p>projetado para funcionar perfeitamente com APs Instant On e Enterprise, evitando falhas de energia</p>",
+              "alt": "Compatibilidade Aruba/HPE garantida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d52be156-d92b-4960-9e2a-63218ed7b1e9/Jw627A_1.webp",
+              "title": "Proteção e fiabilidade",
+              "text": "<p>com segurança integrada e certificações internacionais para operar com tranquilidade.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/10bfb158-62a9-4913-a377-886c1bd4b77d/image_2022_01_27T15_52_08_556Z.png",
+              "title": " Por que escolher o JW627A?",
+              "text": "<p>O JW627A é a escolha ideal para quem busca PoE oficial Aruba, sem complexidades: entrega 15,4 W, conectividade Gigabit, proteção total e compatibilidade garantida — tudo em um formato fácil de instalar, sem a necessidade de switches PoE caros.</p>",
+              "alt": " Por que escolher o JW627A?"
+            }
+          ],
+          "productId": "155292"
         }
       ]
     },
