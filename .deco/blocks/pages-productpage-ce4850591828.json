@@ -14289,6 +14289,39 @@
             }
           ],
           "productId": "155901"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": "Transceiver Óptico 10 Gb/s SFP+ LC SR – HPE Aruba X130 (JD092B)",
+              "text": "<p>O JD092B (também conhecido como HPE Aruba X130) é um transceiver óptico de curto alcance (SR), compatível com o padrão 10GBase-SR, projetado para conexão através de fibra multimodo (MMF). Ele oferece velocidades de até 10,3 Gbps e interligações seguras e rápidas dentro de rack, data centers e redes corporativas, operando perfeitamente com switches Aruba/HPE e dispositivos de outros fabricantes que seguem o padrão MSA </p>",
+              "alt": "Transceiver Óptico 10 Gb/s SFP+ LC SR – HPE Aruba X130 (JD092B)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho 10 Gb/s real para aplicações intensivas",
+              "text": "<p>garantindo backbone de alta capacidade sem gargalos.</p>",
+              "alt": "Desempenho 10 Gb/s real para aplicações intensivas",
+              "banner": "https://assets.decocache.com/scarcom/c806fe3c-9840-43da-b6c3-5cb22369e55e/WesternDigital.red.1-(35).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f036f82-cdb4-4f80-8aa6-72398cd65e72/WesternDigital.red.1-(36).png",
+              "title": "Cobertura eficaz até 300 m",
+              "text": "<p>perfeito para conexões dentro de racks e salas de data center — pode chegar a 400 m em OM4.</p>",
+              "alt": "Cobertura eficaz até 300 m"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b8f6efcd-ee78-4ca4-8209-ddc44cddacb4/WesternDigital.red.1-(37).png",
+              "title": "Compatibilidade garantida com Aruba/HPE",
+              "text": "<p>minimizando problemas com bloqueios ou incompatibilidades.</p>",
+              "alt": "Compatibilidade garantida com Aruba/HPE"
+            }
+          ],
+          "productId": "155860"
         }
       ]
     },
