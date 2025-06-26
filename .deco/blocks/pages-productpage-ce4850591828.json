@@ -14225,6 +14225,37 @@
             }
           ],
           "productId": "155906"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": " Transceiver Óptico 1 Gb/s SFP LC SX – Aruba Instant On R9D16A",
+              "text": "<p>O R9D16A é um transceiver óptico SFP (mini‑GBIC) projetado para conexões de 1 Gigabit via fibra multimodo OM2, oferecendo desempenho confiável por até 500 metros. Homologado pela Aruba Instant On, garante compatibilidade total com switches da linha Instant On (1830, 1930, 1960) e HPE OfficeConnect, simplificando upgrades de rede e redução de interferências </p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c806fe3c-9840-43da-b6c3-5cb22369e55e/WesternDigital.red.1-(35).png",
+              "title": "Conexão estável de longa distância",
+              "text": "<p> ideal para backbone de campus e interligações até 500 m via fibra MMF</p>",
+              "alt": "Conexão estável de longa distância"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f036f82-cdb4-4f80-8aa6-72398cd65e72/WesternDigital.red.1-(36).png",
+              "title": "Compatibilidade e confiabilidade Aruba",
+              "text": "<p>homologado para uso com equipamentos Instant On, evitando incompatibilidades</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b8f6efcd-ee78-4ca4-8209-ddc44cddacb4/WesternDigital.red.1-(37).png",
+              "title": "Monitoramento por DOM/DDM",
+              "text": "<p>fornece métricas sobre potência, temperatura e qualidade de link em tempo real</p>",
+              "alt": "Monitoramento por DOM/DDM"
+            }
+          ],
+          "productId": "155514"
         }
       ]
     },
