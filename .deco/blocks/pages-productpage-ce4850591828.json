@@ -14348,6 +14348,32 @@
             }
           ],
           "productId": "155990"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8d6e584-e981-41ce-b39d-5832d614f93a/WesternDigital.red.1-(42).png",
+              "title": "PoE Midspan Injector 802.3af – Aruba Instant On R8W31A",
+              "text": "<p>O R8W31A é um injetor PoE (midspan) com padrão IEEE 802.3af, projetado para alimentar access points e outros dispositivos de rede via cabo de rede, sem necessidade de switches PoE. Compacto e fácil de instalar, ele suporta até 15,4 W por porta e transmite dados a 1 Gbps, sendo plenamente compatível com os APs da série Aruba Instant On (AP12, AP22, AP21, entre outros) </p>",
+              "alt": "PoE Midspan Injector 802.3af – Aruba Instant On R8W31A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f671044a-cb8b-4d64-88d7-7ec5a502808a/WesternDigital.red.1-(43).png",
+              "title": "Inclusão de PoE com simplicidade",
+              "text": "<p>ideal para alimentar seus APs Aruba sem precisar reformular a infraestrutura de rede.</p>",
+              "alt": "Inclusão de PoE com simplicidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b90880a2-cd12-4185-b416-7778ad54ff8f/WesternDigital.red.1-(44).png",
+              "title": "Por que escolher o R8W31A?",
+              "text": "<p>O R8W31A é a solução mais prática e econômica para adicionar PoE em seus ambientes Aruba Instant On, entregando 15 W de energia, conectividade Gigabit, compatibilidade completa com a linha e suporte oficial — tudo com design compacto e instalação sem complicações.</p>",
+              "alt": "Por que escolher o R8W31A?"
+            }
+          ],
+          "productId": "155931"
         }
       ]
     },
