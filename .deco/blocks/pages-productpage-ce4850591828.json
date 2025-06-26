@@ -14256,6 +14256,39 @@
             }
           ],
           "productId": "155514"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6d62c28-eafa-440b-9e99-4dca9c2a1d02/WesternDigital.red.1-(34).png",
+              "title": " Transceiver Óptico 10Gb/s SFP+ SR – HPE/Aruba JL437A",
+              "text": "<p>O JL437A é um transceiver óptico SFP+ de curto alcance (SR) que opera na faixa de 850 nm, destinado a conexões de alta velocidade em fibra multimodo (MMF) com alcance de até 300 m (em OM3/OM4). Compatível com switches e equipamentos Aruba/HPE, oferece solução confiável, de low-latency e custo-benefício superior .</p>",
+              "alt": " Transceiver Óptico 10Gb/s SFP+ SR – HPE/Aruba JL437A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c806fe3c-9840-43da-b6c3-5cb22369e55e/WesternDigital.red.1-(35).png",
+              "title": "Alta performance com até 10 Gb/s",
+              "text": "<p> suporta tráfego intensivo em data centers e backbones de rede.</p>",
+              "alt": "Alta performance com até 10 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f036f82-cdb4-4f80-8aa6-72398cd65e72/WesternDigital.red.1-(36).png",
+              "title": "Cobertura eficiente até 300 m",
+              "text": "<p>ideal para interconexões dentro de prédios ou salas de rack, com extensão possível até 400 m</p>",
+              "alt": "Cobertura eficiente até 300 m"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b8f6efcd-ee78-4ca4-8209-ddc44cddacb4/WesternDigital.red.1-(37).png",
+              "title": "Monitoramento ativo (DOM/DDM)",
+              "text": "<p>possibilita diagnóstico da qualidade do link sem ferramentas externas</p>",
+              "alt": "Monitoramento ativo (DOM/DDM)"
+            }
+          ],
+          "productId": "155901"
         }
       ]
     },
