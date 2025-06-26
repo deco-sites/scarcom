@@ -14413,6 +14413,39 @@
             }
           ],
           "productId": "155292"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bdc06142-aa27-4f2e-8333-3465ce51c61c/5618_1.jpg.webp",
+              "title": "Módulo GBIC Aruba JL083A – 4 Portas SFP+ 10GbE para Switches",
+              "text": "<p>O Aruba JL083A é um módulo de expansão com 4 portas SFP+ (Small Form-Factor Pluggable Plus), projetado para switches Aruba 2930M e 3810M, oferecendo conectividade de alto desempenho com taxas de até 10 Gigabits por segundo por porta. Esse módulo permite que a rede escale de forma segura e eficiente, com suporte a MACsec para criptografia de tráfego em nível de enlace, ideal para ambientes corporativos que demandam segurança e largura de banda elevada.</p>",
+              "alt": "Módulo GBIC Aruba JL083A – 4 Portas SFP+ 10GbE para Switches"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b4f9e52f-c598-4be2-af01-605d015f54c2/WesternDigital.red.1-(45).png",
+              "title": " Alta performance",
+              "text": "<p>oferece quatro portas de uplink com velocidades de até 10 Gbps, ideal para redes com tráfego intenso.</p>",
+              "alt": " Alta performance"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3ecab66e-12fc-40d3-a17c-a115bf870b67/WesternDigital.red.1-(46).png",
+              "title": "Flexibilidade de conexão",
+              "text": "<p>compatível com diferentes transceivers (SFP/SFP+), adaptando-se a diversas topologias.</p>",
+              "alt": "Flexibilidade de conexão"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/918b5612-04b2-47c0-81bb-ca785403b458/WesternDigital.red.1-(47).png",
+              "title": " Certificação Aruba/HPE",
+              "text": "<p> integração garantida com switches homologados, com suporte e confiabilidade da marca.</p>",
+              "alt": " Certificação Aruba/HPE"
+            }
+          ],
+          "productId": "156229"
         }
       ]
     },
