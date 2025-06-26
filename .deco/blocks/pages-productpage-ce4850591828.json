@@ -14446,6 +14446,45 @@
             }
           ],
           "productId": "156229"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1430‑16G – 16 Portas Gigabit PoE+ (124 W) – R8R48A",
+              "text": "<p>O Instant On 1430‑16G (modelo R8R48A) é um switch Gigabit não gerenciado com 16 portas RJ‑45 autosensing PoE+ (classe 4), oferecendo até 124 W de orçamento de energia, ideal para alimentar APs, câmeras e telefones VoIP. Com design plug‑and‑play, operação silenciosa sem ventoinhas e suporte completo para redes SMB, ele oferece simplicidade e confiabilidade para escritórios pequenos, cafés e escritórios remotos </p>",
+              "alt": "Switch Aruba Instant On 1430‑16G – 16 Portas Gigabit PoE+ (124 W) – R8R48A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Plug‑and‑play total",
+              "text": "<p>ideal para ambientes com requisitos de rede simples sem necessidade de gestão ou manutenção continuada .</p>",
+              "alt": "Plug‑and‑play total"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Energia PoE+ para múltiplos dispositivos",
+              "text": "<p>alimenta até 16 APs, câmeras ou phones simultaneamente com portas Classe 4.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Rede robusta e resiliente",
+              "text": "<p>QoS, jumbo frames e controle de fluxo garantem performance estável em aplicações VoIP e vídeo.</p>",
+              "alt": "Rede robusta e resiliente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": "Compatibilidade com Aruba Instant On",
+              "text": "<p> total integração com a linha, garantindo entrega de energia confiável e compatibilidade com APs</p>",
+              "alt": "Compatibilidade com Aruba Instant On"
+            }
+          ],
+          "productId": "153607"
         }
       ]
     },
