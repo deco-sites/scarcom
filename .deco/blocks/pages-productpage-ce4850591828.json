@@ -14322,6 +14322,32 @@
             }
           ],
           "productId": "155860"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/02ec98ef-4ac6-4837-8a29-37a3a99ca11b/WesternDigital.red.1-(38).png",
+              "title": "Injetor PoE Midspan 802.3af 15,4 W – HPE Aruba (R6P68A)",
+              "text": "<p>O R6P68A é um injetor PoE midspan de porta única (Gigabit Ethernet), aprovado pela Aruba/HPE, que fornece energia via padrão IEEE 802.3af (15,4 W) para access points e bridges, eliminando a necessidade de fontes externas. Compatível com APs como as séries 303, 304, 305, 314, 315, 365, 505, 565 e Instant On, é ideal para simplificar instalações em ambientes que não dispõem de switches PoE </p>",
+              "alt": "Injetor PoE Midspan 802.3af 15,4 W – HPE Aruba (R6P68A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d07b7e85-e50c-4f3e-b106-ddc968ca407b/WesternDigital.red.1-(39).png",
+              "title": "Simplicidade e agilidade na instalação",
+              "text": "<p>sem necessidade de switches PoE; basta conectar o cabo de rede.</p>",
+              "alt": "Simplicidade e agilidade na instalação"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/013ce5c6-d250-4541-b3df-e5e520d84c45/WesternDigital.red.1-(40).png",
+              "title": "Por que usar o R6P68A?",
+              "text": "<p>Se você precisa de uma solução prática, confiável e oficial para alimentar seus APs Aruba/HPE, o R6P68A oferece energia PoE confiável (15,4 W), suporte oficial e instalação plug &amp; play — ideal para redes que exigem Wi‑Fi em locais sem suporte nativo a PoE.</p>",
+              "alt": "Por que usar o R6P68A?"
+            }
+          ],
+          "productId": "155990"
         }
       ]
     },
