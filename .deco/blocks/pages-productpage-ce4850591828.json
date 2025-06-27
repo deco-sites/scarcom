@@ -14788,6 +14788,46 @@
         {
           "contentDetails": [],
           "productId": "1426"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": " Switch Aruba Instant On 1960 JL807A – 24×1G + 2×10G (cobre) + 2×10G SFP+ | PoE+ 370 W",
+              "text": "<p>O JL807A é um switch smart-managed (Layer 2+) da linha Aruba Instant On 1960, com 24 portas Gigabit RJ‑45, 2 portas 10GBase-T de cobre e 2 portas 10G SFP+ de fibra, além de PoE+ com orçamento de 370 W. Perfeito para empresas em crescimento, ele oferece alta banda, segurança robusta e gerenciamento via app ou portal web, sem taxas ou licenciamento adicional </p>",
+              "alt": " Switch Aruba Instant On 1960 JL807A – 24×1G + 2×10G (cobre) + 2×10G SFP+ | PoE+ 370 W"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alto rendimento e expansibilidade",
+              "text": "<p>24×1G + 4×10G, ideal para data centers, servidores ou agregações.</p>",
+              "alt": "Alto rendimento e expansibilidade",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "PoE potente",
+              "text": "<p> 370 W para alimentar câmeras PTZ, APs Wi‑Fi, VoIP e IoT pela mesma infraestrutura.</p>",
+              "alt": "PoE potente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Empilhamento inteligente",
+              "text": "<p>simplifica gestão e cria uma rede unificada de até 288 portas (4× switches).</p>",
+              "alt": "Empilhamento inteligente",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": "Por que escolher o JL807A?",
+              "text": "<p>Combinando velocidade (10 GbE), capacidade PoE robusta, segurança avançada e gestão simplificada, o Aruba Instant On 1960 JL807A é a escolha certa para expandir infraestrutura com qualidade, performance e sem burocracia — respaldado por garantia e suporte Aruba.</p>",
+              "alt": "Por que escolher o JL807A?"
+            }
+          ],
+          "productId": "1446"
         }
       ]
     },
