@@ -14638,6 +14638,39 @@
             }
           ],
           "productId": "6"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a6285e86-aafa-4493-b9ad-1cc40b80a5fe/image_2024_03_26T14_43_13_675Z.png",
+              "title": "Switch Aruba Instant On 1430‑8G – 8 Portas Gigabit (R8R45A)",
+              "text": "<p>O Aruba Instant On 1430‑8G (SKU R8R45A) é um switch Gigabit Ethernet não gerenciável, projetado para ambientes SMB, escritórios domésticos e locais que valorizam simplicidade, desempenho e silêncio. Com design plug‑and‑play, operação sem ventoinha e eficiência energética, oferece conectividade confiável e sem configuração.</p>",
+              "alt": "Switch Aruba Instant On 1430‑8G – 8 Portas Gigabit (R8R45A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/25441655-7ca4-428e-83e8-8f23653fd1c8/image_2024_03_27T15_35_27_509Z.png",
+              "title": "Funcionamento silencioso",
+              "text": "<p>fan-less design, ideal para escritórios, salas de reunião e ambientes domésticos.</p>",
+              "alt": "Funcionamento silencioso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Política de QoS e jumbo frames",
+              "text": "<p>prioriza voz/vídeo e garante desempenho estável para aplicações críticas.</p>",
+              "alt": "Política de QoS e jumbo frames",
+              "banner": "https://assets.decocache.com/scarcom/b74eb5a5-2990-40fe-a70a-60faa4c7fac7/image_2024_03_27T15_35_11_396Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": " Por que escolher o 1430‑8G R8R45A?",
+              "text": "<p>Se você procura um switch Gigabit fácil de usar, silencioso e eficiente, o Aruba Instant On 1430‑8G é a solução ideal. Ele combina qualidade de rede, baixo consumo e suporte de marca, sem a burocracia dos switches gerenciáveis.</p>",
+              "alt": " Por que escolher o 1430‑8G R8R45A?"
+            }
+          ],
+          "productId": "155806"
         }
       ]
     },
