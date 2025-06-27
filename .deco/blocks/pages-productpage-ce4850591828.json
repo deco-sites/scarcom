@@ -14605,6 +14605,39 @@
             }
           ],
           "productId": "153364"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a6285e86-aafa-4493-b9ad-1cc40b80a5fe/image_2024_03_26T14_43_13_675Z.png",
+              "title": " Switch Aruba Instant On 1430‑5G – 5 Portas Gigabit (R8R44A)",
+              "text": "<p>O Aruba Instant On 1430‑5G (modelo R8R44A) é um switch Gigabit não gerenciável (unmanaged), com 5 portas RJ‑45 10/100/1000 Mbps. Projetado para pequenos escritórios, home offices e consultórios, ele oferece conectividade plug‑and‑play, design fan‑less (silencioso), suporte a QoS e eficiência energética — tudo sem complicação de configuração </p>",
+              "alt": " Switch Aruba Instant On 1430‑5G – 5 Portas Gigabit (R8R44A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Zero configuração necessária",
+              "text": "<p>basta conectar que ele já começa a funcionar — ideal para quem não quer se preocupar com setup .</p>",
+              "alt": "Zero configuração necessária",
+              "banner": "https://assets.decocache.com/scarcom/25441655-7ca4-428e-83e8-8f23653fd1c8/image_2024_03_27T15_35_27_509Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b74eb5a5-2990-40fe-a70a-60faa4c7fac7/image_2024_03_27T15_35_11_396Z.png",
+              "title": " Silencioso",
+              "text": "<p>design sem ventoinhas, perfeito para salas, estúdios ou ambientes domésticos .</p>",
+              "alt": " Silencioso"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": " Conectividade Gigabit rápida e eficiente",
+              "text": "<p>atende bem a equipamentos como impressoras, desktops, APs e câmeras IP.</p>",
+              "alt": " Conectividade Gigabit rápida e eficiente"
+            }
+          ],
+          "productId": "6"
         }
       ]
     },
