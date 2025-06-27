@@ -14927,6 +14927,46 @@
             }
           ],
           "productId": "155551"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1830 24G PoE+ – 24 Portas Gigabit + 2× SFP – 195 W (JL813A)",
+              "text": "<p>O JL813A faz parte da série Aruba Instant On 1830, oferecendo um switch smart‑managed de camada 2 com 24 portas Gigabit, 12 portas PoE+ (Classe 4), e 2 portas SFP para uplinks de fibra. Com 195 W de orçamento PoE+, é perfeito para alimentar APs Wi‑Fi, câmeras IP e telefones VoIP em pequenos escritórios. Possui design compacto fan‑less e pode ser gerenciado via app móvel, portal web em nuvem ou GUI local </p>",
+              "alt": "Switch Aruba Instant On 1830 24G PoE+ – 24 Portas Gigabit + 2× SFP – 195 W (JL813A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Smart‑managed simplificado",
+              "text": "<p>ideal para pequenos negócios sem expertise técnica avançada.</p>",
+              "alt": "Smart‑managed simplificado",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Economia com PoE ",
+              "text": "<p>metade das portas PoE+ atendem dispositivos sem sobrecarregar sua rede.</p>",
+              "alt": "Economia com PoE "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Silencioso e compacto",
+              "text": "<p> ideal para escritórios, consultórios ou ambientes com sensibilidade a ruído.</p>",
+              "alt": "Silencioso e compacto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": "Por que escolher o JL813A?",
+              "text": "<p>Com 24 portas Gigabit, 12 PoE+, 2 uplinks de fibra, recursos de segurança e gerenciamento smart — tudo sem custo de licença — o Aruba Instant On 1830 JL813A representa uma solução econômica, segura e prática para pequenos ambientes de rede corporativa.</p>",
+              "alt": "Por que escolher o JL813A?"
+            }
+          ],
+          "productId": "408"
         }
       ]
     },
