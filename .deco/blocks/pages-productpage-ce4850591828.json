@@ -14894,6 +14894,39 @@
             }
           ],
           "productId": "154800"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1d7fb94e-b459-44b5-940c-fe6a9b01b848/image_2024_03_13T18_20_09_568Z.png",
+              "title": "Switch Aruba 2930F 24G 4 SFP+ – L3 Gerenciável (JL253A)",
+              "text": "<p>O JL253A da série Aruba 2930F é um switch gerenciável de Camada 3 com 24 portas Gigabit RJ‑45 e 4 portas SFP+ 1/10 GbE. Ideal para ambientes corporativos e SMB, ele oferece empilhamento (VSF), VLANs, roteamento (RIP, OSPF), ACLs, QoS e provisionamento Zero Touch — e tudo isso sem necessidade de licenças adicionais </p>",
+              "alt": "Switch Aruba 2930F 24G 4 SFP+ – L3 Gerenciável (JL253A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4d4976ab-5010-40b9-a022-91973f7efe2e/image_2024_03_13T18_21_18_639Z.png",
+              "title": "Uplinks rápidos flexíveis",
+              "text": "<p> 4 portas SFP+ servem para fibra ou agregação 10 GbE.</p>",
+              "alt": "Uplinks rápidos flexíveis"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Empilhamento VSF até 8 unidades ",
+              "text": "<p>cria uma infraestrutura simplificada e resiliente </p>",
+              "alt": "Empilhamento VSF até 8 unidades ",
+              "banner": "https://assets.decocache.com/scarcom/df2fa469-3014-4389-af5a-d91bd0af37e3/image_2024_03_13T18_20_55_349Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Por que escolher o 2930F JL253A?",
+              "text": "<p>Se você busca um switch gerenciável, com performance L3, escalável via empilhamento e pronto para 10 GbE, o Aruba 2930F JL253A entrega tudo isso sem necessidade de licenças adicionais — pensado para redes corporativas confiáveis e de alta demanda.</p>",
+              "alt": "Por que escolher o 2930F JL253A?"
+            }
+          ],
+          "productId": "155551"
         }
       ]
     },
