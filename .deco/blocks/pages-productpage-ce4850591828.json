@@ -14704,6 +14704,46 @@
             }
           ],
           "productId": "154594"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": " Switch Aruba Instant On 1930 24G PoE+ – 24 Portas Gigabit + 4 SFP+/10 GbE Uplinks (R8R## equivalência: JL683B)",
+              "text": "<p>O JL683B (SKU JL683B#ABA) é um switch smart‑managed L2+ com 24 portas Gigabit RJ‑45 PoE+ (Classe 4), oferecendo 195 W de orçamento PoE, e 4 portas SFP+ 1/10 GbE para uplinks de alta performance. Projetado para pequenas e médias empresas, combina facilidade de uso via app ou web, recursos avançados de gerenciamento e operação silenciosa em formato rack 1U </p>",
+              "alt": " Switch Aruba Instant On 1930 24G PoE+ – 24 Portas Gigabit + 4 SFP+/10 GbE Uplinks (R8R## equivalência: JL683B)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Alta densidade PoE+",
+              "text": "<p>energia para até 24 dispositivos com orçamento de 195 W.</p>",
+              "alt": "Alta densidade PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Uplinks de alta velocidade",
+              "text": "<p>suporta fibra ou agregação via SFP+ (até 10 GbE).</p>",
+              "alt": "Uplinks de alta velocidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Compatibilidade e suporte Aruba",
+              "text": "<p>instalação suave com outros aparelhos Instant On, zero licenças extras</p>",
+              "alt": "Compatibilidade e suporte Aruba"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o JL683B?",
+              "text": "<p>O Aruba Instant On 1930 24G PoE+ (JL683B) oferece o equilíbrio perfeito entre poe+ robusto, uplinks de alta capacidade, gerenciamento inteligente e operação silenciosa — tudo com suporte e confiabilidade Aruba, ideal para redes SMB com futuros expansões.</p>",
+              "alt": " Por que escolher o JL683B?"
+            }
+          ],
+          "productId": "156280"
         }
       ]
     },
