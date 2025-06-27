@@ -14671,6 +14671,39 @@
             }
           ],
           "productId": "155806"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a6285e86-aafa-4493-b9ad-1cc40b80a5fe/image_2024_03_26T14_43_13_675Z.png",
+              "title": " Switch Aruba Instant On 1430‑8G PoE+ – 8 Portas Gigabit (R8R46A)",
+              "text": "<p>O Aruba Instant On 1430‑8G (R8R46A) é um switch não gerenciável, com 8 portas RJ‑45 Gigabit com PoE+ (Classe 4), entregando até 64 W de orçamento de energia. Projetado para pequenas empresas, home offices ou salas de reunião, garante instalação plug‑and‑play, operação silenciosa (fan‑less) e conectividade de alto desempenho </p>",
+              "alt": " Switch Aruba Instant On 1430‑8G PoE+ – 8 Portas Gigabit (R8R46A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Plug‑and‑play total",
+              "text": "<p>executa redes Gigabit sem necessidade de configuração</p>",
+              "alt": "Plug‑and‑play total",
+              "banner": "https://assets.decocache.com/scarcom/25441655-7ca4-428e-83e8-8f23653fd1c8/image_2024_03_27T15_35_27_509Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b74eb5a5-2990-40fe-a70a-60faa4c7fac7/image_2024_03_27T15_35_11_396Z.png",
+              "title": "PoE+ integrado",
+              "text": "<p>alimenta até 8 dispositivos como APs, câmeras IP e telefones VoIP com eficiência </p>",
+              "alt": "PoE+ integrado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Desempenho confiável",
+              "text": "<p> alta capacidade de switch, QoS e jumbo frames garantem estabilidade em aplicações críticas</p>",
+              "alt": "Desempenho confiável"
+            }
+          ],
+          "productId": "154594"
         }
       ]
     },
