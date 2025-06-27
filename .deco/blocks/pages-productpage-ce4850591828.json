@@ -14525,6 +14525,46 @@
             }
           ],
           "productId": "156219"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "text": "<p>O Instant On 1430‑26G 2 SFP (SKU R8R50A) é um switch não gerenciável (unmanaged) com 26 portas RJ‑45 Gigabit, além de 2 portas SFP para uplinks de fibra. Pensado para pequenos escritórios e home offices, seu design plug‑and‑play, sem ventilador e com suporte a PoE em outros modelos da família, oferece uma solução confiável, silenciosa e econômica para infraestruturas de rede simples </p>",
+              "title": "Switch Aruba Instant On 1430‑26G 2 SFP – 26 Portas Gigabit + 2 Uplinks de Fibra (R8R50A)",
+              "alt": "Switch Aruba Instant On 1430‑26G 2 SFP – 26 Portas Gigabit + 2 Uplinks de Fibra (R8R50A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Implementação descomplicada",
+              "text": "<p>design plug‑and‑play sem necessidade de configuração</p>",
+              "alt": "Implementação descomplicada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Conectividade confiável e rápida",
+              "text": "<p>26 portas Gigabit asseguram desempenho para todos os dispositivos da rede</p>",
+              "alt": "Conectividade confiável e rápida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Expansão por fibra fácil",
+              "text": "<p>uplinks SFP permitem conexão com outros switches ou segmentos geograficamente separados</p>",
+              "alt": "Expansão por fibra fácil"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o 1430‑26G R8R50A?",
+              "text": "<p>Com 26 portas Gigabit, 2 uplinks de fibra, operação sem configuração e design silencioso, o 1430‑26G se destaca como a solução mais prática, rápida e econômica para redes SMB — ideal para quem quer instalar uma rede profissional sem complicações.</p>",
+              "alt": " Por que escolher o 1430‑26G R8R50A?"
+            }
+          ],
+          "productId": "153427"
         }
       ]
     },
