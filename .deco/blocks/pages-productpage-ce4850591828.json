@@ -15007,6 +15007,46 @@
             }
           ],
           "productId": "155111"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1830 24G + 2× SFP – JL812A",
+              "text": "<p>O JL812A integra a série Instant On 1830, oferecendo um switch \"smart-managed\" de camada 2, com 24 portas Gigabit RJ-45 e 2 portas SFP 1 GbE. Perfeito para pequenos e médios negócios, permite gerenciamento via app, portal em nuvem ou interface web local — tudo sem taxas de licenciamento </p>",
+              "alt": "Switch Aruba Instant On 1830 24G + 2× SFP – JL812A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Plug-and-play com opções de gestão",
+              "text": "<p>seja pelo celular, web ou SNMP, sem necessidade de licenças extras</p>",
+              "alt": "Plug-and-play com opções de gestão"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Conectividade robusta",
+              "text": "<p>24 portas Gigabit + 2 uplinks SFP evitam gargalos</p>",
+              "alt": "Conectividade robusta",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Qualidade de serviço",
+              "text": "<p>priorização de voz, vídeo e suporte a jumbo frames garantem performance estável</p>",
+              "alt": "Qualidade de serviço"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o JL812A?",
+              "text": "<p>O Aruba Instant On 1830 JL812A combina simplicidade, silencioso desempenho e segurança, com conectividade por fibra — tudo isso sem custo adicional por licenciamento. É a solução ideal para sua infraestrutura de rede moderna, sólida e sem complicação.</p>",
+              "alt": " Por que escolher o JL812A?"
+            }
+          ],
+          "productId": "155511"
         }
       ]
     },
