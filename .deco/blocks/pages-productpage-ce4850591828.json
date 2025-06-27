@@ -14861,6 +14861,39 @@
             }
           ],
           "productId": "155813"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Aruba 2930F 24G PoE+ 4 SFP – JL261A",
+              "text": "<p>O JL261A faz parte da série Aruba 2930F, sendo um switch gerenciável L3 leve (Smart), com 24 portas Gigabit PoE+ (IEEE 802.3at) e 4 portas SFP uplink. Ele oferece rede corporativa robusta, roteamento de camada 3, empilhamento via VSF, e integração com Aruba Central, AirWave e ClearPass — tudo sem custos de licença </p>",
+              "alt": "Switch Aruba 2930F 24G PoE+ 4 SFP – JL261A",
+              "banner": "https://assets.decocache.com/scarcom/1d7fb94e-b459-44b5-940c-fe6a9b01b848/image_2024_03_13T18_20_09_568Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4d4976ab-5010-40b9-a022-91973f7efe2e/image_2024_03_13T18_21_18_639Z.png",
+              "title": "Rede pronta para empresas ",
+              "text": "<p> gestão de camada 3 com roteamento dinâmico e empilhamento VSF.</p>",
+              "alt": "Rede pronta para empresas "
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Power over Ethernet",
+              "text": "<p>alimenta com eficiência APs, câmeras e VoIP.</p>",
+              "alt": "Power over Ethernet",
+              "banner": "https://assets.decocache.com/scarcom/df2fa469-3014-4389-af5a-d91bd0af37e3/image_2024_03_13T18_20_55_349Z.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": " Por que escolher o JL261A?",
+              "text": "<p>Com funcionalidades L3, PoE+, empilhamento flexível e gerenciamento integrado — tudo sem custos extras — o Aruba 2930F JL261A oferece uma solução profissional robusta e escalável para infraestruturas modernas.</p>",
+              "alt": " Por que escolher o JL261A?"
+            }
+          ],
+          "productId": "154800"
         }
       ]
     },
