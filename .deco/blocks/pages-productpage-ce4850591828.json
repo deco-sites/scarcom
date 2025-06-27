@@ -14487,7 +14487,44 @@
           "productId": "153607"
         },
         {
-          "contentDetails": []
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1430‑16G PoE+ (124 W) – R8R47A",
+              "text": "<p>O Aruba Instant On 1430‑16G PoE+ (modelo R8R47A) é um switch Gigabit não‑gerenciável, com 16 portas RJ‑45 PoE+ (classe 4), oferecendo um total de 124 W de potência. Compacto, silencioso (fan‑less) e fácil de instalar com design plug‑and‑play, é ideal para alimentar acesso sem fio, câmeras IP e telefones VoIP — perfeito para pequenos escritórios, home offices e ambientes SMB que buscam performance sólida e simplicidade </p>",
+              "alt": "Switch Aruba Instant On 1430‑16G PoE+ (124 W) – R8R47A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Plug‑and‑play total",
+              "text": "<p> basta conectar e usar – sem configurações ou atualizações complexas .</p>",
+              "alt": "Plug‑and‑play total"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Energia PoE+ poderosa",
+              "text": "<p> alimenta até 16 dispositivos de até 30 W cada, como APs, câmeras e VoIP.</p>",
+              "alt": "Energia PoE+ poderosa"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Rede robusta sem perda de performance",
+              "text": "<p> QoS, jumbo frames e controle de fluxo garantem estabilidade </p>",
+              "alt": "Rede robusta sem perda de performance"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o R8R47A?",
+              "text": "<p>O Aruba Instant On 1430‑16G PoE+ é a solução definitiva para ambientes que precisam de simplicidade, performance e potência integrada, com instalação sem complicações, operação silenciosa e suporte robusto — perfeito para crescer junto com seu negócio.</p>",
+              "alt": " Por que escolher o R8R47A?"
+            }
+          ],
+          "productId": "156219"
         }
       ]
     },
