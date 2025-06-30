@@ -15212,6 +15212,32 @@
             }
           ],
           "productId": "154940"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4a82ebce-6922-4bf5-b276-4593a58f5e12/WesternDigital.red.1-(53).png",
+              "title": "Switch Aruba 2930F 48G + 4 SFP+ – L3 Gerenciável (JL254A)",
+              "text": "<p>O JL254A faz parte da série Aruba 2930F, um switch Layer 2+/Layer 3 stackable de alta densidade</p>",
+              "alt": "Switch Aruba 2930F 48G + 4 SFP+ – L3 Gerenciável (JL254A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/23ec7fe6-5578-48dc-b2f6-e903b8dde4cf/WesternDigital.red.1-(54).png",
+              "title": "Alta densidade com uplink 10G",
+              "text": "<p>ideal para grandes redes de acesso e backbone com alta demanda de largura de banda.</p>",
+              "alt": "Alta densidade com uplink 10G"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/507c782c-d20c-4cd9-8ea0-0b63d9b03624/WesternDigital.red.1-(55).png",
+              "title": " Por que escolher o JL254A?",
+              "text": "<p>Se você precisa de um switch de acesso corporativo de alto nível, com uplinks 10 GbE, capacidade de empilhamento, roteamento L3, segurança rígida e sem licenças extras, o Aruba 2930F JL254A entrega tudo isso em uma solução confiável, silenciosa e escalável — com suporte de marca e investimentos inteligentes.</p>",
+              "alt": " Por que escolher o JL254A?"
+            }
+          ],
+          "productId": "154430"
         }
       ]
     },
