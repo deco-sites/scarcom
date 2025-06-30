@@ -15186,6 +15186,32 @@
             }
           ],
           "productId": "154853"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4a82ebce-6922-4bf5-b276-4593a58f5e12/WesternDigital.red.1-(53).png",
+              "title": "Switch Aruba 2930F 48G PoE+ – 48×Gigabit PoE+ + 4×SFP – Modelo JL262A",
+              "text": "<p>O JL262A faz parte da série Aruba 2930F, um switch Layer 3 empilhável (VSF)</p>",
+              "alt": "Switch Aruba 2930F 48G PoE+ – 48×Gigabit PoE+ + 4×SFP – Modelo JL262A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/23ec7fe6-5578-48dc-b2f6-e903b8dde4cf/WesternDigital.red.1-(54).png",
+              "title": "Desempenho empregado pela arquitetura ProVision",
+              "text": "<p>potência, baixa latência e buffers generosos.</p>",
+              "alt": "Desempenho empregado pela arquitetura ProVision"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/507c782c-d20c-4cd9-8ea0-0b63d9b03624/WesternDigital.red.1-(55).png",
+              "title": " Por que escolher o JL262A?",
+              "text": "<p>O Aruba 2930F JL262A é a solução ideal para empresas que precisam de um switch de acesso robusto, com PoE, L3, empilhamento e gerência inteligente — tudo isso respaldado por suporte contínuo e liberdade de licenciamento. Um ativo confiável para redes corporativas exigentes.</p>",
+              "alt": " Por que escolher o JL262A?"
+            }
+          ],
+          "productId": "154940"
         }
       ]
     },
