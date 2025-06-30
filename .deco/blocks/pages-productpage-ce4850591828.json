@@ -15238,6 +15238,32 @@
             }
           ],
           "productId": "154430"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4a82ebce-6922-4bf5-b276-4593a58f5e12/WesternDigital.red.1-(53).png",
+              "title": " Switch Aruba Instant On 2930F 48G + 4 SFP+ PoE+ 370W – Modelo JL256A",
+              "text": "<p>O Switch Aruba Instant On 2930F 48G 4 SFP+ PoE+ 370W (JL256A) é uma solução de rede gerenciável L3 avançada, projetada para atender as necessidades de empresas de médio porte, escritórios, filiais e ambientes de backbone de alta performance. Com 48 portas Gigabit e 4 portas uplink SFP+, oferece PoE+ para alimentar dispositivos como pontos de acesso, câmeras de segurança, telefones VoIP e outros dispositivos alimentados por Ethernet.</p>",
+              "alt": " Switch Aruba Instant On 2930F 48G + 4 SFP+ PoE+ 370W – Modelo JL256A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/23ec7fe6-5578-48dc-b2f6-e903b8dde4cf/WesternDigital.red.1-(54).png",
+              "title": "PoE+ de alta capacidade",
+              "text": "<p> para alimentar até 48 dispositivos com até 30W por porta, ideal para ambientes com pontos de acesso, câmeras e outros dispositivos PoE.</p>",
+              "alt": "PoE+ de alta capacidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/507c782c-d20c-4cd9-8ea0-0b63d9b03624/WesternDigital.red.1-(55).png",
+              "title": "Por que escolher o JL256A?",
+              "text": "<p>O Aruba Instant On 2930F 48G 4 SFP+ PoE+ 370W (JL256A) é perfeito para empresas que precisam de um switch robusto, escalável e fácil de gerenciar. Com PoE+, 4 uplinks SFP+ e roteamento L3, oferece todas as ferramentas necessárias para construir uma rede de alto desempenho com controle completo e sem licenciamento extra.</p>",
+              "alt": "Por que escolher o JL256A?"
+            }
+          ],
+          "productId": "155812"
         }
       ]
     },
