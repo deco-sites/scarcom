@@ -15127,6 +15127,46 @@
             }
           ],
           "productId": "155918"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1960 – 48×1 Gb + 2×10 Gb + 2×10 Gb SFP+ (JL808A)",
+              "text": "<p>O JL808A é um switch smart-managed de Camada 2+ na série Instant On 1960, com 48 portas RJ‑45 Gigabit, 2 portas 10 GbE Base‑T e 2 portas SFP+ 10 GbE, ideal para ambientes corporativos e de alta densidade. Ele oferece gerenciamento via app móvel, portal web ou GUI local, com suporte ao empilhamento de até 4 unidades gerenciadas por um único IP — sem necessidade de licenças extras </p>",
+              "alt": "Switch Aruba Instant On 1960 – 48×1 Gb + 2×10 Gb + 2×10 Gb SFP+ (JL808A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Alta densidade gigabit + uplinks 10 GbE ",
+              "text": "<p>para eliminação de gargalos em servidores, NVMe storage ou roteadores.</p>",
+              "alt": "Alta densidade gigabit + uplinks 10 GbE "
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Smart-managed completo",
+              "text": "<p>sem licenças, com opções de controle por app, nuvem ou local.</p>",
+              "alt": "Smart-managed completo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Segurança corporativa embutida",
+              "text": "<p>com recursos robustos para proteger sua rede</p>",
+              "alt": "Segurança corporativa embutida"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o JL808A?",
+              "text": "<p>O Aruba Instant On 1960 JL808A traz a combinação perfeita de conectividade robusta, gerenciamento inteligente e sem licenças, segurança reforçada e escalabilidade sem complicações. Com design silencioso, onboarding simplificado e suporte vitalício, ele é a escolha certa para empresas que precisam de rede profissional de alta densidade e performance.</p>",
+              "alt": " Por que escolher o JL808A?"
+            }
+          ],
+          "productId": "1453"
         }
       ]
     },
