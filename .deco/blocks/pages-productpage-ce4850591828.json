@@ -15297,6 +15297,39 @@
             }
           ],
           "productId": "1452"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/03ab8c4e-efec-49aa-aa4c-478b495e338c/WesternDigital.red.1-(56).png",
+              "title": "Switch Aruba Instant On 1930 48G PoE+ – 48×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL686B)",
+              "text": "<p>O JL686B é um switch smart-managed L2+ da série Instant On 1930, com 48 portas Gigabit PoE+ Classe 4, quatro uplinks SFP+ (1/10 GbE) e orçamento de 370 W. Desenvolvido para PMEs, oferece deploy plug-and-play, segurança embutida e gestão via app ou web — sem custo de licenciamento adicional </p>",
+              "alt": "Switch Aruba Instant On 1930 48G PoE+ – 48×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL686B)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/686786fc-0844-4fa4-a266-7afbb8d8dfa8/WesternDigital.red.1-(57).png",
+              "title": "Alta densidade PoE+",
+              "text": "<p>48 portas para alimentar APs, câmeras IP, VoIP e IoT com energia via Ethernet.</p>",
+              "alt": "Alta densidade PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/64c0a2cf-3d8f-470c-bc6c-135b1a4893dc/WesternDigital.red.1-(58).png",
+              "title": "Gerenciamento simplificado",
+              "text": "<p>via app ou portal, com recursos L2+ como VLANs, QoS, ACLs, Spanning Tree e roteamento estático.</p>",
+              "alt": "Gerenciamento simplificado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1dece4bc-6a8e-49ca-92f8-00aa38b0a9d5/WesternDigital.red.1-(59).png",
+              "title": "Por que escolher o JL686B?",
+              "text": "<p>O Aruba Instant On 1930 JL686B combina robustez, segurança, gestão simples e energia PoE+ abundante em um switch compacto e sem licenças extras. Ideal para empresas que querem rede profissional, escalável e sem burocracias — com suporte e garantia da linha Aruba.</p>",
+              "alt": "Por que escolher o JL686B?"
+            }
+          ],
+          "productId": "156279"
         }
       ]
     },
