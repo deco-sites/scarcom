@@ -15087,6 +15087,46 @@
             }
           ],
           "productId": "155090"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Aruba Instant On 1930 24G PoE+ – 24×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL684B)",
+              "text": "<p>O JL684B (antigo JL684A#ABA) é um switch smart-managed de camada 2+ da linha Instant On 1930, projetado para pequenas e médias empresas. Conta com:</p>",
+              "alt": "Switch Aruba Instant On 1930 24G PoE+ – 24×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL684B)",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Sua rede com PoE abundante",
+              "text": "<p>24 portas para alimentar APs, câmeras e VoIP com total confiança.</p>",
+              "alt": "Sua rede com PoE abundante"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Gerenciamento inteligente sem custos",
+              "text": "<p> app, interface web e ferramentas avançadas L2+, sem licenciamento.</p>",
+              "alt": "Gerenciamento inteligente sem custos"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Empilhamento simplificado",
+              "text": "<p>até 8 switches funcionam como um único dispositivo lógico.</p>",
+              "alt": "Empilhamento simplificado",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": "Por que adotar o JL684B?",
+              "text": "<p>O Aruba Instant On 1930 JL684B combina potência com inteligência: 370 W de PoE, uplinks de alta capacidade, empilhamento, segurança avançada e facilidade de uso — tudo em um equipamento compacto, silencioso e com suporte confiável da marca.</p>",
+              "alt": "Por que adotar o JL684B?"
+            }
+          ],
+          "productId": "155918"
         }
       ]
     },
