@@ -15167,6 +15167,25 @@
             }
           ],
           "productId": "1453"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b2f2cebe-4270-4bd9-b8b6-0cc80d41b34f/memoria_smart_2gb_ddr3_pc3_10600s_09_10_b0_1333mhz_2rx8_hp_175_1_20190613163054.webp",
+              "title": "Switch Aruba 2930F 48G 4 SFP – L3 Gerenciável (JL260A)",
+              "text": "<p>O JL260A integra a linha Aruba 2930F, oferecendo 48 portas Gigabit RJ‑45 e 4 portas uplink SFP, com suporte robusto a recursos de camada 3 e empilhamento via VSF. Projetado para o ambiente corporativo, SMB e filiais, ele equilibra alta performance, segurança avançada e fácil implantação, graças ao suporte a ZTP e gerenciamento pelo Aruba Central, AirWave e CLI — tudo sem licenças adicionais </p>",
+              "alt": "Switch Aruba 2930F 48G 4 SFP – L3 Gerenciável (JL260A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d29bb4f6-a23b-48c2-8899-09ca9a4721bf/D_NQ_NP_916013-MLB47245506425_082021-O.webp",
+              "title": "Por que escolher o JL260A?",
+              "text": "<p>O Aruba 2930F JL260A é ideal para quem precisa de um switch de acesso de alto desempenho, com recursos corporativos L3, segurança avançada, fácil implantação e escala inteligente por empilhamento, tudo isso sem custos extras. Uma solução confiável, profissional e robusta para redes modernas.</p>",
+              "alt": "Por que escolher o JL260A?"
+            }
+          ],
+          "productId": "154853"
         }
       ]
     },
