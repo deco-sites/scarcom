@@ -15047,6 +15047,46 @@
             }
           ],
           "productId": "155109"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36ed6354-26b0-4882-aacd-58f8695fc0ea/WesternDigital.red.1-(48).png",
+              "title": "Switch Aruba Instant On 1930 24G PoE+ – 24×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL684A)",
+              "text": "<p>O JL684A é um switch smart‑managed (L2+) da série Instant On 1930, com 24 portas Gigabit PoE+ Classe 4, 4 uplinks SFP+ (1/10 GbE) e um generoso orçamento de 370 W de PoE. Desenvolvido para PMEs, oferece alta performance para voz, vídeo e IoT, além de recursos inteligentes, operação silenciosa e sem custos de licenciamento adicional </p>",
+              "alt": "Switch Aruba Instant On 1930 24G PoE+ – 24×1 Gb + 4×1/10 Gb SFP+ | 370 W PoE (JL684A)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d216ba08-0a59-4d07-b30d-34f1f7633520/WesternDigital.red.1-(49).png",
+              "title": "Conectividade robusta e escalável",
+              "text": "<p>abriga amplamente dispositivos PoE+ e elimina gargalos com uplinks 10 GbE.</p>",
+              "alt": "Conectividade robusta e escalável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b063e5d8-38e3-4178-b9bf-f0c0d5c90715/WesternDigital.red.1-(50).png",
+              "title": "Desempenho corporativo",
+              "text": "<p>alta capacidade de comutação, buffer generoso e roteamento estático para redes maduras.</p>",
+              "alt": "Desempenho corporativo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d58fc27-84a4-4235-aaa9-2be3520b9c9f/WesternDigital.red.1-(51).png",
+              "title": "Segurança de nível profissional",
+              "text": "<p>redes segmentadas, autenticação de dispositivos e proteção contra ataques.</p>",
+              "alt": "Segurança de nível profissional"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ff28e89-84f8-4172-b46e-88b176bdb775/WesternDigital.red.1-(52).png",
+              "title": " Por que escolher o JL684A?",
+              "text": "<p>O Aruba Instant On 1930 JL684A entrega um potente pacote corporativo: PoE abundante (370 W), uplinks de alta velocidade, logística de empilhamento, segurança avançada e gestão sem burocracia — tudo em um equipamento compacto, silencioso e duradouro, com suporte Aruba.</p>",
+              "alt": " Por que escolher o JL684A?"
+            }
+          ],
+          "productId": "155090"
         }
       ]
     },
