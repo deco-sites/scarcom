@@ -15330,6 +15330,39 @@
             }
           ],
           "productId": "156279"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Aruba Instant On 1830 – 48 portas Gigabit + 4 SFP (JL814A/B)",
+              "text": "<p>O JL814A/B da série Instant On 1830 é um switch smart‑managed de camada 2 com 48 portas 1 GbE e 4 uplinks SFP 1 Gb, projetado para PMEs que buscam instalação rápida, gerenciamento flexível via app ou web, e sem custos de licenciamento adicionais </p>",
+              "alt": "Switch Aruba Instant On 1830 – 48 portas Gigabit + 4 SFP (JL814A/B)",
+              "banner": "https://assets.decocache.com/scarcom/03ab8c4e-efec-49aa-aa4c-478b495e338c/WesternDigital.red.1-(56).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/686786fc-0844-4fa4-a266-7afbb8d8dfa8/WesternDigital.red.1-(57).png",
+              "title": "Alta densidade de portas 1 GbE",
+              "text": "<p>deve atender grandes ambientes de acesso com eficiência.</p>",
+              "alt": "Alta densidade de portas 1 GbE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/64c0a2cf-3d8f-470c-bc6c-135b1a4893dc/WesternDigital.red.1-(58).png",
+              "title": "Uplinks em fibra",
+              "text": "<p> 4 portas SFP eliminam gargalos e ampliam o alcance da rede.</p>",
+              "alt": "Uplinks em fibra"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1dece4bc-6a8e-49ca-92f8-00aa38b0a9d5/WesternDigital.red.1-(59).png",
+              "title": " Por que escolher o JL814A/B?",
+              "text": "<p>Se você busca um switch confiável, com grande quantidade de portas Gigabit, uplinks em fibra, segurança avançada e gerenciamento leve — o Aruba 1830 JL814A/B oferece tudo isso com qualidade Aruba, suporte garantido e sem complicações de licenciamento.</p>",
+              "alt": " Por que escolher o JL814A/B?"
+            }
+          ],
+          "productId": "155535"
         }
       ]
     },
