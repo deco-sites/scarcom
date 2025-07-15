@@ -15363,6 +15363,32 @@
             }
           ],
           "productId": "155535"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a9a13e7f-7202-4e3f-acd6-16d20938426a/Design-sem-nome.png",
+              "title": "Monitor Acer V206HQL 19,5\" HD (1366 x 768) HDMI/VGA com Suporte VESA – Imagem nítida e versatilidade para o dia a dia",
+              "text": "<p>O Acer V206HQL é um monitor de 19,5 polegadas ideal para quem busca qualidade de imagem, eficiência energética e versatilidade de conexão. Com resolução HD de 1366 x 768 pixels, ele oferece imagens nítidas e cores vivas, perfeitas para tarefas do dia a dia, como navegação na internet, edição de documentos, estudos e até entretenimento básico.</p>",
+              "alt": "Monitor Acer V206HQL 19,5\" HD (1366 x 768) HDMI/VGA com Suporte VESA – Imagem nítida e versatilidade para o dia a dia"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e6e87a7d-421c-4eb5-b26d-c235a0f82251/acer1.png",
+              "title": "Tela LED de 19,5” (16:9)",
+              "text": "<p>Proporção widescreen ideal para produtividade e navegação. Compacto e eficiente para espaços menores como escritórios ou home offices.</p>",
+              "alt": "Tela LED de 19,5” (16:9)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e9064e62-6713-438e-988d-c5c3311eea5d/acer2.png",
+              "title": "Tecnologia Acer eColor e ComfyView",
+              "text": "<p>Proporciona melhor ajuste de cores, contraste e brilho, além de reduzir reflexos, garantindo conforto visual mesmo após longas horas de uso.</p>",
+              "alt": "Tecnologia Acer eColor e ComfyView"
+            }
+          ],
+          "productId": "154688"
         }
       ]
     },
