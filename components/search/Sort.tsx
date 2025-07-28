@@ -18,19 +18,18 @@ const SORT_TO_LEGACY_SORT = [
 
 const useSort = () =>
   useMemo(() => {
-    const urlSearchParams = new URLSearchParams(window.location?.search);
+    const urlSearchParams = new URLSearchParams(globalThis.location?.search);
     return urlSearchParams.get(SORT_QUERY_PARAM) ?? "";
   }, []);
 
-// TODO: Replace with "search utils"
 const applySort = (searchParam: string) => {
-  const urlSearchParams = new URLSearchParams(window.location.search);
+  const urlSearchParams = new URLSearchParams(globalThis.location.search);
   const isLegacy = SORT_TO_LEGACY_SORT.includes(searchParam);
 
   if (isLegacy) urlSearchParams.set(SORT_QUERY_PARAM_LEGACY, searchParam);
   urlSearchParams.set(SORT_QUERY_PARAM, searchParam);
 
-  window.location.search = urlSearchParams.toString();
+  globalThis.location.search = urlSearchParams.toString();
 };
 
 const labels = {
