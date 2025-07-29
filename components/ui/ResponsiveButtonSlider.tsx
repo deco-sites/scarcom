@@ -1,5 +1,6 @@
 import { useId } from "preact/hooks";
 import Slider from "./Slider.tsx";
+import { clx } from "../../sdk/clx.ts";
 
 export interface ButtonSliderItem {
   text: string;
@@ -16,9 +17,8 @@ export interface Props {
 
 export default function ResponsiveButtonSlider({
   items,
-  className = "mb-16 mt-5",
-  buttonClassName =
-    "rounded-full border-2 border-primary px-10 py-2 font-bold text-primary transition-colors duration-300 ease-out hover:bg-primary hover:text-white",
+  className,
+  buttonClassName,
   isMobile = false,
 }: Props) {
   const id = useId();
@@ -26,6 +26,13 @@ export default function ResponsiveButtonSlider({
   if (!items || items.length === 0) {
     return null;
   }
+
+  const buttonClassNames = clx(
+    "whitespace-nowrap rounded-full border-2 border-primary px-5 py-2 text-sm font-bold text-primary",
+    "transition-colors duration-300 ease-out hover:bg-primary hover:text-white",
+    "md:px-10 md:text-base",
+    buttonClassName
+  );
 
   return (
     <div class={className}>
@@ -36,7 +43,7 @@ export default function ResponsiveButtonSlider({
               href={href}
               target={external ? "_blank" : undefined}
               rel={external ? "noopener noreferrer" : undefined}
-              class={buttonClassName}
+              class={buttonClassNames}
             >
               {text}
             </a>
@@ -47,14 +54,14 @@ export default function ResponsiveButtonSlider({
       {isMobile && (
         <div class="md:hidden">
           <div id={id} class="relative">
-            <Slider class="carousel carousel-center w-full gap-4 overflow-x-auto pl-5 pr-5">
+            <Slider class="carousel carousel-center w-full gap-2 overflow-x-auto pl-5 pr-5 md:gap-4">
               {items.map((item, index) => (
                 <Slider.Item index={index} class="carousel-item">
                   <a
                     href={item.href}
                     target={item.external ? "_blank" : undefined}
                     rel={item.external ? "noopener noreferrer" : undefined}
-                    class={`${buttonClassName} whitespace-nowrap`}
+                    class={buttonClassNames}
                   >
                     {item.text}
                   </a>

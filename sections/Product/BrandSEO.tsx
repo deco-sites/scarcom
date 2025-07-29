@@ -53,10 +53,15 @@ export interface Props {
    */
   brands: BrandContent[];
   /**
-   * @title Altura do texto expandido
+   * @title Altura do texto expandido (desktop)
    * @description A altura máxima do texto expandido quando estiver fechado. Por exemplo, "100px" para 100 pixels.
    */
-  maxHeight?: string;
+  maxHeightDesktop?: string;
+  /**
+   * @title Altura do texto expandido (mobile)
+   * @description A altura máxima do texto expandido quando estiver fechado. Por exemplo, "100px" para 100 pixels.
+   */
+  maxHeightMobile?: string;
 }
 
 interface VtexBrand {
@@ -76,13 +81,16 @@ interface LoaderResult extends Omit<BrandContent, "matchers"> {
 const API_URL = "https://scarcom.myvtex.com/api/catalog_system/pub/brand/list";
 
 export async function loader(
-  { brands, maxHeight }: Props,
+  { brands, maxHeightDesktop, maxHeightMobile }: Props,
   req: Request,
-  ctx: FnContext,
+  ctx: FnContext
 ): Promise<LoaderResult | null> {
   const term = getTermFromURL(new URL(req.url));
 
-  if (!term) return null;
+  if (!term) {
+    console.warn("BrandSEO loader: no term found in URL");
+    return null;
+  }
 
   const slugifiedTerm = slugify(term);
 
@@ -91,12 +99,14 @@ export async function loader(
       matchers.some((matcher) => slugify(matcher) === slugifiedTerm)
     ) || null;
 
+  const isMobile = ctx.device !== "desktop";
+
   if (matchedBrand) {
     return {
       ...matchedBrand,
       title: matchedBrand?.title?.trim(),
-      maxHeight,
-      isMobile: ctx.device !== "desktop",
+      maxHeight: isMobile ? maxHeightMobile : maxHeightDesktop,
+      isMobile,
     };
   }
 
@@ -110,8 +120,8 @@ export async function loader(
     if (vtexBrand) {
       return {
         title: vtexBrand.name,
-        maxHeight,
-        isMobile: ctx.device !== "desktop",
+        maxHeight: isMobile ? maxHeightMobile : maxHeightDesktop,
+        isMobile,
       };
     }
   } catch (error) {
@@ -122,20 +132,24 @@ export async function loader(
 }
 
 function BrandSEO(props: Awaited<ReturnType<typeof loader>>) {
-  if (!props) return null;
+  if (!props || !props.title) return null;
 
   const { title, description, ctas, maxHeight, isMobile } = props;
 
   return (
-    <div class="mb-16 w-full">
+    <div class="mb-8 w-full md:mb-16">
       <div class="flex flex-col">
-        <div className="my-10 bg-[#023F67] py-10">
+        <div className="my-7 bg-[#023F67] py-5 md:my-10 md:py-10">
           <h1 class="container px-5 text-2xl font-bold uppercase tracking-wider text-white md:text-3xl">
             {title}
           </h1>
         </div>
 
-        <ResponsiveButtonSlider items={ctas || []} isMobile={isMobile} />
+        <ResponsiveButtonSlider
+          items={ctas || []}
+          isMobile={isMobile}
+          className="mb-10 mt-4 md:mb-16 md:mt-5"
+        />
 
         {description && (
           <ExpandableDescription
