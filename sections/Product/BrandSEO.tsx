@@ -83,7 +83,7 @@ const API_URL = "https://scarcom.myvtex.com/api/catalog_system/pub/brand/list";
 export async function loader(
   { brands, maxHeightDesktop, maxHeightMobile }: Props,
   req: Request,
-  ctx: FnContext
+  ctx: FnContext,
 ): Promise<LoaderResult | null> {
   const term = getTermFromURL(new URL(req.url));
 

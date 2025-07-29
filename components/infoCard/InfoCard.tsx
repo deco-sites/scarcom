@@ -94,27 +94,31 @@ export default function InfoCard({
       >
         {title}
       </TitleTag>
-      {links?.length ? (
-        <ul class="flex items-center justify-center gap-4">
-          {links.map((link) => (
-            <li key={link.label}>
-              <a href={link.href} class="btn btn-primary h-8 min-h-0 gap-3">
-                <Icon id={link.icon} size={16} strokeWidth={1} />
-                <span class="hidden text-xs uppercase md:block">
-                  {link.label}
-                </span>
-              </a>
-            </li>
-          ))}
-        </ul>
-      ) : null}
-      {html ? (
-        <div
-          // deno-lint-ignore react-no-danger
-          dangerouslySetInnerHTML={{ __html: html }}
-          class="text-base-contentfont-normal m-auto max-w-5xl pb-12 text-sm"
-        />
-      ) : null}
+      {links?.length
+        ? (
+          <ul class="flex items-center justify-center gap-4">
+            {links.map((link) => (
+              <li key={link.label}>
+                <a href={link.href} class="btn btn-primary h-8 min-h-0 gap-3">
+                  <Icon id={link.icon} size={16} strokeWidth={1} />
+                  <span class="hidden text-xs uppercase md:block">
+                    {link.label}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+        : null}
+      {html
+        ? (
+          <div
+            // deno-lint-ignore react-no-danger
+            dangerouslySetInnerHTML={{ __html: html }}
+            class="text-base-contentfont-normal m-auto max-w-5xl pb-12 text-sm"
+          />
+        )
+        : null}
     </section>
   );
 }

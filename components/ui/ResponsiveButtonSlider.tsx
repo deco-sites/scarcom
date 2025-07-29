@@ -31,7 +31,7 @@ export default function ResponsiveButtonSlider({
     "whitespace-nowrap rounded-full border-2 border-primary px-5 py-2 text-sm font-bold text-primary",
     "transition-colors duration-300 ease-out hover:bg-primary hover:text-white",
     "md:px-10 md:text-base",
-    buttonClassName
+    buttonClassName,
   );
 
   return (

@@ -77,8 +77,7 @@ const Modal = ({
         dialogStyles[mode]
       } ${props.class ?? ""}`}
       onClick={(e) =>
-        (e.target as HTMLDialogElement).tagName === "SECTION" && onClose?.()
-      }
+        (e.target as HTMLDialogElement).tagName === "SECTION" && onClose?.()}
       onClose={onClose}
     >
       <section
