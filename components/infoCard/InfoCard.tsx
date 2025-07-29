@@ -4,11 +4,13 @@ import { SemanticColors } from "../../components/ui/BannerGrid.tsx";
 
 export type TextAlign = "Left" | "Center" | "Right" | "Justify";
 
+export type HeaderTag = "h1" | "h2" | "h3" | "h4" | "h5" | "h6";
+
 export const TEXT_ALIGMENT: Record<TextAlign, string> = {
-  "Left": "text-left",
-  "Center": "text-center",
-  "Right": "text-right",
-  "Justify": "text-justify",
+  Left: "text-left",
+  Center: "text-center",
+  Right: "text-right",
+  Justify: "text-justify",
 };
 
 export interface Links {
@@ -18,20 +20,29 @@ export interface Links {
 }
 
 export interface Props {
+  /**
+   * @title Título
+   */
   title: string;
   /**
-   * @description Title Color
+   * @title A tag header para o título
+   * @description O padrão é h2
+   * @default h2
+   */
+  titleTag?: HeaderTag;
+  /**
+   * @title Cor do título
    * @default secondary
    */
   titleColor?: SemanticColors;
   caption?: string;
   /**
-   * @description Caption Color
+   * @title Cor do caption
    * @default secondary
    */
   captionColor?: SemanticColors;
   /**
-   * @title Description
+   * @title Descrição
    * @format html
    */
   html?: string;
@@ -51,34 +62,46 @@ const TEXT_COLORS = {
   error: "text-error",
 };
 
-export default function InfoCard(
-  { html, caption, title, textAlign, links, titleColor, captionColor }: Props,
-) {
+export default function InfoCard({
+  html,
+  caption,
+  title,
+  textAlign,
+  links,
+  titleColor,
+  titleTag = "h2",
+  captionColor,
+}: Props) {
   const textAlignment = TEXT_ALIGMENT[textAlign ? textAlign : "Center"];
+
+  const TitleTag = titleTag;
 
   return (
     <section class={`${textAlignment} pt-8`}>
-      <h6
-        class={`font-bold text-xs uppercase 
-          ${titleColor ? TEXT_COLORS[titleColor] : "text-primary"}`}
-      >
-        {caption}
-      </h6>
-      <h3
-        class={`uppercase text-xl lg:text-2xl font-bold mb-5 
-         ${captionColor ? TEXT_COLORS[captionColor] : "text-primary"}
-      `}
+      {caption && (
+        <p
+          class={`text-xs font-bold uppercase ${
+            titleColor ? TEXT_COLORS[titleColor] : "text-primary"
+          }`}
+        >
+          {caption}
+        </p>
+      )}
+      <TitleTag
+        class={`mb-5 text-xl font-bold uppercase lg:text-2xl ${
+          captionColor ? TEXT_COLORS[captionColor] : "text-primary"
+        } `}
       >
         {title}
-      </h3>
+      </TitleTag>
       {links?.length
         ? (
-          <ul class="flex gap-4 items-center justify-center">
+          <ul class="flex items-center justify-center gap-4">
             {links.map((link) => (
               <li key={link.label}>
-                <a href={link.href} class="btn btn-primary gap-3 min-h-0 h-8">
+                <a href={link.href} class="btn btn-primary h-8 min-h-0 gap-3">
                   <Icon id={link.icon} size={16} strokeWidth={1} />
-                  <span class="md:block hidden text-xs uppercase">
+                  <span class="hidden text-xs uppercase md:block">
                     {link.label}
                   </span>
                 </a>
@@ -90,8 +113,9 @@ export default function InfoCard(
       {html
         ? (
           <div
+            // deno-lint-ignore react-no-danger
             dangerouslySetInnerHTML={{ __html: html }}
-            class="text-base-contentfont-normal text-sm max-w-5xl m-auto pb-12"
+            class="text-base-contentfont-normal m-auto max-w-5xl pb-12 text-sm"
           />
         )
         : null}

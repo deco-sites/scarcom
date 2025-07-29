@@ -18,6 +18,7 @@ import * as $CloseButton from "./islands/CloseButton.tsx";
 import * as $CustomerForm from "./islands/CustomerForm.tsx";
 import * as $DetailsControl from "./islands/DetailsControl.tsx";
 import * as $ExchangeForm from "./islands/ExchangeForm.tsx";
+import * as $ExpandableDescription from "./islands/ExpandableDescription.tsx";
 import * as $Form from "./islands/Form.tsx";
 import * as $Header_Buttons from "./islands/Header/Buttons.tsx";
 import * as $Header_Cart_linx from "./islands/Header/Cart/linx.tsx";
@@ -68,6 +69,7 @@ const manifest = {
     "./islands/CustomerForm.tsx": $CustomerForm,
     "./islands/DetailsControl.tsx": $DetailsControl,
     "./islands/ExchangeForm.tsx": $ExchangeForm,
+    "./islands/ExpandableDescription.tsx": $ExpandableDescription,
     "./islands/Form.tsx": $Form,
     "./islands/Header/Buttons.tsx": $Header_Buttons,
     "./islands/Header/Cart/linx.tsx": $Header_Cart_linx,
