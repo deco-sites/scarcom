@@ -1,6 +1,8 @@
+import type { FnContext } from "@deco/deco";
 import type { RichText } from "apps/admin/widgets.ts";
 import { getTermFromURL, slugify } from "../../utils/search.ts";
 import ExpandableDescription from "../../islands/ExpandableDescription.tsx";
+import ResponsiveButtonSlider from "../../components/ui/ResponsiveButtonSlider.tsx";
 
 /**
  * @titleBy text
@@ -65,12 +67,19 @@ interface VtexBrand {
   metaTagDescription?: string;
 }
 
+interface LoaderResult extends Omit<BrandContent, "matchers"> {
+  title?: string;
+  maxHeight?: string;
+  isMobile?: boolean;
+}
+
 const API_URL = "https://scarcom.myvtex.com/api/catalog_system/pub/brand/list";
 
 export async function loader(
   { brands, maxHeight }: Props,
   req: Request,
-): Promise<(Omit<BrandContent, "matchers"> & { maxHeight?: string }) | null> {
+  ctx: FnContext,
+): Promise<LoaderResult | null> {
   const term = getTermFromURL(new URL(req.url));
 
   if (!term) return null;
@@ -87,6 +96,7 @@ export async function loader(
       ...matchedBrand,
       title: matchedBrand?.title?.trim(),
       maxHeight,
+      isMobile: ctx.device !== "desktop",
     };
   }
 
@@ -101,6 +111,7 @@ export async function loader(
       return {
         title: vtexBrand.name,
         maxHeight,
+        isMobile: ctx.device !== "desktop",
       };
     }
   } catch (error) {
@@ -113,7 +124,7 @@ export async function loader(
 function BrandSEO(props: Awaited<ReturnType<typeof loader>>) {
   if (!props) return null;
 
-  const { title, description, ctas, maxHeight } = props;
+  const { title, description, ctas, maxHeight, isMobile } = props;
 
   return (
     <div class="mb-16 w-full">
@@ -124,20 +135,7 @@ function BrandSEO(props: Awaited<ReturnType<typeof loader>>) {
           </h1>
         </div>
 
-        {ctas && ctas.length > 0 && (
-          <div class="container mb-16 mt-5 flex flex-wrap gap-4 px-5">
-            {ctas.map(({ text, href, external }) => (
-              <a
-                href={href}
-                target={external ? "_blank" : undefined}
-                rel={external ? "noopener noreferrer" : undefined}
-                class="rounded-full border-2 border-primary px-10 py-2 font-bold text-primary transition-colors duration-300 ease-out hover:bg-primary hover:text-white"
-              >
-                {text}
-              </a>
-            ))}
-          </div>
-        )}
+        <ResponsiveButtonSlider items={ctas || []} isMobile={isMobile} />
 
         {description && (
           <ExpandableDescription
