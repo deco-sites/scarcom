@@ -32,7 +32,9 @@ export const slugify = (text: string): string => {
     "aaaaaaaaaacccddeeeeeeeegghiiiiiilmnnnnoooooooooprrsssssttuuuuuuuuuwxyyzzz------";
   const p = new RegExp(a.split("").join("|"), "g");
 
-  return text.toString().toLowerCase()
+  return text
+    .toString()
+    .toLowerCase()
     .replace(p, (c) => b.charAt(a.indexOf(c)))
     .replace(/[\s_]+/g, "-")
     .replace(/&/g, "-e-")
@@ -74,6 +76,29 @@ export const slugify = (text: string): string => {
  * getTermFromURL(url4);
  * // null
  */
+/**
+ * Converts a slugified string back to a readable format.
+ * This is the reverse operation of slugify, useful for displaying search terms.
+ *
+ * @param slug The slugified string to convert back.
+ * @returns The unslugified string with proper capitalization.
+ *
+ * @example
+ * unslugify("hd-externo");
+ * // "hd externo"
+ *
+ * @example
+ * unslugify("minha-marca-incrivel");
+ * // "minha marca incrivel"
+ */
+export const unslugify = (slug: string): string => {
+  if (typeof slug !== "string" || !slug.trim()) {
+    return "";
+  }
+
+  return slug.replace(/-/g, " ").trim();
+};
+
 export const getTermFromURL = (
   url: URL,
   termIdentifier = "b",
@@ -99,6 +124,10 @@ export const getTermFromURL = (
     if (brandIndex !== -1 && pathSegments[brandIndex]) {
       return slugify(pathSegments[brandIndex]);
     }
+  }
+
+  if (searchParams.get("q")) {
+    return null;
   }
 
   const lastSegment = pathSegments[pathSegments.length - 1];

@@ -1,6 +1,6 @@
 import type { FnContext } from "@deco/deco";
 import type { RichText } from "apps/admin/widgets.ts";
-import { getTermFromURL, slugify } from "../../utils/search.ts";
+import { getTermFromURL, slugify, unslugify } from "../../utils/search.ts";
 import ExpandableDescription from "../../islands/ExpandableDescription.tsx";
 import ResponsiveButtonSlider from "../../components/ui/ResponsiveButtonSlider.tsx";
 
@@ -76,6 +76,7 @@ interface LoaderResult extends Omit<BrandContent, "matchers"> {
   title?: string;
   maxHeight?: string;
   isMobile?: boolean;
+  isFallback?: boolean;
 }
 
 // Endpoint to list all registered brands in VTEX
@@ -85,12 +86,16 @@ export async function loader(
   { brands, maxHeightDesktop, maxHeightMobile }: Props,
   req: Request,
   ctx: FnContext,
-): Promise<LoaderResult | null> {
+): Promise<LoaderResult> {
   const term = getTermFromURL(new URL(req.url));
 
   if (!term) {
-    console.warn("BrandSEO loader: no term found in URL");
-    return null;
+    const search = new URL(req.url).searchParams.get("q");
+
+    return {
+      title: `Resultados de busca${search ? ` para '${search}'` : ""}`,
+      isFallback: true,
+    };
   }
 
   const slugifiedTerm = slugify(term);
@@ -129,13 +134,18 @@ export async function loader(
     console.error("Failed to fetch or process VTEX brands:", error);
   }
 
-  return null;
+  return {
+    title: `Resultados de busca para '${unslugify(slugifiedTerm)}'`,
+    isFallback: true,
+  };
 }
 
 function BrandSEO(props: Awaited<ReturnType<typeof loader>>) {
-  if (!props || !props.title) return null;
+  const { title, description, ctas, maxHeight, isMobile, isFallback } = props;
 
-  const { title, description, ctas, maxHeight, isMobile } = props;
+  if (isFallback) {
+    return <h1 class="sr-only">{title}</h1>;
+  }
 
   return (
     <div class="mb-8 w-full md:mb-16">
