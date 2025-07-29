@@ -1,0 +1,50 @@
+{
+  "__resolveType": "site/sections/Product/BrandSEO.tsx",
+  "account": "scarcom",
+  "ctas": [],
+  "brands": [
+    {
+      "matchers": [
+        "western-digital",
+        "western"
+      ],
+      "ctas": [
+        {
+          "text": "Link 1",
+          "href": "/"
+        },
+        {
+          "text": "Link 2",
+          "href": "/"
+        },
+        {
+          "text": "Link 3",
+          "href": "/"
+        },
+        {
+          "text": "Link 4",
+          "href": "/"
+        },
+        {
+          "text": "Link 5",
+          "href": "/"
+        },
+        {
+          "text": "Link 6",
+          "href": "/"
+        },
+        {
+          "text": "Link 7",
+          "href": "/"
+        },
+        {
+          "text": "Link 8",
+          "href": "/"
+        }
+      ],
+      "title": "Western Digital",
+      "description": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 16pt\">Lorem ipsum dollor siame</span></strong><span style=\"color: rgb(255, 255, 255)\"><br><br></span><strong><span style=\"color: rgb(255, 255, 255)\">Lorem Ipsum</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14px\"> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span><span style=\"color: rgb(255, 255, 255)\"><br><br></span><strong><span style=\"color: rgb(255, 255, 255)\">Lorem Ipsum</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14px\"> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span><span style=\"color: rgb(255, 255, 255)\"><br><br></span><strong><span style=\"color: rgb(255, 255, 255)\">Lorem Ipsum</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14px\"> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>"
+    }
+  ],
+  "maxHeight": "120px"
+}

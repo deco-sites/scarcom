@@ -1,6 +1,6 @@
 {
   "name": "Search",
-  "path": "/s",
+  "path": "/:s",
   "sections": [
     {
       "type": "website",
@@ -10,6 +10,9 @@
     },
     {
       "__resolveType": "Header Global"
+    },
+    {
+      "__resolveType": "Brand SEO"
     },
     {
       "__resolveType": "SearchResults Category"
