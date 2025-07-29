@@ -78,6 +78,7 @@ interface LoaderResult extends Omit<BrandContent, "matchers"> {
   isMobile?: boolean;
 }
 
+// Endpoint to list all registered brands in VTEX
 const API_URL = "https://scarcom.myvtex.com/api/catalog_system/pub/brand/list";
 
 export async function loader(
@@ -96,7 +97,7 @@ export async function loader(
 
   const matchedBrand =
     brands?.find(({ matchers }) =>
-      matchers.some((matcher) => slugify(matcher) === slugifiedTerm)
+      matchers.some((matcher) => slugify(matcher) === slugifiedTerm),
     ) || null;
 
   const isMobile = ctx.device !== "desktop";
