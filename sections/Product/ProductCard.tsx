@@ -81,14 +81,13 @@ function ProductCard({
   const hasVariant = isVariantOf?.hasVariant ?? [];
 
   const front = images && images[0];
-  const back = images &&
+  const back =
+    images &&
     images.find((obj) => {
       return obj.name === "over";
     });
   const { listPrice, price, installment_text, seller, availability_quantity } =
-    useOffer(
-      offers,
-    );
+    useOffer(offers);
   const possibilities = useVariantPossibilities(hasVariant, product);
   const variants = Object.entries(Object.values(possibilities)[0] ?? {});
   // const clickEvent = {
@@ -127,27 +126,23 @@ function ProductCard({
       BUTTON_VARIANTS[variant ?? "primary"]
     }`;
 
-  const cta = layout?.basics?.ctaMode === "Go to Product Page"
-    ? (
+  const cta =
+    layout?.basics?.ctaMode === "Go to Product Page" ? (
       <a
         href={url && relative(url)}
         aria-label="view product"
-        class={`min-w-[162px] ${
-          addToCartButtonClassNames(
-            layout?.basics?.ctaVariation,
-          )
-        }`}
+        class={`min-w-[162px] ${addToCartButtonClassNames(
+          layout?.basics?.ctaVariation,
+        )}`}
       >
-        <span class="max-lg:hidden flex font-medium ">
+        <span class="flex font-medium max-lg:hidden">
           {l?.basics?.ctaText || "Ver produto"}
         </span>
-        <span class="lg:hidden flex font-medium">
+        <span class="flex font-medium lg:hidden">
           {l?.basics?.mobileCtaText || "Add ao carrinho"}
         </span>
       </a>
-    )
-    : l?.basics?.mobileCtaText
-    ? (
+    ) : l?.basics?.mobileCtaText ? (
       <>
         <AddToCartButton
           url={url as string}
@@ -160,15 +155,12 @@ function ProductCard({
           sellerId={seller as string}
           skuId={product.sku}
           label={l?.basics?.mobileCtaText}
-          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${
-            addToCartButtonClassNames(
-              layout?.basics?.ctaVariation,
-            )
-          }`}
+          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${addToCartButtonClassNames(
+            layout?.basics?.ctaVariation,
+          )}`}
         />
       </>
-    )
-    : (
+    ) : (
       <AddToCartButton
         quantity={1}
         name={product.name as string}
@@ -178,11 +170,9 @@ function ProductCard({
         sellerId={seller as string}
         skuId={product.sku}
         label={l?.basics?.ctaText}
-        classes={`hidden lg:block ${
-          addToCartButtonClassNames(
-            layout?.basics?.ctaVariation,
-          )
-        }`}
+        classes={`hidden lg:block ${addToCartButtonClassNames(
+          layout?.basics?.ctaVariation,
+        )}`}
       />
     );
 
@@ -191,7 +181,7 @@ function ProductCard({
 
   return (
     <div
-      class={`card card-compact opacity-100 bg-opacity-100 group w-full ${
+      class={`group card card-compact w-full bg-opacity-100 opacity-100 ${
         align === "center" ? "text-center" : "text-start"
       } ${l?.onMouseOver?.showCardShadow ? "lg:hover:card-bordered" : ""}`}
       data-deco="view-product"
@@ -204,30 +194,27 @@ function ProductCard({
       >
         {/* Wishlist button */}
         <div
-          class={`absolute top-2 z-10
-            ${
+          class={`absolute top-2 z-10 ${
             l?.elementsPositions?.favoriteIcon === "Top left"
               ? "left-2"
               : "right-2"
-          }
-            ${
+          } ${
             l?.onMouseOver?.showFavoriteIcon
               ? "lg:hidden lg:group-hover:block"
               : "lg:hidden"
-          }
-          `}
+          } `}
         >
           <WishlistIcon productGroupID={productGroupID} productID={productID} />
         </div>
         <a
           href={url && relative(url)}
           aria-label="view product"
-          class="contents relative"
+          class="relative contents"
         >
           <div
-            class={`absolute w-full left-0 top-0 p-[10px] flex items-center z-10`}
+            class={`absolute left-0 top-0 z-10 flex w-full items-center p-[10px]`}
           >
-            <div class={`grid grid-cols-2 gap-y-1 w-full`}>
+            <div class={`grid w-full grid-cols-2 gap-y-1`}>
               {listPrice2 !== price2 && (
                 <DiscountBadge
                   price={price2}
@@ -252,20 +239,15 @@ function ProductCard({
             alt={front ? front.alternateName : ""}
             width={WIDTH}
             height={HEIGHT}
-            class={`
-                absolute rounded-none w-full
-                ${
-              !l?.onMouseOver?.image ||
-                l?.onMouseOver?.image == "Change image"
-                ? "duration-100 transition-opacity opacity-100 lg:group-hover:opacity-0"
+            class={`absolute w-full rounded-none ${
+              !l?.onMouseOver?.image || l?.onMouseOver?.image == "Change image"
+                ? "opacity-100 transition-opacity duration-100 lg:group-hover:opacity-0"
                 : ""
-            }
-                ${
+            } ${
               l?.onMouseOver?.image == "Zoom image"
-                ? "duration-100 transition-scale scale-100 lg:group-hover:scale-105"
+                ? "transition-scale scale-100 duration-100 lg:group-hover:scale-105"
                 : ""
-            }
-              `}
+            } `}
             sizes="(max-width: 640px) 50vw, 20vw"
             preload={preload}
             loading={preload ? "eager" : "lazy"}
@@ -278,7 +260,7 @@ function ProductCard({
               alt={back?.alternateName ?? (front ? front.alternateName : "")}
               width={WIDTH}
               height={HEIGHT}
-              class="absolute transition-opacity rounded-none w-full opacity-0 lg:group-hover:opacity-100"
+              class="absolute w-full rounded-none opacity-0 transition-opacity lg:group-hover:opacity-100"
               sizes="(max-width: 640px) 50vw, 20vw"
               loading="lazy"
               decoding="async"
@@ -287,117 +269,101 @@ function ProductCard({
         </a>
       </figure>
       {/* Prices & Name */}
-      <div class="flex-auto flex flex-col">
+      <div class="flex flex-auto flex-col">
         {/* SKU Selector */}
         {(!l?.elementsPositions?.skuSelector ||
           l?.elementsPositions?.skuSelector === "Top") && (
           <>
-            {l?.hide.skuSelector
-              ? (
-                ""
-              )
-              : (
-                <ul
-                  class={`flex items-center gap-2 w-full ${
-                    align === "center" ? "justify-center" : "justify-start"
-                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-                >
-                  {skuSelector}
-                </ul>
-              )}
+            {l?.hide.skuSelector ? (
+              ""
+            ) : (
+              <ul
+                class={`flex w-full items-center gap-2 ${
+                  align === "center" ? "justify-center" : "justify-start"
+                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+              >
+                {skuSelector}
+              </ul>
+            )}
           </>
         )}
 
-        {l?.hide.productName && l?.hide.productDescription
-          ? (
-            ""
-          )
-          : (
-            <div class="flex flex-col gap-0 mt-[15px]">
-              {l?.hide.productName
-                ? (
-                  ""
-                )
-                : (
-                  <h2 class="line-clamp-2 text-xs font-bold text-base-content">
-                    {isVariantOf?.name || name}
-                  </h2>
-                )}
-              {l?.hide.productDescription
-                ? (
-                  ""
-                )
-                : (
-                  <p class="truncate text-sm lg:text-sm text-neutral">
-                    {product.description}
-                  </p>
-                )}
-            </div>
-          )}
-        {l?.hide.allPrices
-          ? (
-            ""
-          )
-          : (
-            <div class="flex flex-col mt-2">
-              <div
-                class={`flex items-center gap-2.5 ${
-                  l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
-                } ${align === "center" ? "justify-center" : "justify-start"}`}
-              >
-                {listPrice !== price && (
-                  <p
-                    class={`line-through text-base-300 text-xs ${
-                      l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
-                    }`}
-                  >
-                    {formatPrice(listPrice, offers!.priceCurrency!)}
-                  </p>
-                )}
-                <p class="text-accent text-sm font-bold">
-                  {formatPrice(price, offers!.priceCurrency!)}
+        {l?.hide.productName && l?.hide.productDescription ? (
+          ""
+        ) : (
+          <div class="mt-[15px] flex flex-col gap-0">
+            {l?.hide.productName ? (
+              ""
+            ) : (
+              <h3 class="line-clamp-2 text-xs font-bold text-base-content">
+                {isVariantOf?.name || name}
+              </h3>
+            )}
+            {l?.hide.productDescription ? (
+              ""
+            ) : (
+              <p class="truncate text-sm text-neutral lg:text-sm">
+                {product.description}
+              </p>
+            )}
+          </div>
+        )}
+        {l?.hide.allPrices ? (
+          ""
+        ) : (
+          <div class="mt-2 flex flex-col">
+            <div
+              class={`flex items-center gap-2.5 ${
+                l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
+              } ${align === "center" ? "justify-center" : "justify-start"}`}
+            >
+              {listPrice !== price && (
+                <p
+                  class={`text-xs text-base-300 line-through ${
+                    l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
+                  }`}
+                >
+                  {formatPrice(listPrice, offers!.priceCurrency!)}
                 </p>
-              </div>
-              {l?.hide.installments
-                ? (
-                  ""
-                )
-                : (
-                  <div class="text-xs font-normal text-base-content mt-[5px]">
-                    ou {installment_text}
-                  </div>
-                )}
+              )}
+              <p class="text-sm font-bold text-accent">
+                {formatPrice(price, offers!.priceCurrency!)}
+              </p>
             </div>
-          )}
+            {l?.hide.installments ? (
+              ""
+            ) : (
+              <div class="mt-[5px] text-xs font-normal text-base-content">
+                ou {installment_text}
+              </div>
+            )}
+          </div>
+        )}
 
         {/* SKU Selector */}
         {l?.elementsPositions?.skuSelector === "Bottom" && (
           <>
-            {l?.hide.skuSelector
-              ? (
-                ""
-              )
-              : (
-                <ul
-                  class={`flex items-center gap-2 w-full ${
-                    align === "center" ? "justify-center" : "justify-start"
-                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-                >
-                  {skuSelector}
-                </ul>
-              )}
+            {l?.hide.skuSelector ? (
+              ""
+            ) : (
+              <ul
+                class={`flex w-full items-center gap-2 ${
+                  align === "center" ? "justify-center" : "justify-start"
+                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+              >
+                {skuSelector}
+              </ul>
+            )}
           </>
         )}
 
         <div
-          class={`w-full flex flex-col mt-[10px]
-            ${
+          class={`mt-[10px] flex w-full flex-col ${
             l?.onMouseOver?.showSkuSelector || l?.onMouseOver?.showCta
-              // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
-              ? "transition-opacity opacity-100"
+              ? // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
+                "opacity-100 transition-opacity"
               : "lg:hidden"
-          }
-          `}
+          } `}
         >
           {l?.onMouseOver?.showCta && cta}
         </div>

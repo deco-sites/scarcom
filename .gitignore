@@ -79,6 +79,7 @@ _docker_deps.ts
 .metadata/changeset.json
 
 # AI
+.cursorrules
 .cursorignore
 .cursor/
 .claude/
