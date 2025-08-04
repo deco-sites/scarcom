@@ -102,7 +102,7 @@ export async function loader(
 
   const matchedBrand =
     brands?.find(({ matchers }) =>
-      matchers.some((matcher) => slugify(matcher) === slugifiedTerm),
+      matchers.some((matcher) => slugify(matcher) === slugifiedTerm)
     ) || null;
 
   const isMobile = ctx.device !== "desktop";

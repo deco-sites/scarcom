@@ -44,7 +44,9 @@ function ValueItem({ url, selected, label }: FilterToggleValue) {
         {selected && <IconArrow />}
       </div>
       <span
-        class={`text-sm font-normal ${selected ? "text-base-content" : "text-secondary"} `}
+        class={`text-sm font-normal ${
+          selected ? "text-base-content" : "text-secondary"
+        } `}
       >
         {label}
       </span>
@@ -54,18 +56,18 @@ function ValueItem({ url, selected, label }: FilterToggleValue) {
 }
 
 function FilterValues({ key, values }: FilterToggle) {
-  const flexDirection =
-    key === "tamanho" || key === "cor" ? "flex-col" : "flex-col";
+  const flexDirection = key === "tamanho" || key === "cor"
+    ? "flex-col"
+    : "flex-col";
 
-  const sortedValues =
-    key === "price"
-      ? values.sort((a, b) => {
-          const numA = parseInt(a.value.split(":")[0]);
-          const numB = parseInt(b.value.split(":")[0]);
+  const sortedValues = key === "price"
+    ? values.sort((a, b) => {
+      const numA = parseInt(a.value.split(":")[0]);
+      const numB = parseInt(b.value.split(":")[0]);
 
-          return numA - numB;
-        })
-      : values;
+      return numA - numB;
+    })
+    : values;
   return (
     <ul class={`flex flex-wrap gap-2 ${flexDirection}`}>
       {sortedValues.map((item) => {

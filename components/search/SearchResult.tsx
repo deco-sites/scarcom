@@ -90,14 +90,16 @@ function Result({
                 breadcrumb={breadcrumb}
                 displayFilter={variant === "drawer"}
               />
-              {sortOptions.length > 0 ? (
-                <label class="flex w-1/2 items-center gap-[10px] lg:w-auto">
-                  <span class="hidden whitespace-nowrap text-sm text-[#585858] lg:inline">
-                    Ordenar por:
-                  </span>
-                  <Sort sortOptions={sortOptions} />
-                </label>
-              ) : null}
+              {sortOptions.length > 0
+                ? (
+                  <label class="flex w-1/2 items-center gap-[10px] lg:w-auto">
+                    <span class="hidden whitespace-nowrap text-sm text-[#585858] lg:inline">
+                      Ordenar por:
+                    </span>
+                    <Sort sortOptions={sortOptions} />
+                  </label>
+                )
+                : null}
             </div>
             <div class="lg:hidden">{productsFound}</div>
             <div class="flex-grow">
@@ -125,7 +127,7 @@ function Result({
                 index: offset + index,
                 product,
                 breadcrumbList: page.breadcrumb,
-              }),
+              })
             ),
           },
         }}

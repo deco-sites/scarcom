@@ -81,8 +81,7 @@ function ProductCard({
   const hasVariant = isVariantOf?.hasVariant ?? [];
 
   const front = images && images[0];
-  const back =
-    images &&
+  const back = images &&
     images.find((obj) => {
       return obj.name === "over";
     });
@@ -126,14 +125,16 @@ function ProductCard({
       BUTTON_VARIANTS[variant ?? "primary"]
     }`;
 
-  const cta =
-    layout?.basics?.ctaMode === "Go to Product Page" ? (
+  const cta = layout?.basics?.ctaMode === "Go to Product Page"
+    ? (
       <a
         href={url && relative(url)}
         aria-label="view product"
-        class={`min-w-[162px] ${addToCartButtonClassNames(
-          layout?.basics?.ctaVariation,
-        )}`}
+        class={`min-w-[162px] ${
+          addToCartButtonClassNames(
+            layout?.basics?.ctaVariation,
+          )
+        }`}
       >
         <span class="flex font-medium max-lg:hidden">
           {l?.basics?.ctaText || "Ver produto"}
@@ -142,7 +143,9 @@ function ProductCard({
           {l?.basics?.mobileCtaText || "Add ao carrinho"}
         </span>
       </a>
-    ) : l?.basics?.mobileCtaText ? (
+    )
+    : l?.basics?.mobileCtaText
+    ? (
       <>
         <AddToCartButton
           url={url as string}
@@ -155,12 +158,15 @@ function ProductCard({
           sellerId={seller as string}
           skuId={product.sku}
           label={l?.basics?.mobileCtaText}
-          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${addToCartButtonClassNames(
-            layout?.basics?.ctaVariation,
-          )}`}
+          classes={`mb-5 uppercase font-bold min-w-[200px]  lg:min-w-0 ${
+            addToCartButtonClassNames(
+              layout?.basics?.ctaVariation,
+            )
+          }`}
         />
       </>
-    ) : (
+    )
+    : (
       <AddToCartButton
         quantity={1}
         name={product.name as string}
@@ -170,9 +176,11 @@ function ProductCard({
         sellerId={seller as string}
         skuId={product.sku}
         label={l?.basics?.ctaText}
-        classes={`hidden lg:block ${addToCartButtonClassNames(
-          layout?.basics?.ctaVariation,
-        )}`}
+        classes={`hidden lg:block ${
+          addToCartButtonClassNames(
+            layout?.basics?.ctaVariation,
+          )
+        }`}
       />
     );
 
@@ -274,94 +282,108 @@ function ProductCard({
         {(!l?.elementsPositions?.skuSelector ||
           l?.elementsPositions?.skuSelector === "Top") && (
           <>
-            {l?.hide.skuSelector ? (
-              ""
-            ) : (
-              <ul
-                class={`flex w-full items-center gap-2 ${
-                  align === "center" ? "justify-center" : "justify-start"
-                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-              >
-                {skuSelector}
-              </ul>
-            )}
+            {l?.hide.skuSelector
+              ? (
+                ""
+              )
+              : (
+                <ul
+                  class={`flex w-full items-center gap-2 ${
+                    align === "center" ? "justify-center" : "justify-start"
+                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+                >
+                  {skuSelector}
+                </ul>
+              )}
           </>
         )}
 
-        {l?.hide.productName && l?.hide.productDescription ? (
-          ""
-        ) : (
-          <div class="mt-[15px] flex flex-col gap-0">
-            {l?.hide.productName ? (
-              ""
-            ) : (
-              <h3 class="line-clamp-2 text-xs font-bold text-base-content">
-                {isVariantOf?.name || name}
-              </h3>
-            )}
-            {l?.hide.productDescription ? (
-              ""
-            ) : (
-              <p class="truncate text-sm text-neutral lg:text-sm">
-                {product.description}
-              </p>
-            )}
-          </div>
-        )}
-        {l?.hide.allPrices ? (
-          ""
-        ) : (
-          <div class="mt-2 flex flex-col">
-            <div
-              class={`flex items-center gap-2.5 ${
-                l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
-              } ${align === "center" ? "justify-center" : "justify-start"}`}
-            >
-              {listPrice !== price && (
-                <p
-                  class={`text-xs text-base-300 line-through ${
-                    l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
-                  }`}
-                >
-                  {formatPrice(listPrice, offers!.priceCurrency!)}
-                </p>
-              )}
-              <p class="text-sm font-bold text-accent">
-                {formatPrice(price, offers!.priceCurrency!)}
-              </p>
+        {l?.hide.productName && l?.hide.productDescription
+          ? (
+            ""
+          )
+          : (
+            <div class="mt-[15px] flex flex-col gap-0">
+              {l?.hide.productName
+                ? (
+                  ""
+                )
+                : (
+                  <h3 class="line-clamp-2 text-xs font-bold text-base-content">
+                    {isVariantOf?.name || name}
+                  </h3>
+                )}
+              {l?.hide.productDescription
+                ? (
+                  ""
+                )
+                : (
+                  <p class="truncate text-sm text-neutral lg:text-sm">
+                    {product.description}
+                  </p>
+                )}
             </div>
-            {l?.hide.installments ? (
-              ""
-            ) : (
-              <div class="mt-[5px] text-xs font-normal text-base-content">
-                ou {installment_text}
+          )}
+        {l?.hide.allPrices
+          ? (
+            ""
+          )
+          : (
+            <div class="mt-2 flex flex-col">
+              <div
+                class={`flex items-center gap-2.5 ${
+                  l?.basics?.oldPriceSize === "Normal" ? "lg:flex-row" : ""
+                } ${align === "center" ? "justify-center" : "justify-start"}`}
+              >
+                {listPrice !== price && (
+                  <p
+                    class={`text-xs text-base-300 line-through ${
+                      l?.basics?.oldPriceSize === "Normal" ? "lg:text-xl" : ""
+                    }`}
+                  >
+                    {formatPrice(listPrice, offers!.priceCurrency!)}
+                  </p>
+                )}
+                <p class="text-sm font-bold text-accent">
+                  {formatPrice(price, offers!.priceCurrency!)}
+                </p>
               </div>
-            )}
-          </div>
-        )}
+              {l?.hide.installments
+                ? (
+                  ""
+                )
+                : (
+                  <div class="mt-[5px] text-xs font-normal text-base-content">
+                    ou {installment_text}
+                  </div>
+                )}
+            </div>
+          )}
 
         {/* SKU Selector */}
         {l?.elementsPositions?.skuSelector === "Bottom" && (
           <>
-            {l?.hide.skuSelector ? (
-              ""
-            ) : (
-              <ul
-                class={`flex w-full items-center gap-2 ${
-                  align === "center" ? "justify-center" : "justify-start"
-                } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
-              >
-                {skuSelector}
-              </ul>
-            )}
+            {l?.hide.skuSelector
+              ? (
+                ""
+              )
+              : (
+                <ul
+                  class={`flex w-full items-center gap-2 ${
+                    align === "center" ? "justify-center" : "justify-start"
+                  } ${l?.onMouseOver?.showSkuSelector ? "lg:hidden" : ""}`}
+                >
+                  {skuSelector}
+                </ul>
+              )}
           </>
         )}
 
         <div
           class={`mt-[10px] flex w-full flex-col ${
             l?.onMouseOver?.showSkuSelector || l?.onMouseOver?.showCta
-              ? // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
-                "opacity-100 transition-opacity"
+              // ? "transition-opacity lg:opacity-0 lg:group-hover:opacity-100"
+              ? "opacity-100 transition-opacity"
               : "lg:hidden"
           } `}
         >
