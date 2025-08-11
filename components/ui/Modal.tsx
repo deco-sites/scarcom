@@ -73,7 +73,7 @@ const Modal = ({
     <dialog
       {...props}
       ref={ref}
-      class={`backdrop:bg-black backdrop:opacity-80 bg-transparent p-0 m-0 max-w-[87.5%] w-full max-h-full h-full backdrop-opacity-50 lg:max-w-[40%] ${
+      class={`m-0 h-full max-h-full w-full max-w-[87.5%] bg-transparent p-0 backdrop-opacity-50 backdrop:bg-black backdrop:opacity-80 lg:max-w-[40%] ${
         dialogStyles[mode]
       } ${props.class ?? ""}`}
       onClick={(e) =>
@@ -81,22 +81,22 @@ const Modal = ({
       onClose={onClose}
     >
       <section
-        class={`w-full h-full flex bg-transparent ${sectionStyles[mode]}`}
+        class={`flex h-full w-full bg-transparent ${sectionStyles[mode]}`}
       >
         <div
-          class={`w-full bg-base-100 flex flex-col max-h-full overflow-auto ${
+          class={`flex max-h-full w-full flex-col overflow-auto bg-base-100 ${
             containerStyles[mode]
           }`}
         >
           {showHeader && (
-            <header class="mx-5 mt-4 mb-[10.5px] flex items-center justify-between border-solid border-b-[1px] border-[#F7F7F7] lg:mx-10">
-              <h1 className="flex items-center justify-between gap-1">
-                <span class="font-medium text-base-content lg:text-xl text-xl">
+            <header class="mx-5 mb-[10.5px] mt-4 flex items-center justify-between border-b-[1px] border-solid border-[#F7F7F7] lg:mx-10">
+              <h2 className="flex items-center justify-between gap-1">
+                <span class="text-xl font-medium text-base-content lg:text-xl">
                   {title}
                 </span>
-              </h1>
+              </h2>
               <Button
-                class="btn btn-ghost p-0 flex justify-center w-12 h-4"
+                class="btn btn-ghost flex h-4 w-12 justify-center p-0"
                 onClick={onClose}
               >
                 <Icon
@@ -109,7 +109,7 @@ const Modal = ({
               </Button>
             </header>
           )}
-          <div class="flex-grow flex flex-col w-full">
+          <div class="flex w-full flex-grow flex-col">
             {loading === "lazy" ? lazy.value && children : children}
           </div>
         </div>

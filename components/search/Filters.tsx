@@ -18,10 +18,11 @@ const IconArrow = () => (
     height="12"
     viewBox="0 0 12 12"
     fill="none"
+    class="text-white"
   >
     <path
       d="M10 3L4.5 8.5L2 6"
-      stroke="#191919"
+      stroke="currentColor"
       stroke-width="1.5"
       stroke-linecap="round"
       stroke-linejoin="round"
@@ -37,16 +38,15 @@ function ValueItem({ url, selected, label }: FilterToggleValue) {
     <a href={`${url}&page=1`} rel="nofollow" class="flex items-center gap-2">
       <div
         aria-checked={selected}
-        class={`checkbox bg-[#F7F7F7] flex justify-center items-center aria-checked:border-none aria-checked:bg-none aria-checked:bg-primary rounded-md
-        `}
+        class={`checkbox flex items-center justify-center rounded-md bg-[#F7F7F7] aria-checked:border-none aria-checked:bg-primary aria-checked:bg-none`}
       >
         {/* {selected && <Icon id="checkIcon" width={42} height={42} />} */}
         {selected && <IconArrow />}
       </div>
       <span
-        class={`text-sm font-normal 
-        ${selected ? "text-base-content" : "text-secondary"}
-      `}
+        class={`text-sm font-normal ${
+          selected ? "text-base-content" : "text-secondary"
+        } `}
       >
         {label}
       </span>
@@ -91,17 +91,17 @@ function FilterValues({ key, values }: FilterToggle) {
 }
 
 const filterNames = {
-  "Brands": "Marcas",
-  "Categories": "Categorias",
-  "Departments": "Departamentos",
+  Brands: "Marcas",
+  Categories: "Categorias",
+  Departments: "Departamentos",
 };
 
 type LabelKey = keyof typeof filterNames;
 
 function Filters({ filters }: Props) {
-  const _filters = filters.filter(isToggle).filter((filter) =>
-    !filter.key.includes("category-")
-  );
+  const _filters = filters
+    .filter(isToggle)
+    .filter((filter) => !filter.key.includes("category-"));
   const selectedFilters = _filters.reduce<FilterToggleValue[]>(
     (initial, filter) => {
       const selected = filter.values.find((value) => value.selected);
@@ -115,21 +115,20 @@ function Filters({ filters }: Props) {
   return (
     <ul class="flex flex-col gap-2">
       <li>
-        <p class="font-medium text-base uppercase mb-4 text-[#06005B]">
+        <p class="mb-4 text-base font-medium uppercase text-[#06005B]">
           Filtrar por:
         </p>
-        {selectedFilters.length > 0 && (
+        {selectedFilters.length > 0 &&
           selectedFilters.map((filter) => (
             <div class="mb-2">
               <ValueItem {...filter} />
             </div>
-          ))
-        )}
+          ))}
       </li>
       {_filters.map((filter) => (
         <li class="flex flex-col gap-4">
           <details class="collapse collapse-plus" open>
-            <summary class="collapse-title uppercase text-base-content text-base font-medium min-h-0 px-0 py-2.5 border-b mb-4 border-primary-content">
+            <summary class="collapse-title mb-4 min-h-0 border-b border-primary-content px-0 py-2.5 text-base font-medium uppercase text-base-content">
               {filterNames[filter?.label as LabelKey] ?? filter.label}
             </summary>
             <div class="collapse-content px-0">

@@ -77,3 +77,10 @@ _fresh/
 # Deco files
 _docker_deps.ts
 .metadata/changeset.json
+
+# AI
+.cursorrules
+.cursorignore
+.cursor/
+.claude/
+CLAUDE.md

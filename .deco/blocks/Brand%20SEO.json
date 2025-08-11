@@ -1,0 +1,16 @@
+{
+  "__resolveType": "site/sections/Product/BrandSEO.tsx",
+  "account": "scarcom",
+  "ctas": [],
+  "brands": [
+    {
+      "matchers": [
+        "western-digital"
+      ],
+      "ctas": [],
+      "title": "Western Digital",
+      "description": "<p></p>"
+    }
+  ],
+  "maxHeight": "120px"
+}

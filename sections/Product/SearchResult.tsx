@@ -51,45 +51,41 @@ export const loader = (props: Props, req: Request) => {
   console.log(req.url);
   return { ...props, url: req.url };
 };
-function Result(
-  {
-    page,
-    variant,
-    layout,
-    hideFilter: hideFilters,
-    highlights,
-    startingPage = 0,
-    url,
-  }: Omit<Omit<Props, "page">, "notFoundSection"> & {
-    page: ProductListingPage;
-  } & {
-    url: string;
-  },
-) {
+function Result({
+  page,
+  variant,
+  layout,
+  hideFilter: hideFilters,
+  highlights,
+  startingPage = 0,
+  url,
+}: Omit<Omit<Props, "page">, "notFoundSection"> & {
+  page: ProductListingPage;
+} & {
+  url: string;
+}) {
   const { products, filters, breadcrumb, pageInfo, sortOptions } = page;
   const { nextPage, previousPage } = pageInfo;
   const hideFilter = hideFilters?.split(",");
   const newFilters = filters
     .filter(({ key }) => !hideFilter?.includes(key))
     .filter(({ values }) => isArray(values) && values.length);
-  // .filter(({ label }) => !["Departments", "Brands"]?.includes(label));
-  const productsFound = (
-    <h6 class="text-secondary uppercase font-medium text-base">
-      {pageInfo.records} Produtos encontrados
-    </h6>
-  );
   return (
     <>
       <div>
         <div class="flex flex-row gap-8">
           {variant === "aside" && newFilters.length > 0 && (
-            <aside class="hidden lg:block w-min mt-1 min-w-[270px]">
+            <aside class="mt-1 hidden w-min min-w-[270px] lg:block">
               <Filters filters={newFilters} />
             </aside>
           )}
-          <div class="flex flex-col gap-5 w-full max-w-auto lg:max-w-[calc(100%-270px)]">
-            <div class="flex justify-between items-center gap-2.5">
-              <div class="hidden lg:block">{productsFound}</div>
+          <div class="max-w-auto flex w-full flex-col gap-5 lg:max-w-[calc(100%-270px)]">
+            <div class="flex items-center justify-between gap-2.5">
+              <div class="hidden lg:block">
+                <span class="text-base font-medium uppercase text-secondary">
+                  {pageInfo.records} Produtos encontrados
+                </span>
+              </div>
               <SearchControls
                 sortOptions={sortOptions}
                 filters={filters}
@@ -98,8 +94,8 @@ function Result(
               />
               {sortOptions.length > 0
                 ? (
-                  <label class="flex gap-[10px] w-1/2 lg:w-auto items-center">
-                    <span class="text-[#585858] text-sm hidden whitespace-nowrap lg:inline">
+                  <label class="flex w-1/2 items-center gap-[10px] lg:w-auto">
+                    <span class="hidden whitespace-nowrap text-sm text-[#585858] lg:inline">
                       Ordenar por:
                     </span>
                     <Sort sortOptions={sortOptions} />
@@ -107,7 +103,12 @@ function Result(
                 )
                 : null}
             </div>
-            <div class="lg:hidden">{productsFound}</div>
+            <div class="lg:hidden">
+              <h2 class="sr-only">Produtos</h2>
+              <p class="text-base font-medium uppercase text-secondary">
+                {pageInfo.records} Produtos encontrados
+              </p>
+            </div>
             <div class="flex-grow">
               <ProductGallery
                 products={products}
@@ -130,16 +131,14 @@ function Result(
     </>
   );
 }
-function SearchResult(
-  {
-    page,
-    notFoundSection: { Component: NotFoundSection, props: notFoundProps } = {
-      Component: NotFound,
-      props: {},
-    },
-    ...props
-  }: SectionProps<ReturnType<typeof loader>>,
-) {
+function SearchResult({
+  page,
+  notFoundSection: { Component: NotFoundSection, props: notFoundProps } = {
+    Component: NotFound,
+    props: {},
+  },
+  ...props
+}: SectionProps<ReturnType<typeof loader>>) {
   if (!page || !page.products || page.products.length === 0) {
     return <NotFoundSection {...notFoundProps} />;
   }
