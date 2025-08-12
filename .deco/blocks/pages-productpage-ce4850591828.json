@@ -15389,6 +15389,46 @@
             }
           ],
           "productId": "154688"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/023ee2b0-8894-4acd-ad6b-0f5d1ae377c4/Design-sem-nome---2025-08-12T134101.540.png",
+              "title": "Switch Cisco Business CBS220-48T-4G – 48 Portas Gigabit + 4 SFP (1GbE)",
+              "text": "<p>O CBS220-48T-4G pertence à família Cisco Business 220 Series, oferecendo uma experiência de switch gerenciável inteligente e acessível, voltada para pequenas e médias empresas. Ele combina alta densidade de portas com recursos de segurança e gestão simplificada via aplicativo móvel ou dashboard intuitivo — tudo sem custo de licença adicional. </p>",
+              "alt": "Switch Cisco Business CBS220-48T-4G – 48 Portas Gigabit + 4 SFP (1GbE)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/86de2a86-cf9f-4cab-9165-454f8bd64314/Design-sem-nome---2025-08-12T134222.400.png",
+              "title": "Alta densidade de portas",
+              "text": "<p>para conectar múltiplos dispositivos em estruturas SMB.</p>",
+              "alt": "Alta densidade de portas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Uplinks por fibra",
+              "text": "<p>por meio dos slots SFP, amplamente usados em redes corporativas.</p>",
+              "alt": "Uplinks por fibra"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/28dceaab-cb0b-4392-9574-5e400c2f29ef/Design-sem-nome---2025-08-12T135852.826.png",
+              "title": "Aplicações Recomendadas",
+              "text": "<p>Ambientes corporativos com alta demanda de portas físicas, como escritórios, escolas ou clínicas.</p>",
+              "alt": "Aplicações Recomendadas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3700e04e-8312-4871-a3fb-a3e67f4559f2/Design-sem-nome---2025-08-12T135858.990.png",
+              "title": "Por que escolher o CBS220-48T-4G?",
+              "text": "<p>O CBS220-48T-4G é uma escolha econômica e robusta para empresas que buscam conectividade Gigabit confiável, segurança corporativa e gerenciamento simples — tudo com suporte Cisco e sem despesas com licenças de software.</p>",
+              "alt": "Por que escolher o CBS220-48T-4G?"
+            }
+          ],
+          "productId": "155520"
         }
       ]
     },
