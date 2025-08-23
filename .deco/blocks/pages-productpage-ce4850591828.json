@@ -15429,6 +15429,39 @@
             }
           ],
           "productId": "155520"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f584a7a-6967-4cdb-a5c6-ff69277af599/Design-sem-nome---2025-08-23T023019.986.png",
+              "title": "Switch Cisco Business CBS250-24T-4G",
+              "text": "<p>O CBS250-24T-4G, da série Cisco Business 250, é um switch smart-managed voltado para pequenas e médias empresas, oferecendo ótima combinação de alto desempenho, facilidade de uso, segurança corporativa e custo-benefício, tudo sem licenciamento extra </p>",
+              "alt": "Switch Cisco Business CBS250-24T-4G"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d858d84e-444a-443a-83bd-e5b9c1312d09/imagem-switch-cbs350-24p-4x-br.webp",
+              "title": "Rede confiável e acessível",
+              "text": "<p>conectividade Gigabit para até 24 dispositivos com uplinks de fibra via SFP.</p>",
+              "alt": "Rede confiável e acessível"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4cab365d-923e-43f1-9f77-9d200af903f6/image_2022_12_08T17_31_56_763Z.png",
+              "title": "Gerenciamento simplificado",
+              "text": "<p>interface intuitiva, dashboard unificado e opções de controle flexíveis.</p>",
+              "alt": "Gerenciamento simplificado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1100c1e6-1b8a-451c-9faf-3c399e825611/image_2022_12_08T17_32_13_702Z.png",
+              "title": "Segurança corporativa padrão",
+              "text": "<p>VLANs, autenticação e ACLs, protegendo sua rede contra acessos indesejados.</p>",
+              "alt": "Segurança corporativa padrão"
+            }
+          ],
+          "productId": "155489"
         }
       ]
     },
