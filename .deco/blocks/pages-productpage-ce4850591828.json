@@ -15528,6 +15528,46 @@
             }
           ],
           "productId": "155788"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e274be6d-fb19-43b9-900d-5215a6652e2f/image_2024_04_01T16_50_19_584Z.png",
+              "title": "Switch Cisco Managed CBS350-24P-4G – 24 Portas Gigabit PoE+ + 4 Uplinks SFP, Gerenciável Layer 3",
+              "text": "<p>O Cisco Managed CBS350-24P-4G é um switch gerenciável Layer 3 de alto desempenho, projetado para pequenas e médias empresas que buscam rede segura, confiável e escalável. Com 24 portas Gigabit PoE+ e 4 uplinks SFP 1Gb, ele permite alimentação direta de dispositivos de rede como telefones IP, câmeras de segurança e access points, além de oferecer recursos avançados de roteamento, segurança e gerenciamento, garantindo controle completo da rede corporativa.</p>",
+              "alt": "Switch Cisco Managed CBS350-24P-4G – 24 Portas Gigabit PoE+ + 4 Uplinks SFP, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "24 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+ –",
+              "text": "<p>Fornece energia diretamente a dispositivos de rede sem necessidade de fontes externas.</p>",
+              "alt": "24 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+ –",
+              "banner": "https://assets.decocache.com/scarcom/d858d84e-444a-443a-83bd-e5b9c1312d09/imagem-switch-cbs350-24p-4x-br.webp"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4cab365d-923e-43f1-9f77-9d200af903f6/image_2022_12_08T17_31_56_763Z.png",
+              "title": "Gerenciamento Avançado Layer 3",
+              "text": "<p>Suporte a roteamento estático, OSPF, ACLs e VLANs.</p>",
+              "alt": "Gerenciamento Avançado Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f584a7a-6967-4cdb-a5c6-ff69277af599/Design-sem-nome---2025-08-23T023019.986.png",
+              "title": "PoE+ de Alta Capacidade",
+              "text": "<p>Até 195W de potência total para múltiplos dispositivos PoE simultaneamente.</p>",
+              "alt": "PoE+ de Alta Capacidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Segurança Robusta",
+              "text": "<p>Controle de acesso via 802.1X, DHCP Snooping, IP Source Guard e prevenção contra ataques de ARP.</p>",
+              "alt": "Segurança Robusta"
+            }
+          ],
+          "productId": "155562"
         }
       ]
     },
