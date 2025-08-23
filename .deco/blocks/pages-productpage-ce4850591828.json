@@ -15462,6 +15462,39 @@
             }
           ],
           "productId": "155489"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f584a7a-6967-4cdb-a5c6-ff69277af599/Design-sem-nome---2025-08-23T023019.986.png",
+              "title": "Switch Cisco Business CBS220-24T-4X – 24 Portas Gigabit com 4 Uplinks SFP+",
+              "text": "<p>O Cisco Business CBS220-24T-4X é um switch gerenciável que combina desempenho, confiabilidade e facilidade de uso, ideal para pequenas e médias empresas que precisam de uma rede eficiente e preparada para crescimento.</p>",
+              "alt": "Switch Cisco Business CBS220-24T-4X – 24 Portas Gigabit com 4 Uplinks SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "24 portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Conexão rápida e estável para desktops, servidores e dispositivos de rede.</p>",
+              "alt": "24 portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1100c1e6-1b8a-451c-9faf-3c399e825611/image_2022_12_08T17_32_13_702Z.png",
+              "title": "4 uplinks 10G SFP+",
+              "text": "<p>Alta velocidade para backbone de rede e conexões com outros switches/core.</p>",
+              "alt": "4 uplinks 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d858d84e-444a-443a-83bd-e5b9c1312d09/imagem-switch-cbs350-24p-4x-br.webp",
+              "title": "Switch Gerenciável (Layer 2)",
+              "text": "<p>Recursos avançados de VLANs, QoS, agregação de links (LACP) e segurança.</p>",
+              "alt": "Switch Gerenciável (Layer 2)"
+            }
+          ],
+          "productId": "155478"
         }
       ]
     },
