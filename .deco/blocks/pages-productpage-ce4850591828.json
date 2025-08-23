@@ -15495,6 +15495,39 @@
             }
           ],
           "productId": "155478"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e274be6d-fb19-43b9-900d-5215a6652e2f/image_2024_04_01T16_50_19_584Z.png",
+              "title": "Switch Cisco Business CBS220-24P-4G – 24 Portas Gigabit + 4 SFP, PoE+ e Gerenciável",
+              "text": "<p>O Cisco CBS220-24P-4G é um switch gerenciável Layer 2 desenvolvido para empresas que buscam alto desempenho, segurança e flexibilidade, oferecendo alimentação PoE+ para dispositivos de rede, como telefones IP, câmeras de segurança, access points e outros equipamentos compatíveis com PoE. Com 24 portas Gigabit Ethernet e 4 uplinks SFP de 1Gb, ele garante conectividade confiável e eficiente para redes corporativas.</p>",
+              "alt": "Switch Cisco Business CBS220-24P-4G – 24 Portas Gigabit + 4 SFP, PoE+ e Gerenciável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f584a7a-6967-4cdb-a5c6-ff69277af599/Design-sem-nome---2025-08-23T023019.986.png",
+              "title": "24 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Conexões rápidas e estáveis para dispositivos de rede.</p>",
+              "alt": "24 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4cab365d-923e-43f1-9f77-9d200af903f6/image_2022_12_08T17_31_56_763Z.png",
+              "title": "4 Uplinks SFP 1Gb",
+              "text": "<p>Conexão de alta velocidade para backbone ou interligação com outros switches.</p>",
+              "alt": "4 Uplinks SFP 1Gb"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/86de2a86-cf9f-4cab-9165-454f8bd64314/Design-sem-nome---2025-08-12T134222.400.png",
+              "title": "Suporte PoE+ (Power over Ethernet",
+              "text": "<p>Até 195W de potência total, alimentando diretamente câmeras IP, APs e telefones IP sem necessidade de fontes externas.</p>",
+              "alt": "Suporte PoE+ (Power over Ethernet"
+            }
+          ],
+          "productId": "155788"
         }
       ]
     },
