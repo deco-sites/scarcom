@@ -15601,6 +15601,39 @@
             }
           ],
           "productId": "156271"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2c9ed3a8-d5bf-410e-843b-38cde059f248/Design-sem-nome---2025-08-24T152033.562.png",
+              "title": "Switch Cisco Business CBS250-48P-4X – 48 Portas Gigabit PoE+ + 4 Uplinks 10G SFP+, Gerenciável",
+              "text": "<p>O Cisco CBS250-48P-4X é um switch gerenciável Layer 2+ projetado para pequenas e médias empresas que precisam de alta performance, conectividade confiável e recursos avançados de gerenciamento. Com 48 portas Gigabit Ethernet com suporte PoE+ e 4 uplinks 10G SFP+, ele é ideal para redes que exigem alimentação de dispositivos IP e alta largura de banda, como telefonia VoIP, videomonitoramento, redes Wi-Fi corporativas e aplicações em nuvem.</p>",
+              "alt": "Switch Cisco Business CBS250-48P-4X – 48 Portas Gigabit PoE+ + 4 Uplinks 10G SFP+, Gerenciável"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9198ba06-79db-47b3-992b-6cba653cd243/image_2024_03_12T18_49_43_701Z.png",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+",
+              "text": "<p>Alimenta dispositivos como câmeras IP, access points e telefones VoIP sem necessidade de fontes externas.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2391aecf-6528-4ecc-87bb-0c5e7e4ba537/image_2024_03_12T18_51_30_950Z.png",
+              "title": "Gerenciamento Layer 2+ Avançado:",
+              "text": "<p>VLANs, QoS, LACP, Spanning Tree, IGMP Snooping e roteamento estático IPv4/IPv6.</p>",
+              "alt": "Gerenciamento Layer 2+ Avançado:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Design para Rack (1U)",
+              "text": "<p>Ideal para ambientes corporativos com alta densidade de portas.</p>",
+              "alt": "Design para Rack (1U)"
+            }
+          ],
+          "productId": "155792"
         }
       ]
     },
