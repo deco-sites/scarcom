@@ -15568,6 +15568,39 @@
             }
           ],
           "productId": "155562"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0dc729d1-8f85-4f04-9877-dda8030ae474/Design-sem-nome---2025-08-24T151618.171.png",
+              "title": "Switch Cisco Catalyst C1300-24T-4G – 24 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3",
+              "text": "<p>O Cisco Catalyst C1300-24T-4G é um switch corporativo gerenciável Layer 3, projetado para empresas que exigem alta performance, segurança robusta e escalabilidade. Com 24 portas Gigabit Ethernet e 4 uplinks SFP 1Gb, ele é ideal para redes de pequeno a médio porte, oferecendo suporte a VLANs avançadas, QoS, roteamento Layer 3 e segurança empresarial.</p>",
+              "alt": "Switch Cisco Catalyst C1300-24T-4G – 24 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1185c03b-bfa4-41c8-8471-ded32f90de5e/154164_1.jpg.webp",
+              "title": "24 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Conexões rápidas e estáveis para desktops, servidores e dispositivos de rede.</p>",
+              "alt": "24 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a12a07b7-e2a9-4912-9ea1-3d82cfb89dc5/154164_2.jpg.webp",
+              "title": "4 Uplinks SFP 1Gb",
+              "text": "<p>Conectividade de alta velocidade para backbone e interligação de switches.</p>",
+              "alt": "4 Uplinks SFP 1Gb"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Alta Confiabilidade",
+              "text": "<p>Recursos de redundância e suporte a agregação de links (LACP) e Spanning Tree Protocol (STP).</p>",
+              "alt": "Alta Confiabilidade"
+            }
+          ],
+          "productId": "156271"
         }
       ]
     },
