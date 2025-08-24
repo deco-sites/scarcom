@@ -15634,6 +15634,39 @@
             }
           ],
           "productId": "155792"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f270d84e-b43c-4244-bae7-a277bcaea6ce/Design-sem-nome---2025-08-24T152850.609.png",
+              "title": "Switch Cisco Business CBS250-48P-4G – 48 Portas Gigabit PoE+ + 4 Uplinks SFP, Gerenciável Layer 2+",
+              "text": "<p>O Cisco CBS250-48P-4G é um switch gerenciável Layer 2+ desenvolvido para pequenas e médias empresas que precisam de alto desempenho, segurança e conectividade confiável. Com 48 portas Gigabit Ethernet com suporte PoE+ e 4 uplinks SFP de 1Gb, ele é ideal para redes que demandam alimentação de dispositivos IP e grande capacidade de tráfego, como telefonia VoIP, câmeras de vigilância, redes Wi-Fi corporativas e aplicações em nuvem.</p>",
+              "alt": "Switch Cisco Business CBS250-48P-4G – 48 Portas Gigabit PoE+ + 4 Uplinks SFP, Gerenciável Layer 2+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/507e399c-544b-4711-870c-614af485fdff/1433_1.webp",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+",
+              "text": "<p>Alimenta diretamente dispositivos como câmeras IP, APs e telefones VoIP sem necessidade de fontes externas.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e84aefd4-8350-4968-934c-5ec850d52639/1433_2.webp",
+              "title": "4 Uplinks SFP 1Gb",
+              "text": "<p>Conexão de alta velocidade para backbone e interligação com outros switches.</p>",
+              "alt": "4 Uplinks SFP 1Gb"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Fácil Gerenciamento",
+              "text": "<p>Interface Web intuitiva, CLI, SNMP e integração com Cisco Business Dashboard.</p>",
+              "alt": "Fácil Gerenciamento"
+            }
+          ],
+          "productId": "155995"
         }
       ]
     },
