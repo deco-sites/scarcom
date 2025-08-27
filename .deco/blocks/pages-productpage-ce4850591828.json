@@ -15733,6 +15733,39 @@
             }
           ],
           "productId": "155941"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0e8c2bd5-71b1-4e8e-8a94-7545b67aafee/Design-sem-nome---2025-08-26T221132.659.png",
+              "title": "Switch Cisco Catalyst C1200-48T-4G – 48 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3",
+              "text": "<p>O Cisco Catalyst C1200-48T-4G é um switch corporativo gerenciável Layer 3, desenvolvido para empresas que buscam alta performance, segurança de nível empresarial e escalabilidade. Com 48 portas Gigabit Ethernet e 4 uplinks SFP de 1Gb, ele garante conectividade confiável, gestão avançada e suporte a ambientes corporativos exigentes, ideal para redes de médio e grande porte.</p>",
+              "alt": "Switch Cisco Catalyst C1200-48T-4G – 48 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c2e4c0b4-3f90-4ce0-a434-9cc10d49d97d/5550_1.jpg.webp",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Velocidade e estabilidade para desktops, servidores e dispositivos de rede.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3db7cc1b-a248-4dae-8e3f-4c546bb31502/1456_2.webp",
+              "title": "4 Uplinks SFP 1Gb",
+              "text": "<p>Conectividade de alta velocidade para backbone e interligação entre switches.</p>",
+              "alt": "4 Uplinks SFP 1Gb"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Gerenciamento Layer 3 Avançado",
+              "text": "<p>Suporte a roteamento estático, protocolos dinâmicos (OSPF, RIP), VLANs, QoS e LACP.</p>",
+              "alt": "Gerenciamento Layer 3 Avançado"
+            }
+          ],
+          "productId": "156087"
         }
       ]
     },
