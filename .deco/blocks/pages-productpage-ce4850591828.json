@@ -15667,6 +15667,39 @@
             }
           ],
           "productId": "155995"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f80f94a-0e48-4e7a-875a-d61110b12019/Design-sem-nome---2025-08-26T215610.629.png",
+              "title": "Switch Cisco Business CBS220-48T-4X – 48 Portas Gigabit + 4 Uplinks 10G SFP+, Gerenciável Layer 2",
+              "text": "<p>O Cisco CBS220-48T-4X é um switch gerenciável Layer 2 projetado para empresas que necessitam de alto desempenho, segurança e facilidade de gerenciamento. Com 48 portas Gigabit Ethernet e 4 uplinks 10G SFP+, ele oferece conectividade confiável e escalável para ambientes corporativos, suportando aplicações que exigem alta largura de banda, como armazenamento em rede, videoconferências e serviços em nuvem.</p>",
+              "alt": "Switch Cisco Business CBS220-48T-4X – 48 Portas Gigabit + 4 Uplinks 10G SFP+, Gerenciável Layer 2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a251cb25-13ba-4d09-8bbe-8a0cc3e53478/1456_1.webp",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Conexões rápidas e estáveis para dispositivos de rede.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3db7cc1b-a248-4dae-8e3f-4c546bb31502/1456_2.webp",
+              "title": "4 Uplinks 10G SFP+",
+              "text": "<p>Alta velocidade para backbone e interligação entre switches.</p>",
+              "alt": "4 Uplinks 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Gerenciamento Layer 2 Avançado",
+              "text": "<p>VLANs, QoS, agregação de links (LACP), Spanning Tree, IGMP Snooping.</p>",
+              "alt": "Gerenciamento Layer 2 Avançado"
+            }
+          ],
+          "productId": "155865"
         }
       ]
     },
