@@ -15700,6 +15700,39 @@
             }
           ],
           "productId": "155865"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8a381c8a-e58d-4f9a-a3ee-5a165a0ae0e7/Design-sem-nome---2025-08-26T220328.709.png",
+              "title": "Switch Cisco Business CBS350-48T-4X – 48 Portas Gigabit + 4 Uplinks 10G SFP+, Gerenciável Layer 3",
+              "text": "<p>O Cisco CBS350-48T-4X é um switch gerenciável Layer 3 de alto desempenho, projetado para pequenas e médias empresas que precisam de rede estável, segura e escalável. Com 48 portas Gigabit Ethernet e 4 uplinks 10G SFP+, ele garante alta capacidade de tráfego, recursos avançados de roteamento e segurança robusta, sendo ideal para aplicações corporativas críticas, como VoIP, videomonitoramento, data centers e redes em nuvem.</p>",
+              "alt": "Switch Cisco Business CBS350-48T-4X – 48 Portas Gigabit + 4 Uplinks 10G SFP+, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/221c1404-d2e3-4fc7-bcad-6b6fade09867/334_1.webp",
+              "text": "<p>Conexões rápidas e confiáveis para diversos dispositivos de rede.</p>",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f80f94a-0e48-4e7a-875a-d61110b12019/Design-sem-nome---2025-08-26T215610.629.png",
+              "title": "4 Uplinks 10G SFP+",
+              "text": "<p>Backbone de alta velocidade para interligação entre switches e servidores.</p>",
+              "alt": "4 Uplinks 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Gerenciamento Layer 3 Avançado:",
+              "text": "<p>Suporte a roteamento estático, OSPF, ACLs, VLANs e QoS para otimização de tráfego.</p>",
+              "alt": "Gerenciamento Layer 3 Avançado:",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png"
+            }
+          ],
+          "productId": "155941"
         }
       ]
     },
