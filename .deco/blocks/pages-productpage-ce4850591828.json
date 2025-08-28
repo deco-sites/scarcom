@@ -15766,6 +15766,39 @@
             }
           ],
           "productId": "156087"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4bd4d254-118f-4ab2-8e44-2ea8b7ab7937/Design-sem-nome---2025-08-28T193744.300.png",
+              "title": "Cisco Business CBS220-48T-4G",
+              "text": "<p>O Cisco CBS220-48T-4G é um switch inteligente e gerenciável da linha Cisco Business 220, projetado para pequenas e médias empresas que precisam de desempenho, segurança e facilidade de gerenciamento em sua rede.</p>",
+              "alt": "Cisco Business CBS220-48T-4G"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c5ed904a-5dca-48b6-95fb-ca39af23a5ad/image_2023_01_23T12_26_01_382Z.png",
+              "title": "48 portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>para conexões de alta velocidade com PCs, impressoras, servidores e outros dispositivos de rede.</p>",
+              "alt": "48 portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c2e4c0b4-3f90-4ce0-a434-9cc10d49d97d/5550_1.jpg.webp",
+              "title": "4 uplinks Gigabit SFP",
+              "text": "<p>dedicados para interligação de switches e conexões de backbone mais estáveis e rápidas.</p>",
+              "alt": "4 uplinks Gigabit SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/60c2f853-1702-4449-854a-4111b8c679b6/Design-sem-nome---2025-08-12T134235.715.png",
+              "title": "Capacidade de Switching: até 104 Gbps",
+              "text": "<p>garantindo desempenho mesmo em ambientes com alto tráfego de dados.</p>",
+              "alt": "Capacidade de Switching: até 104 Gbps"
+            }
+          ],
+          "productId": "155524"
         }
       ]
     },
