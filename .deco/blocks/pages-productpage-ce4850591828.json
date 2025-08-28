@@ -15799,6 +15799,39 @@
             }
           ],
           "productId": "155524"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/466aa3cf-8004-401d-b750-d3066ae4ab44/Design-sem-nome---2025-08-28T194702.722.png",
+              "title": "48 portas RJ-45 Gigabit Ethernet",
+              "text": "<p>mais 4 portas Gigabit SFP para uplinks flexíveis</p>",
+              "alt": "48 portas RJ-45 Gigabit Ethernet"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a2808d8-0771-4a1f-8132-dc0b4f89ee41/image_2024_03_07T19_25_11_654Z.png",
+              "title": "Capacidade de switching",
+              "text": "<p>104 Gbps, com taxa de encaminhamento de 77,38 mpps (pacotes de 64 bytes)</p>",
+              "alt": "Capacidade de switching"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/640ca977-dc28-4d37-ba0e-7e5a1b53f010/image_2024_03_07T19_26_37_540Z.png",
+              "title": "Ciclo de Vida do Produto",
+              "text": "<p>A série CBS250 atingiu End-of-Sale em 31 de janeiro de 2025, com suporte técnico mantido até 31 de outubro de 2029 </p>",
+              "alt": "Ciclo de Vida do Produto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/909f5d69-9fb6-4285-97ce-a89a99927dbf/image_2024_03_07T19_27_37_444Z.png",
+              "title": "Dimensões:",
+              "text": "<p>aproximadamente 445 × 288 × 44 mm (17,5″ × 11,3″ × 1,7″)</p>",
+              "alt": "Dimensões:"
+            }
+          ],
+          "productId": "155605"
         }
       ]
     },
