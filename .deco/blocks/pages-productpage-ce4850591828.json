@@ -15832,6 +15832,39 @@
             }
           ],
           "productId": "155605"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/00685ebf-66ee-4a36-a807-11abfd9872d6/Design-sem-nome---2025-08-28T200129.501.png",
+              "title": "Switch Cisco Business CBS350-48T-4G – 48 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3",
+              "text": "<p>O Cisco CBS350-48T-4G é um switch corporativo gerenciável Layer 3 da família Cisco Business 350 Series, projetado para oferecer alto desempenho, segurança avançada e recursos completos de gerenciamento para empresas de pequeno a médio porte.</p>",
+              "alt": "Switch Cisco Business CBS350-48T-4G – 48 Portas Gigabit + 4 Uplinks SFP, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a1d58e9a-8048-4192-8d46-e4ffeb2cd6de/image_2024_03_12T19_04_41_932Z.png",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)",
+              "text": "<p>Conexões rápidas e estáveis para usuários, servidores e dispositivos de rede.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4d56e839-b965-4633-89ef-145fc55a3926/image_2024_03_12T19_05_32_828Z.png",
+              "title": "4 Uplinks SFP (1Gb)",
+              "text": "<p>Flexibilidade para conexões de backbone e interligação entre switches.</p>",
+              "alt": "4 Uplinks SFP (1Gb)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d99e9a1-808f-465b-928d-ccd09a6b9ed5/image_2024_03_12T19_05_00_994Z.png",
+              "title": "Gerenciamento Layer 3 Completo",
+              "text": "<p>Roteamento estático, RIP, OSPF, VRRP, VLANs, QoS avançado e LACP.</p>",
+              "alt": "Gerenciamento Layer 3 Completo"
+            }
+          ],
+          "productId": "155794"
         }
       ]
     },
