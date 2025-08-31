@@ -16699,6 +16699,39 @@
             }
           ],
           "productId": "155606"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e99bc844-cab9-45e5-ad07-be9fba366f55/Design-sem-nome---2025-08-31T194116.944.png",
+              "title": "Memória para Notebook 48GB DDR5 5600MHz – Crucial CT48G56C46S5",
+              "text": "<p>A Crucial 48GB DDR5 5600MHz (CT48G56C46S5) é a escolha ideal para quem busca máxima performance em notebooks de última geração. Com capacidade inédita de 48GB em um único módulo, essa memória oferece poder de sobra para multitarefas pesadas, jogos AAA, edição de vídeo em 4K/8K, modelagem 3D e virtualização.</p>",
+              "alt": "Memória para Notebook 48GB DDR5 5600MHz – Crucial CT48G56C46S5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/da29cad1-4ff9-410c-b421-d109dc5752a7/Design-sem-nome---2025-08-31T182209.982.png",
+              "title": "Capacidade: 48 GB",
+              "text": "<p>Ideal para workloads extremamente exigentes.</p>",
+              "alt": "Capacidade: 48 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Tipo de Memória: DDR5 SODIMM",
+              "text": "<p>Compatível com notebooks modernos.</p>",
+              "alt": "Tipo de Memória: DDR5 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Latência: CL46",
+              "text": "<p>Equilíbrio entre velocidade e estabilidade.</p>",
+              "alt": "Latência: CL46"
+            }
+          ],
+          "productId": "155917"
         }
       ]
     },
