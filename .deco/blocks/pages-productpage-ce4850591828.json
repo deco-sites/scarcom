@@ -15898,6 +15898,39 @@
             }
           ],
           "productId": "154990"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6dd208f-99f2-410a-8575-52b31f202bef/Design-sem-nome---2025-08-31T143719.430.png",
+              "title": "Switch Cisco Catalyst C1200-48P-4X – 48 Portas Gigabit PoE+ e 4 Uplinks SFP+ 10Gb, Gerenciável Layer 3",
+              "text": "<p>O Cisco Catalyst C1200-48P-4X é um switch corporativo gerenciável Layer 3, projetado para empresas que necessitam de alto desempenho, segurança avançada e conectividade flexível. Equipado com 48 portas Gigabit Ethernet com suporte a PoE+ (Power over Ethernet Plus) e 4 uplinks SFP+ de 10Gb, ele garante eficiência energética, robustez e escalabilidade, sendo ideal para redes que utilizam dispositivos IP, como câmeras, telefones VoIP e pontos de acesso Wi-Fi.</p>",
+              "alt": "Switch Cisco Catalyst C1200-48P-4X – 48 Portas Gigabit PoE+ e 4 Uplinks SFP+ 10Gb, Gerenciável Layer 3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7c48d9c5-6859-4711-8da4-225609aa3192/153825_1.jpg.webp",
+              "title": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com suporte a PoE+ (até 30W por porta)",
+              "text": "<p>Alimenta diretamente dispositivos de rede sem a necessidade de fontes externas.</p>",
+              "alt": "48 Portas Gigabit Ethernet (10/100/1000 Mbps) com suporte a PoE+ (até 30W por porta)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/484795d6-ac3c-4fd2-9168-63895d7e4210/153825_3.jpg.webp",
+              "title": "4 Uplinks SFP+ 10Gb",
+              "text": "<p>Conexões de alta velocidade para backbone e interligação de switches.</p>",
+              "alt": "4 Uplinks SFP+ 10Gb"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d70d887f-da73-43e9-9e49-1c44af84ace1/153825_2.jpg.webp",
+              "title": "Gerenciamento Layer 3 Avançado",
+              "text": "<p>Suporte a roteamento estático, OSPF, RIP, VLANs, QoS, VRRP e agregação de links (LACP).</p>",
+              "alt": "Gerenciamento Layer 3 Avançado"
+            }
+          ],
+          "productId": "156266"
         }
       ]
     },
