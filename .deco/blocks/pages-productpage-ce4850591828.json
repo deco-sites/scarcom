@@ -16626,6 +16626,46 @@
             }
           ],
           "productId": "156228"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/05d31a26-62a6-4bd8-bdbf-3c3cbb70aa7a/Design-sem-nome---2025-08-31T195054.393.png",
+              "title": "Memória para Notebook 32GB DDR4 2666MHz – Crucial CT32G4SFD8266",
+              "text": "<p>A Memória Crucial 32GB DDR4 2666MHz (CT32G4SFD8266) é a escolha ideal para quem busca máxima capacidade, velocidade e estabilidade no notebook. Com 32GB de RAM, você pode rodar aplicações pesadas, trabalhar com máquinas virtuais, editar vídeos, criar projetos 3D e realizar multitarefas sem lentidão.</p>",
+              "alt": "Memória para Notebook 32GB DDR4 2666MHz – Crucial CT32G4SFD8266"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db7fdcb3-3710-4283-9d67-6b30e4da4b60/Design-sem-nome---2025-08-31T183705.760.png",
+              "title": "Capacidade: 32 GB",
+              "text": "<p>Excelente para multitarefas pesadas e uso profissional.</p>",
+              "alt": "Capacidade: 32 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a888ae3-5133-4543-b99c-14c13f7a6569/Design-sem-nome---2025-08-31T183717.182.png",
+              "title": "Tipo de Memória: DDR4 SODIMM",
+              "text": "<p>Padrão para notebooks.</p>",
+              "alt": "Tipo de Memória: DDR4 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Velocidade: 2666 MHz",
+              "text": "<p>Alta taxa de transferência de dados.</p>",
+              "alt": "Velocidade: 2666 MHz",
+              "banner": "https://assets.decocache.com/scarcom/dd58c118-5f51-49c5-9697-bb70b4e38206/Design-sem-nome---2025-08-31T184605.675.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/67e9082a-a4a4-47a1-9d5e-fa3b4823bdb6/Design-sem-nome---2025-08-31T184544.675.png",
+              "title": "Latência: CL19",
+              "text": "<p>Boa performance em diversas aplicações.</p>",
+              "alt": "Latência: CL19"
+            }
+          ],
+          "productId": "155088"
         }
       ]
     },
