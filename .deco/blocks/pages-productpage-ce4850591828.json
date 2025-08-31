@@ -16301,6 +16301,39 @@
             }
           ],
           "productId": "154818"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8be8b0c4-2eed-4d17-89b0-d1873452c828/Design-sem-nome---2025-08-31T161511.933.png",
+              "title": "SSD Crucial P2 500GB M.2 NVMe 2280 – CT500P2SSD8",
+              "text": "<p>O Crucial P2 500GB (CT500P2SSD8) é um SSD NVMe de alto desempenho, projetado para usuários que buscam velocidade extrema, confiabilidade e durabilidade. Com interface PCIe Gen3 x4 NVMe 1.3 e fator de forma M.2 2280, ele oferece inicialização rápida do sistema, carregamento instantâneo de aplicativos e transferências de arquivos ultrarrápidas, ideal para notebooks, desktops e estações de trabalho modernas.</p>",
+              "alt": "SSD Crucial P2 500GB M.2 NVMe 2280 – CT500P2SSD8"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Capacidade: 500 GB",
+              "text": "<p>Armazene o sistema operacional, programas, jogos e arquivos essenciais.</p>",
+              "alt": "Capacidade: 500 GB",
+              "banner": "https://assets.decocache.com/scarcom/20c5b47d-3c91-42a9-919f-a20e45f15214/Design-sem-nome---2025-08-31T161551.427.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/98beaaf8-3ab1-4872-a835-3985d55f4b3a/Design-sem-nome---2025-08-31T161605.835.png",
+              "title": "Interface: PCIe Gen3 x4 NVMe 1.3",
+              "text": "<p>Até 3x mais rápido que SSDs SATA tradicionais.</p>",
+              "alt": "Interface: PCIe Gen3 x4 NVMe 1.3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fabc24d0-414e-49e7-b6f2-fdbb329d7363/Design-sem-nome---2025-08-31T161621.288.png",
+              "title": "Tecnologia 3D NAND Micron",
+              "text": "<p>Maior durabilidade e confiabilidade.</p>",
+              "alt": "Tecnologia 3D NAND Micron"
+            }
+          ],
+          "productId": "155084"
         }
       ]
     },
