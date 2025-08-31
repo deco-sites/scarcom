@@ -16136,6 +16136,39 @@
             }
           ],
           "productId": "155132"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a8eb6600-e4c4-478c-a2ec-a526584eee8d/Design-sem-nome---2025-08-31T154536.580.png",
+              "title": "SSD Crucial BX500 120GB SATA 2.5\" – CT120BX500SSD1",
+              "text": "<p>O Crucial BX500 120GB (CT120BX500SSD1) é a forma mais acessível e eficiente de dar nova vida ao seu computador ou notebook. Substituindo o HD mecânico tradicional por este SSD, você terá até 3x mais velocidade, com inicialização instantânea do sistema, carregamento rápido de aplicativos e transferências muito mais ágeis.</p>",
+              "alt": "SSD Crucial BX500 120GB SATA 2.5\" – CT120BX500SSD1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/34db5649-3c8d-449a-a8c4-003ad6b3cd11/Design-sem-nome---2025-08-31T155024.232.png",
+              "title": "Interface: SATA III 6 Gb/s",
+              "text": "<p>Compatível também com SATA II.</p>",
+              "alt": "Interface: SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7c4fc169-5fd0-42b2-9ee8-05e856e5e05e/D_NQ_NP_854932-MLB28535977471_102018-O.webp",
+              "title": "Fator de Forma: 2.5” (7 mm)",
+              "text": "<p>Padrão para desktops e notebooks.</p>",
+              "alt": "Fator de Forma: 2.5” (7 mm)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/165ba6f5-b453-4cea-a0db-1ee6b2cd75c1/Design-sem-nome---2025-08-31T154948.018.png",
+              "title": "Velocidade de Leitura Sequencial:",
+              "text": "<p>Até 540 MB/s.</p>",
+              "alt": "Velocidade de Leitura Sequencial:"
+            }
+          ],
+          "productId": "154972"
         }
       ]
     },
