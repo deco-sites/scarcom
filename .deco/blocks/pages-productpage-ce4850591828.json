@@ -16400,6 +16400,39 @@
             }
           ],
           "productId": "154960"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9281de91-cd58-46ca-8a36-54513063ec2e/Design-sem-nome---2025-08-31T181558.503.png",
+              "title": "Memória para Servidor 32GB DDR4 3200 MHz RDIMM 2Rx4 – Crucial CT32G4RFD432A",
+              "text": "<p>A Memória Crucial 32GB DDR4 3200 MHz RDIMM 2Rx4 (CT32G4RFD432A) é desenvolvida para servidores e estações de trabalho de alto desempenho, oferecendo velocidade, estabilidade e confiabilidade em ambientes corporativos críticos. Com tecnologia Registered DIMM (RDIMM) 2Rx4, ela garante maior integridade de dados, suporte a múltiplos módulos e desempenho consistente em cargas de trabalho intensivas.</p>",
+              "alt": "Memória para Servidor 32GB DDR4 3200 MHz RDIMM 2Rx4 – Crucial CT32G4RFD432A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/663b2aef-0484-4b91-ab33-5a88d572ee92/image_2023_05_04T14_47_47_902Z.png",
+              "title": "Capacidade: 32 GB",
+              "text": "<p>Ideal para aplicações empresariais exigentes e grandes cargas de trabalho.</p>",
+              "alt": "Capacidade: 32 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af3ae15d-db03-4239-b423-ef18c271e24e/Design-sem-nome---2025-08-31T180753.036.png",
+              "title": "Tipo de Memória: DDR4 RDIMM 2Rx4",
+              "text": "<p>Melhor estabilidade e confiabilidade em servidores.</p>",
+              "alt": "Tipo de Memória: DDR4 RDIMM 2Rx4"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d514ff8c-a85a-44f4-88ae-e1e5f2eedbbd/image_2023_05_04T14_48_13_709Z.png",
+              "title": "Frequência: 3200 MHz",
+              "text": "<p>Desempenho superior para operações críticas.</p>",
+              "alt": "Frequência: 3200 MHz"
+            }
+          ],
+          "productId": "155504"
         }
       ]
     },
