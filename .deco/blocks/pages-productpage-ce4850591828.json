@@ -16473,6 +16473,46 @@
             }
           ],
           "productId": "155800"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5aec826e-9aca-416f-967c-c33babdef682/Design-sem-nome---2025-08-31T182801.314.png",
+              "title": "Memória para Notebook 16GB DDR4 2400 MHz – Crucial CT16G4SFD824A",
+              "text": "<p>A Memória Crucial 16GB DDR4 2400 MHz (CT16G4SFD824A) foi projetada para notebooks que precisam de desempenho estável e confiável. Com tecnologia DDR4, oferece velocidade consistente, baixo consumo de energia e maior eficiência, ideal para multitarefas, softwares profissionais e uso diário intenso.</p>",
+              "alt": "Memória para Notebook 16GB DDR4 2400 MHz – Crucial CT16G4SFD824A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db7fdcb3-3710-4283-9d67-6b30e4da4b60/Design-sem-nome---2025-08-31T183705.760.png",
+              "title": "Capacidade: 16 GB",
+              "text": "<p>Ideal para multitarefas e aplicativos exigentes.</p>",
+              "alt": "Capacidade: 16 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a888ae3-5133-4543-b99c-14c13f7a6569/Design-sem-nome---2025-08-31T183717.182.png",
+              "title": "Tipo de Memória: DDR4 SODIMM",
+              "text": "<p>Compatível com a maioria dos notebooks modernos.</p>",
+              "alt": "Tipo de Memória: DDR4 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/10d1a420-fb4c-4962-89b4-9b388198ed28/Design-sem-nome---2025-08-31T183823.958.png",
+              "title": "Frequência: 2400 MHz",
+              "text": "<p>Desempenho estável e confiável.</p>",
+              "alt": "Frequência: 2400 MHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Latência CAS: CL17",
+              "text": "<p>Resposta rápida para tarefas cotidianas.</p>",
+              "alt": "Latência CAS: CL17"
+            }
+          ],
+          "productId": "154792"
         }
       ]
     },
