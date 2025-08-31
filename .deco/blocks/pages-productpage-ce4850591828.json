@@ -16268,6 +16268,39 @@
             }
           ],
           "productId": "154957"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d94cfa8a-d4a9-4b02-bed9-2bfa66db6d1e/Design-sem-nome---2025-08-31T160734.487.png",
+              "title": "SSD Crucial BX500 480GB SATA 2.5\" – CT480BX500SSD1",
+              "text": "<p>O Crucial BX500 480GB (CT480BX500SSD1) é uma solução de armazenamento rápido e confiável, ideal para quem deseja substituir HDs tradicionais em notebooks e desktops. Com tecnologia 3D NAND Micron e interface SATA III 6 Gb/s, ele oferece inicialização instantânea do sistema, carregamento ágil de aplicativos e transferência de arquivos em alta velocidade.</p>",
+              "alt": "SSD Crucial BX500 480GB SATA 2.5\" – CT480BX500SSD1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad3217ed-b664-49a4-8735-7a8526e1f314/Design-sem-nome---2025-08-31T160752.348.png",
+              "title": "Capacidade: 480 GB",
+              "text": "<p>Espaço suficiente para sistema operacional, programas e arquivos importantes.</p>",
+              "alt": "Capacidade: 480 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d1031dff-b4f4-4b1a-bf05-da1e701e60bd/Design-sem-nome---2025-08-31T160828.362.png",
+              "title": "Interface: SATA III 6 Gb/s",
+              "text": "<p>Compatível também com SATA II.</p>",
+              "alt": "Interface: SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e016eae8-d440-4405-8f19-cf5bca5bf571/Design-sem-nome---2025-08-31T160810.492.png",
+              "title": "Fator de Forma: 2.5” (7 mm)",
+              "text": "<p>Ideal para notebooks e desktops.</p>",
+              "alt": "Fator de Forma: 2.5” (7 mm)"
+            }
+          ],
+          "productId": "154818"
         }
       ]
     },
