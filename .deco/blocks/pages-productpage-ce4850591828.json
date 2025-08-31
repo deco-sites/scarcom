@@ -16367,6 +16367,39 @@
             }
           ],
           "productId": "153907"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/587cd9e3-ef2f-4121-ab7d-cfbe8c9395b7/Design-sem-nome---2025-08-31T180701.934.png",
+              "title": "Memória para Servidor 32GB DDR4 2666 MHz RDIMM – Crucial CT32G4RFD4266",
+              "text": "<p>A Memória Crucial 32GB DDR4 2666 MHz RDIMM (CT32G4RFD4266) é projetada para servidores e estações de trabalho de alto desempenho, oferecendo confiabilidade, estabilidade e desempenho consistente para aplicações críticas em ambientes corporativos. Com tecnologia Registered DIMM (RDIMM), essa memória garante integridade de dados superior, permitindo configurações com múltiplos módulos sem comprometer a estabilidade do sistema.</p>",
+              "alt": "Memória para Servidor 32GB DDR4 2666 MHz RDIMM – Crucial CT32G4RFD4266"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24141b46-5a9b-4715-a8c5-16fcc8255496/Design-sem-nome---2025-08-31T180734.197.png",
+              "title": "Capacidade: 32 GB",
+              "text": "<p>Suporta grandes cargas de trabalho e aplicações empresariais.</p>",
+              "alt": "Capacidade: 32 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af3ae15d-db03-4239-b423-ef18c271e24e/Design-sem-nome---2025-08-31T180753.036.png",
+              "title": "Frequência: 2666 MHz",
+              "text": "<p>Desempenho eficiente e rápido.</p>",
+              "alt": "Frequência: 2666 MHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1db172f3-ba20-4dda-ba77-92d3aba67dec/Design-sem-nome---2025-08-31T180717.653.png",
+              "title": "Latência: CL19",
+              "text": "<p>Resposta ágil para operações críticas.</p>",
+              "alt": "Latência: CL19"
+            }
+          ],
+          "productId": "154960"
         }
       ]
     },
