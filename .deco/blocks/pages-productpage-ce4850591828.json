@@ -15971,6 +15971,39 @@
             }
           ],
           "productId": "154347"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cc874c7a-6476-4b92-8039-7a7ff4467f7b/Design-sem-nome---2025-08-31T145156.447.png",
+              "title": "Telefone IP Cisco 3905 (P-3905=) – 1 Linha, SIP, Display e Porta 10/100 Mbps",
+              "text": "<p>O Cisco Unified SIP Phone 3905 (P-3905=) é um telefone IP de entrada projetado para pequenas e médias empresas que buscam custo-benefício, praticidade e confiabilidade. Ele oferece suporte a 1 linha SIP, áudio em alta qualidade, além de porta Ethernet 10/100 Mbps, sendo ideal para uso em estações comuns, áreas administrativas e ambientes que exigem comunicação clara a um preço acessível.</p>",
+              "alt": "Telefone IP Cisco 3905 (P-3905=) – 1 Linha, SIP, Display e Porta 10/100 Mbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ebde9309-370f-4d6c-a679-d8f395b0080b/Design-sem-nome---2025-08-31T145212.021.png",
+              "title": "1 Linha SIP",
+              "text": "<p>Perfeito para usuários individuais ou estações de trabalho básicas.</p>",
+              "alt": "1 Linha SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/90a5da34-22c9-477b-ae9c-2b71dcadeff8/Design-sem-nome---2025-08-31T145218.897.png",
+              "title": "Display gráfico monocromático (128x32 pixels)",
+              "text": "<p>Simples e funcional para navegação e identificação de chamadas.</p>",
+              "alt": "Display gráfico monocromático (128x32 pixels)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/68378406-82e8-44ba-9ac9-e4c453c994ce/Design-sem-nome---2025-08-31T145205.863.png",
+              "title": "Porta Ethernet 10/100 Mbps",
+              "text": "<p>Conexão confiável para integração em redes corporativas.</p>",
+              "alt": "Porta Ethernet 10/100 Mbps"
+            }
+          ],
+          "productId": "154549"
         }
       ]
     },
