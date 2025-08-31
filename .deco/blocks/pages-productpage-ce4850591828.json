@@ -15931,6 +15931,46 @@
             }
           ],
           "productId": "156266"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a036e606-82f0-4c8d-92d1-750c4ce797d0/Design-sem-nome---2025-08-31T144224.378.png",
+              "title": "Telefone IP Cisco CP-8841-K9 – 5 Linhas, Display Colorido, PoE, SIP",
+              "text": "<p>O Cisco Unified IP Phone 8841 (CP-8841-K9=) é um telefone SIP corporativo de última geração, desenvolvido para oferecer comunicação de voz nítida, segura e eficiente em ambientes empresariais. Com suporte a até 5 linhas, áudio em alta definição (HD Voice) e design moderno com display colorido, ele garante produtividade e confiabilidade para profissionais e equipes que dependem de comunicações claras e contínuas.</p>",
+              "alt": "Telefone IP Cisco CP-8841-K9 – 5 Linhas, Display Colorido, PoE, SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bef6ef62-c0d5-446e-8b54-ecd5d5d0e5d5/Design-sem-nome---2025-08-31T144409.207.png",
+              "title": "Suporte a até 5 linhas SIP",
+              "text": "<p>Ideal para uso em escritórios, call centers e recepções.</p>",
+              "alt": "Suporte a até 5 linhas SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/767e380e-bf6a-4667-826c-f0a3d29e73bf/Design-sem-nome---2025-08-31T144353.896.png",
+              "title": "Display colorido widescreen de 5”",
+              "text": "<p>Interface intuitiva e de fácil navegação.</p>",
+              "alt": "Display colorido widescreen de 5”"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/41a4f15f-1bf5-4f4c-85ea-b0b3e91e75ac/Design-sem-nome---2025-08-31T144428.352.png",
+              "title": "Áudio em Alta Definição (HD Voice)",
+              "text": "<p>Chamadas com máxima clareza e redução de ruídos.</p>",
+              "alt": "Áudio em Alta Definição (HD Voice)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8a62da3e-da87-495a-9a70-f73ce8efe812/Design-sem-nome---2025-08-31T144453.639.png",
+              "title": "Compatibilidade:",
+              "text": "<p>Totalmente integrado ao Cisco Unified Communications Manager (CUCM) e outras soluções SIP.</p>",
+              "alt": "Compatibilidade:"
+            }
+          ],
+          "productId": "154347"
         }
       ]
     },
