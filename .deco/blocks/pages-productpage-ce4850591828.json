@@ -16103,6 +16103,39 @@
             }
           ],
           "productId": "153963"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/766e1bf9-2f09-4f15-8a78-9a8055ac9625/Design-sem-nome---2025-08-31T154117.456.png",
+              "title": "SSD Crucial BX500 1TB SATA 2.5\" – CT1000BX500SSD1",
+              "text": "<p>O Crucial BX500 1TB (CT1000BX500SSD1) é a escolha ideal para quem busca mais velocidade, desempenho e confiabilidade no dia a dia. Com tecnologia SSD NAND 3D e interface SATA III 6Gb/s, ele oferece até 3x mais performance do que um HD tradicional, reduzindo drasticamente o tempo de inicialização do sistema, carregamento de aplicativos e transferências de arquivos.</p>",
+              "alt": "SSD Crucial BX500 1TB SATA 2.5\" – CT1000BX500SSD1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/877234aa-b9d2-49cf-8d4c-a49eba013bf9/f842f63e85b4c3b559a957845fe670fb.webp",
+              "title": "Capacidade: 1 TB",
+              "text": "<p>Armazene seus programas, jogos, fotos e vídeos com segurança.</p>",
+              "alt": "Capacidade: 1 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/144f3520-c7de-4a5f-8ab3-be53d90ec66b/ct1000bx500ssd1.webp",
+              "title": "Interface: SATA III 6 Gb/s",
+              "text": "<p>Compatível com versões anteriores (SATA II).</p>",
+              "alt": "Interface: SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a879e391-6dd2-4cac-be32-5ad060d85fa7/202e988ff488b033d387cf98a0b11f49.webp",
+              "title": "Fator de Forma: 2.5” (7 mm)",
+              "text": "<p>Padrão para desktops e notebooks.</p>",
+              "alt": "Fator de Forma: 2.5” (7 mm)"
+            }
+          ],
+          "productId": "155132"
         }
       ]
     },
