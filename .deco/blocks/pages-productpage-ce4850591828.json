@@ -16433,6 +16433,46 @@
             }
           ],
           "productId": "155504"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d63aebca-b793-4803-afe6-b16e58d47745/Design-sem-nome---2025-08-31T182206.503.png",
+              "title": "Memória para Notebook 16GB DDR5 5600 MHz – Crucial CT16G56C46S5",
+              "text": "<p>A Memória Crucial 16GB DDR5 5600 MHz (CT16G56C46S5) é projetada para notebooks modernos que exigem alto desempenho e eficiência energética. Com tecnologia DDR5, ela oferece velocidade superior, maior largura de banda e melhor eficiência em relação às memórias DDR4, garantindo desempenho consistente em multitarefas, jogos e aplicações pesadas.</p>",
+              "alt": "Memória para Notebook 16GB DDR5 5600 MHz – Crucial CT16G56C46S5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Capacidade: 16 GB",
+              "text": "<p>Ideal para multitarefas e aplicações intensivas.</p>",
+              "alt": "Capacidade: 16 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Tipo de Memória: DDR5 SODIMM",
+              "text": "<p>Memória de notebook moderna e de alta performance.</p>",
+              "alt": "Tipo de Memória: DDR5 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4e77f6ef-33b4-4240-8a66-bd2cbe5d6a87/Design-sem-nome---2025-08-31T182307.402.png",
+              "title": "Frequência: 5600 MHz",
+              "text": "<p>Velocidade elevada para melhor desempenho em todas as aplicações.</p>",
+              "alt": "Frequência: 5600 MHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/da29cad1-4ff9-410c-b421-d109dc5752a7/Design-sem-nome---2025-08-31T182209.982.png",
+              "title": "Latência CAS: CL46",
+              "text": "<p>Resposta rápida para tarefas exigentes.</p>",
+              "alt": "Latência CAS: CL46"
+            }
+          ],
+          "productId": "155800"
         }
       ]
     },
