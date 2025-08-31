@@ -16732,6 +16732,39 @@
             }
           ],
           "productId": "155917"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/68a93b47-6480-446e-9aa5-f61d614698bf/Design-sem-nome---2025-08-31T204142.981.png",
+              "title": "Memória para Notebook 4GB DDR4 2400MHz – Crucial CT4G4SFS824A",
+              "text": "<p>A Crucial CT4G4SFS824A é a solução ideal para quem deseja expandir ou substituir a memória do notebook com excelente custo-benefício. Com 4GB DDR4 2400MHz, esse módulo oferece mais velocidade e eficiência em comparação à geração anterior (DDR3), garantindo inicialização rápida, melhor resposta do sistema e maior fluidez em multitarefas.</p>",
+              "alt": "Memória para Notebook 4GB DDR4 2400MHz – Crucial CT4G4SFS824A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/05d31a26-62a6-4bd8-bdbf-3c3cbb70aa7a/Design-sem-nome---2025-08-31T195054.393.png",
+              "title": "Capacidade: 4 GB",
+              "text": "<p>Ideal para uso básico, navegação, estudos e escritório.</p>",
+              "alt": "Capacidade: 4 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/545a2b6e-fcb7-4955-bbee-4c5cbd9f600e/Design-sem-nome---2025-08-31T204201.485.png",
+              "title": "Tipo de Memória: DDR4 SODIMM",
+              "text": "<p>Padrão para notebooks.</p>",
+              "alt": "Tipo de Memória: DDR4 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dd58c118-5f51-49c5-9697-bb70b4e38206/Design-sem-nome---2025-08-31T184605.675.png",
+              "title": "Latência: CL17",
+              "text": "<p>Equilíbrio entre desempenho e estabilidade.</p>",
+              "alt": "Latência: CL17"
+            }
+          ],
+          "productId": "154652"
         }
       ]
     },
