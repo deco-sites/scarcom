@@ -16004,6 +16004,39 @@
             }
           ],
           "productId": "154549"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e429dfa-39a2-4c3c-8d9c-64d21bf0098d/Design-sem-nome---2025-08-31T145559.186.png",
+              "title": "Telefone IP Cisco CP-7821-K9= – 2 Linhas, SIP, Display e PoE",
+              "text": "<p>O Cisco IP Phone 7821 (CP-7821-K9=) é um telefone IP de nível corporativo, desenvolvido para oferecer comunicações seguras, claras e eficientes em ambientes empresariais. Ele suporta até 2 linhas SIP, possui display gráfico de fácil leitura e é compatível com PoE (Power over Ethernet), tornando-se uma solução prática e acessível para escritórios, call centers e organizações que buscam produtividade com qualidade Cisco.</p>",
+              "alt": "Telefone IP Cisco CP-7821-K9= – 2 Linhas, SIP, Display e PoE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ac5c946d-ff11-41de-a9f9-c88f62a72838/image_2024_03_12T19_09_11_080Z.png",
+              "title": "Suporte a até 2 Linhas SIP",
+              "text": "<p>Ideal para profissionais que precisam gerenciar múltiplas chamadas.</p>",
+              "alt": "Suporte a até 2 Linhas SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/01f8dc9f-d36c-4b38-b6a6-bcce34b95e88/Design-sem-nome---2025-08-31T145910.602.png",
+              "title": "Display gráfico monocromático de 3,5” (396x162 pixels)",
+              "text": "<p>Interface clara e de fácil navegação.</p>",
+              "alt": "Display gráfico monocromático de 3,5” (396x162 pixels)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/96f8a756-0afb-41ee-9eef-2466ec34816e/Design-sem-nome---2025-08-31T145959.447.png",
+              "title": "PoE (Power over Ethernet)",
+              "text": "<p>Alimentação pelo cabo de rede, dispensando fonte externa.</p>",
+              "alt": "PoE (Power over Ethernet)"
+            }
+          ],
+          "productId": "155795"
         }
       ]
     },
