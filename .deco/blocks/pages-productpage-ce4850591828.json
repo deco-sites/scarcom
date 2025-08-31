@@ -16334,6 +16334,39 @@
             }
           ],
           "productId": "155084"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d1031dff-b4f4-4b1a-bf05-da1e701e60bd/Design-sem-nome---2025-08-31T160828.362.png",
+              "title": "SSD Crucial BX500 960GB SATA 2.5\" – CT960BX500SSD1",
+              "text": "<p>O Crucial BX500 960GB (CT960BX500SSD1) é a solução ideal para quem busca armazenamento rápido, confiável e com grande capacidade. Com interface SATA III 6 Gb/s e tecnologia 3D NAND Micron, este SSD oferece inicialização instantânea do sistema, carregamento ágil de aplicativos e transferências de arquivos rápidas, tornando-se perfeito para notebooks, desktops e upgrades de PCs antigos.</p>",
+              "alt": "SSD Crucial BX500 960GB SATA 2.5\" – CT960BX500SSD1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e016eae8-d440-4405-8f19-cf5bca5bf571/Design-sem-nome---2025-08-31T160810.492.png",
+              "title": "Capacidade: 960 GB",
+              "text": "<p>Armazene sistema operacional, aplicativos, jogos e arquivos multimídia.</p>",
+              "alt": "Capacidade: 960 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad3217ed-b664-49a4-8735-7a8526e1f314/Design-sem-nome---2025-08-31T160752.348.png",
+              "title": "Interface: SATA III 6 Gb/s",
+              "text": "<p>Compatível com SATA II.</p>",
+              "alt": "Interface: SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d94cfa8a-d4a9-4b02-bed9-2bfa66db6d1e/Design-sem-nome---2025-08-31T160734.487.png",
+              "title": "Fator de Forma: 2.5” (7 mm)",
+              "text": "<p>Ideal para notebooks e desktops.</p>",
+              "alt": "Fator de Forma: 2.5” (7 mm)"
+            }
+          ],
+          "productId": "153907"
         }
       ]
     },
