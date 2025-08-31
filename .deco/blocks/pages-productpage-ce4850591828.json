@@ -16235,6 +16235,39 @@
             }
           ],
           "productId": "154817"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD Crucial MX500 250GB M.2 SATA – CT250MX500SSD4",
+              "text": "<p>O Crucial MX500 250GB (CT250MX500SSD4) é um SSD de alto desempenho projetado para usuários que desejam velocidade, confiabilidade e durabilidade. Com formato M.2 2280 e interface SATA III 6 Gb/s, ele oferece carregamento rápido do sistema, inicialização quase instantânea de aplicativos e transferência eficiente de arquivos, mantendo a integridade dos dados com tecnologia 3D NAND Micron e criptografia integrada.</p>",
+              "alt": "SSD Crucial MX500 250GB M.2 SATA – CT250MX500SSD4",
+              "banner": "https://assets.decocache.com/scarcom/9a12b508-02bd-4bec-9e07-54a4a8977644/Design-sem-nome---2025-08-31T160321.014.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/166f19c9-c277-4fe9-a5ef-20adb8eb3a92/Design-sem-nome---2025-08-31T160347.627.png",
+              "title": "Capacidade: 250 GB",
+              "text": "<p>Armazene sistema operacional, aplicativos e arquivos essenciais.</p>",
+              "alt": "Capacidade: 250 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/655a785f-8ac4-4fec-9c95-e7b1dd4731ff/Design-sem-nome---2025-08-31T160334.413.png",
+              "title": "Interface: M.2 SATA III 6 Gb/s",
+              "text": "<p>Alta compatibilidade com notebooks e desktops.</p>",
+              "alt": "Interface: M.2 SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b4db9c62-7a03-4d55-af8b-99669b1fc05f/Design-sem-nome---2025-08-31T160400.839.png",
+              "title": "Resistente e Silencioso",
+              "text": "<p>Sem partes móveis, resistente a impactos.</p>",
+              "alt": "Resistente e Silencioso"
+            }
+          ],
+          "productId": "154957"
         }
       ]
     },
