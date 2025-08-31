@@ -16169,6 +16169,39 @@
             }
           ],
           "productId": "154972"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6f772994-f5f9-402e-800c-2ea3d939f35d/Design-sem-nome---2025-08-31T155150.137.png",
+              "title": "SSD Crucial BX500 2TB SATA 2.5\" – CT2000BX500SSD1",
+              "text": "<p>O Crucial BX500 2TB (CT2000BX500SSD1) é a solução ideal para quem precisa de grande capacidade de armazenamento aliada a alta performance. Substitua o HD mecânico e experimente inicialização ultrarrápida, carregamento instantâneo de programas e transferências de arquivos em alta velocidade.</p>",
+              "alt": "SSD Crucial BX500 2TB SATA 2.5\" – CT2000BX500SSD1"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/596faf7b-dc32-456c-a394-2b68dcf9ee23/Design-sem-nome---2025-08-31T155209.998.png",
+              "title": "Capacidade: 2 TB",
+              "text": "<p>Armazene milhares de arquivos, jogos e programas.</p>",
+              "alt": "Capacidade: 2 TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ce0ff5d9-2d9e-4c3f-b1da-256780d86eb0/Design-sem-nome---2025-08-31T155228.681.png",
+              "title": "Interface: SATA III 6 Gb/s",
+              "text": "<p>Compatível com versões anteriores (SATA II).</p>",
+              "alt": "Interface: SATA III 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/14027412-c193-4530-b46a-5356bf293702/Design-sem-nome---2025-08-31T155249.533.png",
+              "title": "Fator de Forma: 2.5” (7 mm)",
+              "text": "<p>Padrão para desktops e notebooks.</p>",
+              "alt": "Fator de Forma: 2.5” (7 mm)"
+            }
+          ],
+          "productId": "155131"
         }
       ]
     },
