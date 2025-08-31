@@ -16037,6 +16037,39 @@
             }
           ],
           "productId": "155795"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e429dfa-39a2-4c3c-8d9c-64d21bf0098d/Design-sem-nome---2025-08-31T145559.186.png",
+              "title": "Telefone IP Cisco CP-7841-K9= – 4 Linhas, SIP, Display Gráfico, Áudio HD e PoE",
+              "text": "<p>O Cisco IP Phone 7841 (CP-7841-K9=) é um telefone IP corporativo da linha Cisco 7800 Series, projetado para profissionais que necessitam alta performance, múltiplas linhas e comunicação segura. Com suporte a até 4 linhas SIP, áudio em alta definição (HD Voice), display gráfico amplo e alimentação via PoE, ele é ideal para escritórios, call centers e ambientes de negócios que exigem qualidade superior em voz sobre IP.</p>",
+              "alt": "Telefone IP Cisco CP-7841-K9= – 4 Linhas, SIP, Display Gráfico, Áudio HD e PoE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/01f8dc9f-d36c-4b38-b6a6-bcce34b95e88/Design-sem-nome---2025-08-31T145910.602.png",
+              "title": "Suporte a até 4 Linhas SIP",
+              "text": "<p>Gerencie múltiplas chamadas com eficiência.</p>",
+              "alt": "Suporte a até 4 Linhas SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/96f8a756-0afb-41ee-9eef-2466ec34816e/Design-sem-nome---2025-08-31T145959.447.png",
+              "title": "Display gráfico de 3,5” (396x162 pixels)",
+              "text": "<p>Interface clara, intuitiva e fácil de usar.</p>",
+              "alt": "Display gráfico de 3,5” (396x162 pixels)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ac5c946d-ff11-41de-a9f9-c88f62a72838/image_2024_03_12T19_09_11_080Z.png",
+              "title": "Funções Avançadas de Telefonia:",
+              "text": "<p>Espera, transferência, conferência, rediscagem, viva-voz full-duplex e suporte a headsets.</p>",
+              "alt": "Funções Avançadas de Telefonia:"
+            }
+          ],
+          "productId": "153962"
         }
       ]
     },
