@@ -16070,6 +16070,39 @@
             }
           ],
           "productId": "153962"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f8d87b02-e0a3-4da0-82ca-7e1400bf9c3f/Design-sem-nome---2025-08-31T153551.256.png",
+              "title": "Telefone IP Cisco CP-7861-K9= – 6 Linhas, SIP, Display, Áudio HD e PoE",
+              "text": "<p>O Cisco IP Phone 7861 (CP-7861-K9=) é o modelo mais avançado da série Cisco 7800, desenvolvido para profissionais e empresas que necessitam alto desempenho, múltiplas linhas e comunicação confiável. Com suporte a até 6 linhas SIP, áudio em alta definição (HD Voice) e alimentação via PoE, ele garante produtividade e eficiência em ambientes corporativos, call centers e operações de grande porte.</p>",
+              "alt": "Telefone IP Cisco CP-7861-K9= – 6 Linhas, SIP, Display, Áudio HD e PoE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24daead9-0921-4f5c-ada0-2e4b787bbed0/Design-sem-nome---2025-08-31T153601.607.png",
+              "title": "Suporte a até 6 Linhas SIP",
+              "text": "<p>Perfeito para quem gerencia várias chamadas simultâneas.</p>",
+              "alt": "Suporte a até 6 Linhas SIP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1d03598c-126c-48ed-ad58-8e7b53b494eb/Design-sem-nome---2025-08-31T153611.964.png",
+              "title": "Display gráfico monocromático amplo (396x162 pixels)",
+              "text": "<p>Navegação simples e intuitiva.</p>",
+              "alt": "Display gráfico monocromático amplo (396x162 pixels)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/094a8c72-06c7-491b-beae-b987a4d9f943/Design-sem-nome---2025-08-31T153643.189.png",
+              "title": "PoE (Power over Ethernet)",
+              "text": "<p>Alimentação via cabo de rede, sem necessidade de fonte externa.</p>",
+              "alt": "PoE (Power over Ethernet)"
+            }
+          ],
+          "productId": "153963"
         }
       ]
     },
