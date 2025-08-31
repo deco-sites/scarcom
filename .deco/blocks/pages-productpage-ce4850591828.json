@@ -16546,6 +16546,46 @@
             }
           ],
           "productId": "154889"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/00b167f3-d02c-45ce-ba56-c0b55818d6f9/Design-sem-nome---2025-08-31T193417.985.png",
+              "title": "Memória para Notebook 16GB DDR4 3200 MHz – Crucial CT16G4SFRA32A",
+              "text": "<p>A Memória Crucial 16GB DDR4 3200 MHz (CT16G4SFRA32A) é ideal para notebooks que exigem alto desempenho, estabilidade e eficiência. Com tecnologia DDR4, ela oferece velocidade elevada, baixo consumo de energia e multitarefas sem lentidão, permitindo executar softwares pesados, jogos leves e tarefas diárias com performance confiável.</p>",
+              "alt": "Memória para Notebook 16GB DDR4 3200 MHz – Crucial CT16G4SFRA32A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db7fdcb3-3710-4283-9d67-6b30e4da4b60/Design-sem-nome---2025-08-31T183705.760.png",
+              "title": "Capacidade: 16 GB",
+              "text": "<p>Suporte para multitarefas e aplicações exigentes.</p>",
+              "alt": "Capacidade: 16 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Tipo de Memória: DDR4 SODIMM",
+              "text": "<p>Compatível com notebooks modernos.</p>",
+              "alt": "Tipo de Memória: DDR4 SODIMM",
+              "banner": "https://assets.decocache.com/scarcom/6a888ae3-5133-4543-b99c-14c13f7a6569/Design-sem-nome---2025-08-31T183717.182.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/67e9082a-a4a4-47a1-9d5e-fa3b4823bdb6/Design-sem-nome---2025-08-31T184544.675.png",
+              "title": "Frequência: 3200 MHz",
+              "text": "<p>Maior velocidade para melhor desempenho.</p>",
+              "alt": "Frequência: 3200 MHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dd58c118-5f51-49c5-9697-bb70b4e38206/Design-sem-nome---2025-08-31T184605.675.png",
+              "title": "Latência CAS: CL22",
+              "text": "<p>Resposta rápida para tarefas cotidianas.</p>",
+              "alt": "Latência CAS: CL22"
+            }
+          ],
+          "productId": "155529"
         }
       ]
     },
