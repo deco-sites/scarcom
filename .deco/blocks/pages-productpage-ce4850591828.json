@@ -16586,6 +16586,46 @@
             }
           ],
           "productId": "155529"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e99bc844-cab9-45e5-ad07-be9fba366f55/Design-sem-nome---2025-08-31T194116.944.png",
+              "title": "Memória para Notebook 32GB DDR5 4800MHz – Crucial CT32G48C40S5",
+              "text": "<p>A Memória Crucial 32GB DDR5 4800MHz (CT32G48C40S5) leva a performance do seu notebook a outro nível, oferecendo velocidade ultrarrápida, maior largura de banda e menor consumo de energia em comparação à geração DDR4.</p>",
+              "alt": "Memória para Notebook 32GB DDR5 4800MHz – Crucial CT32G48C40S5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Capacidade: 32 GB",
+              "text": "<p>Ideal para multitarefas intensas, jogos e aplicações profissionais.</p>",
+              "alt": "Capacidade: 32 GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Tipo de Memória: DDR5 SODIMM",
+              "text": "<p>Compatível com notebooks de nova geração.</p>",
+              "alt": "Tipo de Memória: DDR5 SODIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4e77f6ef-33b4-4240-8a66-bd2cbe5d6a87/Design-sem-nome---2025-08-31T182307.402.png",
+              "title": "Frequência: 4800 MHz",
+              "text": "<p>Até 50% mais rápida que DDR4.</p>",
+              "alt": "Frequência: 4800 MHz"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb579330-ccd9-4f46-8b8f-fa43c2b01deb/Design-sem-nome---2025-08-31T194033.538.png",
+              "title": "Eficiência Energética",
+              "text": "<p>Menor tensão, menor aquecimento e mais autonomia de bateria.</p>",
+              "alt": "Eficiência Energética"
+            }
+          ],
+          "productId": "156228"
         }
       ]
     },
