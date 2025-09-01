@@ -17863,6 +17863,39 @@
             }
           ],
           "productId": "155446"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6d940ce5-aabe-4878-90d3-fd15232f0fc4/Design-sem-nome---2025-09-01T144204.203.png",
+              "title": "HD Para Servidor Dell 0X2K8W – 2TB SAS 12Gbps 7.2K RPM 3,5\"",
+              "text": "<p>O Dell 0X2K8W é um disco rígido corporativo de alta capacidade e performance, desenvolvido para servidores Dell PowerEdge e storages compatíveis. Com interface SAS 12Gb/s e velocidade de 7.200 RPM, ele oferece armazenamento confiável, rápido e seguro, ideal para data centers, backup corporativo e aplicações críticas.</p>",
+              "alt": "HD Para Servidor Dell 0X2K8W – 2TB SAS 12Gbps 7.2K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f664e16d-ce62-4a4f-b218-0bd745cb2d26/Design-sem-nome---2025-09-01T142651.143.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b998a4d-9239-434b-a37d-8b3f6bc8fa5c/Design-sem-nome---2025-09-01T144208.129.png",
+              "title": "Interface:",
+              "text": "<p>SAS 12Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd6d1b72-19ee-4f65-98cc-3becd84f8929/Design-sem-nome---2025-09-01T141749.372.png",
+              "title": "Uso recomendado:",
+              "text": "<p>Armazenamento corporativo, backup, virtualização e workloads de missão crítica</p>",
+              "alt": "Uso recomendado:"
+            }
+          ],
+          "productId": "155973"
         }
       ]
     },
