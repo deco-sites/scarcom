@@ -17793,6 +17793,43 @@
             }
           ],
           "productId": "154388"
+        },
+        {
+          "contentDetails": [],
+          "productId": "154455"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/156618b4-ffa9-4a2d-9f1e-01b70a938076/Design-sem-nome---2025-09-01T142456.750.png",
+              "title": "HD Para Servidor Dell 400-AMTU – 2TB Nearline SAS 12Gbps 7.2K RPM 3,5\"",
+              "text": "<p>O Dell 400-AMTU é um disco rígido corporativo de alta capacidade e confiabilidade, projetado para servidores Dell PowerEdge e storages compatíveis. Com interface Nearline SAS 12Gb/s e velocidade de 7.200 RPM, ele combina desempenho SAS com custo-benefício do SATA, ideal para armazenamento corporativo, backups e aplicações críticas.</p>",
+              "alt": "HD Para Servidor Dell 400-AMTU – 2TB Nearline SAS 12Gbps 7.2K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f664e16d-ce62-4a4f-b218-0bd745cb2d26/Design-sem-nome---2025-09-01T142651.143.png",
+              "text": "<p>2 TB</p>",
+              "title": "Capacidade:",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4cca4ac-c9e1-41cc-b0ed-45ce3acf8d09/Design-sem-nome---2025-09-01T142513.224.png",
+              "title": "Interface:",
+              "text": "<p>Nearline SAS 12Gb/s (NL-SAS)</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
+              "title": "Compatibilidade:",
+              "text": "<p>Servidores Dell PowerEdge e storages Dell compatíveis</p>",
+              "alt": "Compatibilidade:"
+            }
+          ],
+          "productId": "154455"
         }
       ]
     },
