@@ -17668,6 +17668,32 @@
             }
           ],
           "productId": "154473"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/816ef1e9-159a-4e9a-b628-5cf98dba56c6/Design-sem-nome---2025-09-01T140112.295.png",
+              "title": "HD Para Servidor Dell 400-AEFB – 1TB SATA 7.2K RPM 3,5\" Hot-Swap",
+              "text": "<p>O Dell 400-AEFB é um disco rígido corporativo desenvolvido para oferecer armazenamento confiável e de alta capacidade em servidores Dell PowerEdge e storages compatíveis. Equipado com interface SATA 6Gb/s, ele garante equilíbrio entre custo, desempenho e confiabilidade, sendo ideal para workloads de uso geral.</p>",
+              "alt": "HD Para Servidor Dell 400-AEFB – 1TB SATA 7.2K RPM 3,5\" Hot-Swap"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
+              "title": "Capacidade:",
+              "text": "<p>1 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1e01ccf1-f025-4801-b058-4fcef94c4d42/Design-sem-nome---2025-09-01T140150.343.png",
+              "title": "Interface:",
+              "text": "<p>SATA 6Gb/s</p>",
+              "alt": "Interface:"
+            }
+          ],
+          "productId": "154114"
         }
       ]
     },
