@@ -17142,6 +17142,39 @@
             }
           ],
           "productId": "154720"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a57a65f-d185-4b9c-9039-a3661480c4cd/Design-sem-nome---2025-08-31T223245.481.png",
+              "title": "Memória para PC 8GB DDR4 2666MHz – Crucial CT8G4DFRA266",
+              "text": "<p>A Crucial CT8G4DFRA266 é um módulo de memória DDR4 de 8GB, projetado para desktops que precisam de desempenho confiável, estabilidade e maior velocidade. Com frequência de 2666 MHz, esta memória proporciona melhor resposta do sistema, execução fluida de múltiplos aplicativos e maior desempenho em softwares exigentes, sendo ideal para usuários intermediários e avançados.</p>",
+              "alt": "Memória para PC 8GB DDR4 2666MHz – Crucial CT8G4DFRA266"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4cd57278-abda-4714-aa70-580b7466d432/Design-sem-nome---2025-08-31T223301.643.png",
+              "title": "Capacidade: 8GB",
+              "text": "<p>Ideal para multitarefas e aplicações exigentes.</p>",
+              "alt": "Capacidade: 8GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f1891c1a-4bf0-42b6-a3ba-7383b1043148/Design-sem-nome---2025-08-31T223315.439.png",
+              "title": "Velocidade: 2666 MT/s (PC4-21300)",
+              "text": "<p>Performance estável e confiável.</p>",
+              "alt": "Velocidade: 2666 MT/s (PC4-21300)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/545a2b6e-fcb7-4955-bbee-4c5cbd9f600e/Design-sem-nome---2025-08-31T204201.485.png",
+              "title": "Latência CAS: CL19",
+              "text": "<p>Equilíbrio entre velocidade e estabilidade.</p>",
+              "alt": "Latência CAS: CL19"
+            }
+          ],
+          "productId": "154619"
         }
       ]
     },
