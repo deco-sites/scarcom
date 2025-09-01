@@ -17760,6 +17760,39 @@
             }
           ],
           "productId": "154472"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ef0802ad-6e00-46e3-9ff4-e8b1d8d13406/Design-sem-nome---2025-09-01T141730.147.png",
+              "title": "HD Para Servidor Dell – 2TB Nearline SAS 12Gbps 7.2K RPM 2,5\"",
+              "text": "<p>O HD Dell 2TB NLSAS 2,5\" é um disco rígido corporativo projetado para servidores Dell PowerEdge e storages compatíveis, oferecendo alta confiabilidade, desempenho consistente e operação contínua. Com interface Nearline SAS (NL-SAS) 12Gb/s, ele combina a robustez SAS com a eficiência e custo-benefício do SATA, ideal para armazenamento corporativo, backup e workloads de leitura/escrita intensivos.</p>",
+              "alt": "HD Para Servidor Dell – 2TB Nearline SAS 12Gbps 7.2K RPM 2,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd6d1b72-19ee-4f65-98cc-3becd84f8929/Design-sem-nome---2025-09-01T141749.372.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fdb465d9-60ec-4da5-8ace-745715442865/Design-sem-nome---2025-09-01T141206.251.png",
+              "title": "Interface:",
+              "text": "<p>Nearline SAS 12Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
+              "title": "Formato:",
+              "text": "<p>2,5\" (SFF – Small Form Factor)</p>",
+              "alt": "Formato:"
+            }
+          ],
+          "productId": "154388"
         }
       ]
     },
