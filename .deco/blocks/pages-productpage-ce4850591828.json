@@ -17337,7 +17337,37 @@
           "productId": "155919"
         },
         {
-          "contentDetails": []
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9d4decfc-cfec-4548-ac2f-da7d0da85b4c/Design-sem-nome---2025-09-01T004550.037.png",
+              "title": "SSD Externo 2TB USB 3.0 Crucial X8 CT2000X8SSD9",
+              "text": "<p>O Crucial X8 CT2000X8SSD9 é um SSD externo portátil de 2TB, desenvolvido para quem busca alta velocidade, segurança e praticidade no armazenamento de dados. Com conexão USB 3.2 Gen2 (compatível com USB 3.0), o dispositivo entrega desempenho até 1.050 MB/s, sendo até 7,5x mais rápido que um HD externo tradicional.</p>",
+              "alt": "SSD Externo 2TB USB 3.0 Crucial X8 CT2000X8SSD9"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7d45c729-df85-4d55-9a19-aa4c535f3adb/Design-sem-nome---2025-09-01T004600.764.png",
+              "title": "Capacidade: 2TB",
+              "text": "<p>amplo espaço para armazenar documentos, fotos, vídeos, músicas e jogos.</p>",
+              "alt": "Capacidade: 2TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/07ea8f48-c96b-49dc-b9a6-d3f2e86e7869/Design-sem-nome---2025-09-01T004620.218.png",
+              "title": "Interface:",
+              "text": "<p>USB 3.2 Gen2 (compatível com USB 3.0 e 2.0).</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1bd08abd-a134-4bfb-8675-fe6624a17a12/Design-sem-nome---2025-09-01T004651.134.png",
+              "title": "Velocidade:",
+              "text": "<p>Até 1.050 MB/s em leitura e gravação.</p>",
+              "alt": "Velocidade:"
+            }
+          ],
+          "productId": "155801"
         }
       ]
     },
