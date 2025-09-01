@@ -17896,6 +17896,39 @@
             }
           ],
           "productId": "155973"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/58f66b2a-235a-4244-9ff6-182a51191aa0/Design-sem-nome---2025-09-01T144637.277.png",
+              "title": "HD Para Servidor Dell 0VR92X – 2TB SATA 6Gbps 7.2K RPM 2,5\"",
+              "text": "<p>O Dell 0VR92X é um disco rígido corporativo de alta capacidade e confiabilidade, projetado para servidores Dell PowerEdge e storages compatíveis. Com interface SATA 6Gb/s e velocidade de 7.200 RPM, ele oferece armazenamento seguro e eficiente, ideal para aplicações corporativas, backup e virtualização de médio porte.</p>",
+              "alt": "HD Para Servidor Dell 0VR92X – 2TB SATA 6Gbps 7.2K RPM 2,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2ffe3db4-d9b5-40b3-8892-e7d991981e40/Design-sem-nome---2025-09-01T144647.358.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f664e16d-ce62-4a4f-b218-0bd745cb2d26/Design-sem-nome---2025-09-01T142651.143.png",
+              "title": "Interface:",
+              "text": "<p>SATA 6Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd6d1b72-19ee-4f65-98cc-3becd84f8929/Design-sem-nome---2025-09-01T141749.372.png",
+              "title": "Formato:",
+              "text": "<p>2,5\" (SFF – Small Form Factor)</p>",
+              "alt": "Formato:"
+            }
+          ],
+          "productId": "155716"
         }
       ]
     },
