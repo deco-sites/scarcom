@@ -17616,6 +17616,32 @@
             }
           ],
           "productId": "154403"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/96c295f7-506f-4463-804c-4335b69e373c/Design-sem-nome---2025-09-01T123830.510.png",
+              "title": "HD Para Servidor Dell 400-ALQZ – 1TB NLSAS 7.2K RPM 3,5\"",
+              "text": "<p>O Dell 400-ALQZ é um disco rígido corporativo desenvolvido para oferecer armazenamento confiável e eficiente em servidores e storages Dell. Com interface NL-SAS 12Gb/s, ele alia a performance do SAS com a economia do SATA, sendo ideal para aplicações que exigem grande capacidade e operação contínua.</p>",
+              "alt": "HD Para Servidor Dell 400-ALQZ – 1TB NLSAS 7.2K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Capacidade:",
+              "text": "<p>1 TB</p>",
+              "alt": "Capacidade:",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d5b10a6-2320-4e0d-b6f9-c2f0805ae99f/Design-sem-nome---2025-09-01T123836.881.png",
+              "title": "Velocidade de Rotação:",
+              "text": "<p>7.200 RPM</p>",
+              "alt": "Velocidade de Rotação:"
+            }
+          ],
+          "productId": "154458"
         }
       ]
     },
