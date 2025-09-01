@@ -17295,6 +17295,46 @@
             }
           ],
           "productId": "155351"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b28ae6f6-2dc2-4e25-beaa-67e0902730b6/Design-sem-nome---2025-08-31T215811.043.png",
+              "title": "SSD 2TB M.2 NVMe PCIe 4.0 Gen4 – Crucial P3 Plus CT2000P3SSD8",
+              "text": "<p>O Crucial P3 Plus CT2000P3SSD8 é um SSD M.2 NVMe de 2TB projetado para desktops e notebooks que exigem desempenho extremo, alta capacidade e confiabilidade. Com suporte a PCIe Gen4, oferece velocidades muito superiores aos SSDs tradicionais, permitindo inicialização ultrarrápida do sistema, carregamento instantâneo de aplicativos e transferências de arquivos enormes em segundos.</p>",
+              "alt": "SSD 2TB M.2 NVMe PCIe 4.0 Gen4 – Crucial P3 Plus CT2000P3SSD8"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb579330-ccd9-4f46-8b8f-fa43c2b01deb/Design-sem-nome---2025-08-31T194033.538.png",
+              "title": "Capacidade: 2TB",
+              "text": "<p>Espaço amplo para jogos, programas pesados e arquivos multimídia.</p>",
+              "alt": "Capacidade: 2TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/da29cad1-4ff9-410c-b421-d109dc5752a7/Design-sem-nome---2025-08-31T182209.982.png",
+              "title": "Tipo de Memória: SSD M.2 NVMe 2280",
+              "text": "<p>Conexão direta na placa-mãe.</p>",
+              "alt": "Tipo de Memória: SSD M.2 NVMe 2280"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Interface: PCIe 4.0 Gen4",
+              "text": "<p>Desempenho até duas vezes mais rápido que PCIe 3.0.</p>",
+              "alt": "Interface: PCIe 4.0 Gen4"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Velocidade de Leitura:",
+              "text": "<p>Até 5000 MB/s</p>",
+              "alt": "Velocidade de Leitura:"
+            }
+          ],
+          "productId": "155919"
         }
       ]
     },
