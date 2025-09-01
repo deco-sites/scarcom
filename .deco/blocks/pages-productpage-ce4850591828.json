@@ -16871,6 +16871,39 @@
             }
           ],
           "productId": "154931"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/68a93b47-6480-446e-9aa5-f61d614698bf/Design-sem-nome---2025-08-31T204142.981.png",
+              "title": "Memória para Notebook 8GB DDR4 3200MHz – Crucial CT8G4SFRA32A",
+              "text": "<p>A Crucial CT8G4SFRA32A é uma memória de última geração desenvolvida para notebooks que precisam de mais desempenho e velocidade. Com 8GB DDR4 e frequência de 3200MHz, oferece performance superior, ideal para multitarefas, navegação avançada, produtividade e até jogos em sistemas compatíveis.</p>",
+              "alt": "Memória para Notebook 8GB DDR4 3200MHz – Crucial CT8G4SFRA32A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a104425-5a22-4c1d-9bc5-bc7b0d805686/Design-sem-nome---2025-08-31T184531.866.png",
+              "title": "Capacidade: 8GB",
+              "text": "<p>Excelente para uso intermediário e multitarefas.</p>",
+              "alt": "Capacidade: 8GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Tipo: DDR4 SODIMM",
+              "text": "<p>Para notebooks.</p>",
+              "alt": "Tipo: DDR4 SODIMM",
+              "banner": "https://assets.decocache.com/scarcom/67e9082a-a4a4-47a1-9d5e-fa3b4823bdb6/Design-sem-nome---2025-08-31T184544.675.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dd58c118-5f51-49c5-9697-bb70b4e38206/Design-sem-nome---2025-08-31T184605.675.png",
+              "title": "Velocidade: 3200 MT/s (PC4-25600)",
+              "text": "<p>Alta taxa de transferência.</p>",
+              "alt": "Velocidade: 3200 MT/s (PC4-25600)"
+            }
+          ],
+          "productId": "155575"
         }
       ]
     },
