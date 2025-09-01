@@ -17175,6 +17175,46 @@
             }
           ],
           "productId": "154619"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b28ae6f6-2dc2-4e25-beaa-67e0902730b6/Design-sem-nome---2025-08-31T215811.043.png",
+              "title": "Memória para PC 8GB DDR5 4800MHz – Crucial CT8G48C40U5",
+              "text": "<p>A Crucial CT8G48C40U5 é um módulo de memória DDR5 de 8GB, projetado para desktops de última geração que exigem desempenho máximo, multitarefas avançadas e eficiência energética. Com frequência de 4800 MHz, esta memória oferece maior largura de banda, menor latência e velocidade superior em comparação às memórias DDR4, ideal para gamers, profissionais de criação e usuários que executam softwares pesados.</p>",
+              "alt": "Memória para PC 8GB DDR5 4800MHz – Crucial CT8G48C40U5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb579330-ccd9-4f46-8b8f-fa43c2b01deb/Design-sem-nome---2025-08-31T194033.538.png",
+              "title": "Capacidade: 8GB",
+              "text": "<p>Ideal para multitarefas intensas e aplicações exigentes.</p>",
+              "alt": "Capacidade: 8GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Tipo de Memória: DDR5 UDIMM",
+              "text": "<p>Para desktops modernos.</p>",
+              "alt": "Tipo de Memória: DDR5 UDIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Velocidade: 4800 MT/s",
+              "text": "<p>Performance ultrarrápida.</p>",
+              "alt": "Velocidade: 4800 MT/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4e77f6ef-33b4-4240-8a66-bd2cbe5d6a87/Design-sem-nome---2025-08-31T182307.402.png",
+              "title": "Tensão: 1,1V",
+              "text": "<p>Menor consumo energético comparado a DDR4.</p>",
+              "alt": "Tensão: 1,1V"
+            }
+          ],
+          "productId": "155799"
         }
       ]
     },
