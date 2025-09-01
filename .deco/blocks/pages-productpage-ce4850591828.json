@@ -17962,6 +17962,39 @@
             }
           ],
           "productId": "154338"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1fbd6889-8440-464e-bff2-dd5c13489f67/Design-sem-nome---2025-09-01T114219.225.png",
+              "title": "HD Para Servidor Dell 400-AJOQ – 300GB SAS 12Gbps 10K RPM 2,5\"",
+              "text": "<p>O Dell 400-AJOQ é um disco rígido corporativo de alto desempenho, desenvolvido para servidores Dell PowerEdge e storages compatíveis. Com interface SAS 12Gb/s e velocidade de 10.000 RPM, ele oferece transferência rápida de dados e alta confiabilidade, ideal para aplicações críticas, bancos de dados e virtualização.</p>",
+              "alt": "HD Para Servidor Dell 400-AJOQ – 300GB SAS 12Gbps 10K RPM 2,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d5b10a6-2320-4e0d-b6f9-c2f0805ae99f/Design-sem-nome---2025-09-01T123836.881.png",
+              "title": "Capacidade:",
+              "text": "<p>300 GB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd6d1b72-19ee-4f65-98cc-3becd84f8929/Design-sem-nome---2025-09-01T141749.372.png",
+              "title": "Interface:",
+              "text": "<p>SAS 12Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/772cdc58-fd96-4804-abc5-1aaa2699dace/Design-sem-nome---2025-09-01T114400.584.png",
+              "title": "Velocidade de Rotação:",
+              "text": "<p>10.000 RPM</p>",
+              "alt": "Velocidade de Rotação:"
+            }
+          ],
+          "productId": "153800"
         }
       ]
     },
