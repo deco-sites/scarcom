@@ -17531,6 +17531,32 @@
             }
           ],
           "productId": "154018"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/15d52435-89e5-4f53-b3cb-b36300c90e0c/Design-sem-nome---2025-09-01T114843.831.png",
+              "title": "HD para Servidor Dell 400-ATJM – 1.2TB SAS 10K RPM 3,5\"",
+              "text": "<p>O Dell 400-ATJM é um disco rígido de classe corporativa, desenvolvido para oferecer alta confiabilidade, velocidade e durabilidade em ambientes de TI críticos. Com interface SAS 12Gb/s, ele garante transferência de dados ágil e desempenho consistente para servidores e storages Dell.</p>",
+              "alt": "HD para Servidor Dell 400-ATJM – 1.2TB SAS 10K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c71281c5-b8e5-42a3-8b52-e07d95be4f12/Design-sem-nome---2025-09-01T114412.388.png",
+              "title": "Capacidade:",
+              "text": "<p>1.2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/772cdc58-fd96-4804-abc5-1aaa2699dace/Design-sem-nome---2025-09-01T114400.584.png",
+              "title": "Cache otimizado",
+              "text": "<p>para alto desempenho em leitura e gravação</p>",
+              "alt": "Cache otimizado"
+            }
+          ],
+          "productId": "154561"
         }
       ]
     },
