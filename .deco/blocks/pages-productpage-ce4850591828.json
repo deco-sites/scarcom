@@ -17642,6 +17642,32 @@
             }
           ],
           "productId": "154458"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/96c295f7-506f-4463-804c-4335b69e373c/Design-sem-nome---2025-09-01T123830.510.png",
+              "title": "HD Para Servidor Dell 400-ALSB – 1TB Nearline SAS 12Gbps 7.2K RPM 3,5\" Hot-Plug",
+              "text": "<p>O Dell 400-ALSB é um disco rígido corporativo projetado para servidores de alto desempenho, oferecendo armazenamento confiável, rápido e com suporte a operação 24x7. Com tecnologia Nearline SAS (NL-SAS), ele combina a robustez da interface SAS 12Gb/s com a eficiência de discos SATA, garantindo maior desempenho e confiabilidade para aplicações críticas.</p>",
+              "alt": "HD Para Servidor Dell 400-ALSB – 1TB Nearline SAS 12Gbps 7.2K RPM 3,5\" Hot-Plug"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
+              "title": "Capacidade:",
+              "text": "<p>1 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Interface:",
+              "text": "<p>Nearline SAS 12Gbps</p>",
+              "alt": "Interface:",
+              "banner": "https://assets.decocache.com/scarcom/2d5b10a6-2320-4e0d-b6f9-c2f0805ae99f/Design-sem-nome---2025-09-01T123836.881.png"
+            }
+          ],
+          "productId": "154473"
         }
       ]
     },
