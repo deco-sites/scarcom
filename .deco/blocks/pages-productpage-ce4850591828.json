@@ -17368,6 +17368,39 @@
             }
           ],
           "productId": "155801"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f80f6438-7529-419b-9d76-74c09f7bca28/Design-sem-nome---2025-09-01T011053.623.png",
+              "title": "SSD Externo 2TB USB 3.0 Crucial X8 CT2000X8SSD9",
+              "text": "<p>O Crucial X8 CT2000X8SSD9 é um SSD externo portátil de 2TB, desenvolvido para quem busca alta velocidade, segurança e praticidade no armazenamento de dados. Com conexão USB 3.2 Gen2 (compatível com USB 3.0), o dispositivo entrega desempenho até 1.050 MB/s, sendo até 7,5x mais rápido que um HD externo tradicional.</p>",
+              "alt": "SSD Externo 2TB USB 3.0 Crucial X8 CT2000X8SSD9"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5e815050-e6d1-4d02-b116-c411e8d66892/Design-sem-nome---2025-09-01T011149.705.png",
+              "title": "Capacidade: 2TB",
+              "text": "<p>amplo espaço para armazenar documentos, fotos, vídeos, músicas e jogos.</p>",
+              "alt": "Capacidade: 2TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8fe5e1c7-089f-4f40-ba9b-24c0e5b9b77d/Design-sem-nome---2025-09-01T011206.087.png",
+              "title": "Interface:",
+              "text": "<p>USB 3.2 Gen2 (compatível com USB 3.0 e 2.0).</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/44165100-5e44-488b-9e3b-78dc8be308bc/Design-sem-nome---2025-09-01T011116.619.png",
+              "title": "Compatibilidade universal:",
+              "text": "<p>Windows, macOS, iPad Pro, Chromebook, Android, consoles (PS4, PS5 e Xbox Series X|S).</p>",
+              "alt": "Compatibilidade universal:"
+            }
+          ],
+          "productId": "155539"
         }
       ]
     },
