@@ -17583,6 +17583,39 @@
             }
           ],
           "productId": "154566"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/228b46ae-7268-4262-812b-fed87bbceaf6/Design-sem-nome---2025-09-01T123143.431.png",
+              "title": "HD para Servidor Dell 400-ANVL – 10TB SAS 7.2K RPM 3,5\"",
+              "text": "<p>O Dell 400-ANVL é um disco rígido de alta capacidade corporativa, desenvolvido para oferecer armazenamento confiável, seguro e eficiente em servidores Dell. Com interface SAS 12Gb/s e velocidade de rotação de 7.200 RPM, ele é ideal para ambientes que exigem grande volume de dados com disponibilidade contínua.</p>",
+              "alt": "HD para Servidor Dell 400-ANVL – 10TB SAS 7.2K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7ac1e9d9-6927-4e8f-bff5-fde597e21680/400_anve_53533_g.webp",
+              "title": "Capacidade:",
+              "text": "<p>10 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/41c74464-11be-4a89-bd98-c13e0867a817/Design-sem-nome---2025-09-01T123347.232.png",
+              "title": "Interface:",
+              "text": "<p>SAS 12Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/752621dd-c2e6-4abf-b36d-48b9c35be495/Design-sem-nome---2025-09-01T123405.239.png",
+              "title": "Formato:",
+              "text": "<p>3,5\" (LFF – Large Form Factor)</p>",
+              "alt": "Formato:"
+            }
+          ],
+          "productId": "154403"
         }
       ]
     },
