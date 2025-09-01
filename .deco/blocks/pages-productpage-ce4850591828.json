@@ -17003,6 +17003,39 @@
             }
           ],
           "productId": "155280"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b28ae6f6-2dc2-4e25-beaa-67e0902730b6/Design-sem-nome---2025-08-31T215811.043.png",
+              "title": "Memória para PC 32GB DDR5 5600MHz – Crucial CT2K32G56C46U5",
+              "text": "<p>A Crucial CT2K32G56C46U5 é um kit de memória DDR5 de 32GB (2x16GB), projetado para desktops que exigem desempenho extremo, multitarefas avançadas e velocidade ultrarrápida. Com frequência de 5600 MHz, oferece maior largura de banda, menor latência e maior eficiência energética em comparação às memórias DDR4, ideal para gamers, criadores de conteúdo e profissionais que trabalham com softwares pesados.</p>",
+              "alt": "Memória para PC 32GB DDR5 5600MHz – Crucial CT2K32G56C46U5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb579330-ccd9-4f46-8b8f-fa43c2b01deb/Design-sem-nome---2025-08-31T194033.538.png",
+              "title": "Capacidade: 32GB (2x16GB)",
+              "text": "<p>Perfeito para multitarefas extremas e aplicações exigentes.</p>",
+              "alt": "Capacidade: 32GB (2x16GB)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Tipo de Memória: DDR5 UDIMM",
+              "text": "<p>Para desktops de última geração.</p>",
+              "alt": "Tipo de Memória: DDR5 UDIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Latência CAS: CL46",
+              "text": "<p>Equilíbrio entre velocidade e estabilidade</p>",
+              "alt": "Latência CAS: CL46"
+            }
+          ],
+          "productId": "155798"
         }
       ]
     },
