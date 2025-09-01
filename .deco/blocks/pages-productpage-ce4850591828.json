@@ -17255,6 +17255,46 @@
             }
           ],
           "productId": "155961"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/383b0fad-64d4-46d6-a76d-fadf887556b6/Design-sem-nome---2025-09-01T002919.211.png",
+              "title": "HD SSD 1TB M.2 NVMe – Crucial CT1000P2SSD8",
+              "text": "<p>O Crucial CT1000P2SSD8 é um SSD M.2 NVMe de 1TB, projetado para quem busca velocidade, confiabilidade e alta capacidade de armazenamento. Ideal para desktops e notebooks compatíveis com M.2 NVMe, este SSD oferece tempos de inicialização mais rápidos, carregamento ágil de aplicativos e transferência veloz de arquivos, transformando qualquer computador em uma máquina mais responsiva.</p>",
+              "alt": "HD SSD 1TB M.2 NVMe – Crucial CT1000P2SSD8"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/70ffaad2-2c21-45c0-9c93-8428d77014fb/Design-sem-nome---2025-09-01T002940.510.png",
+              "title": "Capacidade: 1TB",
+              "text": "<p>Amplo espaço para programas, arquivos e jogos.</p>",
+              "alt": "Capacidade: 1TB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36e274ee-42e9-47a3-b207-d82bcc053f4e/Design-sem-nome---2025-09-01T002955.628.png",
+              "title": "Tipo de Memória",
+              "text": "<p>Conexão direta à placa-mãe.</p>",
+              "alt": "Tipo de Memória"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6a746691-0486-4401-ba0f-1ebe96550e20/Design-sem-nome---2025-09-01T003013.677.png",
+              "title": "Velocidade de Leitura:",
+              "text": "<p>Até 2300 MB/s</p>",
+              "alt": "Velocidade de Leitura:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a4f09cb9-dec7-45eb-93a6-1fbc38e52693/Design-sem-nome---2025-09-01T003039.086.png",
+              "title": "Velocidade de Gravação",
+              "text": "<p>Até 1900 MB/s</p>",
+              "alt": "Velocidade de Gravação"
+            }
+          ],
+          "productId": "155351"
         }
       ]
     },
