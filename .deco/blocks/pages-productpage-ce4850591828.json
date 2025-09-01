@@ -17727,6 +17727,39 @@
             }
           ],
           "productId": "154188"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "HD Para Servidor Dell 400-AMTW – 2TB Nearline SAS 12Gbps 7.2K RPM 2,5\" Hot-Plug",
+              "text": "<p>O Dell 400-AMTW é um disco rígido corporativo de alta capacidade e desempenho, desenvolvido para servidores Dell PowerEdge e storages compatíveis. Com interface Nearline SAS 12Gb/s e velocidade de 7.200 RPM, ele combina confiabilidade SAS com o custo-benefício do SATA, sendo ideal para armazenamento de dados, backup e aplicações empresariais de uso contínuo.</p>",
+              "alt": "HD Para Servidor Dell 400-AMTW – 2TB Nearline SAS 12Gbps 7.2K RPM 2,5\" Hot-Plug",
+              "banner": "https://assets.decocache.com/scarcom/ea0bb86f-fa10-41a1-9e64-96542cbe8998/Design-sem-nome---2025-09-01T141136.089.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fdb465d9-60ec-4da5-8ace-745715442865/Design-sem-nome---2025-09-01T141206.251.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
+              "title": "Interface:",
+              "text": "<p>Nearline SAS 12Gb/s (NL-SAS)</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1e01ccf1-f025-4801-b058-4fcef94c4d42/Design-sem-nome---2025-09-01T140150.343.png",
+              "title": "Compatibilidade:",
+              "text": "<p>Servidores Dell PowerEdge e storages Dell compatíveis</p>",
+              "alt": "Compatibilidade:"
+            }
+          ],
+          "productId": "154472"
         }
       ]
     },
