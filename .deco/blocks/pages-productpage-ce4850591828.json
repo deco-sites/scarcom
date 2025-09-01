@@ -17505,6 +17505,32 @@
             }
           ],
           "productId": "154448"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6ebce753-2900-4109-bdd9-35716af32582/Design-sem-nome---2025-09-01T114202.085.png",
+              "title": "HD para Servidor Dell 400-AJPD – 1.2TB SAS 10K RPM 2,5\"",
+              "text": "<p>O Dell 400-AJPD é um disco rígido de alto desempenho desenvolvido para servidores corporativos, oferecendo confiabilidade, velocidade e capacidade de armazenamento para ambientes críticos de TI. Projetado para aplicações que exigem alta disponibilidade e desempenho consistente, este HD é ideal para data centers, servidores e sistemas de missão crítica.</p>",
+              "alt": "HD para Servidor Dell 400-AJPD – 1.2TB SAS 10K RPM 2,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/772cdc58-fd96-4804-abc5-1aaa2699dace/Design-sem-nome---2025-09-01T114400.584.png",
+              "title": "Capacidade:",
+              "text": "<p>1.2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c71281c5-b8e5-42a3-8b52-e07d95be4f12/Design-sem-nome---2025-09-01T114412.388.png",
+              "title": "Compatibilidade:",
+              "text": "<p>Servidores Dell PowerEdge e storages compatíveis</p>",
+              "alt": "Compatibilidade:"
+            }
+          ],
+          "productId": "154018"
         }
       ]
     },
