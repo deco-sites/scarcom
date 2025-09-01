@@ -17929,6 +17929,39 @@
             }
           ],
           "productId": "155716"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/65c8fa49-bc87-4478-99f2-b132d3d2c791/Design-sem-nome---2025-09-01T145127.907.png",
+              "title": "HD Para Servidor Dell 400-AEGG – 2TB SATA 6Gbps 7.2K RPM 3,5\" Hot-Swap",
+              "text": "<p>O Dell 400-AEGG é um disco rígido corporativo desenvolvido para servidores Dell PowerEdge e storages compatíveis, oferecendo armazenamento confiável e de alta capacidade. Com interface SATA 6Gb/s e velocidade de 7.200 RPM, ele combina performance estável com custo-benefício, ideal para aplicações corporativas, backup e virtualização.</p>",
+              "alt": "HD Para Servidor Dell 400-AEGG – 2TB SATA 6Gbps 7.2K RPM 3,5\" Hot-Swap"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b503b44f-6862-4488-a308-dbface37d68e/Design-sem-nome---2025-09-01T145153.987.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fd6d1b72-19ee-4f65-98cc-3becd84f8929/Design-sem-nome---2025-09-01T141749.372.png",
+              "title": "Interface:",
+              "text": "<p>SATA 6Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f2e52d77-9d53-4b32-8af3-5bba53e1d06a/Design-sem-nome---2025-09-01T145132.614.png",
+              "title": "Uso recomendado:",
+              "text": "<p>Armazenamento corporativo, backup, virtualização e aplicações de médio porte</p>",
+              "alt": "Uso recomendado:"
+            }
+          ],
+          "productId": "154338"
         }
       ]
     },
