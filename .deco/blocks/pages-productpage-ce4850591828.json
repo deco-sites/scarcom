@@ -17467,6 +17467,25 @@
             }
           ],
           "productId": "154086"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a87d0656-041f-4e77-807d-bcd26bd4091a/Design-sem-nome---2025-09-01T014430.319.png",
+              "title": "Transceptor Dell 407-BBOO – GBIC 1000Base-LX 10 Km Single Mode",
+              "text": "<p>O Dell 407-BBOO é um módulo transceptor GBIC 1000Base-LX de alta qualidade, projetado para oferecer conectividade confiável e de longo alcance em redes corporativas. Compatível com fibras Single Mode, ele garante transmissões estáveis em distâncias de até 10 km, ideal para interconexão de switches, roteadores e equipamentos de rede Dell e compatíveis.</p>",
+              "alt": "Transceptor Dell 407-BBOO – GBIC 1000Base-LX 10 Km Single Mode"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e611e4c-230a-4e2b-a2f7-209106879273/Design-sem-nome---2025-09-01T014450.694.png",
+              "title": "Padrão:",
+              "text": "<p>1000Base-LX (Gigabit Ethernet)</p>",
+              "alt": "Padrão:"
+            }
+          ],
+          "productId": "155929"
         }
       ]
     },
