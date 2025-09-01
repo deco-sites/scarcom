@@ -17401,6 +17401,39 @@
             }
           ],
           "productId": "155539"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/94920219-3be0-44d7-9b7c-bb4ed16101f4/Design-sem-nome---2025-09-01T012517.938.png",
+              "title": "Dell WD22TB4 Dock Station Thunderbolt 4 com 130W",
+              "text": "<p>A Dell WD22TB4 é uma Dock Station modular e de alta performance, projetada para oferecer conectividade, praticidade e produtividade em ambientes profissionais exigentes. Com suporte à tecnologia Thunderbolt 4, ela garante transferência ultrarrápida de dados, carregamento potente e conexão simplificada para múltiplos dispositivos em apenas um cabo.</p>",
+              "alt": "Dell WD22TB4 Dock Station Thunderbolt 4 com 130W"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5919737e-39e0-4e4a-a141-866088b76e92/1493_2.jpg.webp",
+              "title": "Potência de carregamento:",
+              "text": "<p>até 130W (Dell) / 90W (não Dell).</p>",
+              "alt": "Potência de carregamento:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9043d40c-5e01-40e5-b0fa-d2d63c45cc16/1493_3.jpg.webp",
+              "title": "Conectividade Thunderbolt 4:",
+              "text": "<p>transferências rápidas de até 40 Gbps.</p>",
+              "alt": "Conectividade Thunderbolt 4:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fa7ef990-fcf8-4233-b254-0b97ad83063b/1493_1.jpg.webp",
+              "title": "Vídeo de alta definição:",
+              "text": "<p>suporte para até quatro monitores simultâneos (até 2 x 4K a 60Hz ou 1 x 8K).</p>",
+              "alt": "Vídeo de alta definição:"
+            }
+          ],
+          "productId": "156296"
         }
       ]
     },
