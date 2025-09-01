@@ -17215,6 +17215,46 @@
             }
           ],
           "productId": "155799"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b28ae6f6-2dc2-4e25-beaa-67e0902730b6/Design-sem-nome---2025-08-31T215811.043.png",
+              "title": "Memória para PC 16GB DDR5 4800MHz – Crucial CT16G48C40U5",
+              "text": "<p>A Crucial CT16G48C40U5 é um módulo de memória DDR5 de 16GB, ideal para desktops modernos que exigem desempenho máximo, multitarefas avançadas e alta eficiência energética. Com frequência de 4800 MHz, esta memória proporciona maior largura de banda, menor latência e velocidade superior em comparação às memórias DDR4, sendo perfeita para gamers, profissionais de criação e usuários que utilizam softwares pesados.</p>",
+              "alt": "Memória para PC 16GB DDR5 4800MHz – Crucial CT16G48C40U5"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/cb579330-ccd9-4f46-8b8f-fa43c2b01deb/Design-sem-nome---2025-08-31T194033.538.png",
+              "title": "Capacidade: 16GB",
+              "text": "<p>Ideal para multitarefas intensas e aplicações exigentes.</p>",
+              "alt": "Capacidade: 16GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/539a968c-f863-4fbe-be90-6a8b588cfc47/Design-sem-nome---2025-08-31T182229.274.png",
+              "title": "Tipo de Memória: DDR5 UDIMM",
+              "text": "<p>Para desktops de última geração.</p>",
+              "alt": "Tipo de Memória: DDR5 UDIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/24347fdd-5709-4116-8a07-7038c19d71fd/Design-sem-nome---2025-08-31T182247.019.png",
+              "title": "Velocidade: 4800 MT/s",
+              "text": "<p>Performance ultrarrápida e eficiente.</p>",
+              "alt": "Velocidade: 4800 MT/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4e77f6ef-33b4-4240-8a66-bd2cbe5d6a87/Design-sem-nome---2025-08-31T182307.402.png",
+              "title": "Latência CAS: CL40",
+              "text": "<p>Equilíbrio entre velocidade e estabilidade.</p>",
+              "alt": "Latência CAS: CL40"
+            }
+          ],
+          "productId": "155961"
         }
       ]
     },
