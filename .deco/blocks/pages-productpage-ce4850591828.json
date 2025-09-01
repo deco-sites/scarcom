@@ -17486,6 +17486,25 @@
             }
           ],
           "productId": "155929"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/501a24e4-3678-4e62-85cd-ddee3df618fa/Design-sem-nome---2025-09-01T113937.214.png",
+              "title": "Transceptor Dell 407-BBOR – GBIC 1000Base-SX 850nm LC 550m",
+              "text": "<p>O Dell 407-BBOR é um módulo transceptor GBIC 1000Base-SX, projetado para oferecer conectividade de alta performance em redes Gigabit Ethernet. Ideal para conexões de curta distância em fibra multimodo (MMF), ele garante velocidade de 1 Gbps com transmissão estável e confiável.</p>",
+              "alt": "Transceptor Dell 407-BBOR – GBIC 1000Base-SX 850nm LC 550m"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b883249a-e4f6-4f98-9110-f6ae5cadd1d9/Design-sem-nome---2025-09-01T113901.748.png",
+              "title": "Compatibilidade:",
+              "text": "<p>switches e roteadores Dell e de outros fabricantes compatíveis</p>",
+              "alt": "Compatibilidade:"
+            }
+          ],
+          "productId": "154448"
         }
       ]
     },
