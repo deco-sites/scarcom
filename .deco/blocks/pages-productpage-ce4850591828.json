@@ -17832,7 +17832,36 @@
           "productId": "154455"
         },
         {
-          "contentDetails": [],
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "HD Para Servidor Dell 01P7DP – 2TB SAS 6Gbps 7.2K RPM 3,5\"",
+              "text": "<p>O Dell 01P7DP é um disco rígido corporativo de alta capacidade e desempenho, projetado para servidores Dell PowerEdge e storages compatíveis. Com interface SAS 6Gb/s e velocidade de 7.200 RPM, ele oferece armazenamento confiável, eficiente e seguro, ideal para ambientes corporativos que demandam grandes volumes de dados e operação contínua.</p>",
+              "banner": "https://assets.decocache.com/scarcom/ad04d29b-cd9a-4ada-b92a-f00ccbb1c38b/Design-sem-nome---2025-09-01T143426.328.png",
+              "alt": "HD Para Servidor Dell 01P7DP – 2TB SAS 6Gbps 7.2K RPM 3,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b471f2ed-3c59-4805-bf39-8b8c0c225e2a/Design-sem-nome---2025-09-01T143605.106.png",
+              "title": "Capacidade:",
+              "text": "<p>2 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f664e16d-ce62-4a4f-b218-0bd745cb2d26/Design-sem-nome---2025-09-01T142651.143.png",
+              "title": "Interface:",
+              "text": "<p>SAS 6Gb/s</p>",
+              "alt": "Interface:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5adf570c-a074-4c80-8e64-adabe7b9df63/Design-sem-nome---2025-09-01T143543.614.png",
+              "title": "Velocidade de Rotação:",
+              "text": "<p> 7.200 RPM</p>",
+              "alt": "Velocidade de Rotação:"
+            }
+          ],
           "productId": "155446"
         }
       ]
