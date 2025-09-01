@@ -17434,6 +17434,39 @@
             }
           ],
           "productId": "156296"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a6f99588-9437-4d64-ad46-94fc1891408b/Design-sem-nome---2025-09-01T013012.550.png",
+              "title": "Firewall Wireless AC SonicWall TZ-300 – 01-SSC-0574",
+              "text": "<p>O SonicWall TZ-300 Wireless-AC é um firewall de última geração (NGFW), desenvolvido para oferecer segurança avançada, conectividade wireless de alto desempenho e controle total da rede em pequenas e médias empresas.</p>",
+              "alt": "Firewall Wireless AC SonicWall TZ-300 – 01-SSC-0574"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/190cb5b9-6725-4c70-8bc5-fd9caf725986/Design-sem-nome---2025-09-01T013029.373.png",
+              "title": "Firewall de próxima geração (NGFW)",
+              "text": "<p>inspeção profunda de pacotes (DPI) e proteção contra ameaças avançadas.</p>",
+              "alt": "Firewall de próxima geração (NGFW)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/90a25aef-5f91-4de8-9252-8812223dadd7/Design-sem-nome---2025-09-01T013042.682.png",
+              "title": "Wireless AC integrado:",
+              "text": "<p>rede Wi-Fi rápida, estável e segura para funcionários e visitantes.</p>",
+              "alt": "Wireless AC integrado:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2466c70f-278e-44c7-a5b9-245c9a0eea07/Design-sem-nome---2025-09-01T013021.455.png",
+              "title": "Conectividade Gigabit",
+              "text": "<p>1 porta WAN + 4 portas LAN para máximo desempenho de rede.</p>",
+              "alt": "Conectividade Gigabit"
+            }
+          ],
+          "productId": "154086"
         }
       ]
     },
