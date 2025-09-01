@@ -16904,6 +16904,39 @@
             }
           ],
           "productId": "155575"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória para PC 16GB DDR4 2400MHz – Crucial CT16G4DFD824A",
+              "text": "<p>Aumente a performance do seu desktop com a Crucial CT16G4DFD824A, um módulo de memória DDR4 de 16GB que combina velocidade, eficiência e confiabilidade. Com frequência de 2400 MHz, é ideal para usuários que buscam mais desempenho em multitarefas, produtividade, aplicações profissionais e até mesmo em jogos.</p>",
+              "banner": "https://assets.decocache.com/scarcom/2616d3d9-1abd-4ef6-8090-d8e796441cf8/Design-sem-nome---2025-08-31T214054.199.png",
+              "alt": "Memória para PC 16GB DDR4 2400MHz – Crucial CT16G4DFD824A"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/42a9b649-074e-4b51-bb9a-3e45f1347c9d/Design-sem-nome---2025-08-31T214111.685.png",
+              "title": "Capacidade: 16GB",
+              "text": "<p>Ideal para usuários intermediários e avançados.</p>",
+              "alt": "Capacidade: 16GB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1747bfd1-f147-4dac-a5c4-8b4277f74e5f/Design-sem-nome---2025-08-31T214124.559.png",
+              "title": "Velocidade: 2400 MT/s (PC4-19200)",
+              "text": "<p>Taxa de transferência rápida.</p>",
+              "alt": "Velocidade: 2400 MT/s (PC4-19200)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/545a2b6e-fcb7-4955-bbee-4c5cbd9f600e/Design-sem-nome---2025-08-31T204201.485.png",
+              "title": "Tensão: 1,2V",
+              "text": "<p>Menor consumo energético.</p>",
+              "alt": "Tensão: 1,2V"
+            }
+          ],
+          "productId": "154670"
         }
       ]
     },
