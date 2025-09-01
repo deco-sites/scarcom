@@ -17557,6 +17557,32 @@
             }
           ],
           "productId": "154561"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ccef92f2-613b-41ce-a64c-27b8f14521dd/Design-sem-nome---2025-09-01T115339.786.png",
+              "title": "HD para Servidor Dell 400-ATJR – 1.8TB SAS 10K RPM 2,5\"",
+              "text": "<p>O Dell 400-ATJR é um disco rígido corporativo de alto desempenho, projetado para aplicações críticas em servidores e storages Dell. Com interface SAS 12Gb/s, oferece velocidade, confiabilidade e escalabilidade, sendo ideal para bancos de dados, virtualização e workloads que demandam acesso rápido às informações.</p>",
+              "alt": "HD para Servidor Dell 400-ATJR – 1.8TB SAS 10K RPM 2,5\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e6156a1e-92a0-437b-bf2a-cc46110bc19c/Design-sem-nome---2025-09-01T115408.767.png",
+              "title": "Desempenho otimizado",
+              "text": "<p>para operações intensivas de leitura e escrita</p>",
+              "alt": "Desempenho otimizado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Principais Benefícios",
+              "text": "<p>Alto desempenho corporativo para aplicações críticas.</p>",
+              "alt": "Principais Benefícios",
+              "banner": "https://assets.decocache.com/scarcom/c62a72cd-75f9-4fee-b01a-e57c521ff489/Design-sem-nome---2025-09-01T115348.817.png"
+            }
+          ],
+          "productId": "154566"
         }
       ]
     },
