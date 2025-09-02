@@ -56,7 +56,8 @@
             "products": {
               "__resolveType": "vtex/loaders/legacy/productList.ts",
               "props": {
-                "sort": "OrderByPriceDESC"
+                "sort": "OrderByPriceDESC",
+                "collection": "10"
               }
             },
             "highlights": [],
