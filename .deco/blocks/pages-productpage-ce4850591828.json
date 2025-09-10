@@ -18169,6 +18169,32 @@
             }
           ],
           "productId": "155873"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ac280201-c4b9-4a2c-b20b-6d0d98328e88/Design-sem-nome-(61).png",
+              "title": "HD para Servidor 900 GB 10.000 RPM SAS 2.5” Dell XE 4X1DR",
+              "text": "<p>O HD para Servidor 900 GB 10.000 RPM SAS 2.5” Dell XE 4X1DR é a solução ideal para empresas e data centers que buscam desempenho, confiabilidade e alta capacidade de armazenamento em um formato compacto. Projetado especialmente para servidores Dell, esse disco rígido entrega alta velocidade e robustez para operações críticas.</p>",
+              "alt": "HD para Servidor 900 GB 10.000 RPM SAS 2.5” Dell XE 4X1DR"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/40a3ad38-795d-4db9-8197-58dac2f7fa29/Design-sem-nome-(63).png",
+              "title": "Capacidade:",
+              "text": "<p>900 GB, ideal para armazenar grandes volumes de dados, arquivos e aplicações empresariais.</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/40a3ad38-795d-4db9-8197-58dac2f7fa29/Design-sem-nome-(63).png",
+              "title": "Velocidade de rotação:",
+              "text": "<p>10.000 RPM, garantindo alta performance para leitura e gravação rápidas, otimizando o tempo de resposta do servidor.</p>",
+              "alt": "Velocidade de rotação:"
+            }
+          ],
+          "productId": "154427"
         }
       ]
     },
