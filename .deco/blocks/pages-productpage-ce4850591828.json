@@ -18047,6 +18047,39 @@
             }
           ],
           "productId": "154019"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/76fb67f4-bcb5-4478-8d42-df080d771e63/Design-sem-nome-(47).png",
+              "title": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-ATIN",
+              "text": "<p>O HD Dell 400-ATIN com 600 GB de capacidade, rotação de 15.000 RPM e interface SAS 12Gb/s, é a escolha ideal para ambientes corporativos que exigem alto desempenho e confiabilidade. Projetado no formato compacto 2.5\" SFF, ele é otimizado para servidores Dell PowerEdge e aplicações de missão crítica que precisam de performance constante e segurança nos dados.</p>",
+              "alt": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-ATIN"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/14a1366b-cffc-4ba2-a3ad-5cd8cbd53a3d/Design-sem-nome-(48).png",
+              "title": "Velocidade e Eficiência para Ambientes de Alta Demanda",
+              "text": "<p>Com 15.000 rotações por minuto, este HD oferece acesso ultrarrápido aos dados, garantindo respostas rápidas para bancos de dados, sistemas ERP, virtualização, e outras cargas de trabalho que não podem parar.</p>",
+              "alt": "Velocidade e Eficiência para Ambientes de Alta Demanda"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b7d1693b-b742-486e-a085-0e665a71b19f/Design-sem-nome-(49).png",
+              "title": "Interface SAS 12Gb/s – Confiabilidade Profissional",
+              "text": "<p>A tecnologia SAS (Serial Attached SCSI) garante maior integridade de dados, velocidade e robustez em comparação aos discos SATA convencionais. Ideal para operações 24x7 em data centers e servidores empresariais.</p>",
+              "alt": " Interface SAS 12Gb/s – Confiabilidade Profissional"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/76fb67f4-bcb5-4478-8d42-df080d771e63/Design-sem-nome-(47).png",
+              "title": "Compatível com Infraestruturas Dell",
+              "text": "<p>O modelo 400-ATIN é 100% compatível com servidores Dell PowerEdge com bays para discos SAS 2.5”. Pode ser utilizado como disco principal, secundário ou de expansão de armazenamento.</p>",
+              "alt": "Compatível com Infraestruturas Dell"
+            }
+          ],
+          "productId": "154667"
         }
       ]
     },
