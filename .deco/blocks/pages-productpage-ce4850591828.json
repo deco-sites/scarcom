@@ -18099,6 +18099,31 @@
             }
           ],
           "productId": "153909"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2ff7fb71-9e69-4d52-a072-4cdcd0699d69/Design-sem-nome-(52).png",
+              "title": "HD para Servidor Dell 600 GB SAS 3,5\" 15K RPM 6 Gbps – Modelo 0W347K",
+              "text": "<p>O HD Dell 0W347K é uma unidade de armazenamento robusta e de alta performance, especialmente desenvolvida para ambientes corporativos que demandam rapidez, confiabilidade e alta capacidade de armazenamento. Com 600 GB de espaço e interface SAS de 6 Gbps, este disco rígido oferece a combinação perfeita entre velocidade e segurança para servidores e data centers.</p>",
+              "alt": "HD para Servidor Dell 600 GB SAS 3,5\" 15K RPM 6 Gbps – Modelo 0W347K"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Capacidade:",
+              "text": "<p>600 GB</p>",
+              "alt": "Capacidade:",
+              "banner": "https://assets.decocache.com/scarcom/ba87dc98-fb41-4e8c-a1c6-b2817d0d1c1f/Design-sem-nome-(54).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8c2a9531-7eda-4d73-9d9e-e174f139b18c/Design-sem-nome-(55).png",
+              "title": "Performance de alto nível:",
+              "text": "<p>O disco de 15K RPM garante maior taxa de transferência e menor latência para operações de leitura e gravação</p>"
+            }
+          ],
+          "productId": "154920"
         }
       ]
     },
