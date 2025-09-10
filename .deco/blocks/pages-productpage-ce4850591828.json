@@ -18143,6 +18143,32 @@
             }
           ],
           "productId": "155968"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "HD para Equallogic Dell 900GB SAS 10.000 RPM 2,5\" – Modelo GKY31",
+              "text": "<p>O HD Dell GKY31 foi especialmente desenvolvido para sistemas de armazenamento Equallogic, oferecendo alta performance, confiabilidade e compatibilidade total com os ambientes Dell. Com capacidade de 900 GB e interface SAS de alta velocidade, este disco rígido de 2,5 polegadas e rotação de 10.000 RPM é ideal para soluções de storage que exigem rapidez e eficiência.</p>",
+              "alt": "HD para Equallogic Dell 900GB SAS 10.000 RPM 2,5\" – Modelo GKY31",
+              "banner": "https://assets.decocache.com/scarcom/7a8d5acc-6ac5-401c-8998-e74c6ab4a6fa/Design-sem-nome-(58).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b7c39b2b-1a7d-414a-bff9-eb1031197b3f/Design-sem-nome-(60).png",
+              "title": "Alta performance:",
+              "text": "<p>O disco de 10K RPM oferece melhor tempo de resposta e maior IOPS (operações de entrada/saída por segundo), essencial para workloads intensivos.</p>",
+              "alt": "Alta performance:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6774d031-e92f-4b06-89e7-880152d8d5f1/Design-sem-nome-(59).png",
+              "title": "Compacto e eficiente:",
+              "text": "<p>Formato SFF que permite maior densidade de armazenamento em racks e servidores.</p>",
+              "alt": "Compacto e eficiente:"
+            }
+          ],
+          "productId": "155873"
         }
       ]
     },
