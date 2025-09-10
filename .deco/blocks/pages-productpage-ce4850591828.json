@@ -18195,6 +18195,25 @@
             }
           ],
           "productId": "154427"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7aea66f9-b40d-46d9-b090-d68a1c67ee85/Design-sem-nome-(64).png",
+              "title": "HD para Servidor 900 GB SAS 2.5\" 10K RPM 6 Gbps Dell 0W4K81",
+              "text": "<p>O HD para servidor 900 GB SAS 2.5\" 10.000 RPM 6 Gbps Dell 0W4K81 é um disco rígido corporativo de alta performance, projetado para atender às demandas de ambientes de TI que exigem velocidade, capacidade e confiabilidade. Ideal para servidores Dell, este HD oferece desempenho excepcional para armazenamento de dados críticos e aplicações empresariais.</p>",
+              "alt": "HD para Servidor 900 GB SAS 2.5\" 10K RPM 6 Gbps Dell 0W4K81"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Capacidade:",
+              "text": "<p>900 GB — espaço suficiente para armazenar grandes volumes de dados empresariais, backups e aplicações.</p>",
+              "banner": "https://assets.decocache.com/scarcom/fd7a2177-201b-44b5-94c6-1940a7b5788e/Design-sem-nome-(65).png",
+              "alt": "Capacidade:"
+            }
+          ],
+          "productId": "155744"
         }
       ]
     },
