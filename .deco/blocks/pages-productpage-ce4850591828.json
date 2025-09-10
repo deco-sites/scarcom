@@ -18080,6 +18080,25 @@
             }
           ],
           "productId": "154667"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4b1bb3d0-3ff7-4d4f-ba13-236df0f45647/Design-sem-nome-(50).png",
+              "title": "HD para Servidor Dell 600GB SAS 15K RPM 3.5\" - 400-AJSC",
+              "text": "<p>O HD Dell 400-AJSC é uma solução de armazenamento empresarial projetada para oferecer alta performance, confiabilidade e durabilidade em ambientes de missão crítica. Com 600GB de capacidade, interface SAS (Serial Attached SCSI) de 12Gb/s e rotação de 15.000 RPM, este disco rígido é ideal para servidores e storage corporativos que exigem alto desempenho em leitura e gravação de dados.</p>",
+              "alt": "HD para Servidor Dell 600GB SAS 15K RPM 3.5\" - 400-AJSC"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d312920-318f-45c2-b448-3ec74b07c229/Design-sem-nome-(51).png",
+              "title": "Desempenho superior:",
+              "text": "<p>A rotação de 15K RPM oferece acesso mais rápido aos dados em comparação com discos de 7.2K ou 10K RPM.</p>",
+              "alt": "Desempenho superior:"
+            }
+          ],
+          "productId": "153909"
         }
       ]
     },
