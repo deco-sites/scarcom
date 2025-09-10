@@ -18273,6 +18273,39 @@
             }
           ],
           "productId": "309"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/26155efb-6603-4d6d-a2c6-7f594e686ad0/Design-sem-nome-(74).png",
+              "title": "Kit Teclado e Mouse sem Fio Dell KM3322W – 580‑BBBB",
+              "text": "<p>com receptor USB compacto, garantindo uma conexão estável e um ambiente de trabalho sem fios emaranhados.</p>",
+              "alt": "Kit Teclado e Mouse sem Fio Dell KM3322W – 580‑BBBB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Teclado padrão ABNT2",
+              "text": "<p>com layout completo (incluindo tecla “Ç”), teclas silenciosas e perfil reduzido para uma digitação mais confortável.</p>",
+              "alt": "Teclado padrão ABNT2",
+              "banner": "https://assets.decocache.com/scarcom/59ff8b9d-3adc-451a-a9e5-b82641c190be/Design-sem-nome-(77).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5f2e435f-260a-40d1-b95f-2abdd939bf2a/Design-sem-nome-(75).png",
+              "title": "Mouse óptico de 3 botões com 1 000 DPI",
+              "text": "<p>ideal para navegação precisa e resposta ágil do cursor.</p>",
+              "alt": "Mouse óptico de 3 botões com 1 000 DPI"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ba48da6c-7ac5-489f-9b2e-71bc658d57dc/Design-sem-nome-(78).png",
+              "title": "Impressionante autonomia:",
+              "text": "<p>até 36 meses de bateria no teclado e 18 meses no mouse, eliminando preocupações com trocas frequentes.</p>",
+              "alt": "Impressionante autonomia:"
+            }
+          ],
+          "productId": "155623"
         }
       ]
     },
