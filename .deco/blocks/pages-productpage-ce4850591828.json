@@ -18379,6 +18379,25 @@
             }
           ],
           "productId": "154321"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/10b9d643-3faf-4529-9647-920b67852a2f/Design-sem-nome-(90).png",
+              "title": "Memória genuína Dell",
+              "text": "<p>testada e validada para garantir máxima compatibilidade e confiabilidade com seu servidor Dell — evitando instabilidade e riscos operacionais.</p>",
+              "alt": "Memória genuína Dell"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "ECC + RDIMM",
+              "text": "<p>ideal para ambientes corporativos exigentes, com detecção e correção de erros em tempo real.</p>",
+              "alt": "ECC + RDIMM",
+              "banner": "https://assets.decocache.com/scarcom/187a722a-6f07-42cd-bbeb-b9af002074f5/Design-sem-nome-(92).png"
+            }
+          ],
+          "productId": "155447"
         }
       ]
     },
