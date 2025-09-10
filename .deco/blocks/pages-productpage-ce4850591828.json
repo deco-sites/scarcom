@@ -17995,6 +17995,39 @@
             }
           ],
           "productId": "153800"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/10c0ee88-e655-47af-b6db-a97334d490fd/Design-sem-nome-(39).png",
+              "title": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" 6Gbps 128MB - Dell 0V5300",
+              "text": "<p>O HD Dell 0V5300 é uma solução de armazenamento corporativo de alto desempenho, ideal para servidores e data centers que exigem velocidade, confiabilidade e eficiência. Com 600GB de capacidade, interface SAS de 6Gbps, 128MB de cache e rotação de 15.000 RPM, este disco rígido é projetado para cargas de trabalho intensivas, como virtualização, bancos de dados, aplicações empresariais e ambientes de missão crítica.</p>",
+              "alt": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" 6Gbps 128MB - Dell 0V5300"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6870fd07-f1d2-4c17-bcd4-1c8e5d4e9f5a/Design-sem-nome-(43).png",
+              "title": "Desempenho superior:",
+              "text": "<p>Com 15K RPM e interface SAS 6Gbps, o disco oferece baixa latência e alta taxa de IOPS, acelerando o desempenho de aplicações críticas.</p>",
+              "alt": "Desempenho superior:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7f41224a-8f9a-4e59-a5e7-5a591497505b/Design-sem-nome-(42).png",
+              "title": "Alta confiabilidade:",
+              "text": "<p>Projetado para operar 24/7 em ambientes corporativos, com robustez e durabilidade superiores em comparação a HDs convencionais.</p>",
+              "alt": "Alta confiabilidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9f093f83-ea9a-4079-8b8c-08e0a573ffd7/Design-sem-nome-(38).png",
+              "title": "Compatibilidade garantida:",
+              "text": "<p>Produto original Dell, ideal para upgrades ou substituições em servidores compatíveis.</p>",
+              "alt": "Compatibilidade garantida:"
+            }
+          ],
+          "productId": "155467"
         }
       ]
     },
