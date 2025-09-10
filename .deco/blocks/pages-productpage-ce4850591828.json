@@ -18214,6 +18214,32 @@
             }
           ],
           "productId": "155744"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/01d04b6f-1c76-4c32-874d-aec6de0619b7/Design-sem-nome-(66).png",
+              "title": "HD Servidor 1 TB SATA 7.2K 3.5\" 6 Gbps Dell 02T51W",
+              "text": "<p>O HD Servidor 1 TB SATA 7.2K 3.5\" 6 Gbps Dell 02T51W é uma unidade de armazenamento confiável e eficiente, projetada para ambientes de servidores Dell que demandam alta capacidade e desempenho estável. Com 1 TB de espaço e interface SATA III de 6 Gbps, este disco rígido oferece uma solução robusta para armazenamento de dados empresariais.</p>",
+              "alt": "HD Servidor 1 TB SATA 7.2K 3.5\" 6 Gbps Dell 02T51W"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6d8c89e4-5315-4c3e-a73e-69f2b7c14ea3/Design-sem-nome-(68).png",
+              "title": "Capacidade:",
+              "text": "<p>1 TB</p>",
+              "alt": "Capacidade:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/49b39c0c-e9df-47ff-a100-97c3365f3f28/Design-sem-nome-(67).png",
+              "title": "Interface:",
+              "text": "<p>SATA 6 Gbps</p>",
+              "alt": "Interface:"
+            }
+          ],
+          "productId": "155095"
         }
       ]
     },
