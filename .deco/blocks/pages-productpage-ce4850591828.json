@@ -18124,6 +18124,25 @@
             }
           ],
           "productId": "154920"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f592b35b-55d9-44d6-8f12-acf627e3578d/Design-sem-nome-(56).png",
+              "title": "HD para Servidor Dell 8TB SAS 7200 RPM 12 Gbps 4Kn 3,5\" – Modelo 0CDDMJ",
+              "text": "<p>O HD Dell 0CDDMJ é uma solução de armazenamento de alta capacidade e performance, ideal para servidores corporativos e data centers que exigem grande volume de dados com segurança e rapidez. Com impressionantes 8TB de capacidade, interface SAS de última geração com velocidade de até 12 Gbps e tecnologia 4Kn, este disco rígido garante máxima eficiência no gerenciamento de dados em ambientes empresariais.</p>",
+              "alt": "HD para Servidor Dell 8TB SAS 7200 RPM 12 Gbps 4Kn 3,5\" – Modelo 0CDDMJ"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Tecnologia 4Kn:",
+              "text": "<p>Compatível com sistemas operacionais e aplicativos que suportam setores maiores, proporcionando melhor gerenciamento de dados.</p>",
+              "alt": "Tecnologia 4Kn:",
+              "banner": "https://assets.decocache.com/scarcom/95a6b0df-cd26-485b-9d15-1241fd6f47c1/Design-sem-nome-(57).png"
+            }
+          ],
+          "productId": "155968"
         }
       ]
     },
