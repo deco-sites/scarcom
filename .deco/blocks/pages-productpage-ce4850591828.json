@@ -1303,7 +1303,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/a33e0daa-cfa2-48d8-acd6-47b6a8f2cef6/Captura-de-Tela-2025-02-12-as-13.40.44.png",
-              "text": "<p>A plataforma Software-Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e roteadores, fornecendo gerenciamento em nuvem 100% centralizado. O SDN Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. São fornecidas conexões com e sem fio perfeitas, ideais para uso em hotelaria, educação, varejo, escritórios e muito mais.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais </u></strong></a></p>",
+              "text": "<p>A plataforma Software-Defined Networking (SDN) da Omada integra dispositivos de rede, incluindo access points, switches e roteadores, fornecendo gerenciamento em nuvem 100% centralizado. O SDN Omada cria uma rede altamente escalável — tudo controlado a partir de uma única interface. São fornecidas conexões com e sem fio perfeitas, ideais para uso em hotelaria, educação, varejo, escritórios e muito mais.</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.omadanetworks.com/br/omada-sdn/\"><strong><u>Saiba mais </u></strong></a></p>",
               "title": "Rede definida por software (SDN) com acesso à nuvem",
               "alt": "SG3452P Rede definida por software (SDN)"
             },
@@ -18028,6 +18028,25 @@
             }
           ],
           "productId": "155467"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2ef6788d-d9a7-4f1f-9ef3-20e28f57cf6e/Design-sem-nome-(45).png",
+              "title": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-AJSB",
+              "text": "<p>O HD Dell 400-AJSB oferece alta performance, confiabilidade e eficiência para ambientes corporativos exigentes. Com 600 GB de capacidade, interface SAS 12Gb/s, e rotação de 15.000 RPM, ele é ideal para servidores que demandam alto desempenho em leitura e gravação de dados.</p>",
+              "alt": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-AJSB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-AJSB",
+              "text": "<p>O HD Dell 400-AJSB é uma solução de armazenamento de alto desempenho, ideal para ambientes corporativos que exigem velocidade, confiabilidade e robustez. Com uma capacidade de 600GB, interface SAS 12Gb/s e velocidade de rotação de impressionantes 15.000 RPM, este disco rígido foi projetado para suportar cargas de trabalho críticas, como bancos de dados, virtualização, e aplicações empresariais intensivas em dados.</p>",
+              "alt": "HD para Servidor Dell 600GB SAS 15K RPM 2.5\" SFF - 400-AJSB",
+              "banner": "https://assets.decocache.com/scarcom/5a12bc21-6d39-46db-a18a-49e4dc7c3f42/Design-sem-nome-(44).png"
+            }
+          ],
+          "productId": "154019"
         }
       ]
     },
