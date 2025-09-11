@@ -18573,6 +18573,39 @@
             }
           ],
           "productId": "154802"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2afb4856-ed6a-4689-b271-e0998caa3911/Design-sem-nome---2025-09-11T170944.381.png",
+              "title": "Placa de Rede Dell 540‑BBGW (Broadcom 5720) – Dual Gigabit PCI‑Express 2 Portas",
+              "text": "<p>Alta taxa de transferência: permite comunicação de rede estável e rápida, ideal para ambientes de servidores, virtualização, armazenamento em rede, backup e replicação.</p>",
+              "alt": "Placa de Rede Dell 540‑BBGW (Broadcom 5720) – Dual Gigabit PCI‑Express 2 Portas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1c6317cd-b507-4610-b8dc-ccfa72bea528/Design-sem-nome---2025-09-11T171015.578.png",
+              "title": "Placa de rede dual‑porta RJ‑45 Gigabit",
+              "text": "<p>(10/100/1000 Mbps) ideal para servidores ou desktops que requerem conectividade de alta performance.</p>",
+              "alt": "Placa de rede dual‑porta RJ‑45 Gigabit"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/abfcf865-0cd0-4ded-978b-bfc07e6f056a/Design-sem-nome---2025-09-11T171004.687.png",
+              "title": "Conexão sem fio USB",
+              "text": "<p>via receptor 2,4 GHz, que proporciona liberdade de movimento de até ~10 metros.</p>",
+              "alt": "Conexão sem fio USB"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d891fa9-c16f-4e1f-a86b-89e77653aa14/Design-sem-nome---2025-09-11T170948.420.png",
+              "title": "Sensor óptico de 1000 DPI",
+              "text": "<p>ideal para uso diário em escritório, estudos ou navegação geral.</p>",
+              "alt": "Sensor óptico de 1000 DPI"
+            }
+          ],
+          "productId": "155035"
         }
       ]
     },
