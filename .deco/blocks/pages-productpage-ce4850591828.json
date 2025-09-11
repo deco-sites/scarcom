@@ -18455,6 +18455,32 @@
             }
           ],
           "productId": "154717"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "text": "<p>Fortaleça a estabilidade e performance do seu servidor Dell com este módulo de RAM original, ideal para ambientes que exigem confiabilidade contínua como data centers, servidores de arquivos, virtualização e aplicações corporativas.</p>",
+              "banner": "https://assets.decocache.com/scarcom/1921ba16-a0b4-4d0f-b0f5-cc91695d024d/Design-sem-nome-(100).png",
+              "title": "Memória para Servidor Dell 8 GB DDR4 2133 MHz ECC UDIMM – 370‑ACKW",
+              "alt": "Memória para Servidor Dell 8 GB DDR4 2133 MHz ECC UDIMM – 370‑ACKW"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Integridade de dados reforçada:",
+              "text": "<p>O suporte ECC ajuda a detectar e corrigir erros de memória, reduzindo falhas e melhorando segurança em operações críticas.</p>",
+              "alt": "Integridade de dados reforçada:",
+              "banner": "https://assets.decocache.com/scarcom/9ea922c1-7379-4851-ba66-821e4424e5c2/Design-sem-nome---2025-09-11T151803.726.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/574003b4-a64d-48d8-9d5b-c00fcc75adb5/Design-sem-nome---2025-09-11T151734.157.png",
+              "title": "Compatibilidade equilibrada entre desempenho e eficiência:",
+              "text": "<p>2133 MHz é uma frequência sólida que garante bom desempenho, sem exigir tensões mais altas ou maior dissipação de calor.</p>",
+              "alt": "Compatibilidade equilibrada entre desempenho e eficiência:"
+            }
+          ],
+          "productId": "154391"
         }
       ]
     },
