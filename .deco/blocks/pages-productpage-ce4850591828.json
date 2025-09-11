@@ -18481,6 +18481,32 @@
             }
           ],
           "productId": "154391"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória para Servidor Dell 8 GB DDR4 2400 MHz PC4-19200 ECC RDIMM – 370-ACNR",
+              "text": "<p>Perfeita para virtualização, bancos de dados e aplicações empresariais que exigem alta disponibilidade.</p>",
+              "alt": "Memória para Servidor Dell 8 GB DDR4 2400 MHz PC4-19200 ECC RDIMM – 370-ACNR",
+              "banner": "https://assets.decocache.com/scarcom/ffd5bc89-91c2-4cf4-b008-15d916154da2/Design-sem-nome---2025-09-11T152309.423.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3a83d3d-6781-4178-a655-c93f57beb8c3/Design-sem-nome---2025-09-11T152248.120.png",
+              "title": "Eficiência Energética:",
+              "text": "<p>Operação com voltagem de 1.2V, contribuindo para menor consumo de energia e menor geração de calor.</p>",
+              "alt": "Eficiência Energética:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5ad79687-035e-49bd-84d1-7d451948f05a/Design-sem-nome---2025-09-11T152231.120.png",
+              "title": "Compatibilidade Garantida",
+              "text": "<p>Módulo original Dell, projetado para integração perfeita com servidores Dell PowerEdge.</p>",
+              "alt": "Compatibilidade Garantida"
+            }
+          ],
+          "productId": "154395"
         }
       ]
     },
