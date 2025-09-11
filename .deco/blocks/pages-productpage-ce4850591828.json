@@ -18436,6 +18436,25 @@
             }
           ],
           "productId": "155632"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1921ba16-a0b4-4d0f-b0f5-cc91695d024d/Design-sem-nome-(100).png",
+              "title": "Memória para Servidor Dell OJJD1D – 16 GB DDR4 2400 MHz ECC RDIMM",
+              "text": "<p>A memória Dell modelo OJJD1D é um módulo RDIMM DDR4 de 16 GB com frequência de 2400 MHz e tecnologia ECC (Error Correction Code), projetada para servidores Dell compatíveis, como as linhas PowerEdge e similares. É ideal para quem precisa de uma solução com correção de erros, boa largura de banda e desempenho consistente, seja para virtualização, bancos de dados, hospedagem ou serviços de back-end.</p>",
+              "alt": "Memória para Servidor Dell OJJD1D – 16 GB DDR4 2400 MHz ECC RDIMM"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8f3140e2-4ec3-4f10-818c-f433669eaf2a/Design-sem-nome---2025-09-11T145034.210.png",
+              "title": "Integridade de dados garantida:",
+              "text": "<p>Com ECC + RDIMM, erros simples de memória são detectados e corrigidos, reduzindo falhas em sistemas críticos.</p>",
+              "alt": "Integridade de dados garantida:"
+            }
+          ],
+          "productId": "154717"
         }
       ]
     },
