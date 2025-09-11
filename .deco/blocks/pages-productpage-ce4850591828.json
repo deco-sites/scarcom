@@ -18417,6 +18417,25 @@
             }
           ],
           "productId": "155588"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e6d623fb-bfe4-465e-8a4f-9df5253c3c53/Design-sem-nome-(98).png",
+              "title": "Memória para Servidor Dell 8GB DDR4 2400MHz RDIMM 1Rx8 – Modelo 093KN3",
+              "text": "<p>Este módulo de memória Dell de 8 GB DDR4 2400 MHz RDIMM 1Rx8 (código 093KN3) oferece desempenho estável e seguro para ambientes de servidor. É ideal para servidores Dell PowerEdge que exijam memória registrada com correção de erros (ECC), utilizado em aplicações corporativas, bancos de dados, virtualização ou como parte de farm de servidores.</p>",
+              "alt": "Memória para Servidor Dell 8GB DDR4 2400MHz RDIMM 1Rx8 – Modelo 093KN3"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/7d64894e-3daf-4552-83c2-cc0b7b0ffe3c/Design-sem-nome-(99).png",
+              "title": "Segurança de dados:",
+              "text": "<p>ECC + registro (RDIMM) contribuem para menor taxa de erro, útil em ambientes críticos 24×7.</p>",
+              "alt": "Segurança de dados:"
+            }
+          ],
+          "productId": "155632"
         }
       ]
     },
