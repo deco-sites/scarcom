@@ -18606,6 +18606,25 @@
             }
           ],
           "productId": "155035"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Placa de Rede Dell 540‑BBGY – Placa dupla Gigabit PCI‑Express (2 portas)",
+              "text": "<p>ideal para ambientes de rede exigentes, servidores, virtualização, backup, etc.</p>",
+              "alt": "Placa de Rede Dell 540‑BBGY – Placa dupla Gigabit PCI‑Express (2 portas)",
+              "banner": "https://assets.decocache.com/scarcom/32cf8a1f-55c2-4137-8d2b-6d439dab9462/Design-sem-nome---2025-09-11T173321.720.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2777f29e-b939-46fe-8651-65ab9b5ddb15/Design-sem-nome---2025-09-11T173324.792.png",
+              "title": "Placa de rede dual‑porta RJ‑45 Gigabit",
+              "text": "<p>(10/100/1000 Mbps) ideal para servidores ou desktops que requerem conectividade de alta performance.</p>",
+              "alt": "Placa de rede dual‑porta RJ‑45 Gigabit"
+            }
+          ],
+          "productId": "154154"
         }
       ]
     },
