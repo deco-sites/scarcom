@@ -18398,6 +18398,25 @@
             }
           ],
           "productId": "155447"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Memória para Servidor Dell 16GB DDR4 3200MHz RDIMM - AA799064",
+              "text": "<p>A Memória Dell 16GB DDR4 3200MHz RDIMM (AA799064) foi projetada especificamente para oferecer alta performance, estabilidade e confiabilidade em ambientes corporativos. Ideal para servidores compatíveis Dell PowerEdge, essa memória é a escolha certa para quem busca eficiência em aplicações críticas, virtualização, bancos de dados e cargas de trabalho intensas.</p>",
+              "alt": "Memória para Servidor Dell 16GB DDR4 3200MHz RDIMM - AA799064",
+              "banner": "https://assets.decocache.com/scarcom/eecc94bb-1711-48ed-b604-5b9ca5d76fe3/Design-sem-nome-(96).png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/721c70a3-9a01-4277-a177-853804ad9f55/Design-sem-nome-(97).png",
+              "title": "Confiabilidade empresarial:",
+              "text": "<p>Memória registrada (RDIMM) com ECC para garantir integridade dos dados 24/7.</p>",
+              "alt": "Confiabilidade empresarial:"
+            }
+          ],
+          "productId": "155588"
         }
       ]
     },
