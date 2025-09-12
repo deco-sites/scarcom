@@ -18644,6 +18644,25 @@
             }
           ],
           "productId": "154365"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bad038c6-4179-4626-8caa-7ce339a3979e/Design-sem-nome---2025-09-12T151241.894.png",
+              "title": "Placa de Rede Dell 540‑BBGX – Broadcom 5719 Quad Port Gigabit (4x RJ‑45)",
+              "text": "<p>A placa de rede Dell 540‑BBGX é um adaptador RJ‑45 de alto desempenho com quatro portas Gigabit Ethernet, ideal para servidores e ambientes corporativos que necessitam de múltiplas conexões de rede. Com interface PCI‑Express, ela permite ampliar a conectividade de forma confiável, com compatibilidade ampla com equipamentos Dell PowerEdge e VRTX.</p>",
+              "alt": "Placa de Rede Dell 540‑BBGX – Broadcom 5719 Quad Port Gigabit (4x RJ‑45)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ec4533d6-824a-40a9-98d7-4a3ef43e249e/Design-sem-nome---2025-09-12T151247.086.png",
+              "title": "Múltiplas portas:",
+              "text": "<p>4 conectores Gigabit permitem separar tráfegos, redes de gerenciamento, backup, etc., sem depender de switches extras.</p>",
+              "alt": "Múltiplas portas:"
+            }
+          ],
+          "productId": "153779"
         }
       ]
     },
