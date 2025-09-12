@@ -18689,6 +18689,32 @@
             }
           ],
           "productId": "154822"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/36afb3dd-8a51-4831-b28d-cf5485fde9cb/Design-sem-nome---2025-09-12T152122.625.png",
+              "title": "Dell PERC H200 (065F44) – Controladora RAID SAS 6 Gb/s",
+              "text": "<p>A Dell PERC H200 065F44 é uma controladora RAID SAS/SATA de alto desempenho, ideal para ambientes de servidores Dell PowerEdge que exigem confiabilidade, versatilidade e bom custo‑benefício. Ela provê interface SAS de 6 Gb/s, conectividade interna, e suporta os principais níveis de RAID (0, 1, 10 + JBOD), tornando‑se uma excelente escolha para armazenamento redundante, virtualização, uso em data centers ou para expansão de armazenamento em servidores corporativos.</p>",
+              "alt": "Dell PERC H200 (065F44) – Controladora RAID SAS 6 Gb/s"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4a905acb-235d-464d-aede-1b36d9f52850/Design-sem-nome---2025-09-12T152203.100.png",
+              "title": "Benefícios e Aplicações",
+              "text": "<p>Permite criar arranjos RAID robustos (especialmente RAID 1 e RAID 10) para proteger dados importantes em caso de falha de disco ou garantir redundância.</p>",
+              "alt": "Benefícios e Aplicações"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b5abb2c7-46b4-44e8-91d5-38f337ef6e54/Design-sem-nome---2025-09-12T152129.730.png",
+              "title": "Interface SAS 6 Gb/s",
+              "text": "<p>oferece bom desempenho comparado aos modelos mais antigos de 3 Gb/s, especialmente em ambientes com muitos discos ou tarefas de I/O intensivas.</p>",
+              "alt": "Interface SAS 6 Gb/s"
+            }
+          ],
+          "productId": "1264"
         }
       ]
     },
