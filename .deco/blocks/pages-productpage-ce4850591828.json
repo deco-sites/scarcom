@@ -18715,6 +18715,25 @@
             }
           ],
           "productId": "1264"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e792436f-9039-4453-8181-005f26b34674/Design-sem-nome---2025-09-12T152853.928.png",
+              "title": "Placa de Rede Dell 540‑BDRL – Dual Port SFP+ 10 GbE",
+              "text": "<p>A placa Dell 540‑BDRL é uma adaptador de rede de alto desempenho com duas portas SFP+ de 10 Gigabits Ethernet, projetada para servidores que exigem alta capacidade de transmissão, baixa latência e confiabilidade superior. Ideal para data centers, ambientes virtualizados, storage em rede (NAS / SAN), aplicações de alta demanda de tráfego, backup em alta velocidade, streaming, entre outros usos corporativos.</p>",
+              "alt": "Placa de Rede Dell 540‑BDRL – Dual Port SFP+ 10 GbE"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/66f8f5d1-57b3-48d1-8338-5f8200f3b81b/Design-sem-nome---2025-09-12T152856.581.png",
+              "title": "Benefícios",
+              "text": "<p>Permite conexão de rede de 10 Gbps, ideal para eliminar gargalos em servidores que precisam de alto throughput.</p>",
+              "alt": "Benefícios"
+            }
+          ],
+          "productId": "156263"
         }
       ]
     },
