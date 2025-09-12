@@ -18800,6 +18800,25 @@
             }
           ],
           "productId": "155382"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f8a3e74c-1a58-4fb6-a7b4-bc8d59b43cfd/Design-sem-nome---2025-09-12T172119.570.png",
+              "title": "Switch Dell X1018 (210‑ADPJ) – 16 Portas Gigabit + 2 Portas SFP",
+              "text": "<p>O Dell X1018 (Part Number 210‑ADPJ) é um switch de rede gerenciável (L2 / L2+) projetado para empresas de pequeno a médio porte, escritórios ou filiais que precisam de boa capacidade de rede, confiabilidade e flexibilidade. Ele oferece 16 portas RJ‑45 Gigabit para conexões de dispositivos comuns + 2 portas SFP para uplinks ou fibras ópticas, permitindo integração com outros switches ou backbone.</p>",
+              "alt": "Switch Dell X1018 (210‑ADPJ) – 16 Portas Gigabit + 2 Portas SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Flexibilidade de conexões:",
+              "text": "<p>com 16 portas RJ‑45 Gigabit + 2 portas SFP, você consegue ligar tanto dispositivos locais (PCs, servidores, impressoras) quanto fazer uplinks de fibra ou interligar switches em diferentes prédios ou salas.</p>",
+              "alt": "Flexibilidade de conexões:",
+              "banner": "https://assets.decocache.com/scarcom/a54f84ad-b68f-4c22-a167-21e149d2bc4d/Design-sem-nome---2025-09-12T172125.606.png"
+            }
+          ],
+          "productId": "153645"
         }
       ]
     },
