@@ -18625,6 +18625,25 @@
             }
           ],
           "productId": "154154"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3919c692-38a3-4896-8feb-fa1bdd7c972b/Design-sem-nome---2025-09-12T144824.878.png",
+              "title": "Placa de Rede Dell 540‑BBIU Dual Port 10GbE (Broadcom 57810S)",
+              "text": "<p>A Dell 540‑BBIU é uma placa de rede de alto desempenho, ideal para servidores e ambientes corporativos que exigem taxas elevadas de transferência de dados e baixa latência. Com dual port de 10 Gigabits Base‑T sobre interface RJ‑45 e conectividade PCI‑Express, ela permite expandir ou atualizar suas capacidades de rede para suportar cargas pesadas, virtualização, armazenamento em rede e aplicações críticas.</p>",
+              "alt": "Placa de Rede Dell 540‑BBIU Dual Port 10GbE (Broadcom 57810S)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/dd5e8b1e-a1e0-456c-91a4-bade118cf0d5/Design-sem-nome---2025-09-12T144831.555.png",
+              "title": "Aumento significativo de largura de banda",
+              "text": "<p>ideal para transferir grandes volumes de dados com rapidez.</p>",
+              "alt": "Aumento significativo de largura de banda"
+            }
+          ],
+          "productId": "154365"
         }
       ]
     },
