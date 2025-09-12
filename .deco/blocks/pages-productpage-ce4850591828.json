@@ -18663,6 +18663,32 @@
             }
           ],
           "productId": "153779"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2d971ba4-cf5a-414f-becd-3808832d0860/Design-sem-nome---2025-09-12T151607.141.png",
+              "title": "Controladora SAS Dell PERC 6/E – Modelo 0J155F / J155F",
+              "text": "<p>A Dell PERC 6/E (part number 0J155F / J155F) é uma controladora RAID SAS externa de alta performance, desenhada para uso em servidores e storage externo Dell, como os modelos Powervault MD1000 ou MD1120. Oferece proteção de dados, redundância e suporte a múltiplos níveis de RAID, ideal para ambientes corporativos com necessidade de confiabilidade, desempenho e escalabilidade.</p>",
+              "alt": "Controladora SAS Dell PERC 6/E – Modelo 0J155F / J155F"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fe1d3419-243a-42c4-914f-2be2bcf87dd6/Design-sem-nome---2025-09-12T151636.930.png",
+              "title": "Confiabilidade de dados:",
+              "text": "<p>O cache com bateria (BBU) ajuda a manter a integridade dos dados em caso de queda de energia.</p>",
+              "alt": "Confiabilidade de dados:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8d1ac1a2-55b5-432e-bd34-5c6e7d660cbe/Design-sem-nome---2025-09-12T151621.051.png",
+              "title": "Escalabilidade externa:",
+              "text": "<p>Permite conectar arrays externos SAS, ideal para aumentar capacidade de armazenamento sem comprometer espaço interno.</p>",
+              "alt": "Escalabilidade externa:"
+            }
+          ],
+          "productId": "154822"
         }
       ]
     },
