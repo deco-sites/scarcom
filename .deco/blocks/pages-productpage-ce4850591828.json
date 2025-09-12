@@ -17707,7 +17707,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/d4e27ce4-6c64-4a65-91e6-6b9e569011cd/Design-sem-nome---2025-09-01T123805.783.png",
-              "title": "Interface:",
+              "title": "Interface: ",
               "text": "<p>SATA 6 Gb/s</p>",
               "alt": "Interface:"
             },
@@ -18774,6 +18774,32 @@
             }
           ],
           "productId": "155448"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD Dell 0VPP5P / VPP5P 480 GB SATA 6G Read‑Intensive",
+              "banner": "https://assets.decocache.com/scarcom/1ebb40f1-4d7b-4e34-a41e-57123b616ebb/Design-sem-nome---2025-09-12T153612.315.png",
+              "text": "<p>O SSD Dell modelo 0VPP5P (também identificado como VPP5P) faz parte da linha Dell EMC S4510 / Intel D3‑S4510, voltada para servidores e ambientes corporativos com demandas de leitura pesada (Read‑Intensive). Com capacidade de 480 GB, interface SATA III 6 Gb/s e formato de 2,5″, este SSD entrega bom desempenho, confiabilidade e compatibilidade, oferecendo ótimo custo‑benefício para aplicações que não exigem escrita contínua intensa, mas em que a leitura frequente de dados é crítica.</p>",
+              "alt": "SSD Dell 0VPP5P / VPP5P 480 GB SATA 6G Read‑Intensive"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Desempenho elevado em leitura:",
+              "text": "<p>muito útil para servidores com muitos acessos de leitura, como servidores web, servidores de arquivos, caches ou VMs que fazem consultas frequentes.</p>",
+              "alt": "Desempenho elevado em leitura:",
+              "banner": "https://assets.decocache.com/scarcom/491c4bf6-317b-4f49-8b20-6055888c20b1/Design-sem-nome---2025-09-12T170304.741.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Boa compatibilidade com servidores Dell EMC / PowerEdge:",
+              "text": "<p>o modelo é OEM Dell / Intel, rodando firmware compatível, o que facilita integração física e lógica com os controladores de discos da marca.</p>",
+              "alt": "Boa compatibilidade com servidores Dell EMC / PowerEdge:",
+              "banner": "https://assets.decocache.com/scarcom/1dda8e9e-cb74-4d3e-944c-197aa7a7020a/Design-sem-nome---2025-09-12T170253.038.png"
+            }
+          ],
+          "productId": "155382"
         }
       ]
     },
