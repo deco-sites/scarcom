@@ -18734,6 +18734,46 @@
             }
           ],
           "productId": "156263"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "SSD Dell X31G3 960 GB SATA 6 Gb/s Mixed‑Use",
+              "text": "<p>O Dell X31G3 é um SSD de classe empresarial (“enterprise”) ideal para uso em servidores Dell PowerEdge. Com capacidade de 960 GB e interface SATA‑III 6 Gb/s, ele entrega ótimo desempenho para cargas mistas (“mixed‑use”) — ou seja, tanto leituras frequentes quanto gravações moderadas. Ideal para quem precisa de um armazenamento confiável, rápido, com boa durabilidade, para ambientes corporativos, virtualização, caches de sistemas, aplicações de banco de dados e arquivos críticos.</p>",
+              "alt": "SSD Dell X31G3 960 GB SATA 6 Gb/s Mixed‑Use",
+              "banner": "https://assets.decocache.com/scarcom/1ebb40f1-4d7b-4e34-a41e-57123b616ebb/Design-sem-nome---2025-09-12T153612.315.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2cc095a3-320c-4a4d-8595-aceafa7eef93/Design-sem-nome---2025-09-12T153632.304.png",
+              "title": "Desempenho consistente",
+              "text": "<p>para cargas mistas: ideal para armazenar sistemas operacionais, bancos de dados de médio porte, máquinas virtuais, cache de aplicações etc.</p>",
+              "alt": "Desempenho consistente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Baixa latência",
+              "text": "<p>melhor que discos mecânicos, ajudando a acelerar boot do servidor, resposta de aplicações, leitura frequente de dados.</p>",
+              "alt": "Baixa latência",
+              "banner": "https://assets.decocache.com/scarcom/a73c1326-953c-4274-a4a5-9beaa07702c3/Design-sem-nome---2025-09-12T153643.907.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/092f40d9-a4e1-4cd2-a4cf-807a8622f08f/Design-sem-nome---2025-09-12T153657.282.png",
+              "title": "Compatibilidade de servidores Dell PowerEdge",
+              "text": "<p>(diversas gerações) e outras infraestruturas que suportam SSD SATA 2,5″ hot‑swap.</p>",
+              "alt": "Compatibilidade de servidores Dell PowerEdge"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d01a712a-bcc5-4637-9652-5b47e98611d2/Design-sem-nome---2025-09-12T153619.136.png",
+              "title": "Custo‑benefício para uso corporativo",
+              "text": "<p>especialmente se optar por unidades usadas ou recondicionadas, ainda com garantia mínima e bom desempenho.</p>",
+              "alt": "Custo‑benefício para uso corporativo"
+            }
+          ],
+          "productId": "155448"
         }
       ]
     },
