@@ -18994,6 +18994,32 @@
             }
           ],
           "productId": "154420"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Dell Networking N1108T‑ON (PN 210‑AJIW) – Switch Gerenciável 8 Portas Gigabit + 2–SFP",
+              "text": "<p>O Dell N1108T‑ON é um switch gerenciável de nível L2 projetado para pequenas e médias empresas que necessitam de desempenho robusto, alta confiabilidade e flexibilidade de conectividade. Com 8 portas RJ‑45 Gigabit Ethernet e 2 portas SFP, suporta uplinks de fibra ou conexões de longa distância. Sua estrutura rack‑mount de 1U permite instalação em racks padrão, otimizando espaço e organização.</p>",
+              "alt": "Dell Networking N1108T‑ON (PN 210‑AJIW) – Switch Gerenciável 8 Portas Gigabit + 2–SFP",
+              "banner": "https://assets.decocache.com/scarcom/28030dde-4a6f-4350-9eb6-566e9a3af686/Design-sem-nome---2025-09-15T155317.863.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/edf0b1f1-ac27-472f-8957-366a8479a15f/Design-sem-nome---2025-09-15T155349.639.png",
+              "title": "Portas de rede",
+              "text": "<p>8 portas RJ‑45 (10/100/1000 Mbps) + 2 portas SFP Gigabit para uplinks ou fibra óptica. </p>",
+              "alt": "Portas de rede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e01d6a8d-e358-4343-8428-50301c62b324/Design-sem-nome---2025-09-15T155332.567.png",
+              "title": "Capacidade de comutação",
+              "text": "<p>24 Gbps de largura de banda total (full duplex); capacidade de encaminhamento de cerca de 18 milhões de pacotes por segundo (Mpps). </p>",
+              "alt": "Capacidade de comutação"
+            }
+          ],
+          "productId": "154703"
         }
       ]
     },
