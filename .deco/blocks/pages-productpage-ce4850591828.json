@@ -18961,6 +18961,39 @@
             }
           ],
           "productId": "153648"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/25f42bbc-bbff-4219-b06c-c8d5c09c8063/Design-sem-nome---2025-09-15T152652.469.png",
+              "title": "Switch Dell N1548P 210‑AEWB — 48 Portas Gigabit PoE+ + 4 Portas 10G SFP+",
+              "text": "<p>O Dell N1548P é um switch gerenciável de alto desempenho da série N1500, projetado para atender demandas elevadas de rede em ambientes corporativos, data centers pequenos, filiais, edifícios comerciais ou instalações que dependem de muitos dispositivos PoE+. Com 48 portas Gigabit com suporte PoE+, além de 4 portas SFP+ de 10 Gbps para uplinks, esse modelo entrega capacidade, versatilidade e escalabilidade.</p>",
+              "alt": "Switch Dell N1548P 210‑AEWB — 48 Portas Gigabit PoE+ + 4 Portas 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a367cd8c-7cf6-4b87-9596-c2377cc112df/Design-sem-nome---2025-09-15T152712.115.png",
+              "title": "PoE+ robusto",
+              "text": "<p>em 48 portas permite alimentar aparelhos como câmeras IP, pontos de acesso wireless, telefones VoIP e outros dispositivos sem necessidade de fontes externas ou múltiplas tomadas.</p>",
+              "alt": "PoE+ robusto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/03e62aae-e981-4ce5-94e9-2b1f310ddc55/Design-sem-nome---2025-09-15T152725.232.png",
+              "title": "Uplinks de 10 Gbps",
+              "text": "<p>via SFP+ garantem capacidade para backbone da rede ou interligação rápida entre switches/servidores, reduzindo gargalos.</p>",
+              "alt": "Uplinks de 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2120bda2-0ca8-4442-a33c-166399d1d522/Design-sem-nome---2025-09-15T152658.786.png",
+              "title": "Alta densidade de portas",
+              "text": "<p>ideal para conectar muitos dispositivos fisicamente próximos, economizando espaço em racks e infraestrutura de cabeamento.</p>",
+              "alt": "Alta densidade de portas"
+            }
+          ],
+          "productId": "154420"
         }
       ]
     },
