@@ -19164,6 +19164,39 @@
             }
           ],
           "productId": "155898"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/02528e7a-3e85-42aa-aeb1-e94a0d41e2ae/Design-sem-nome---2025-09-15T164332.862.png",
+              "title": "Nobreak Eaton 9PX 9PX3000IB — 3 kVA / 2700 W, 220 V — Rack / Torre",
+              "text": "<p>O Eaton 9PX3000IB é um nobreak de alto desempenho, projetado para oferecer proteção de energia ininterrupta em ambientes críticos, como data centers, servidores, redes de telecomunicações e sistemas de automação industrial. Com topologia online de dupla conversão, este modelo garante fornecimento contínuo de energia com alta eficiência e confiabilidade.</p>",
+              "alt": "Nobreak Eaton 9PX 9PX3000IB — 3 kVA / 2700 W, 220 V — Rack / Torre"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Potência Nominal:",
+              "text": "<p>3 kVA / 2700 W, com fator de potência de 0,9, proporcionando aproveitamento eficiente da capacidade nominal.</p>",
+              "alt": "Potência Nominal:",
+              "banner": "https://assets.decocache.com/scarcom/f468cbab-7b05-4b94-985b-1a106b651b36/Design-sem-nome---2025-09-15T164452.336.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Topologia Online de Dupla Conversão:",
+              "text": "<p>assegura fornecimento contínuo de energia, isolando as cargas de variações da rede elétrica.</p>",
+              "alt": "Topologia Online de Dupla Conversão:",
+              "banner": "https://assets.decocache.com/scarcom/d4f27911-c5f1-4943-8509-af0836e5580f/Design-sem-nome---2025-09-15T164511.687.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/eaa0d3b4-7bef-4fad-9e6a-04d9171862b7/Design-sem-nome---2025-09-15T164405.235.png",
+              "title": "Eficiência Energética:",
+              "text": "<p>até 93%, contribuindo para a redução de custos operacionais e menor geração de calor.</p>",
+              "alt": "Eficiência Energética:"
+            }
+          ],
+          "productId": "155903"
         }
       ]
     },
