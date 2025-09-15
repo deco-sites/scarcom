@@ -19287,6 +19287,39 @@
             }
           ],
           "productId": "155441"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8e2c1b2d-8f16-46ec-b431-32c9d173e8bb/Design-sem-nome---2025-09-15T173919.778.png",
+              "title": "Edge‑Core ECS4510‑28P – Switch L2+/Lite‑L3 Gigabit PoE+ Gerenciável (24 portas)",
+              "text": "<p>O ECS4510‑28P da Edge‑Core é um switch de rede gerenciável de alto desempenho, com foco em aplicações corporativas ou infraestruturas que exigem fornecimento de energia via PoE para equipamentos como câmeras, telefones VoIP, access points, entre outros. Ele combina 24 portas Gigabit com capacidade PoE+, uplinks de fibra óptica de 10 Gbps, opções de empilhamento, além de recursos avançados de gerenciamento, segurança e qualidade de serviço (QoS). É ideal para usar na borda da rede, backbone de pequenas e médias empresas, campus, ou agregação de servidores.</p>",
+              "alt": "Edge‑Core ECS4510‑28P – Switch L2+/Lite‑L3 Gigabit PoE+ Gerenciável (24 portas)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/62950481-68f2-40fa-9854-101f30b111ff/Design-sem-nome---2025-09-15T173945.575.png",
+              "title": "Alimenta dispositivos PoE+ com orçamento de 410 W:",
+              "text": "<p>ideal para instalações com muitos APs wireless 802.11ac/ax, câmeras de vigilância, telefones IP, etc.</p>",
+              "alt": "Alimenta dispositivos PoE+ com orçamento de 410 W:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ee331209-23df-4eb0-a4c3-c8f45c70ef53/Design-sem-nome---2025-09-15T173934.131.png",
+              "title": "Uplinks óticos de 10 Gbps",
+              "text": "<p>permitem interligar switches, servidores ou torres de backbone com tráfego elevado.</p>",
+              "alt": "Uplinks óticos de 10 Gbps"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ec6fe26e-a9fe-434d-b1a0-1e9a35e8660a/Design-sem-nome---2025-09-15T173922.081.png",
+              "title": "Onde se destaca / benefícios práticos",
+              "text": "<p>Ideal para borda de rede ou redes de médio porte que precisam de desempenho e PoE com bom custo-benefício.</p>",
+              "alt": "Onde se destaca / benefícios práticos"
+            }
+          ],
+          "productId": "155533"
         }
       ]
     },
