@@ -19249,6 +19249,25 @@
             }
           ],
           "productId": "156000"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/711bcddf-2f53-4df5-b454-c4c4f0f6c829/Design-sem-nome---2025-09-15T170414.165.png",
+              "title": "Transceptor Óptico Edgecore ET4202‑SX – SFP Gigabit Multimodo (550 m)",
+              "text": "<p>O transceptor Edgecore ET4202‑SX é um módulo de alta performance para interconexões ópticas em redes de fibra multimodo (MMF). Compatível com o padrão 1000Base‑SX, ele permite a transmissão de até 1 Gbps em distâncias de até 550 metros sobre fibra multimodo, sendo ideal para redes corporativas, campus, data centers ou links óticos internos.</p>",
+              "alt": "Transceptor Óptico Edgecore ET4202‑SX – SFP Gigabit Multimodo (550 m)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Benefícios para o Usuário",
+              "text": "<p>Permite links ópticos de longa distância dentro de instalações multimodo sem perda significativa de sinal.</p>",
+              "alt": "Benefícios para o Usuário",
+              "banner": "https://assets.decocache.com/scarcom/6224b3d1-2105-4bbd-87ba-837c1a2f9e7a/Design-sem-nome---2025-09-15T170424.684.png"
+            }
+          ],
+          "productId": "155681"
         }
       ]
     },
