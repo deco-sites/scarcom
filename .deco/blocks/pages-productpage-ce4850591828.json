@@ -19268,6 +19268,25 @@
             }
           ],
           "productId": "155681"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Switch Edge‑Core ECS2100‑28PP — 24 Portas Gigabit PoE, Gerenciável",
+              "text": "<p>O Edge‑Core ECS2100‑28PP é um switch de acesso gerenciável (Layer 2 / L2+ / L3 Lite) projetado para ambientes corporativos, redes de médio porte, instalações com muitos dispositivos PoE (como câmeras IP, pontos de acesso WiFi, telefones VoIP), e onde se exige estabilidade, desempenho, segurança e gerenciamento avançado. Com 24 portas RJ‑45 Gigabit com PoE+ e 4 portas uplink SFP, este modelo oferece capacidade robusta de fornecimento de energia PoE, além de flexibilidade para uplinks de fibra óptica.</p>",
+              "alt": "Switch Edge‑Core ECS2100‑28PP — 24 Portas Gigabit PoE, Gerenciável",
+              "banner": "https://assets.decocache.com/scarcom/92006e7a-525e-4b5b-b179-3401d0e29d80/Design-sem-nome---2025-09-15T170821.086.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5b7ba232-11e3-4896-9dd9-87ef9f8b2ed0/Design-sem-nome---2025-09-15T170834.808.png",
+              "title": "Vantagens e Aplicações",
+              "text": "<p>Excelente para cenários onde muitos dispositivos precisam de alimentação via cabo de rede: câmeras de segurança, access points WiFi, telefones VoIP etc.</p>",
+              "alt": "Vantagens e Aplicações"
+            }
+          ],
+          "productId": "155441"
         }
       ]
     },
