@@ -18852,6 +18852,25 @@
             }
           ],
           "productId": "153486"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6cf199e4-62e2-4970-860b-8adfc00a1824/Design-sem-nome---2025-09-15T150138.016.png",
+              "title": "Switch Dell N2024 210‑ABNV — 24 Portas Gigabit + 2 Portas 10 G SFP+",
+              "text": "<p>O Dell Networking N2024, referenciado pelo part‑number 210‑ABNV, é um switch de rede robusto da série N2000, ideal para escritórios, filiais ou data centers menores que precisam de alta performance, uplinks de 10 gigabit, e funcionalidades avançadas de camada 2 e 3. É uma excelente opção para modernizar redes, aumentar capacidade, reduzir latência e possibilitar agregações e empilhamentos.</p>",
+              "alt": "Switch Dell N2024 210‑ABNV — 24 Portas Gigabit + 2 Portas 10 G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d57c422d-96ef-4f58-a130-47ef27284ef5/DELL-N2024-210-ABNV.png",
+              "title": "Memória & Armazenamento interno",
+              "text": "<p>Flash de 256 MB, memória RAM (padrão) de 1 GB. </p>",
+              "alt": "Memória & Armazenamento interno"
+            }
+          ],
+          "productId": "154152"
         }
       ]
     },
