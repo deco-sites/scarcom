@@ -19138,6 +19138,32 @@
             }
           ],
           "productId": "155899"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9ccfc4e7-6065-40ed-a87c-736e0f3cfcaa/Design-sem-nome---2025-09-15T163817.670.png",
+              "title": "Nobreak Eaton 9PX 9PX2000IB — 2 kVA / 1800 W, 220 V — Rack / Torre",
+              "text": "<p>O Eaton 9PX2000IB é um nobreak de alto desempenho, projetado para oferecer proteção de energia ininterrupta em ambientes críticos, como data centers, servidores, redes de telecomunicações e sistemas de automação industrial. Com topologia online de dupla conversão, este modelo garante fornecimento contínuo de energia com alta eficiência e confiabilidade.</p>",
+              "alt": "Nobreak Eaton 9PX 9PX2000IB — 2 kVA / 1800 W, 220 V — Rack / Torre"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Potência Nominal:",
+              "text": "<p>2 kVA / 1800 W, com fator de potência de 0,9, proporcionando aproveitamento eficiente da capacidade nominal.</p>",
+              "alt": "Potência Nominal:",
+              "banner": "https://assets.decocache.com/scarcom/c79c3292-ec73-4456-acaf-8cff837cb022/Design-sem-nome---2025-09-15T163842.769.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e99f6d2b-2525-4e99-8089-c1d981748533/Design-sem-nome---2025-09-15T163821.706.png",
+              "title": "Topologia Online de Dupla Conversão:",
+              "text": "<p>assegura fornecimento contínuo de energia, isolando as cargas de variações da rede elétrica.</p>",
+              "alt": "Topologia Online de Dupla Conversão:"
+            }
+          ],
+          "productId": "155898"
         }
       ]
     },
