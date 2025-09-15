@@ -19197,6 +19197,39 @@
             }
           ],
           "productId": "155903"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d0e3f80a-6938-4024-8421-4a21c810b6d3/Design-sem-nome---2025-09-15T165109.860.png",
+              "title": "Nobreak Eaton 9PX 9PX6KI — 6 kVA / 5,4 kW, 220 V — Rack / Torre 3U",
+              "text": "<p>O Eaton 9PX6KI é um nobreak de alto desempenho, projetado para oferecer proteção de energia ininterrupta em ambientes críticos, como data centers, servidores, redes de telecomunicações e sistemas de automação industrial. Com topologia online de dupla conversão, este modelo garante fornecimento contínuo de energia com alta eficiência e confiabilidade.</p>",
+              "alt": "Nobreak Eaton 9PX 9PX6KI — 6 kVA / 5,4 kW, 220 V — Rack / Torre 3U"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db2c4784-eda6-4e74-82ee-3b05da2f8d8a/Design-sem-nome---2025-09-15T165215.765.png",
+              "title": "Potência Nominal:",
+              "text": "<p>6 kVA / 5,4 kW, com fator de potência de 0,9, proporcionando aproveitamento eficiente da capacidade nominal.</p>",
+              "alt": "Potência Nominal:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/57e83880-8a82-456d-badb-dbe304126e46/Design-sem-nome---2025-09-15T165230.527.png",
+              "title": "Topologia Online de Dupla Conversão:",
+              "text": "<p>assegura fornecimento contínuo de energia, isolando as cargas de variações da rede elétrica.</p>",
+              "alt": "Topologia Online de Dupla Conversão:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/582c7219-6fd5-4188-823d-e902ef6ecd70/Design-sem-nome---2025-09-15T165200.231.png",
+              "title": "Expansão de Autonomia:",
+              "text": "<p>suporta até 4 módulos de baterias externas (EBM), permitindo aumento do tempo de backup conforme necessidade.</p>",
+              "alt": "Expansão de Autonomia:"
+            }
+          ],
+          "productId": "155707"
         }
       ]
     },
