@@ -19230,6 +19230,25 @@
             }
           ],
           "productId": "155707"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/042222a3-bf7a-4ba7-9d55-0438abc25f38/Design-sem-nome---2025-09-15T165834.278.png",
+              "title": "Placa para Gerenciamento Gigabit Eaton M3 – 744‑A4920",
+              "text": "<p>A Placa Eaton 744‑A4920, também conhecida como Network‑M3, é uma placa de comunicação de rede de alta performance voltada para sistemas UPS (nobreaks) da Eaton. Seu objetivo é permitir monitoramento remoto, controle avançado, automação e maior segurança operacional por meio de interface de rede Gigabit e protocolos modernos. Ideal para ambientes críticos como data centers, servidores, instalações industriais ou qualquer infraestrutura de TI que necessite visibilidade e controle refinados sobre sua energia de backup.</p>",
+              "alt": "Placa para Gerenciamento Gigabit Eaton M3 – 744‑A4920"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ae69fc16-9265-4f67-ada3-dc8c21923066/Design-sem-nome---2025-09-15T165838.199.png",
+              "title": "Benefícios para o Usuário",
+              "text": "<p>Permite monitoramento em tempo real do estado da UPS: carga, nível de bateria, alertas, histórico de eventos — tudo acessível remotamente.</p>",
+              "alt": "Benefícios para o Usuário"
+            }
+          ],
+          "productId": "156000"
         }
       ]
     },
