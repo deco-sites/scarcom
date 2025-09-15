@@ -18819,6 +18819,39 @@
             }
           ],
           "productId": "153645"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/46601b3c-9bd4-43c9-a76b-d032090cff88/Design-sem-nome---2025-09-15T145629.992.png",
+              "title": "Switch Dell X1026 210‑ADPL‑00RF — 24 Portas Gigabit + 2 Portas SFP",
+              "text": "<p>O Dell Networking X1026 (parte 210‑ADPL‑00RF) é um switch gerenciável da camada 2 da família X da Dell, ideal para ambientes corporativos de médio porte que necessitam de alta densidade de conexões Gigabit, capacidade de uplink em fibra óptica e um conjunto de funcionalidades para gerenciamento de rede robusto e segurança.</p>",
+              "alt": "Switch Dell X1026 210‑ADPL‑00RF — 24 Portas Gigabit + 2 Portas SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Portas RJ‑45",
+              "text": "<p>24 portas 10/100/1000Base‑T (Gigabit Ethernet) com auto‑negociação e auto‑MDI/MDIX. </p>",
+              "banner": "https://assets.decocache.com/scarcom/8773df0f-fd79-4e28-8b85-fc42bed82985/Design-sem-nome---2025-09-15T145640.554.png",
+              "alt": "Portas RJ‑45"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/98c6223d-32e5-4d0f-a537-078ec9c5fa8e/Design-sem-nome---2025-09-15T145651.678.png",
+              "title": "Gerenciamento",
+              "text": "<p>Smart / Web Managed — interface web para administração; suporte a VLANs, QoS, agregação de links (LACP), diagósticos de cabo/transceiver. </p>",
+              "alt": "Gerenciamento"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/040656f1-f8be-4cb7-b141-698bcb5d4b5a/Design-sem-nome---2025-09-15T145702.034.png",
+              "title": "Qualidade de Serviço (QoS)",
+              "text": "<p>Vários níveis de prioridade; honram valores 802.1p e DSCP; múltiplas filas por porta; suporte a esquemas de enfileiramento como Weighted Round‑Robin. </p>",
+              "alt": "Qualidade de Serviço (QoS)"
+            }
+          ],
+          "productId": "153486"
         }
       ]
     },
