@@ -18942,6 +18942,25 @@
             }
           ],
           "productId": "153647"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c133aad6-2f7a-4b8a-a520-356bf94f4a87/Design-sem-nome---2025-09-15T152003.381.png",
+              "title": "Switch Dell X1052P 210‑ADPO — 48 Portas Gigabit + 4 Portas 10G SFP+ + PoE/PoE+",
+              "text": "<p>O Dell X1052P é um switch gerenciável de alto desempenho da linha X‑Series, ideal para redes corporativas ou instalações com alta densidade de dispositivos que exigem alimentação POE, além de uplinks de alta velocidade. Ele combina 48 portas RJ‑45 Gigabit, 24 delas com suporte PoE/PoE+, com 4 portas SFP+ de 10 Gbps, proporcionando versatilidade, robustez e capacidade para suprir tanto conectividade quanto alimentação elétrica pela infraestrutura de rede.</p>",
+              "alt": "Switch Dell X1052P 210‑ADPO — 48 Portas Gigabit + 4 Portas 10G SFP+ + PoE/PoE+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1294ad57-e623-4fa3-9391-945068203dcc/Design-sem-nome---2025-09-15T152009.479.png",
+              "title": "Alta densidade de conexões",
+              "text": "<p>com 48 portas Gigabit — ideal para escritórios, prédios comerciais, câmeras IP, APs, etc.</p>",
+              "alt": "Alta densidade de conexões"
+            }
+          ],
+          "productId": "153648"
         }
       ]
     },
