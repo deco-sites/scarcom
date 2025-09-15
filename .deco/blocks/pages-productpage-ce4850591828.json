@@ -19112,6 +19112,32 @@
             }
           ],
           "productId": "155967"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f5b6fa5-4600-4f85-af26-a8f58910fd89/Design-sem-nome---2025-09-15T162624.566.png",
+              "title": "Nobreak Eaton 9PX 9PX1000IB — 1 kVA / 900 W — 220 V — Rack / Torre",
+              "text": "<p>O Eaton 9PX1000IB é um nobreak de alta performance, topo de linha para proteção de energia ininterrupta. Com topologia online de dupla conversão, ele assegura fornecimento de energia constante e estabilizado, isolando qualquer irregularidade da rede elétrica. O modelo é versátil: pode ser instalado em rack de 19″ (2U) ou utilizado em formato torre, o que facilita sua adaptação a diferentes ambientes — data centers, servidores, redes de TI, ambientes de laboratório ou uso corporativo que exige alta confiabilidade.</p>",
+              "alt": "Nobreak Eaton 9PX 9PX1000IB — 1 kVA / 900 W — 220 V — Rack / Torre"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/904da00f-5b6d-44be-a7c6-5fdb7020629b/Design-sem-nome---2025-09-15T162646.776.png",
+              "title": "Proteção total para cargas críticas:",
+              "text": "<p>ideal para equipamentos que não toleram interrupções ou variações — servidores, sistemas de telecomunicações, equipamentos médicos, etc.</p>",
+              "alt": "Proteção total para cargas críticas:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/904da00f-5b6d-44be-a7c6-5fdb7020629b/Design-sem-nome---2025-09-15T162646.776.png",
+              "title": "Alta confiabilidade:",
+              "text": "<p>dupla conversão garante que falhas da rede (como variações de tensão ou frequência) não afetem os dispositivos conectados.</p>",
+              "alt": "Alta confiabilidade:"
+            }
+          ],
+          "productId": "155899"
         }
       ]
     },
