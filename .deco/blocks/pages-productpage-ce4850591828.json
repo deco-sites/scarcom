@@ -18923,6 +18923,25 @@
             }
           ],
           "productId": "155010"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c9e96086-ee13-479d-83a0-d8f3d7531d2e/Design-sem-nome---2025-09-15T151437.157.png",
+              "title": "Switch Dell X1052 210‑ADPN — 48 Portas Gigabit + 4 Portas 10 G SFP+",
+              "text": "<p>O Dell Networking X1052 (parte 210‑ADPN) é um switch gerenciado de alta performance da série X, ideal para redes corporativas, servidores, data centers menores ou ambientes que exigem alta densidade de conexões gigabit e uplinks de 10 Gbps. Com 48 portas RJ‑45 gigabit, quatro portas 10 G SFP+, e funcionalidades avançadas de gerenciamento, ele entrega escalabilidade, confiabilidade e capacidade para crescimento futuro.</p>",
+              "alt": "Switch Dell X1052 210‑ADPN — 48 Portas Gigabit + 4 Portas 10 G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f5468ddb-f9e1-4b46-b734-381dea18998b/Design-sem-nome---2025-09-15T151441.532.png",
+              "title": "Uplinks de 10 Gbps via SFP+",
+              "text": "<p>que permitem conexões de backbone ou interligar switches a servidores com alta demanda de tráfego sem gargalos.</p>",
+              "alt": "Uplinks de 10 Gbps via SFP+"
+            }
+          ],
+          "productId": "153647"
         }
       ]
     },
