@@ -18890,6 +18890,39 @@
             }
           ],
           "productId": "153646"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fece0429-4779-479a-afc2-53f9acece56c/Design-sem-nome---2025-09-15T150703.534.png",
+              "title": "Switch Dell N1524P 210‑ASMY / 210‑AEVY — 24 Portas Gigabit PoE+ + 4 Portas 10G SFP+",
+              "text": "<p>O Dell Networking N1524P é um switch L2+ gerenciável de alto desempenho da série N1500, ideal para ambientes corporativos, escolas, prédios comerciais ou data centers menores que exigem conectividade Gigabit abundante, uplinks de alta velocidade via fibra, suporte PoE+ para alimentar dispositivos de rede e capacidade de empilhamento para facilitar expansão e redundância.</p>",
+              "alt": "Switch Dell N1524P 210‑ASMY / 210‑AEVY — 24 Portas Gigabit PoE+ + 4 Portas 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/571667b1-603f-44e1-8a53-872854009901/Design-sem-nome---2025-09-15T150725.509.png",
+              "title": "PoE+ em todas as portas RJ‑45:",
+              "text": "<p>ideal para alimentar dispositivos sem precisar de tomadas próximas, simplificando cabeamento em câmeras IP, APs WiFi, telefones VoIP, sensores, etc.</p>",
+              "alt": "PoE+ em todas as portas RJ‑45:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0b119888-7cfc-401e-bdba-07cf5ecf8a64/Design-sem-nome---2025-09-15T150744.523.png",
+              "title": "Uplinks de 10G SFP+",
+              "text": "<p>permitem backbone de alta velocidade, interligação rápida entre switches ou para servidores com portas de fibra.</p>",
+              "alt": "Uplinks de 10G SFP+"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ae0612f8-8bc4-40b5-9855-eed0cb4fee92/Design-sem-nome---2025-09-15T150707.474.png",
+              "title": "Construção robusta e rack‑mount 1U",
+              "text": "<p>ideal para instalações com infraestrutura de racks, gabinetes de rede ou salas de TI.</p>",
+              "alt": "Construção robusta e rack‑mount 1U"
+            }
+          ],
+          "productId": "155010"
         }
       ]
     },
