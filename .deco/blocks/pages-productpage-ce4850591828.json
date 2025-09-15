@@ -19086,6 +19086,32 @@
             }
           ],
           "productId": "155845"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/0f5b6fa5-4600-4f85-af26-a8f58910fd89/Design-sem-nome---2025-09-15T162624.566.png",
+              "title": "Banco de Baterias Eaton 9PX EBM 9PXEBM48RT 1 kVA / 220 V — Descrição do Produto",
+              "text": "<p>O módulo de baterias EBM (Extended Battery Module) modelo 9PXEBM48RT, da série Eaton 9PX, é uma solução externa de energia reserva, projetada para estender o tempo de autonomia de sistemas UPS da linha 9PX. Ele pode operar tanto em rack como em torre, adaptando‑se a diferentes ambientes de instalação, e é ideal para suprir continuidade de energia em data centers, salas de servidores ou outros equipamentos críticos que demandam backup confiável.</p>",
+              "alt": "Banco de Baterias Eaton 9PX EBM 9PXEBM48RT 1 kVA / 220 V — Descrição do Produto"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/904da00f-5b6d-44be-a7c6-5fdb7020629b/Design-sem-nome---2025-09-15T162646.776.png",
+              "title": "Maior autonomia de energia:",
+              "text": "<p>Ao adicionar o módulo EBM, o tempo de backup torna‑se muito maior, permitindo que sistemas críticos continuem operando por tempo útil até a restauração da fonte elétrica.</p>",
+              "alt": "Maior autonomia de energia:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Modularidade:",
+              "text": "<p>Possibilidade de expandir conforme crescimento da infraestrutura — instala‑se mais módulos EBM conforme necessidade de autonomia.</p>",
+              "alt": "Modularidade:",
+              "banner": "https://assets.decocache.com/scarcom/ca293d94-b3fd-4481-9bfc-b242dba1b34d/Design-sem-nome---2025-09-15T162632.032.png"
+            }
+          ],
+          "productId": "155967"
         }
       ]
     },
