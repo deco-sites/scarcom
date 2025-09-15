@@ -18871,6 +18871,25 @@
             }
           ],
           "productId": "154152"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/de2d26ce-7b64-4a75-8a8c-8be6e35828a9/Design-sem-nome---2025-09-15T150413.244.png",
+              "title": "Switch Dell X1026P 210‑ADPM — 24 Portas Gigabit PoE + 2 Portas SFP",
+              "text": "<p>O Dell Networking X1026P (modelo 210‑ADPM) é um switch inteligente de camada 2 (L2), com capacidade PoE/PoE+, desenhado para oferecer conectividade de alta densidade com alimentação via Ethernet, ideal para redes corporativas, de segurança, VoIP, WiFi e ambientes que exigem muitos dispositivos alimentados pela mesma infraestrutura de rede.</p>",
+              "alt": "Switch Dell X1026P 210‑ADPM — 24 Portas Gigabit PoE + 2 Portas SFP"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "PoE / PoE+ em todas as portas RJ‑45",
+              "text": "<p>permitindo alimentar dispositivos como câmeras IP, telefones VoIP, pontos de acesso wireless, etc., sem necessidade de fontes externas.</p>",
+              "alt": "PoE / PoE+ em todas as portas RJ‑45",
+              "banner": "https://assets.decocache.com/scarcom/e2fb6a37-47a1-4fac-a297-fd9af0903524/Design-sem-nome---2025-09-15T150426.969.png"
+            }
+          ],
+          "productId": "153646"
         }
       ]
     },
