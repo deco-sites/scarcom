@@ -19346,6 +19346,25 @@
             }
           ],
           "productId": "155466"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2403c312-6240-4151-8094-1b1a0e77e6b7/Design-sem-nome---2025-09-16T152942.628.png",
+              "title": "Descrição do Produto: Edifier W800BT",
+              "text": "<p>O Edifier W800BT é um headphone Bluetooth over-ear (cobre toda a orelha) que entrega boa qualidade de som, excelente autonomia de bateria e conforto para uso prolongado. É ideal para quem quer liberdade do fio, mas sem abrir mão de desempenho e durabilidade.</p>",
+              "alt": "Descrição do Produto: Edifier W800BT"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8748d841-1c5f-4952-bbc7-10dfbebe98e8/Design-sem-nome---2025-09-16T153000.607.png",
+              "title": "Autonomia de bateria muito alta:",
+              "text": "<p>ideal para quem usa bastante — viagens, trabalho, deslocamentos — quase sem preocupação de recarregar frequentemente.</p>",
+              "alt": "Autonomia de bateria muito alta:"
+            }
+          ],
+          "productId": "155885"
         }
       ]
     },
