@@ -19488,6 +19488,25 @@
             }
           ],
           "productId": "615"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Agilidade e Precisão na Leitura",
+              "text": "<p>O Leitor Elgin Flash II oferece alta performance na leitura de códigos de barras 1D, sendo ideal para PDVs, estoques, farmácias, mercados e lojas em geral. Com tecnologia CCD (Charged Coupled Device), ele realiza a leitura com rapidez e precisão, mesmo em códigos danificados ou com baixa qualidade de impressão.</p>",
+              "alt": "Agilidade e Precisão na Leitura",
+              "banner": "https://assets.decocache.com/scarcom/37efa262-00b0-4146-b757-3747228320b3/Design-sem-nome---2025-09-16T161531.123.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/93ced332-9102-47ca-ae0e-ea82ef330e66/Design-sem-nome---2025-09-16T161605.800.png",
+              "title": "Conexão USB – Plug and Play",
+              "text": "<p>Com interface USB, o Flash II é compatível com os principais sistemas operacionais do mercado. Basta conectar ao computador e começar a usar – sem necessidade de drivers ou instalação complicada.</p>",
+              "alt": "Conexão USB – Plug and Play"
+            }
+          ],
+          "productId": "156256"
         }
       ]
     },
