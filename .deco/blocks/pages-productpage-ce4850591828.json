@@ -19320,6 +19320,32 @@
             }
           ],
           "productId": "155533"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/74e7f330-1a2d-41b9-baf5-2c05a614a896/Design-sem-nome---2025-09-16T151316.793.png",
+              "title": "Switch Gerenciável Edge-Core ECS4210-12P - 8 Portas Gigabit PoE + 2 SFP + 2 Combo",
+              "text": "<p>O Edge-Core ECS4210-12P é um switch gerenciável de alto desempenho, projetado para redes corporativas que exigem confiabilidade, segurança e eficiência energética. Equipado com 8 portas Gigabit Ethernet PoE+ (802.3af/at), ele fornece alimentação elétrica e conectividade de dados para dispositivos como câmeras IP, access points e telefones VoIP – tudo através de um único cabo de rede.</p>",
+              "alt": "Switch Gerenciável Edge-Core ECS4210-12P - 8 Portas Gigabit PoE + 2 SFP + 2 Combo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Alta performance, alimentação PoE inteligente e recursos avançados para redes profissionais.",
+              "text": "<p>Robusto, silencioso e fácil de gerenciar, o ECS4210-12P oferece um conjunto completo de funcionalidades como VLANs, QoS, segurança de porta, agregação de link, IGMP Snooping e muito mais, atendendo às exigências de redes modernas com eficiência energética e confiabilidade.</p>",
+              "alt": "Alta performance, alimentação PoE inteligente e recursos avançados para redes profissionais.",
+              "banner": "https://assets.decocache.com/scarcom/2473444f-85e6-41b1-ac9a-a74112871ca0/Design-sem-nome---2025-09-16T151341.068.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4fc497ac-4b47-4a07-996e-9a4363dfc672/Design-sem-nome---2025-09-16T151323.377.png",
+              "title": "PoE+ em todas as 8 portas:",
+              "text": "<p>Alimenta câmeras IP, access points e telefones VoIP sem necessidade de fontes externas.</p>",
+              "alt": "PoE+ em todas as 8 portas:"
+            }
+          ],
+          "productId": "155466"
         }
       ]
     },
