@@ -19469,6 +19469,25 @@
             }
           ],
           "productId": "155886"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8ee9a04a-9836-47ba-8b8a-cca457904fab/Design-sem-nome---2025-09-16T161258.693.png",
+              "title": "Alta Performance e Versatilidade",
+              "text": "<p>A Elgin I9 Full é a solução ideal para quem busca eficiência e confiabilidade na emissão de cupons fiscais, pedidos e comprovantes. Com três interfaces de comunicação (USB, Serial e Ethernet), ela se adapta facilmente a diferentes sistemas de automação comercial, sendo perfeita para lojas, mercados, farmácias, bares e restaurantes.</p>",
+              "alt": "Alta Performance e Versatilidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Impressão Rápida e Silenciosa",
+              "text": "<p>Com velocidade de até 250 mm/s, a impressora térmica Elgin I9 garante agilidade no atendimento, reduzindo filas e aumentando a produtividade. Seu funcionamento é extremamente silencioso, ideal para ambientes com grande fluxo de clientes.</p>",
+              "alt": "Impressão Rápida e Silenciosa",
+              "banner": "https://assets.decocache.com/scarcom/f35572c2-f778-4279-93b2-8ab23ac54644/Design-sem-nome---2025-09-16T161303.209.png"
+            }
+          ],
+          "productId": "615"
         }
       ]
     },
