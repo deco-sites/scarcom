@@ -19696,6 +19696,39 @@
             }
           ],
           "productId": "153517"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/a4891f20-e192-43d1-b3d0-8c0c21c58fb0/Design-sem-nome---2025-09-17T151343.334.png",
+              "title": "Placa PCI-Express 1x USB 3.0 com 4 Portas – Empire F-3217",
+              "text": "<p>A Empire F-3217 é a solução ideal para quem busca expandir a conectividade USB do seu computador com velocidade e eficiência. Compatível com o padrão PCI-Express 1x, esta placa adiciona quatro portas USB 3.0 de alta velocidade, permitindo transferências de dados muito mais rápidas em comparação com portas USB 2.0 tradicionais.</p>",
+              "alt": "Placa PCI-Express 1x USB 3.0 com 4 Portas – Empire F-3217"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b847bf0-9d91-4508-9e46-b0752af987a2/Design-sem-nome---2025-09-17T151403.827.png",
+              "title": "Transferência de dados ultrarrápida com USB 3.0",
+              "text": "<p>Com suporte à tecnologia USB 3.0, cada porta da Empire F-3217 oferece taxas de transferência de até 5 Gbps — ideal para transferência de arquivos grandes, backups em HDs externos, uso de pen drives de alta performance e conexão de periféricos modernos com muito mais agilidade.</p>",
+              "alt": "Transferência de dados ultrarrápida com USB 3.0"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Compatibilidade e fácil instalação",
+              "text": "<p>Projetada para se adaptar à maioria dos gabinetes e placas-mãe, a placa utiliza o slot PCI-Express x1, sendo compatível também com slots x4, x8 e x16. Funciona com sistemas operacionais como Windows 7, 8, 10, 11, e Linux, exigindo apenas a instalação de um driver (incluso no CD ou disponível online, dependendo do sistema).</p>",
+              "alt": "Compatibilidade e fácil instalação",
+              "banner": "https://assets.decocache.com/scarcom/55e323f7-bf31-4ea9-b853-254d83b6d1fd/Design-sem-nome---2025-09-17T151420.059.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fb393de3-6b20-4b02-80ec-5debbe7c420e/Design-sem-nome---2025-09-17T151347.058.png",
+              "title": "Design compacto e eficiente",
+              "text": "<p>A Empire F-3217 possui um formato compacto que facilita a instalação em gabinetes mid e full tower, além de contar com componentes de qualidade que garantem estabilidade no funcionamento mesmo em uso contínuo. Seu design discreto se integra facilmente à estética interna do seu PC.</p>",
+              "alt": "Design compacto e eficiente"
+            }
+          ],
+          "productId": "5660"
         }
       ]
     },
