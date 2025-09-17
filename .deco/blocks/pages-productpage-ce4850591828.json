@@ -19833,6 +19833,39 @@
             }
           ],
           "productId": "154640"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/834146ed-242e-4fb8-ad84-e3cc902f4c72/Design-sem-nome---2025-09-17T161809.057.png",
+              "title": "Epson EcoTank L4160",
+              "text": "<p>A Epson EcoTank L4160 é uma solução completa para quem busca baixo custo de impressão, qualidade e praticidade, ideal para uso doméstico ou pequenos escritórios. Ela reúne impressão, digitalização e cópia, com recursos avançados e economia real.</p>",
+              "alt": "Epson EcoTank L4160"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Resolução máxima de até 5760 x 1440 dpi",
+              "text": "<p>garantindo nitidez tanto em documentos quanto em imagens.</p>",
+              "alt": "Resolução máxima de até 5760 x 1440 dpi",
+              "banner": "https://assets.decocache.com/scarcom/b590b5f1-7e7e-4ae7-9a9e-b2045f13dfd2/Design-sem-nome---2025-09-17T161828.986.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/55cf8174-b14e-4aa9-825b-6e1c2f8851c2/Design-sem-nome---2025-09-17T161920.665.png",
+              "title": "Velocidade de impressão:",
+              "text": "<p>cerca de 33 folhas por minuto em preto e 15 folhas por minuto em cores no modo rápido/rascunho.</p>",
+              "alt": "Velocidade de impressão:"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/770e2990-2bbd-4121-b0bf-e6eaf07cb269/Design-sem-nome---2025-09-17T161813.782.png",
+              "title": "Digitalização e Cópia",
+              "text": "<p>Scanner de base plana, sensor CIS, com resolução óptica de 1200 x 2400 dpi. </p>",
+              "alt": "Digitalização e Cópia"
+            }
+          ],
+          "productId": "154998"
         }
       ]
     },
