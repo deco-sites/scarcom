@@ -19866,6 +19866,25 @@
             }
           ],
           "productId": "154998"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/4d8434f8-210c-4bb4-9a03-affa1ac8f906/Design-sem-nome---2025-09-17T162635.169.png",
+              "title": "Epson EcoTank L5590",
+              "text": "<p>A Epson EcoTank L5590 é uma impressora multifuncional desenhada para quem precisa de produtividade, alto rendimento e recursos que facilitam o dia a dia — ideal para escritórios, estúdios ou uso doméstico intensivo. Com funções completas de impressão, digitalização, cópia e fax, ela oferece eficiência sem comprometer qualidade.</p>",
+              "alt": "Epson EcoTank L5590"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/8965ac83-2933-4f8f-af50-86b0f6cb5346/Design-sem-nome---2025-09-17T162638.750.png",
+              "title": "Sistema sem cartuchos:",
+              "text": "<p>Tanques de tinta recarregáveis, eliminando a necessidade de trocar cartuchos caros.</p>",
+              "alt": "Sistema sem cartuchos:"
+            }
+          ],
+          "productId": "156166"
         }
       ]
     },
