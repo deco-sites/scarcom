@@ -19729,6 +19729,25 @@
             }
           ],
           "productId": "5660"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Impressora Térmica Epson TM-T20 – USB – 203 DPI",
+              "text": "<p>A Epson TM-T20 é uma impressora térmica de recibos projetada especialmente para aplicações comerciais como PDVs (Ponto de Venda), lojas, supermercados, farmácias, bares e restaurantes. Compacta, robusta e fácil de usar, ela oferece impressão rápida e de alta qualidade com resolução de 203 DPI, garantindo nitidez em cada recibo.</p>",
+              "alt": "Impressora Térmica Epson TM-T20 – USB – 203 DPI",
+              "banner": "https://assets.decocache.com/scarcom/85e07c4f-b824-4824-81a9-461be37d9a6d/Design-sem-nome---2025-09-17T152222.615.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/244fb090-c6aa-48f6-841b-3cd553e9d7e0/Design-sem-nome---2025-09-17T152226.304.png",
+              "title": "Impressão térmica direta e de baixo custo",
+              "text": "<p>Utilizando tecnologia de impressão térmica direta, a TM-T20 elimina a necessidade de cartuchos ou fitas, reduzindo custos operacionais. É uma solução prática e econômica para estabelecimentos que imprimem grandes volumes de recibos diariamente.</p>",
+              "alt": "Impressão térmica direta e de baixo custo"
+            }
+          ],
+          "productId": "153793"
         }
       ]
     },
