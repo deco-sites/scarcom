@@ -20256,6 +20256,39 @@
             }
           ],
           "productId": "155188"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2366a3bb-b2da-4be7-87f2-5ff3725b7be7/Design-sem-nome---2025-09-19T154020.717.png",
+              "title": "Scanner Fujitsu Fi-800R",
+              "text": "<p>O Fujitsu Fi-800R é a solução perfeita para digitalização em ambientes com pouco espaço e alta demanda. Com design compacto e moderno, ele se encaixa facilmente em balcões de atendimento, recepções e escritórios.</p>",
+              "alt": "Scanner Fujitsu Fi-800R"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5a171769-2017-4d69-b532-b1cdc57b6e9b/Design-sem-nome---2025-09-19T154249.719.png",
+              "title": "Digitalização Duplex de Alta Velocidade",
+              "text": "<p>Com capacidade de escanear até 40 páginas por minuto em frente e verso (duplex), o Fi-800R garante agilidade e produtividade no dia a dia, mesmo em grandes volumes de documentos.</p>",
+              "alt": "Digitalização Duplex de Alta Velocidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/643388c9-4604-4bf4-b548-be2fcd321010/Design-sem-nome---2025-09-19T154320.205.png",
+              "title": "Tecnologia Avançada de Alimentação e Retorno",
+              "text": "<p>O sistema inovador U-Turn Scan permite que o papel retorne automaticamente pela mesma entrada, economizando espaço. Além disso, o modo Return Scan é ideal para digitalização de documentos delicados, como RGs, passaportes e cartões.</p>",
+              "alt": "Tecnologia Avançada de Alimentação e Retorno"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d5605a02-762d-4cf0-8c98-4d0857ba0b25/Design-sem-nome---2025-09-19T154431.407.png",
+              "title": "Qualidade de Imagem Profissional",
+              "text": "<p>Graças à tecnologia de processamento de imagem da Fujitsu, o Fi-800R entrega digitalizações nítidas, com correção automática de inclinação, remoção de fundo e ajuste de cor — tudo para garantir resultados impecáveis.</p>",
+              "alt": "Qualidade de Imagem Profissional"
+            }
+          ],
+          "productId": "155802"
         }
       ]
     },
