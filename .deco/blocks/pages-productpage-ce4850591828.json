@@ -20503,6 +20503,46 @@
             }
           ],
           "productId": "155187"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/db80d418-9fc6-47d1-a90b-5f2e7d4961f3/r_SP-1120N_featured_right.jpg",
+              "title": "Scanner Fujitsu ScanPartner SP1120N (ADF Duplex, até 20 ppm, 600 dpi)",
+              "text": "<p>Com dimensões de 298 × 135 × 133 mm e peso aproximado de 2,5 kg, o Fujitsu ScanPartner SP1120N tem visual sóbrio e acabamento moderno. Seu formato compacto permite posicioná‑lo facilmente sobre mesas sem ocupar espaço excessivo.</p>",
+              "alt": "Scanner Fujitsu ScanPartner SP1120N (ADF Duplex, até 20 ppm, 600 dpi)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Velocidade e Eficiência de Digitalização",
+              "text": "<p>Digitalize com agilidade: até 20 páginas por minuto em modo simples (simplex) ou 40 imagens por minuto em modo duplex (frente e verso). Ideal para digitalização contínua de documentos A4 em 200 / 300 dpi. </p>",
+              "alt": "Velocidade e Eficiência de Digitalização",
+              "banner": "https://assets.decocache.com/scarcom/2b4f3593-aeb7-42b3-a1f4-499515a0fcfa/r_SP-1120N_front.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/2c526457-926e-4c17-83da-0d80a0cd7a25/r_SP-1120N_front_legal.jpg",
+              "title": "Alimentador Automático (ADF) de Alta Capacidade",
+              "text": "<p>O SP1120N possui um alimentador automático com capacidade para 50 folhas, permitindo que grandes volumes de documentos sejam digitalizados com menor intervenção manual. </p>",
+              "alt": "Alimentador Automático (ADF) de Alta Capacidade"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/530a67ec-fef3-4bc4-b3ed-d6c7c4618224/r_SP-1120N_left_mixed_batch.jpg",
+              "title": "Qualidade de Imagem em Alta Resolução",
+              "text": "<p>Com resolução óptica de até 600 dpi, o scanner captura detalhes nítidos e fiéis em textos, gráficos e imagens. A saída pode variar de 50 até 600 dpi (ajustável) e, via driver, admite até 1.200 dpi. </p>",
+              "alt": "Qualidade de Imagem em Alta Resolução"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/33fac987-5958-4edc-ba51-7252be1c3c55/r_SP-1120N_left_perspective.jpg",
+              "title": "Conectividade USB e Rede",
+              "text": "<p>O SP1120N oferece USB 3.2 Gen 1 (backward compatível com USB 2.0 / 1.1) e interface de rede Gigabit Ethernet (10/100/1000 Mbps), possibilitando uso compartilhado em ambientes corporativos. </p>",
+              "alt": "Conectividade USB e Rede"
+            }
+          ],
+          "productId": "153960"
         }
       ]
     },
