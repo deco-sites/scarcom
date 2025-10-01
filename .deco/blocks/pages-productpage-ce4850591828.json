@@ -20289,6 +20289,53 @@
             }
           ],
           "productId": "155802"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Scanner Fujitsu Fi-8170",
+              "text": "<p>O Fujitsu Fi-8170 é a escolha ideal para ambientes corporativos que precisam de alto desempenho e confiabilidade na digitalização de documentos. Com velocidade de até 70 páginas por minuto e suporte a rede, ele une potência, precisão e conectividade.</p>",
+              "alt": "Scanner Fujitsu Fi-8170",
+              "banner": "https://assets.decocache.com/scarcom/f9a93715-295e-40ba-be2b-b656ca2c1dfa/r_fi-8170_featured_right.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b5b6989a-7f9d-4055-b042-31d6a503368f/r_fi-8170_fow.jpg",
+              "title": "Velocidade e Produtividade Extremas",
+              "text": "<p>Capaz de digitalizar até 140 imagens por minuto (frente e verso), o Fi-8170 é perfeito para processos intensivos de captura de documentos. A alimentação automática comporta até 100 folhas, permitindo longas sessões de digitalização sem interrupções.</p>",
+              "alt": "Velocidade e Produtividade Extremas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ad96ac38-572c-464f-95a7-90ab2fc14c15/r_fi-8170_front_papers.jpg",
+              "title": "Qualidade de Imagem Profissional",
+              "text": "<p>O scanner utiliza tecnologias de ponta como o PaperStream IP e o PaperStream Capture, que melhoram automaticamente a nitidez, contraste e legibilidade dos documentos. Mesmo documentos antigos, amassados ou com baixa qualidade de impressão são corrigidos e otimizados.</p>",
+              "alt": "Qualidade de Imagem Profissional"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/74cfc7e5-a120-4a97-8a6f-877b70ea0a28/r_fi-8170_front_button.jpg",
+              "title": "Qualidade de Imagem Avançada com Clear Image Capture (CIC)",
+              "text": "<p>O scanner Fujitsu fi-8170 utiliza a inovadora tecnologia Clear Image Capture (CIC), que proporciona imagens extremamente nítidas, com cores reais e fidelidade ao original, independentemente da condição dos documentos. A resolução óptica de até 600 dpi garante digitalizações com altíssima qualidade, perfeitas para digitalização de documentos oficiais, imagens, recibos e mais.</p>",
+              "alt": "Qualidade de Imagem Avançada com Clear Image Capture (CIC)"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/600f9613-1c52-4718-bc25-d9adc0962316/r_fi-8170_front_passport.jpg",
+              "title": "Conectividade Flexível: USB + Rede Ethernet",
+              "text": "<p>Um dos grandes diferenciais do fi-8170 é sua conectividade dupla: além da tradicional porta USB 3.2 Gen1, ele também possui interface Ethernet Gigabit, permitindo sua utilização compartilhada em rede. Isso o torna ideal para ambientes com múltiplos usuários, onde diferentes setores podem acessar o scanner de forma integrada, otimizando processos e reduzindo a necessidade de múltiplos equipamentos.</p>",
+              "alt": "Conectividade Flexível: USB + Rede Ethernet"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/e4c68400-d0bb-4cdc-9ef7-d92e88b6c2b8/r_fi-8170_left_paper_hand.jpg",
+              "title": "Design Compacto com Interface Intuitiva",
+              "text": "<p>Apesar de sua potência e robustez, o fi-8170 possui um design compacto que se encaixa facilmente em qualquer estação de trabalho. Suas dimensões são de 300 x 170 x 163 mm, com peso aproximado de 4 kg, facilitando o transporte e instalação.</p>",
+              "alt": "Design Compacto com Interface Intuitiva"
+            }
+          ],
+          "productId": "155803"
         }
       ]
     },
