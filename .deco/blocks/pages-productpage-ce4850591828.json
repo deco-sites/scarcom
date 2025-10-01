@@ -20390,6 +20390,39 @@
             }
           ],
           "productId": "155804"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ae54ad81-70e9-4ce8-953a-79c556ccad77/r_SP-1130N_featured_right.jpg",
+              "title": "Scanner Fujitsu ScanPartner SP1130N – Alta velocidade com conectividade em rede",
+              "text": "<p>O Fujitsu ScanPartner SP1130N é um scanner de documentos profissional, com alimentação automática (ADF) e digitalização duplex (frente e verso), projetado para atender ambientes corporativos ou escritórios que exigem desempenho e confiabilidade. Sua grande vantagem é a combinação de velocidade, qualidade de imagem e conectividade em rede, permitindo que toda a equipe acesse o scanner de qualquer estação.</p>",
+              "alt": "Scanner Fujitsu ScanPartner SP1130N – Alta velocidade com conectividade em rede"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b6596125-f1dc-4667-995d-4bb86002add3/r_SP-1130N_front.jpg",
+              "title": "Digitalização Duplex Rápida e Precisa",
+              "text": "<p>Com tecnologia de alimentação automática (ADF) para até 50 folhas, o SP1130N realiza digitalizações frente e verso em uma única passagem, atingindo até 60 imagens por minuto (ipm). A qualidade é garantida por sensores de imagem de alta precisão e recursos avançados de processamento, como:</p>",
+              "alt": "Digitalização Duplex Rápida e Precisa"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/b3dffd22-4bf5-4c1f-861b-a41ce4a1a839/r_SP-1130N_left_mixed_batch.jpg",
+              "title": "Conectividade em Rede: Compartilhamento Simplificado",
+              "text": "<p>Um dos grandes diferenciais do SP1130N é sua conectividade via rede Ethernet (Gigabit). Isso permite que o scanner seja compartilhado entre diversos usuários em um mesmo ambiente, sem a necessidade de conexão direta com um único computador.</p>",
+              "alt": "Conectividade em Rede: Compartilhamento Simplificado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/389a1c99-abd2-488b-80b5-96acc9f0d0fa/r_SP-1130N_paper_front_legal.jpg",
+              "title": "Qualidade de Imagem Superior",
+              "text": "<p>Com resolução óptica de até 600 dpi, o scanner captura documentos com nitidez impressionante, garantindo fidelidade nas cores e no texto, mesmo em documentos antigos ou de baixa qualidade. Ele também suporta documentos longos (até 3 metros), o que é ideal para relatórios extensos, extratos e outros materiais não convencionais.</p>",
+              "alt": "Qualidade de Imagem Superior"
+            }
+          ],
+          "productId": "155189"
         }
       ]
     },
