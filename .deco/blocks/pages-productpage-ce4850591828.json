@@ -20336,6 +20336,60 @@
             }
           ],
           "productId": "155803"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/1e857b7c-d7d2-4bb4-aa49-3c2f6ff81ea4/iX1300_right_closed_white.jpg",
+              "title": "Scanner Fujitsu ScanSnap iX1300",
+              "text": "<p>O ScanSnap iX1300 oferece digitalização de alta velocidade com até 30 páginas por minuto (ppm) e 60 imagens por minuto no modo duplex (frente e verso). Ideal para digitalizar documentos de forma prática, rápida e confiável, seja em casa ou no escritório.</p>",
+              "alt": "Scanner Fujitsu ScanSnap iX1300"
+            },
+            {
+              "mediaType": "VIDEO",
+              "banner": "https://assets.decocache.com/scarcom/bb0e9fef-9e44-44ec-bd6b-0a0de560ad11/IoT_iX1300_white.jpg",
+              "title": "Digitalização Rápida e Eficiente",
+              "text": "<p>O ScanSnap iX1300 oferece digitalização de alta velocidade com até 30 páginas por minuto (ppm) e 60 imagens por minuto no modo duplex (frente e verso). Ideal para digitalizar documentos de forma prática, rápida e confiável, seja em casa ou no escritório.</p>",
+              "alt": "Digitalização Rápida e Eficiente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c3b0a98b-af92-4c5a-ae60-d49de44759e8/iX1300W_Stacker-Open_Right.jpg",
+              "title": "Alimentador Automático de Documentos (ADF) – Capacidade para 20 folhas",
+              "text": "<p>Com um ADF inteligente para até 20 folhas, o iX1300 permite digitalizar pilhas de documentos automaticamente, sem intervenção manual. Isso economiza tempo e aumenta a produtividade no dia a dia.</p>",
+              "alt": "Alimentador Automático de Documentos (ADF) – Capacidade para 20 folhas"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Conectividade Wi-Fi e USB – Escaneie com ou sem fio",
+              "text": "<p>A versatilidade é um dos grandes destaques: conecte via Wi-Fi (2,4GHz) para escanear diretamente para seu PC, Mac, smartphone, tablet ou serviços em nuvem. Prefere conexão direta? Ele também oferece porta USB 3.2 Gen 1 para máxima estabilidade.</p>",
+              "alt": "Conectividade Wi-Fi e USB – Escaneie com ou sem fio",
+              "banner": "https://assets.decocache.com/scarcom/ed5b5d02-fbfc-4e9d-bd17-2d82a6c83327/X1300W_Right05_Mixed-loading_1.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Digitalização Direta para a Nuvem ou Dispositivos Móveis",
+              "text": "<p>Com suporte ao aplicativo ScanSnap Home, você pode digitalizar documentos diretamente para Google Drive, Dropbox, OneDrive, Evernote e mais. Também é possível escanear e salvar arquivos diretamente em smartphones e tablets, sem precisar de computador.</p>",
+              "alt": "Digitalização Direta para a Nuvem ou Dispositivos Móveis",
+              "banner": "https://assets.decocache.com/scarcom/145ae882-8373-4e1c-b4d8-fe313a89441f/iX1300W_Right02_Cover-Open.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d0442178-59f3-4c58-86fe-101585772b2c/iX1300W_Front_Cover-Close_passbook.jpg",
+              "title": "Reconhecimento Inteligente de Documentos – OCR Embutido",
+              "text": "<p>O iX1300 vem com OCR (Reconhecimento Óptico de Caracteres) para transformar documentos escaneados em PDFs pesquisáveis ou arquivos editáveis do Word e Excel. Ideal para arquivamento e busca eficiente de informações.</p>",
+              "alt": "Reconhecimento Inteligente de Documentos – OCR Embutido"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/ab95498f-e371-47cd-bb42-5039fa207b94/ix-1300W_cloud.jpg",
+              "title": "Silencioso e Eficiente",
+              "text": "<p>Mesmo com toda sua potência, o iX1300 é surpreendentemente silencioso. Ideal para ambientes que exigem concentração e discrição, como clínicas, escritórios jurídicos e home offices.</p>",
+              "alt": "Silencioso e Eficiente"
+            }
+          ],
+          "productId": "155804"
         }
       ]
     },
