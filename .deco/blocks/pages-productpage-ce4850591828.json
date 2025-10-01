@@ -20463,6 +20463,46 @@
             }
           ],
           "productId": "155191"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/403f4164-6d0e-4fa1-a877-e2d9e709ee1b/Design-sem-nome---2025-10-01T163412.132.png",
+              "title": "Scanner Overhead A3 Simples, Colorido — Digitalização sem Contato para Documentos Delicados",
+              "text": "<p>O Fujitsu ScanSnap SV600 é um scanner overhead (suspenso) projetado para digitalizar documentos, livros, revistas, desenhos ou objetos tridimensionais sem tocá-los — ideal para materiais sensíveis, encadernados ou obras de arte. Ele permite capturar áreas até o tamanho A3 (432 × 300 mm) com rapidez e precisão, oferecendo uma solução inovadora para digitalização de documentos que não podem passar por alimentadores tradicionais. </p>",
+              "alt": "Scanner Overhead A3 Simples, Colorido — Digitalização sem Contato para Documentos Delicados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c6374a9d-5fd0-4870-8dcf-86236d4b7635/r_SV600_featured_right.jpg",
+              "title": "Velocidade e modos de digitalização",
+              "text": "<p>O SV600 pode digitalizar uma página em aproximadamente 3 segundos nos modos de uso mais comuns, independentemente da resolução (150 dpi até 600 dpi) — isso vale para colorido, escala de cinza ou monocromático. </p>",
+              "alt": "Velocidade e modos de digitalização"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/75ea3efc-f9e5-481a-bcab-d52ef7550441/r_SV600_front_paper.jpg",
+              "text": "<p>O SV600 utiliza sensor CCD combinado a lentes de redução (lens reduction optics) e duplo LED (iluminação + lente) para capturar imagens nítidas e uniformes, mesmo à distância.</p>",
+              "title": "Sensoriamento de imagem e iluminação",
+              "alt": "Sensoriamento de imagem e iluminação"
+            },
+            {
+              "mediaType": "IMAGE",
+              "title": "Digitalize Documentos Até o Tamanho A3",
+              "text": "<p>Com área de captura de até A3 (432 × 300 mm), o SV600 é perfeito para materiais grandes como jornais, desenhos técnicos e documentos administrativos maiores.</p>",
+              "alt": "Digitalize Documentos Até o Tamanho A3",
+              "banner": "https://assets.decocache.com/scarcom/1bd1e3ed-34fe-4521-b6a0-50ef0b00ca15/r_SV600_left_cards.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/6978787f-3525-4fd6-b306-eaaade9bd151/r_SV600_left_drawing.jpg",
+              "title": "Rápido e Eficiente: 3 Segundos por Página",
+              "text": "<p>Digitalize uma página inteira em apenas 3 segundos, com resolução de até 600 dpi em colorido. Ideal para escanear com agilidade sem comprometer a qualidade.</p>",
+              "alt": "Rápido e Eficiente: 3 Segundos por Página"
+            }
+          ],
+          "productId": "155187"
         }
       ]
     },
