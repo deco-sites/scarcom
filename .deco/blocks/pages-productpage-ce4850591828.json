@@ -20423,6 +20423,46 @@
             }
           ],
           "productId": "155189"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Scanner Fujitsu ScanSnap iX1600 A4 Duplex Color 40 ppm com Wi‑Fi",
+              "text": "<p>O Fujitsu ScanSnap iX1600 é um scanner de mesa avançado, projetado para equipes, escritórios e usuários exigentes. Ele combina rapidez, qualidade de imagem, operação intuitiva e conectividade sem fio — tudo para tornar seu fluxo de trabalho digital extremamente eficiente.</p>",
+              "alt": "Scanner Fujitsu ScanSnap iX1600 A4 Duplex Color 40 ppm com Wi‑Fi",
+              "banner": "https://assets.decocache.com/scarcom/925cfb4e-5675-41bf-bdb2-beae4f9c27ff/r_iX1600_featured_right.jpg"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/af9f982c-93ca-4219-b536-e7ab02d8b61a/r_iX1600_right_paper.jpg",
+              "title": "Alta Velocidade de Digitalização",
+              "text": "<p>Digitalize seus documentos em altíssima velocidade: até 40 páginas por minuto em frente e verso (duplex), o que equivale a 80 imagens por minuto. Ideal para quem precisa de produtividade sem perder tempo.</p>",
+              "alt": "Alta Velocidade de Digitalização"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/aef26f4b-d86b-4745-a63e-6a5e202a1277/r_iX1600-white-lifestyle_screen_crop.jpg",
+              "title": "Conectividade Wi-Fi Inteligente",
+              "text": "<p>Conecte o scanner à sua rede Wi-Fi e envie documentos diretamente para o seu computador, smartphone, tablet ou serviços em nuvem como Google Drive, Dropbox, OneDrive e mais — sem precisar de cabos.</p>",
+              "alt": "Conectividade Wi-Fi Inteligente"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/86b49003-e9f3-4b09-b017-c921e1607664/r_iX1600_front.jpg",
+              "title": "Perfeito para Uso Compartilhado",
+              "text": "<p>Configure até 30 perfis diferentes no painel touch, cada um com seus próprios destinos e preferências de digitalização. Ideal para equipes ou diferentes departamentos usarem o mesmo scanner de forma personalizada.</p>",
+              "alt": "Perfeito para Uso Compartilhado"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d17be2df-0be1-42f4-b9ce-ba2caac38856/iX1600_front_white_closed.jpg",
+              "title": "Qualidade de Imagem Profissional",
+              "text": "<p>Com resolução óptica de até 600 dpi e sensores CIS duplos, o iX1600 entrega imagens nítidas, coloridas e alinhadas automaticamente. Os recursos de correção automática garantem que seus documentos fiquem prontos para arquivamento ou compartilhamento sem retrabalho.</p>",
+              "alt": "Qualidade de Imagem Profissional"
+            }
+          ],
+          "productId": "155191"
         }
       ]
     },
