@@ -20782,6 +20782,32 @@
             }
           ],
           "productId": "155127"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "title": "Cabo de Rede CAT.6A U/UTP LSZH – Furukawa GigaLan Augmented 23500000",
+              "text": "<p>O Cabo de Rede CAT.6A U/UTP LSZH Verde Furukawa GigaLan Augmented 23500000 é uma solução de alta performance para redes estruturadas internas que exigem confiabilidade, capacidade de transmissão elevada e segurança contra propagação de chamas. Em uma bobina padrão de 305 metros, ele é ideal para instalações corporativas, data centers ou ambientes que desejam “cabo de backbone” robusto e preparado para demandas futuras.</p>",
+              "alt": "Cabo de Rede CAT.6A U/UTP LSZH – Furukawa GigaLan Augmented 23500000",
+              "banner": "https://assets.decocache.com/scarcom/b12d3f2a-ddb7-403a-9563-e6244311a63e/Design-sem-nome---2025-10-06T155149.523.png"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/68f321bc-d9ce-4536-8e94-cbb4b26873f5/Design-sem-nome---2025-10-06T155223.669.png",
+              "title": "Performance elevada",
+              "text": "<p>Como cabo de Categoria 6A, ele suporta taxas de até 10 Gbps, atendendo requisitos de link permanente e canal para redes modernas e futuras. </p>",
+              "alt": "Performance elevada"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/5b73fabe-5ec1-4d6c-8d61-d0972e3a3555/Design-sem-nome---2025-10-06T155206.835.png",
+              "title": "Segurança contra fogo",
+              "text": "<p>A capa LSZH reduz dramaticamente a emissão de fumaça e impede a propagação de gases tóxicos durante incêndios, tornando o cabo adequado para ambientes fechados, salas técnicas e locais com alta circulação de pessoas.</p>",
+              "alt": "Segurança contra fogo"
+            }
+          ],
+          "productId": "155651"
         }
       ]
     },
