@@ -20730,6 +20730,32 @@
             }
           ],
           "productId": "92"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c583a5da-3c80-4441-b060-63843eb36c71/Design-sem-nome---2025-10-06T151343.495.png",
+              "title": "Cabo de Rede CAT.5E Antichamas Furukawa Multilan Azul – 23200080",
+              "text": "<p>O Cabo de Rede CAT.5E Antichamas Furukawa Multilan Azul – 23200080 é uma solução robusta, segura e eficiente para redes locais de dados (LAN) que exigem bom desempenho com excelente custo-benefício. Com construção em par trançado sem blindagem (U/UTP) e condutores de cobre sólido 24 AWG, este cabo atende às especificações da categoria 5e, suportando velocidades de até 1 Gigabit por segundo (1Gbps) e frequência de operação de até 100 MHz.</p>",
+              "alt": "Cabo de Rede CAT.5E Antichamas Furukawa Multilan Azul – 23200080"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/267b82c3-58bb-4ac4-8805-c89982feb6c5/Design-sem-nome---2025-10-06T151438.203.png",
+              "title": "Segurança contra fogo",
+              "text": "<p>A capa antichamas do tipo CMX impede a propagação de chamas, protegendo instalações e usuários em caso de curto ou superaquecimento. Isso o torna ideal para uso interno em locais que seguem normas de prevenção de incêndios.</p>",
+              "alt": "Segurança contra fogo"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/c48e6dce-ba05-4494-9eb5-d119c9d5774e/Design-sem-nome---2025-10-06T151406.851.png",
+              "title": "Desempenho estável para redes até 1Gbps",
+              "text": "<p>Apesar de ser da categoria 5e, esse cabo entrega performance mais que suficiente para a maioria das aplicações residenciais e comerciais, suportando com facilidade tráfego em Gigabit Ethernet com estabilidade e baixa perda de sinal.</p>",
+              "alt": "Desempenho estável para redes até 1Gbps"
+            }
+          ],
+          "productId": "154930"
         }
       ]
     },
