@@ -20917,6 +20917,26 @@
             }
           ],
           "productId": "153322"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE"
+            }
+          ],
+          "productId": "153676"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/fb4381bc-42a7-4364-97f9-aacb0a0daa4f/Design-sem-nome---2025-10-08T160000.799.png",
+              "title": "Cabo de Rede CAT.5E 305 Metros Cinza Furukawa Sohoplus - 23200102",
+              "text": "<p>O Cabo de Rede CAT.5E Furukawa Sohoplus é a escolha ideal para quem busca desempenho, confiabilidade e qualidade em projetos de cabeamento estruturado. Com 305 metros de comprimento e na cor cinza, o modelo 23200102 é amplamente utilizado em instalações comerciais, residenciais e corporativas, oferecendo transmissão de dados com alta performance.</p>",
+              "alt": "Cabo de Rede CAT.5E 305 Metros Cinza Furukawa Sohoplus - 23200102"
+            }
+          ],
+          "productId": "153676"
         }
       ]
     },
