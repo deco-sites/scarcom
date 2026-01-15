@@ -48,7 +48,6 @@ export interface Props {
   notFoundSection: Section;
 }
 export const loader = (props: Props, req: Request) => {
-  console.log(req.url);
   return { ...props, url: req.url };
 };
 function Result({
