@@ -63,10 +63,25 @@ interface ButtonsProps {
 }
 // deno-lint-ignore no-explicit-any
 function itemPerPage(itemsPerPage: any) {
-  return Object.entries(itemsPerPage).sort(([widthA], [widthB]) =>
+  // Check if we're on the client side (browser)
+  const isClient = typeof window !== "undefined";
+
+  if (!itemsPerPage) {
+    return [0, 1];
+  }
+
+  const entries = Object.entries(itemsPerPage).sort(([widthA], [widthB]) =>
     Number(widthB) - Number(widthA)
-  )
-    .find(([width]) => Number(width) <= globalThis.window.innerWidth) ?? [0, 1];
+  );
+
+  // During SSR, return the smallest breakpoint (mobile-first approach)
+  if (!isClient) {
+    return entries[entries.length - 1] ?? [0, 1];
+  }
+
+  // On client, find the appropriate breakpoint based on window width
+  return entries.find(([width]) => Number(width) <= window.innerWidth) ??
+    [0, 1];
 }
 function ProductShelf(
   {
