@@ -1,8 +1,6 @@
 {
   "path": "/:slug/p",
-  "default": {
-    "possiblePaths": []
-  },
+  "default": {},
   "sections": [
     {
       "__resolveType": "site/sections/SEO/SeoPDPCustom.tsx",
@@ -42,7 +40,6 @@
                     "label": " ",
                     "columnStart": 2
                   },
-                  "highlights": [],
                   "variant": "slider",
                   "shipmentPolitics": {
                     "link": "/institucional/formas-de-entrega ",
@@ -62,7 +59,6 @@
                           "sort": "OrderByPriceDESC"
                         }
                       },
-                      "highlights": [],
                       "layout": {
                         "headerAlignment": "center",
                         "headerfontSize": "Normal",
@@ -167,36 +163,16 @@
           "__resolveType": "website/functions/requestToParam.ts",
           "param": "slug"
         },
-        "seo": null,
         "product": {
-          "video": null,
-          "image": null,
-          "isAccessoryOrSparePartFor": null,
           "offers": {
             "hasMerchantReturnPolicy": {
-              "video": null,
-              "image": null,
-              "returnShippingFeesAmount": {
-                "video": null,
-                "image": null
-              }
+              "returnShippingFeesAmount": {}
             }
           },
-          "isVariantOf": {
-            "video": null,
-            "image": null
-          },
-          "isSimilarTo": null,
-          "isRelatedTo": null,
-          "brand": {
-            "video": null,
-            "image": null
-          }
+          "isVariantOf": {},
+          "brand": {}
         },
-        "breadcrumbList": {
-          "video": null,
-          "image": null
-        }
+        "breadcrumbList": {}
       },
       "advancedDetailList": [
         {
@@ -12889,7 +12865,6 @@
           "productId": "156008"
         },
         {
-          "contentDetails": [],
           "productId": "156008"
         },
         {
@@ -14786,7 +14761,6 @@
           "productId": "1426"
         },
         {
-          "contentDetails": [],
           "productId": "1426"
         },
         {
@@ -17795,7 +17769,6 @@
           "productId": "154388"
         },
         {
-          "contentDetails": [],
           "productId": "154455"
         },
         {
@@ -20989,6 +20962,82 @@
             }
           ],
           "productId": "155139"
+        },
+        {
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE"
+            }
+          ],
+          "productId": "153819"
+        },
+        {
+          "productId": "156330",
+          "contentDetails": [
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/9b954480-508a-49ec-b073-c3d9e6e7b01f/AR3100-1.jpg",
+              "alt": "AR3100 - Rack 19_ NetShelter SX 42U _ Schneider Electric Brasil-1",
+              "title": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\"",
+              "text": "<p><strong><span style=\"color: rgb(132, 134, 137); font-size: 14px\">Rack APC NetShelter SX AR3100: </span></strong><span style=\"color: rgb(132, 134, 137); font-size: 14px\">42U de altura, 1070mm de profundidade. Ideal para servidores e redes de média/alta densidade, com gerenciamento de cabos, refrigeração eficiente e segurança avançada.</span><br></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e345b38-10a1-4eee-815c-648018524c7b/AR3100-2.jpg",
+              "alt": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\"",
+              "title": "Descrição:",
+              "text": "<p><span style=\"color: rgb(132, 134, 137); font-size: 14px\">O Rack APC NetShelter SX AR3100 é um gabinete de servidor de alta qualidade e padrão industrial, projetado para oferecer um ambiente seguro e eficiente para equipamentos de TI em data centers, salas de servidores e armários de rede. Com </span><strong>42U de altura</strong><span style=\"color: rgb(132, 134, 137); font-size: 14px\"> e </span><strong>1070mm de profundidade</strong><span style=\"color: rgb(132, 134, 137); font-size: 14px\">, ele é ideal para acomodar uma ampla gama de servidores, equipamentos de rede, UPS e outros dispositivos montáveis em rack de 19 polegadas.</span></p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/d3b53b6c-5542-4a16-be49-92b72e4329af/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-14.jpg",
+              "text": "<p><span style=\"color: rgb(132, 134, 137); font-size: 14px\">O design da linha NetShelter SX foca em otimizar a refrigeração, a distribuição de energia, o gerenciamento de cabos e a segurança.</span><br></p>",
+              "alt": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\"-2"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/28b421fd-6cc5-4091-a0be-eed78a9699d0/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-13.jpg",
+              "text": "<p>A construção robusta em aço de alta resistência garante uma capacidade de carga elevada, suportando até<strong> 1701 kg estáticos (com pés niveladores)</strong> e <strong>1020 kg dinâmicos (com rodízios)</strong>, permitindo a instalação de configurações densas de equipamentos.</p>",
+              "alt": "A construção robusta em aço de alta resistência garante uma capacidade de carga elevada, suportando até 1701 kg estáticos (com pés niveladores) e 1020 kg dinâmicos (com rodízios), permitindo a instalação de configurações densas de equipamentos. Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/bc17535b-e532-4b08-8544-5435c8b533bc/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-9.jpg",
+              "text": "<p>As <strong>portas frontal e traseira perfuradas (80% de perfuração) </strong>maximizam o fluxo de ar, enquanto a compatibilidade com acessórios de gerenciamento de fluxo de ar da APC (como painéis cegos e kits de contenção) ajuda a otimizar a refrigeração e reduzir os custos de energia.</p>",
+              "alt": "portas frontal e traseira perfuradas (80% de perfuração) Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\""
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/116831b5-f9ab-42ae-91c2-0254d0a55060/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-3.jpg",
+              "alt": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\" ecursos avançados de gerenciamento de cabos",
+              "text": "<p>O AR3100 oferece recursos avançados de gerenciamento de cabos, incluindo canais traseiros que suportam a montagem sem ferramentas de PDUs verticais e organizadores de cabos.</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/547cf4ac-40eb-4a70-bd55-f75fd552d610/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-10.jpg",
+              "text": "<p>As portas frontal e traseira, que se abrem a 270° (180° quando emendadas a outros racks), e os painéis laterais removíveis de meia altura com liberação rápida, facilitam o acesso e a manutenção dos equipamentos. </p>",
+              "alt": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\" As portas frontal e traseira, que se abrem a 270°"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/eb374117-a70c-4b84-bd94-a2fa3365ad84/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-2.jpg",
+              "text": "<p>Para segurança, o rack conta com um sistema de travamento de 3 pontos na porta frontal e 2 pontos nas portas traseiras divididas, além de painéis laterais com chaves, protegendo seus ativos de TI contra acessos não autorizados.</p>",
+              "alt": "Rack Servidor APC AR3100 NetShelter SX 42U 1070mm 19\" painéis laterais com chaves, protegendo seus ativos de TI contra acessos não autorizados"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/f2aa689c-4d5b-495d-8f48-91090a720fb9/AR3100---Rack-19_-NetShelter-SX-42U-_-Schneider-Electric-Brasil-6.jpg",
+              "title": "Folha de Dados do Produto",
+              "text": "<p>Clique <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.se.com/rempdfbucket-prd/pdf/se/pds/BR/pt/Schneider%20Electric_NetShelter-SX-Enclosures_AR3100.pdf?response-content-disposition=inline%3Bfilename%2A%3DUTF-8%27%27PES_Schneider%2520Electric_NetShelter-SX-Enclosures_AR3100.pdf&amp;AWSAccessKeyId=ASIASDDQ2UUV7ET5B72I&amp;Signature=ylIRNLJ3%2FpBMOig81nooLnmJ83I%3D&amp;x-amz-security-token=IQoJb3JpZ2luX2VjEEEaCXVzLWVhc3QtMSJGMEQCIHweD8W%2FkTEPACspvVwPqRVzWnaWekmFID4Oil3dxtYrAiBY8jL59viukL7AnKcxe%2FymDJNNGR8lfw9ss8ZTg%2B1VFSr%2BAggKEAAaDDE0NDExODAzMTY1OSIM8%2ByiFSPZR%2BMdC8RbKtsCprvtn3lId3oEW4%2B6hh2n2%2BzHvOk6akU3%2FvArJ0zshIKgswB68HXuyajuKrDOv74jksuHqLmcEhXrGwftJjt%2FUqCrH3KMAcRbA40JTJJtwxKHyf%2FHeto92Tw0RQr5KWuLrniG1wvO2Zaj2pGhTHBsaf29gjzf88NAbkpYw0VsdknzXHUOqfRZgB19jf7GnlDD8dyBnt%2FHj%2FUD9N6MPooUAjwstamMIe2mx6mTuEBBvAny2%2F7tYvih%2FteYD%2FrBI5q85Gb6%2BqUYUHUvBCXbZ9Dz0Sh5zVgkqmd6prz3IU14VtTOLN3qcij7HwFNbHF%2Bm%2B7RCd1xDnpH3t2yhAFW6gjd2bqE2D9oN71YkDoWN8QbsF9evfV4ALWdOWtedG2cwxGkyOS4gFeuiqGY%2BphnGzxZ7zqY%2FKHZ7uyf2WZ2yHC%2FXwA5J1HZ8saYnbs6zYIVPuW39W%2BE0HUyfKd1iDswk6brzQY6nwEenppIGd%2Fj6tkh%2FwveFRgKMtmRLRFnRiCqXC5h614qvPF%2BTobWiEdiL9QtOQSaAEEpKKLIpFywWwLpSbLzT5NRqU29gCv4DHxc%2B4y6BSKusd3XVVdL%2FsPzX5t%2FoBqGfAaCKbAzrq6o1v0Efwdfb%2Ffz%2Bw4roXzmlfHq%2BJDUDREsnsFKgd3rf%2Fk6%2BjqIkuWi9Yb%2BGGSYdGEKSseWNO79FUc%3D&amp;Expires=1773890815\"><strong><u>aqui</u></strong></a><strong> </strong>para visitar a Folha de Dados do Produto</p>"
+            },
+            {
+              "mediaType": "IMAGE",
+              "banner": "https://assets.decocache.com/scarcom/3e345b38-10a1-4eee-815c-648018524c7b/AR3100-2.jpg",
+              "alt": "Manual de instrução/ instalação do Rack 19\" NetShelter SX 42U",
+              "title": "Manual de instrução/ instalação do Rack 19\" NetShelter SX 42U",
+              "text": "<p>Clique <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://download.schneider-electric.com/files?p_enDocType=User+guide&amp;p_File_Name=990-2183J_EN.pdf&amp;p_Doc_Ref=990-2183_EN\"><strong><u>aqui</u></strong></a> e visite o Manual de instrução/ instalação do Rack 19\" NetShelter SX 42U</p>"
+            }
+          ]
         }
       ]
     },
@@ -21038,5 +21087,5 @@
     },
     "omitVariants": true
   },
-  "name": "Product Page"
+  "name": "156330"
 }
