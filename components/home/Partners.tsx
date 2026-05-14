@@ -74,7 +74,6 @@ function buildSeamlessColumnTrack(columnItems: PartnerLogo[]): PartnerLogo[] {
   return [...expanded, ...expanded];
 }
 
-/** Uma única fila para mobile: mesma lógica de duplicação que o marquee vertical. */
 function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
   const base = items.length ? items : PLACEHOLDER_LOGOS;
   const expanded: PartnerLogo[] = [];
@@ -165,10 +164,10 @@ export default function Partners({
     [columns],
   );
 
-  const horizontalTrack = useMemo(
-    () => buildSeamlessHorizontalTrack(source),
-    [source],
-  );
+  const horizontalTrack = useMemo(() => {
+    const rows = splitIntoColumns(source, 2);
+    return rows.map((row) => buildSeamlessHorizontalTrack(row));
+  }, [source]);
 
   const isExternal = Boolean(buttonHref?.startsWith("http"));
 
@@ -192,7 +191,7 @@ export default function Partners({
                 href={buttonHref || "#"}
                 target={isExternal ? "_blank" : undefined}
                 rel={isExternal ? "noopener noreferrer" : undefined}
-                class="inline-flex items-center justify-center rounded-full bg-[#015388] lg:px-[68px] py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[14px]"
+                class="inline-flex items-center justify-center rounded-full bg-[#015388] px-[68px] py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[14px]"
               >
                 Ver mais parceiros
               </a>
@@ -200,14 +199,22 @@ export default function Partners({
           </div>
 
           <div class="relative min-h-[160px] flex-1 min-w-0 overflow-hidden sm:min-h-[180px] lg:min-h-0">
-            {/* Mobile: marquee horizontal (esquerda → direita) */}
-            <div class="absolute inset-0 flex items-center overflow-hidden lg:hidden">
+            {/* Mobile: marquee horizontal com 2 fileiras */}
+            <div class="absolute inset-0 flex flex-col justify-center gap-3 overflow-hidden lg:hidden">
               <div
                 class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-ltr motion-reduce:translate-x-0 motion-reduce:animate-none"
                 style={{ animationDuration: "38s" }}
               >
-                {horizontalTrack.map((item, i) => (
-                  <LogoCard key={`m-${item.altText}-${i}`} item={item} row />
+                {horizontalTrack[0].map((item, i) => (
+                  <LogoCard key={`m1-${item.altText}-${i}`} item={item} row />
+                ))}
+              </div>
+              <div
+                class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-rtl motion-reduce:translate-x-0 motion-reduce:animate-none"
+                style={{ animationDuration: "42s" }}
+              >
+                {horizontalTrack[1].map((item, i) => (
+                  <LogoCard key={`m2-${item.altText}-${i}`} item={item} row />
                 ))}
               </div>
             </div>

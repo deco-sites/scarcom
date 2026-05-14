@@ -15,6 +15,8 @@ export default {
           "partners-marquee-down 32s linear infinite",
         "partners-marquee-x-ltr":
           "partners-marquee-x-ltr 40s linear infinite",
+        "partners-marquee-x-rtl":
+          "partners-marquee-x-rtl 40s linear infinite",
       },
       keyframes: {
         sliding: {
@@ -32,6 +34,10 @@ export default {
         "partners-marquee-x-ltr": {
           "0%": { transform: "translateX(-50%)" },
           "100%": { transform: "translateX(0)" },
+        },
+        "partners-marquee-x-rtl": {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(50%)" },
         },
       },
     },
