@@ -48,7 +48,7 @@ const PLACEHOLDER_LOGOS: PartnerLogo[] = [
 
 const NUM_COLUMNS = 4;
 const MIN_ITEMS_PER_COLUMN = 5;
-const MIN_ITEMS_HORIZONTAL = 10;
+const MIN_ITEMS_HORIZONTAL = 5;
 
 function normalizeSource(source: PartnerLogo[]): PartnerLogo[] {
   if (source.length) return source;
