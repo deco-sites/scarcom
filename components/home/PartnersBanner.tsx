@@ -156,7 +156,7 @@ function MarqueeColumn({
   );
 }
 
-export default function Partners({
+export default function PartnersBanner({
   titlePart1 = "+100 parceiros",
   titlePart2 = "confiam na Scarcom",
   description =

@@ -1,1 +1,1 @@
-export { default } from "../../components/home/Partners.tsx";
+export { default } from "deco-sites/scarcom/components/home/PartnersBanner.tsx";
