@@ -74,7 +74,6 @@ function buildSeamlessColumnTrack(columnItems: PartnerLogo[]): PartnerLogo[] {
   return [...expanded, ...expanded];
 }
 
-/** Uma faixa horizontal com loop infinito (conteúdo duplicado). */
 function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
   const base = items.length ? items : PLACEHOLDER_LOGOS;
   const expanded: PartnerLogo[] = [];
@@ -86,7 +85,6 @@ function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
   return [...expanded, ...expanded];
 }
 
-/** Divide logos em duas filas (índices pares / ímpares) para o mobile. */
 function splitForTwoMobileRows(items: PartnerLogo[]): [PartnerLogo[], PartnerLogo[]] {
   const base = items.length ? items : PLACEHOLDER_LOGOS;
   const row0: PartnerLogo[] = [];
@@ -102,13 +100,13 @@ function splitForTwoMobileRows(items: PartnerLogo[]): [PartnerLogo[], PartnerLog
 function LogoCard({ item, row }: { item: PartnerLogo; row?: boolean }) {
   if (row) {
     return (
-      <div class="flex h-[88px] w-[88px] shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)]">
+      <div class="flex h-[60px] w-[74px] shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)]">
         <Image
           src={item.image}
           alt={item.altText || "Parceiro"}
-          width={120}
-          height={120}
-          class="max-h-[72px] max-w-[72px] object-contain"
+          width={60}
+          height={74}
+          class="max-h-[60] max-w-[74px] object-contain"
           loading="lazy"
           decoding="async"
         />
@@ -207,7 +205,7 @@ export default function Partners({
               {titlePart1 && titlePart2 ? " " : null}
               <p class="text-[#313438]">{titlePart2}</p>
             </h2>
-            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] align-center sm:text-[14px] lg:line-clamp-4">
+            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] text-center sm:text-[14px] lg:line-clamp-4">
               {description}
             </p>
             <div>
@@ -223,7 +221,6 @@ export default function Partners({
           </div>
 
           <div class="relative min-h-[160px] flex-1 min-w-0 overflow-hidden sm:min-h-[180px] lg:min-h-0">
-            {/* Mobile: duas filas — LTR e RTL */}
             <div class="absolute inset-0 flex flex-col justify-center gap-2 overflow-hidden py-1 lg:hidden">
               <div class="relative h-[88px] min-h-0 shrink-0 overflow-hidden">
                 <div
@@ -247,7 +244,6 @@ export default function Partners({
               </div>
             </div>
 
-            {/* Desktop: colunas verticais alternadas */}
             <div class="absolute inset-0 hidden gap-2 sm:gap-2.5 lg:flex lg:gap-3">
               {columnTracks.map((track, colIndex) => (
                 <MarqueeColumn
