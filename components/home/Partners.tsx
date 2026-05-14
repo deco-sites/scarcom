@@ -222,7 +222,7 @@ export default function Partners({
 
           <div class="relative min-h-[160px] flex-1 min-w-0 overflow-hidden sm:min-h-[180px] lg:min-h-0">
             <div class="absolute inset-0 flex flex-col justify-center gap-2 overflow-hidden py-1 lg:hidden">
-              <div class="relative h-[88px] min-h-0 shrink-0 overflow-hidden">
+              <div class="relative min-h-0 shrink-0 overflow-hidden">
                 <div
                   class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-ltr motion-reduce:translate-x-0 motion-reduce:animate-none"
                   style={{ animationDuration: "36s" }}
@@ -232,7 +232,7 @@ export default function Partners({
                   ))}
                 </div>
               </div>
-              <div class="relative h-[88px] min-h-0 shrink-0 overflow-hidden">
+              <div class="relative min-h-0 shrink-0 overflow-hidden">
                 <div
                   class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-rtl motion-reduce:translate-x-0 motion-reduce:animate-none"
                   style={{ animationDuration: "40s" }}
