@@ -5843,6 +5843,19 @@ details.collapse summary::-webkit-details-marker {
 .animate-partners-marquee-x-ltr {
   animation: partners-marquee-x-ltr 40s linear infinite;
 }
+@keyframes partners-marquee-x-rtl {
+
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+.animate-partners-marquee-x-rtl {
+  animation: partners-marquee-x-rtl 40s linear infinite;
+}
 @keyframes sliding {
 
   0% {
@@ -6799,6 +6812,10 @@ details.collapse summary::-webkit-details-marker {
 .px-\[20px\] {
   padding-left: 20px;
   padding-right: 20px;
+}
+.px-\[68px\] {
+  padding-left: 68px;
+  padding-right: 68px;
 }
 .py-0 {
   padding-top: 0px;
@@ -10091,11 +10108,6 @@ details.collapse summary::-webkit-details-marker {
   .lg\:px-\[46px\] {
     padding-left: 46px;
     padding-right: 46px;
-  }
-
-  .lg\:px-\[68px\] {
-    padding-left: 68px;
-    padding-right: 68px;
   }
 
   .lg\:py-0 {

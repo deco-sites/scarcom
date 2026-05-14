@@ -48,7 +48,7 @@ const PLACEHOLDER_LOGOS: PartnerLogo[] = [
 
 const NUM_COLUMNS = 4;
 const MIN_ITEMS_PER_COLUMN = 5;
-const MIN_ITEMS_HORIZONTAL = 5;
+const MIN_ITEMS_HORIZONTAL = 10;
 
 function normalizeSource(source: PartnerLogo[]): PartnerLogo[] {
   if (source.length) return source;
@@ -74,6 +74,7 @@ function buildSeamlessColumnTrack(columnItems: PartnerLogo[]): PartnerLogo[] {
   return [...expanded, ...expanded];
 }
 
+/** Uma faixa horizontal com loop infinito (conteúdo duplicado). */
 function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
   const base = items.length ? items : PLACEHOLDER_LOGOS;
   const expanded: PartnerLogo[] = [];
@@ -83,6 +84,19 @@ function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
     i++;
   }
   return [...expanded, ...expanded];
+}
+
+/** Divide logos em duas filas (índices pares / ímpares) para o mobile. */
+function splitForTwoMobileRows(items: PartnerLogo[]): [PartnerLogo[], PartnerLogo[]] {
+  const base = items.length ? items : PLACEHOLDER_LOGOS;
+  const row0: PartnerLogo[] = [];
+  const row1: PartnerLogo[] = [];
+  base.forEach((item, i) => {
+    (i % 2 === 0 ? row0 : row1).push(item);
+  });
+  if (row0.length === 0) row0.push(...base);
+  if (row1.length === 0) row1.push(...base);
+  return [row0, row1];
 }
 
 function LogoCard({ item, row }: { item: PartnerLogo; row?: boolean }) {
@@ -164,10 +178,20 @@ export default function Partners({
     [columns],
   );
 
-  const horizontalTrack = useMemo(() => {
-    const rows = splitIntoColumns(source, 2);
-    return rows.map((row) => buildSeamlessHorizontalTrack(row));
-  }, [source]);
+  const [mobileRow0Source, mobileRow1Source] = useMemo(
+    () => splitForTwoMobileRows(source),
+    [source],
+  );
+
+  const horizontalTrack0 = useMemo(
+    () => buildSeamlessHorizontalTrack(mobileRow0Source),
+    [mobileRow0Source],
+  );
+
+  const horizontalTrack1 = useMemo(
+    () => buildSeamlessHorizontalTrack(mobileRow1Source),
+    [mobileRow1Source],
+  );
 
   const isExternal = Boolean(buttonHref?.startsWith("http"));
 
@@ -199,23 +223,27 @@ export default function Partners({
           </div>
 
           <div class="relative min-h-[160px] flex-1 min-w-0 overflow-hidden sm:min-h-[180px] lg:min-h-0">
-            {/* Mobile: marquee horizontal com 2 fileiras */}
-            <div class="absolute inset-0 flex flex-col justify-center gap-3 overflow-hidden lg:hidden">
-              <div
-                class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-ltr motion-reduce:translate-x-0 motion-reduce:animate-none"
-                style={{ animationDuration: "38s" }}
-              >
-                {horizontalTrack[0].map((item, i) => (
-                  <LogoCard key={`m1-${item.altText}-${i}`} item={item} row />
-                ))}
+            {/* Mobile: duas filas — LTR e RTL */}
+            <div class="absolute inset-0 flex flex-col justify-center gap-2 overflow-hidden py-1 lg:hidden">
+              <div class="relative h-[88px] min-h-0 shrink-0 overflow-hidden">
+                <div
+                  class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-ltr motion-reduce:translate-x-0 motion-reduce:animate-none"
+                  style={{ animationDuration: "36s" }}
+                >
+                  {horizontalTrack0.map((item, i) => (
+                    <LogoCard key={`m0-${item.altText}-${i}`} item={item} row />
+                  ))}
+                </div>
               </div>
-              <div
-                class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-rtl motion-reduce:translate-x-0 motion-reduce:animate-none"
-                style={{ animationDuration: "42s" }}
-              >
-                {horizontalTrack[1].map((item, i) => (
-                  <LogoCard key={`m2-${item.altText}-${i}`} item={item} row />
-                ))}
+              <div class="relative h-[88px] min-h-0 shrink-0 overflow-hidden">
+                <div
+                  class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-rtl motion-reduce:translate-x-0 motion-reduce:animate-none"
+                  style={{ animationDuration: "40s" }}
+                >
+                  {horizontalTrack1.map((item, i) => (
+                    <LogoCard key={`m1-${item.altText}-${i}`} item={item} row />
+                  ))}
+                </div>
               </div>
             </div>
 
