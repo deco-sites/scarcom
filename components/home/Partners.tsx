@@ -25,13 +25,8 @@ export interface Props {
    */
   description?: string;
   /**
-   * @title Texto do botão
-   * @default Ver mais parceiros
-   */
-  buttonText?: string;
-  /**
-   * @title URL do botão (página de parceiros)
-   * @description Use um caminho interno (ex.: /parceiros) ou URL completa.
+   * @title URL do botão
+   * @default /parceiros
    */
   buttonHref?: string;
   /** @title Logos dos parceiros */
@@ -53,6 +48,7 @@ const PLACEHOLDER_LOGOS: PartnerLogo[] = [
 
 const NUM_COLUMNS = 4;
 const MIN_ITEMS_PER_COLUMN = 5;
+const MIN_ITEMS_HORIZONTAL = 10;
 
 function normalizeSource(source: PartnerLogo[]): PartnerLogo[] {
   if (source.length) return source;
@@ -67,7 +63,6 @@ function splitIntoColumns(items: PartnerLogo[], n: number): PartnerLogo[][] {
   return cols;
 }
 
-/** Uma coluna com altura suficiente para o loop; conteúdo duplicado para marquee infinito. */
 function buildSeamlessColumnTrack(columnItems: PartnerLogo[]): PartnerLogo[] {
   const base = columnItems.length ? columnItems : PLACEHOLDER_LOGOS;
   const expanded: PartnerLogo[] = [];
@@ -79,7 +74,34 @@ function buildSeamlessColumnTrack(columnItems: PartnerLogo[]): PartnerLogo[] {
   return [...expanded, ...expanded];
 }
 
-function LogoCard({ item }: { item: PartnerLogo }) {
+/** Uma única fila para mobile: mesma lógica de duplicação que o marquee vertical. */
+function buildSeamlessHorizontalTrack(items: PartnerLogo[]): PartnerLogo[] {
+  const base = items.length ? items : PLACEHOLDER_LOGOS;
+  const expanded: PartnerLogo[] = [];
+  let i = 0;
+  while (expanded.length < MIN_ITEMS_HORIZONTAL) {
+    expanded.push(base[i % base.length]!);
+    i++;
+  }
+  return [...expanded, ...expanded];
+}
+
+function LogoCard({ item, row }: { item: PartnerLogo; row?: boolean }) {
+  if (row) {
+    return (
+      <div class="flex h-[88px] w-[88px] shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)]">
+        <Image
+          src={item.image}
+          alt={item.altText || "Parceiro"}
+          width={120}
+          height={120}
+          class="max-h-[72px] max-w-[72px] object-contain"
+          loading="lazy"
+          decoding="async"
+        />
+      </div>
+    );
+  }
   return (
     <div class="flex aspect-square w-full shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)] sm:p-3">
       <Image
@@ -128,7 +150,6 @@ export default function Partners({
   titlePart2 = "confiam na Scarcom",
   description =
     "Empresas que contam com a Scarcom para manter seus ambientes de tecnologia sempre funcionando.",
-  buttonText = "Ver mais parceiros",
   buttonHref = "/parceiros",
   logos,
 }: Props) {
@@ -144,6 +165,11 @@ export default function Partners({
     [columns],
   );
 
+  const horizontalTrack = useMemo(
+    () => buildSeamlessHorizontalTrack(source),
+    [source],
+  );
+
   const isExternal = Boolean(buttonHref?.startsWith("http"));
 
   const durations = [30, 34, 28, 36];
@@ -151,14 +177,14 @@ export default function Partners({
   return (
     <section class="box-border w-full max-h-[440px] overflow-hidden px-4 py-2">
       <div class="mx-auto h-[440px] max-w-[1536px]">
-        <div class="flex max-h-[440px] min-h-0 flex-col overflow-hidden rounded-[20px] bg-[#0153881A] lg:h-[440px] lg:pl-[80px] lg:pr-[59px] lg:py-0 shadow-sm sm:px-[14px] sm:py-[42px] lg:flex-row lg:items-stretch">
-          <div class="mb-4 flex min-h-0 shrink-0 flex-col justify-center gap-3 lg:mb-0 lg:w-[40%] lg:max-w-md lg:gap-4 lg:pr-8">
-            <h2 class="text-[38px] font-bold leading-[44px] tracking-tight text-[#313438] sm:text-[32px] lg:text-[38px]">
+        <div class="flex max-h-[440px] min-h-0 flex-col overflow-hidden rounded-[20px] bg-[#0153881A] lg:h-[440px] lg:pl-[80px] lg:pr-[59px] lg:py-0 shadow-sm sm:px-[14px] py-[42px] lg:flex-row lg:items-stretch">
+          <div class="mb-[26px] flex min-h-0 shrink-0 flex-col justify-center gap-3 items-center sm:mb-[0] lg:mb-0 lg:w-[40%] lg:max-w-md lg:gap-4 lg:pr-8">
+            <h2 class="text-[38px] font-bold leading-[44px] tracking-tight text-[#313438] text-center sm:text-[32px] lg:text-[38px]">
               <p class="text-[#015388]">{titlePart1}</p>
               {titlePart1 && titlePart2 ? " " : null}
               <p class="text-[#313438]">{titlePart2}</p>
             </h2>
-            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] sm:text-[14px] lg:line-clamp-4">
+            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] align-center sm:text-[14px] lg:line-clamp-4">
               {description}
             </p>
             <div>
@@ -166,15 +192,28 @@ export default function Partners({
                 href={buttonHref || "#"}
                 target={isExternal ? "_blank" : undefined}
                 rel={isExternal ? "noopener noreferrer" : undefined}
-                class="inline-flex items-center justify-center rounded-full bg-[#015388] px-[68px] py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[14px]"
+                class="inline-flex items-center justify-center rounded-full bg-[#015388] lg:px-[68px] py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[14px]"
               >
-                {buttonText}
+                Ver mais parceiros
               </a>
             </div>
           </div>
 
           <div class="relative min-h-[160px] flex-1 min-w-0 overflow-hidden sm:min-h-[180px] lg:min-h-0">
-            <div class="absolute inset-0 flex gap-2 sm:gap-2.5 lg:gap-3">
+            {/* Mobile: marquee horizontal (esquerda → direita) */}
+            <div class="absolute inset-0 flex items-center overflow-hidden lg:hidden">
+              <div
+                class="flex w-max flex-row gap-2 will-change-transform animate-partners-marquee-x-ltr motion-reduce:translate-x-0 motion-reduce:animate-none"
+                style={{ animationDuration: "38s" }}
+              >
+                {horizontalTrack.map((item, i) => (
+                  <LogoCard key={`m-${item.altText}-${i}`} item={item} row />
+                ))}
+              </div>
+            </div>
+
+            {/* Desktop: colunas verticais alternadas */}
+            <div class="absolute inset-0 hidden gap-2 sm:gap-2.5 lg:flex lg:gap-3">
               {columnTracks.map((track, colIndex) => (
                 <MarqueeColumn
                   key={colIndex}
