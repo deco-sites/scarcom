@@ -85,9 +85,9 @@ function LogoCard({ item }: { item: PartnerLogo }) {
       <Image
         src={item.image}
         alt={item.altText || "Parceiro"}
-        width={140}
-        height={140}
-        class="max-h-full max-w-full object-contain"
+        width={156}
+        height={156}
+        class="max-h-[156px] max-w-[156px] object-contain"
         loading="lazy"
         decoding="async"
       />
@@ -150,15 +150,15 @@ export default function Partners({
 
   return (
     <section class="box-border w-full max-h-[440px] overflow-hidden px-4 py-2">
-      <div class="mx-auto max-h-[440px] max-w-7xl">
-        <div class="flex max-h-[440px] min-h-0 flex-col overflow-hidden rounded-[24px] bg-[#E9F0F5] p-4 shadow-sm sm:rounded-[28px] sm:p-5 lg:flex-row lg:items-stretch lg:rounded-[32px] lg:p-6 lg:pb-6 lg:pl-6 lg:pr-2 lg:pt-6">
+      <div class="mx-auto h-[440px] max-w-[1536px]">
+        <div class="flex max-h-[440px] min-h-0 flex-col overflow-hidden rounded-[20px] bg-[#0153881A] pl-[80px] pr-[59px] shadow-sm sm:px-[14px] sm:py-[42px] lg:flex-row lg:items-stretch">
           <div class="mb-4 flex min-h-0 shrink-0 flex-col justify-center gap-3 lg:mb-0 lg:w-[40%] lg:max-w-md lg:gap-4 lg:pr-8">
-            <h2 class="text-[22px] font-bold leading-[1.2] tracking-tight text-[#2d3748] sm:text-[24px] lg:text-[28px]">
-              <span class="text-[#1e6ba8]">{titlePart1}</span>
+            <h2 class="text-[38px] font-bold leading-[44px] tracking-tight text-[#313438] sm:text-[32px] lg:text-[38px]">
+              <p class="text-[#015388]">{titlePart1}</p>
               {titlePart1 && titlePart2 ? " " : null}
-              <span class="text-[#2d3748]">{titlePart2}</span>
+              <p class="text-[#313438]">{titlePart2}</p>
             </h2>
-            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] sm:text-[15px] lg:line-clamp-4">
+            <p class="line-clamp-3 text-[14px] leading-relaxed text-[#4a5568] sm:text-[14px] lg:line-clamp-4">
               {description}
             </p>
             <div>
@@ -166,7 +166,7 @@ export default function Partners({
                 href={buttonHref || "#"}
                 target={isExternal ? "_blank" : undefined}
                 rel={isExternal ? "noopener noreferrer" : undefined}
-                class="inline-flex items-center justify-center rounded-full bg-[#004D80] px-6 py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[15px]"
+                class="inline-flex items-center justify-center rounded-full bg-[#015388] px-[68px] py-2.5 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#004D80] focus-visible:ring-offset-2 sm:px-7 sm:py-3 sm:text-[14px]"
               >
                 {buttonText}
               </a>
