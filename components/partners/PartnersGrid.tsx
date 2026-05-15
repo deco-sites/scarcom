@@ -9,7 +9,6 @@ export interface Props {
   showingCountLabel?: string;
   initialVisibleCount?: number;
   loadMoreCount?: number;
-  loadMoreButtonText?: string;
 }
 
 function normalizeSegment(segment: string) {
@@ -39,7 +38,6 @@ export default function PartnersGrid({
   showingCountLabel = "Exibindo {count} empresas",
   initialVisibleCount = 30,
   loadMoreCount = 18,
-  loadMoreButtonText = "Ver mais parceiros",
 }: Props) {
   const selectedSegment = useSignal<string | null>(null);
   const visibleCount = useSignal(initialVisibleCount);
@@ -75,8 +73,8 @@ export default function PartnersGrid({
   };
 
   return (
-    <div class="flex flex-col gap-6 lg:gap-8">
-      <div class="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0">
+    <div class="flex flex-col">
+      <div class="-mx-4 flex gap-3 overflow-x-auto px-4 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0">
         <FilterButton
           active={selectedSegment.value === null}
           label={allSegmentsLabel}
@@ -94,14 +92,14 @@ export default function PartnersGrid({
         ))}
       </div>
 
-      <p class="text-[14px] text-[#6B7280]">{showingLabel}</p>
+      <p class="text-[14px] text-[#5A5A5A] mt-4 mb-8">{showingLabel}</p>
 
       {displayedPartners.length > 0
         ? (
-          <ul class="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-4">
+          <ul class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-6">
             {displayedPartners.map((partner, index) => (
               <li key={`${partner.alt}-${partner.segment}-${index}`}>
-                <div class="flex aspect-[4/3] items-center justify-center rounded-xl border border-[#E5E7EB] bg-white p-4 shadow-[0_1px_3px_rgba(0,0,0,0.06)]">
+                <div class="flex aspect-[4/3] items-center justify-center rounded-[14px] border border-[#E5E7EB] bg-white p-4">
                   <Image
                     src={partner.image}
                     alt={partner.alt || "Parceiro"}
@@ -123,7 +121,7 @@ export default function PartnersGrid({
         )}
 
       {hasMore && (
-        <div class="flex justify-center pt-2">
+        <div class="flex justify-center pt-8">
           <button
             type="button"
             class="inline-flex items-center justify-center rounded-full bg-[#015388] px-8 py-3 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#015388] focus-visible:ring-offset-2"
@@ -134,7 +132,7 @@ export default function PartnersGrid({
               );
             }}
           >
-            {loadMoreButtonText}
+            Ver mais parceiros
           </button>
         </div>
       )}
@@ -157,16 +155,16 @@ function FilterButton({
     <button
       type="button"
       onClick={onClick}
-      class={`inline-flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-[13px] font-medium transition-colors sm:text-[14px] ${
+      class={`inline-flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-xs font-medium transition-colors sm:text-xs lg:text-sm ${
         active
-          ? "border-[#015388] bg-[#015388] text-white"
-          : "border-[#E5E7EB] bg-white text-[#4B5563] hover:border-[#015388]/40"
+          ? "border-none bg-[#003C71] text-white"
+          : "border-[#E0E0E0] bg-white text-[#5A5A5A] hover:border-[#015388]/40"
       }`}
     >
       <span>{label}</span>
       <span
-        class={`inline-flex min-w-[1.5rem] items-center justify-center rounded-full px-1.5 py-0.5 text-[12px] font-semibold ${
-          active ? "bg-white/20 text-white" : "bg-[#F3F4F6] text-[#6B7280]"
+        class={`inline-flex min-w-[1.5rem] items-center justify-center rounded-full px-1.5 py-0.5 text-xs font-semibold ${
+          active ? "bg-[#FFFFFF33] text-white" : "bg-[#F0F4F8] text-[#5A5A5A]"
         }`}
       >
         {count}

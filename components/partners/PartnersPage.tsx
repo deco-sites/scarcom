@@ -56,11 +56,6 @@ export interface Props {
    * @default 18
    */
   loadMoreCount?: number;
-  /**
-   * @title Texto do botão carregar mais
-   * @default Ver mais parceiros
-   */
-  loadMoreButtonText?: string;
 }
 
 export default function PartnersPage({
@@ -69,50 +64,47 @@ export default function PartnersPage({
   partners = DEFAULT_PARTNERS,
   initialVisibleCount = 30,
   loadMoreCount = 18,
-  loadMoreButtonText = "Ver mais parceiros",
 }: Props) {
   const list = partners?.length ? partners : DEFAULT_PARTNERS;
 
   return (
     <div class="w-full bg-white">
-      <div class="mx-auto max-w-[1536px] px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
-        <ul class="mb-10 grid grid-cols-2 gap-3 rounded-2xl bg-[#015388] px-4 py-6 sm:grid-cols-4 sm:gap-0 sm:px-8 sm:py-8 lg:rounded-[20px] lg:px-12">
+      <div class="mx-auto max-w-[1536px] bg-[#F9FAFB] px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
+        <ul class="mb-8 grid grid-cols-2 gap-3 rounded-2xl bg-gradient-to-r from-[#133449] to-[#015388]  px-4 py-6 sm:grid-cols-4 sm:gap-0 sm:px-8 sm:py-8 lg:px-12">
           {STATS.map((stat) => (
             <li
               key={stat.label}
-              class="flex flex-col items-center justify-center gap-1 text-center sm:border-r sm:border-white/20 sm:last:border-r-0"
+              class="flex flex-col items-center justify-center gap-1 text-center"
             >
-              <span class="text-[28px] font-bold leading-none text-white sm:text-[32px] lg:text-[36px]">
+              <span class="text-3xl font-bold leading-none text-white">
                 {stat.value}
               </span>
-              <span class="text-[12px] font-medium text-white/90 sm:text-[13px] lg:text-[14px]">
+              <span class="text-[14px] font-medium text-[#DBEAFE]">
                 {stat.label}
               </span>
             </li>
           ))}
         </ul>
 
-        <header class="mb-8 flex flex-col gap-3 lg:mb-10">
+        <header class="mb-8 flex flex-col gap-4">
           <div class="flex items-start gap-3">
             <span
-              class="mt-1 flex h-8 w-8 shrink-0 items-center justify-center text-[#015388]"
+              class="flex h-10 w-10 rounded-[10px] bg-[#01538833] items-center justify-center text-[#133449]"
               aria-hidden
             >
-              <svg
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path d="M12 2l1.8 5.4L19 9l-5.2 1.8L12 16l-1.8-5.2L5 9l5.2-1.6L12 2zm8 14l.9 2.7 2.7.9-2.7.9-.9 2.7-.9-2.7-2.7-.9 2.7-.9.9-2.7 2.7-.9-2.7-.9L20 16zM4 14l.6 1.8L6.4 16l-1.8.6L4 18.4l-.6-1.8L1.6 16l1.8-.6L4 14z" />
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.93694 15.5C9.84766 15.1539 9.66728 14.8381 9.41456 14.5854C9.16184 14.3327 8.84601 14.1523 8.49994 14.063L2.36494 12.481C2.26027 12.4513 2.16815 12.3883 2.10255 12.3014C2.03696 12.2146 2.00146 12.1088 2.00146 12C2.00146 11.8912 2.03696 11.7854 2.10255 11.6986C2.16815 11.6118 2.26027 11.5487 2.36494 11.519L8.49994 9.93601C8.84589 9.84681 9.16163 9.66658 9.41434 9.41404C9.66705 9.16151 9.84751 8.84589 9.93694 8.50001L11.5189 2.36501C11.5483 2.25992 11.6113 2.16735 11.6983 2.1014C11.7852 2.03545 11.8913 1.99976 12.0004 1.99976C12.1096 1.99976 12.2157 2.03545 12.3026 2.1014C12.3896 2.16735 12.4525 2.25992 12.4819 2.36501L14.0629 8.50001C14.1522 8.84608 14.3326 9.1619 14.5853 9.41462C14.838 9.66734 15.1539 9.84773 15.4999 9.93701L21.6349 11.518C21.7404 11.5471 21.8335 11.61 21.8998 11.6971C21.9661 11.7841 22.002 11.8906 22.002 12C22.002 12.1094 21.9661 12.2159 21.8998 12.3029C21.8335 12.39 21.7404 12.4529 21.6349 12.482L15.4999 14.063C15.1539 14.1523 14.838 14.3327 14.5853 14.5854C14.3326 14.8381 14.1522 15.1539 14.0629 15.5L12.4809 21.635C12.4515 21.7401 12.3886 21.8327 12.3016 21.8986C12.2147 21.9646 12.1086 22.0003 11.9994 22.0003C11.8903 22.0003 11.7842 21.9646 11.6973 21.8986C11.6103 21.8327 11.5473 21.7401 11.5179 21.635L9.93694 15.5Z" stroke="#133449" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M20 3V7" stroke="#133449" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M22 5H18" stroke="#133449" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M4 17V19" stroke="#133449" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M5 18H3" stroke="#133449" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
               </svg>
             </span>
-            <h1 class="text-[24px] font-bold leading-tight text-[#015388] sm:text-[28px] lg:text-[32px]">
+            <h1 class="text-[22px] font-bold leading-[100%] text-[#133449] sm:text-[22px] lg:text-3xl">
               {PAGE_TITLE}
             </h1>
           </div>
-          <p class="max-w-3xl text-[14px] leading-relaxed text-[#6B7280] sm:text-[15px] lg:pl-11">
+          <p class="max-w-3xl text-[14px] leading-[100%] text-[#133449] sm:text-[14px] lg:text-base">
             {PAGE_SUBTITLE}
           </p>
         </header>
@@ -123,20 +115,19 @@ export default function PartnersPage({
           showingCountLabel={showingCountLabel}
           initialVisibleCount={initialVisibleCount}
           loadMoreCount={loadMoreCount}
-          loadMoreButtonText={loadMoreButtonText}
         />
       </div>
 
-      <section class="border-t border-[#E5E7EB] bg-[#F9FAFB]">
+      <section>
         <div class="mx-auto max-w-[1536px] px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
-          <p class="mb-2 text-[13px] font-semibold uppercase tracking-wide text-[#015388]">
+          <p class="mb-4 text-sm font-semibold uppercase tracking-wide text-[#133449] bg-[#EFF6FF] rounded-full">
             {ABOUT_EYEBROW}
           </p>
-          <h2 class="mb-6 text-[22px] font-bold text-[#313438] sm:text-[26px] lg:text-[28px]">
+          <h2 class="mb-8 text-2xl font-bold text-[#111827] sm:text-2xl lg:text-3xl">
             {ABOUT_TITLE}
           </h2>
           <div
-            class="prose prose-sm max-w-none text-[14px] leading-relaxed text-[#4B5563] sm:text-[15px] [&_p]:mb-4 [&_p:last-child]:mb-0"
+            class="prose prose-sm max-w-none text-sm leading-relaxed text-[#6B7280] [&_p]:mb-4 [&_p:last-child]:mb-0"
             dangerouslySetInnerHTML={{ __html: ABOUT_CONTENT }}
           />
         </div>
