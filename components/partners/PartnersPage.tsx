@@ -87,7 +87,7 @@ export default function PartnersPage({
         </ul>
 
         <header class="mb-8 flex flex-col gap-4">
-          <div class="flex items-start gap-3">
+          <div class="flex items-start gap-3 flex-col lg:flex-row">
             <span
               class="flex h-10 w-10 rounded-[10px] bg-[#01538833] items-center justify-center text-[#133449]"
               aria-hidden
@@ -104,7 +104,7 @@ export default function PartnersPage({
               {PAGE_TITLE}
             </h1>
           </div>
-          <p class="max-w-3xl text-[14px] leading-[100%] text-[#133449] sm:text-[14px] lg:text-base">
+          <p class="text-[14px] leading-[165%] text-[#133449] sm:text-[14px] lg:text-base">
             {PAGE_SUBTITLE}
           </p>
         </header>
@@ -120,7 +120,7 @@ export default function PartnersPage({
 
       <section>
         <div class="mx-auto max-w-[1536px] px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
-          <p class="mb-4 text-sm font-semibold uppercase tracking-wide text-[#133449] bg-[#EFF6FF] rounded-full">
+          <p class="w-fit px-4 py-2 mb-4 text-sm font-semibold tracking-wide text-[#133449] bg-[#EFF6FF] rounded-full">
             {ABOUT_EYEBROW}
           </p>
           <h2 class="mb-8 text-2xl font-bold text-[#111827] sm:text-2xl lg:text-3xl">
