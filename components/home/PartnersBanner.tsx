@@ -1,6 +1,6 @@
 import { useMemo } from "preact/hooks";
 import type { ImageWidget } from "apps/admin/widgets.ts";
-import Image from "apps/website/components/Image.tsx";
+import PartnerLogoFrame from "../partners/PartnerLogoFrame.tsx";
 
 /** @titleBy altText */
 export interface PartnerLogo {
@@ -100,30 +100,14 @@ function splitForTwoMobileRows(items: PartnerLogo[]): [PartnerLogo[], PartnerLog
 function LogoCard({ item, row }: { item: PartnerLogo; row?: boolean }) {
   if (row) {
     return (
-      <div class="flex h-[60px] w-[74px] shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)]">
-        <Image
-          src={item.image}
-          alt={item.altText || "Parceiro"}
-          width={60}
-          height={74}
-          class="max-h-[60] max-w-[74px] object-contain"
-          loading="lazy"
-          decoding="async"
-        />
+      <div class="flex h-[60px] w-[74px] shrink-0 rounded-xl border border-black/[0.06] bg-white p-1.5 shadow-[0_1px_3px_rgba(0,0,0,0.08)]">
+        <PartnerLogoFrame src={item.image} alt={item.altText || "Parceiro"} />
       </div>
     );
   }
   return (
-    <div class="flex aspect-square w-full shrink-0 items-center justify-center rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)] sm:p-3">
-      <Image
-        src={item.image}
-        alt={item.altText || "Parceiro"}
-        width={156}
-        height={156}
-        class="max-h-[156px] max-w-[156px] object-contain"
-        loading="lazy"
-        decoding="async"
-      />
+    <div class="aspect-square w-full shrink-0 rounded-xl border border-black/[0.06] bg-white p-2 shadow-[0_1px_3px_rgba(0,0,0,0.08)] sm:p-3">
+      <PartnerLogoFrame src={item.image} alt={item.altText || "Parceiro"} />
     </div>
   );
 }

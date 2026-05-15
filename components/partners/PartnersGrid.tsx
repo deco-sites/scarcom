@@ -1,6 +1,6 @@
 import { useMemo } from "preact/hooks";
 import { useSignal } from "@preact/signals";
-import Image from "apps/website/components/Image.tsx";
+import PartnerLogoFrame from "./PartnerLogoFrame.tsx";
 import type { PartnerItem } from "./types.ts";
 
 export interface Props {
@@ -99,15 +99,10 @@ export default function PartnersGrid({
           <ul class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-6">
             {displayedPartners.map((partner, index) => (
               <li key={`${partner.alt}-${partner.segment}-${index}`}>
-                <div class="flex aspect-[4/3] items-center justify-center rounded-[14px] border border-[#E5E7EB] bg-white p-4">
-                  <Image
+                <div class="aspect-[4/3] w-full rounded-[14px] border border-[#E5E7EB] bg-white p-3 sm:p-4">
+                  <PartnerLogoFrame
                     src={partner.image}
                     alt={partner.alt || "Parceiro"}
-                    width={200}
-                    height={120}
-                    class="max-h-full max-w-full object-contain"
-                    loading="lazy"
-                    decoding="async"
                   />
                 </div>
               </li>
