@@ -35,6 +35,7 @@ import * as $LogComponent from "./islands/LogComponent.tsx";
 import * as $Newsletter from "./islands/Newsletter.tsx";
 import * as $NewsletterModal from "./islands/NewsletterModal.tsx";
 import * as $OutOfStock from "./islands/OutOfStock.tsx";
+import * as $PartnersGrid from "./islands/PartnersGrid.tsx";
 import * as $ProductImageZoom from "./islands/ProductImageZoom.tsx";
 import * as $ProductShelf from "./islands/ProductShelf.tsx";
 import * as $RequestQuote from "./islands/RequestQuote.tsx";
@@ -86,6 +87,7 @@ const manifest = {
     "./islands/Newsletter.tsx": $Newsletter,
     "./islands/NewsletterModal.tsx": $NewsletterModal,
     "./islands/OutOfStock.tsx": $OutOfStock,
+    "./islands/PartnersGrid.tsx": $PartnersGrid,
     "./islands/ProductImageZoom.tsx": $ProductImageZoom,
     "./islands/ProductShelf.tsx": $ProductShelf,
     "./islands/RequestQuote.tsx": $RequestQuote,
