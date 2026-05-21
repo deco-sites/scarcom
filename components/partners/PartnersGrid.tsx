@@ -1,0 +1,169 @@
+import { useMemo } from "preact/hooks";
+import { useSignal } from "@preact/signals";
+import PartnerLogoFrame from "./PartnerLogoFrame.tsx";
+import type { PartnerItem } from "./types.ts";
+
+export interface Props {
+  partners: PartnerItem[];
+  allSegmentsLabel?: string;
+  showingCountLabel?: string;
+  initialVisibleCount?: number;
+  loadMoreCount?: number;
+}
+
+function normalizeSegment(segment: string) {
+  return segment.trim().toLowerCase();
+}
+
+function buildSegmentFilters(partners: PartnerItem[]) {
+  const map = new Map<string, { label: string; count: number }>();
+  for (const partner of partners) {
+    const key = normalizeSegment(partner.segment);
+    if (!key) continue;
+    const existing = map.get(key);
+    if (existing) {
+      existing.count += 1;
+    } else {
+      map.set(key, { label: partner.segment.trim(), count: 1 });
+    }
+  }
+  return Array.from(map.values()).sort((a, b) =>
+    a.label.localeCompare(b.label, "pt-BR")
+  );
+}
+
+export default function PartnersGrid({
+  partners,
+  allSegmentsLabel = "Todos os segmentos",
+  showingCountLabel = "Exibindo {count} empresas",
+  initialVisibleCount = 30,
+  loadMoreCount = 18,
+}: Props) {
+  const selectedSegment = useSignal<string | null>(null);
+  const visibleCount = useSignal(initialVisibleCount);
+
+  const segmentFilters = useMemo(() => buildSegmentFilters(partners), [partners]);
+
+  const filteredPartners = useMemo(() => {
+    if (!selectedSegment.value) return partners;
+    const key = normalizeSegment(selectedSegment.value);
+    return partners.filter((p) => normalizeSegment(p.segment) === key);
+  }, [partners, selectedSegment.value]);
+
+  const displayedPartners = useMemo(
+    () => filteredPartners.slice(0, visibleCount.value),
+    [filteredPartners, visibleCount.value],
+  );
+
+  const hasMore = displayedPartners.length < filteredPartners.length;
+
+  const showingLabel = showingCountLabel.replace(
+    "{count}",
+    String(filteredPartners.length),
+  );
+
+  const selectAll = () => {
+    selectedSegment.value = null;
+    visibleCount.value = initialVisibleCount;
+  };
+
+  const selectSegment = (label: string) => {
+    selectedSegment.value = label;
+    visibleCount.value = initialVisibleCount;
+  };
+
+  return (
+    <div class="flex flex-col">
+      <div class="-mx-4 flex gap-3 overflow-x-auto px-4 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0">
+        <FilterButton
+          active={selectedSegment.value === null}
+          label={allSegmentsLabel}
+          count={partners.length}
+          onClick={selectAll}
+        />
+        {segmentFilters.map(({ label, count }) => (
+          <FilterButton
+            key={label}
+            active={selectedSegment.value === label}
+            label={label}
+            count={count}
+            onClick={() => selectSegment(label)}
+          />
+        ))}
+      </div>
+
+      <p class="text-[14px] text-[#5A5A5A] mt-4 mb-8">{showingLabel}</p>
+
+      {displayedPartners.length > 0
+        ? (
+          <ul class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 lg:gap-6">
+            {displayedPartners.map((partner, index) => (
+              <li key={`${partner.alt}-${partner.segment}-${index}`}>
+                <div class="aspect-[4/3] w-full rounded-[14px] border border-[#E5E7EB] bg-white p-3 sm:p-4">
+                  <PartnerLogoFrame
+                    src={partner.image}
+                    alt={partner.alt || "Parceiro"}
+                  />
+                </div>
+              </li>
+            ))}
+          </ul>
+        )
+        : (
+          <p class="py-12 text-center text-[15px] text-[#6B7280]">
+            Nenhum parceiro encontrado para este segmento.
+          </p>
+        )}
+
+      {hasMore && (
+        <div class="flex justify-center pt-8">
+          <button
+            type="button"
+            class="inline-flex items-center justify-center rounded-full bg-[#015388] px-8 py-3 text-[14px] font-medium text-white transition-opacity hover:opacity-90 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#015388] focus-visible:ring-offset-2"
+            onClick={() => {
+              visibleCount.value = Math.min(
+                visibleCount.value + loadMoreCount,
+                filteredPartners.length,
+              );
+            }}
+          >
+            Ver mais parceiros
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function FilterButton({
+  label,
+  count,
+  active,
+  onClick,
+}: {
+  label: string;
+  count: number;
+  active: boolean;
+  onClick: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      class={`inline-flex shrink-0 items-center gap-2 rounded-full border px-4 py-2 text-xs font-medium transition-colors sm:text-xs lg:text-sm ${
+        active
+          ? "border-none bg-[#003C71] text-white"
+          : "border-[#E0E0E0] bg-white text-[#5A5A5A] hover:border-[#015388]/40"
+      }`}
+    >
+      <span>{label}</span>
+      <span
+        class={`inline-flex min-w-[1.5rem] items-center justify-center rounded-full px-1.5 py-0.5 text-xs font-semibold ${
+          active ? "bg-[#FFFFFF33] text-white" : "bg-[#F0F4F8] text-[#5A5A5A]"
+        }`}
+      >
+        {count}
+      </span>
+    </button>
+  );
+}

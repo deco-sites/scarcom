@@ -20,6 +20,9 @@ import * as $DetailsControl from "./islands/DetailsControl.tsx";
 import * as $ExchangeForm from "./islands/ExchangeForm.tsx";
 import * as $ExpandableDescription from "./islands/ExpandableDescription.tsx";
 import * as $Form from "./islands/Form.tsx";
+import * as $HeaderButton from "./islands/HeaderButton.tsx";
+import * as $HeaderModals from "./islands/HeaderModals.tsx";
+import * as $HeaderSearchbar from "./islands/HeaderSearchbar.tsx";
 import * as $Header_Buttons from "./islands/Header/Buttons.tsx";
 import * as $Header_Cart_linx from "./islands/Header/Cart/linx.tsx";
 import * as $Header_Cart_nuvemshop from "./islands/Header/Cart/nuvemshop.tsx";
@@ -27,14 +30,12 @@ import * as $Header_Cart_shopify from "./islands/Header/Cart/shopify.tsx";
 import * as $Header_Cart_vnda from "./islands/Header/Cart/vnda.tsx";
 import * as $Header_Cart_vtex from "./islands/Header/Cart/vtex.tsx";
 import * as $Header_Cart_wake from "./islands/Header/Cart/wake.tsx";
-import * as $HeaderButton from "./islands/HeaderButton.tsx";
-import * as $HeaderModals from "./islands/HeaderModals.tsx";
-import * as $HeaderSearchbar from "./islands/HeaderSearchbar.tsx";
 import * as $LgdpModal from "./islands/LgdpModal.tsx";
 import * as $LogComponent from "./islands/LogComponent.tsx";
 import * as $Newsletter from "./islands/Newsletter.tsx";
 import * as $NewsletterModal from "./islands/NewsletterModal.tsx";
 import * as $OutOfStock from "./islands/OutOfStock.tsx";
+import * as $PartnersGrid from "./islands/PartnersGrid.tsx";
 import * as $ProductImageZoom from "./islands/ProductImageZoom.tsx";
 import * as $ProductShelf from "./islands/ProductShelf.tsx";
 import * as $RequestQuote from "./islands/RequestQuote.tsx";
@@ -71,6 +72,9 @@ const manifest = {
     "./islands/ExchangeForm.tsx": $ExchangeForm,
     "./islands/ExpandableDescription.tsx": $ExpandableDescription,
     "./islands/Form.tsx": $Form,
+    "./islands/HeaderButton.tsx": $HeaderButton,
+    "./islands/HeaderModals.tsx": $HeaderModals,
+    "./islands/HeaderSearchbar.tsx": $HeaderSearchbar,
     "./islands/Header/Buttons.tsx": $Header_Buttons,
     "./islands/Header/Cart/linx.tsx": $Header_Cart_linx,
     "./islands/Header/Cart/nuvemshop.tsx": $Header_Cart_nuvemshop,
@@ -78,14 +82,12 @@ const manifest = {
     "./islands/Header/Cart/vnda.tsx": $Header_Cart_vnda,
     "./islands/Header/Cart/vtex.tsx": $Header_Cart_vtex,
     "./islands/Header/Cart/wake.tsx": $Header_Cart_wake,
-    "./islands/HeaderButton.tsx": $HeaderButton,
-    "./islands/HeaderModals.tsx": $HeaderModals,
-    "./islands/HeaderSearchbar.tsx": $HeaderSearchbar,
     "./islands/LgdpModal.tsx": $LgdpModal,
     "./islands/LogComponent.tsx": $LogComponent,
     "./islands/Newsletter.tsx": $Newsletter,
     "./islands/NewsletterModal.tsx": $NewsletterModal,
     "./islands/OutOfStock.tsx": $OutOfStock,
+    "./islands/PartnersGrid.tsx": $PartnersGrid,
     "./islands/ProductImageZoom.tsx": $ProductImageZoom,
     "./islands/ProductShelf.tsx": $ProductShelf,
     "./islands/RequestQuote.tsx": $RequestQuote,

@@ -97,8 +97,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item {
+  tbody tr.product-item {
   height: 100px;
 }
 .container-cart
@@ -107,8 +106,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .product-image {
   padding: 0 10px;
   min-width: 100px;
@@ -119,11 +117,9 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .product-image
-  a
-  img {
+  a img {
   width: 80px;
   height: auto;
   max-width: 100px;
@@ -134,8 +130,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .product-name
   a {
   display: inline-block;
@@ -147,8 +142,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .product-name
   a:hover {
   text-decoration: underline;
@@ -159,8 +153,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .product-price {
   font-weight: 600;
 }
@@ -170,8 +163,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   input {
   margin: 0;
@@ -184,8 +176,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change {
   display: inline-flex;
@@ -202,8 +193,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change.item-quantity-change-decrement {
   right: -5px;
@@ -215,8 +205,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change.item-quantity-change-decrement
   i:before {
@@ -228,8 +217,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change.item-quantity-change-increment {
   left: -5px;
@@ -241,8 +229,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change.item-quantity-change-increment
   i:before {
@@ -254,8 +241,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .quantity
   a.item-quantity-change
   i {
@@ -267,8 +253,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .item-remove {
   padding: 0;
 }
@@ -278,8 +263,7 @@ body .container-cart {
   .cart-template-holder
   .cart
   .cart-items
-  tbody
-  tr.product-item
+  tbody tr.product-item
   .item-remove
   a {
   padding: 0;
@@ -409,9 +393,7 @@ body .container-cart {
   .summary-totalizers
   .accordion-inner
   .table
-  tfoot
-  tr
-  td {
+  tfoot tr td {
   font-size: 14px;
 }
 .container-cart
@@ -502,8 +484,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    thead
-    th {
+    thead th {
     text-align: left;
     font-size: 18px;
   }
@@ -514,8 +495,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item {
+    tbody tr.product-item {
     font-size: 14px;
     width: 90%;
     margin: auto;
@@ -531,8 +511,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     td {
     text-align: left;
   }
@@ -543,8 +522,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-name {
     margin-left: 100px;
     margin-right: 25px;
@@ -556,8 +534,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-name
     span {
     display: none;
@@ -569,8 +546,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-name
     a {
     max-width: 95%;
@@ -582,8 +558,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-price {
     position: absolute;
     bottom: 10px;
@@ -596,8 +571,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .quantity {
     width: 200px;
     position: absolute;
@@ -611,8 +585,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .quantity
     input {
     padding: 0;
@@ -627,8 +600,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .quantity
     a {
     padding: 0;
@@ -642,8 +614,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .item-remove {
     margin: 15px 15px 0 0;
   }
@@ -654,8 +625,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     table.cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .item-remove
     a:hover {
     color: #f99400;
@@ -695,8 +665,7 @@ body .container-cart {
     .summary-template-holder
     .summary[style="display: block;"]
     .summary-totalizers
-    table
-    td.info,
+    table td.info,
   body.body-cart
     .container-cart
     .cart-active
@@ -704,8 +673,7 @@ body .container-cart {
     .summary-template-holder
     .summary[style="display: block;"]
     .summary-totalizers
-    table
-    td.monetary {
+    table td.monetary {
     padding: 0;
     width: 175px;
     font-size: 14px;
@@ -717,8 +685,7 @@ body .container-cart {
     .summary-template-holder
     .summary[style="display: block;"]
     .summary-totalizers
-    table
-    td.info,
+    table td.info,
   body.body-cart
     .container-cart
     .cart-active
@@ -726,8 +693,7 @@ body .container-cart {
     .summary-template-holder
     .summary[style="display: block;"]
     .summary-totalizers
-    table
-    td.info
+    table td.info
     span {
     font-size: 12px;
   }
@@ -738,8 +704,7 @@ body .container-cart {
     .summary-template-holder
     .summary[style="display: block;"]
     .summary-totalizers
-    table
-    td.space {
+    table td.space {
     width: 15px;
   }
   body.body-cart
@@ -812,8 +777,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    thead
-    th {
+    thead th {
     text-align: left;
     font-size: 18px;
   }
@@ -823,8 +787,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item {
+    tbody tr.product-item {
     font-size: 16px;
   }
   .container-cart
@@ -833,8 +796,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     td {
     text-align: left;
   }
@@ -844,8 +806,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-name {
     max-width: 300px;
     width: 300px;
@@ -856,8 +817,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .product-name
     a {
     margin-left: 12px;
@@ -869,8 +829,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .quantity
     input {
     font-size: 16px;
@@ -881,8 +840,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .quantity-price {
     font-weight: 600;
   }
@@ -892,8 +850,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .item-remove {
     padding: 0;
   }
@@ -903,8 +860,7 @@ body .container-cart {
     .cart-template-holder
     .cart
     .cart-items
-    tbody
-    tr.product-item
+    tbody tr.product-item
     .item-remove
     a:hover {
     color: #f99400;

@@ -106,6 +106,19 @@
     background-color: rgba(0, 0, 0, 0.3);
     animation: modal-pop 0.2s ease-out;
   }
+
+  .partner-logo-frame {
+    @apply flex size-full min-h-0 min-w-0 items-center justify-center;
+  }
+
+  .partner-logo-frame img {
+    width: auto !important;
+    height: auto !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    object-fit: contain !important;
+    object-position: center !important;
+  }
 }
 
 @layer utilities {

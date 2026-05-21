@@ -908,8 +908,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .box-client-info-pj
   .corporate-info-box
   .state-inscription-box
-  label
-  span {
+  label span {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -928,8 +927,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .box-client-info-pj
   .corporate-info-box
   .state-inscription-box
-  label
-  span::before {
+  label span::before {
   content: "";
   width: 20px;
   height: 20px;
@@ -946,8 +944,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .box-client-info-pj
   .corporate-info-box
   .state-inscription-box
-  label
-  input {
+  label input {
   display: none;
 }
 
@@ -957,8 +954,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .box-client-info-pj
   .corporate-info-box
   .state-inscription-box
-  label
-  input:checked
+  label input:checked
   + span::before {
   background-color: #fff;
   background-position: center;
@@ -1555,8 +1551,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .accordion-inner
   .shp-alert
   .shp-alert-icon
-  svg
-  g {
+  svg g {
   fill: #e2b93b;
 }
 
@@ -1654,8 +1649,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .shipping-data.active
   .accordion-inner
   .vtex-omnishipping-1-x-leanShippingGroupList
-  label
-  div {
+  label div {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -1668,8 +1662,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .shipping-data.active
   .accordion-inner
   .vtex-omnishipping-1-x-leanShippingGroupList
-  label
-  .shp-option-icon {
+  label .shp-option-icon {
   content: "";
   width: 20px;
   height: 20px;
@@ -1685,8 +1678,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .shipping-data.active
   .accordion-inner
   .vtex-omnishipping-1-x-leanShippingGroupList
-  label
-  .shp-option-text-price {
+  label .shp-option-text-price {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
@@ -2305,8 +2297,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .accordion-inner
   .address-list
   .address-edit
-  button
-  i {
+  button i {
   display: none;
 }
 
@@ -2416,8 +2407,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .accordion-inner
   .address-list
   .address-create
-  button
-  i {
+  button i {
   display: none;
 }
 
@@ -2498,8 +2488,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .accordion-heading
   .accordion-toggle
   .payment-edit-link
-  a
-  i::before {
+  a i::before {
   content: "";
   width: 18px;
   height: 18px;
@@ -3917,15 +3906,13 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tbody
-  tr,
+  tbody tr,
 .cart-template.mini-cart
   .cart-fixed
   .summary-template-holder
   .summary-totalizers
   .table
-  tfoot
-  tr {
+  tfoot tr {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 400;
@@ -3944,8 +3931,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tbody
-  .srp-summary-result {
+  tbody .srp-summary-result {
   display: none;
 }
 
@@ -3954,9 +3940,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tbody
-  tr
-  td:first-child {
+  tbody tr td:first-child {
   text-align: left;
 }
 
@@ -3965,8 +3949,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tfoot
-  tr {
+  tfoot tr {
   margin: 0;
 }
 
@@ -3975,8 +3958,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tfoot
-  td {
+  tfoot td {
   font-family: "Poppins";
   font-style: normal;
   font-weight: 700;
@@ -3990,8 +3972,7 @@ body:not(.checkout-email) .orderform-template-holder {
   .summary-template-holder
   .summary-totalizers
   .table
-  tfoot
-  .info {
+  tfoot .info {
   text-align: left;
 }
 
@@ -5641,8 +5622,7 @@ body .container-cart .product-item .product-price .list-price {
   display: none;
 }
 
-body
-  .container-cart
+body .container-cart
   .product-item
   .product-price
   .best-price
@@ -5724,8 +5704,7 @@ body .container-cart .product-item .quantity i::after {
   display: inline-block;
 }
 
-body
-  .container-cart
+body .container-cart
   .product-item
   .quantity
   .item-quantity-change-decrement
@@ -5733,8 +5712,7 @@ body
   background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNSIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI1IDI0IiBmaWxsPSJub25lIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjUpIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNy41IDEyTDE3LjUgMTIiIHN0cm9rZT0iIzY0NjM2MyIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4=);
 }
 
-body
-  .container-cart
+body .container-cart
   .product-item
   .quantity
   .item-quantity-change-increment
@@ -5882,8 +5860,7 @@ body .container-cart .srp-data button:hover {
     #2d386e;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-delivery-header
@@ -5895,15 +5872,13 @@ body .container-cart .srp-data .srp-result .srp-pickup-header span:first-child {
   color: #2d386e;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-delivery-header
   span:first-child
   strong,
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-pickup-header
@@ -5912,15 +5887,13 @@ body
   font-weight: 400;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-delivery-header
   span:last-child
   a,
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-pickup-header
@@ -5956,8 +5929,7 @@ body .container-cart .srp-data .srp-result .srp-unavailable .srp-text {
 body .container-cart .srp-data .srp-result .shp-alert .shp-alert-icon,
 body .container-cart .srp-data .srp-result .shp-alert .srp-unavailable__icon,
 body .container-cart .srp-data .srp-result .srp-unavailable .shp-alert-icon,
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-unavailable
@@ -5974,8 +5946,7 @@ body
 body .container-cart .srp-data .srp-result .shp-alert .shp-alert-icon g,
 body .container-cart .srp-data .srp-result .shp-alert .srp-unavailable__icon g,
 body .container-cart .srp-data .srp-result .srp-unavailable .shp-alert-icon g,
-body
-  .container-cart
+body .container-cart
   .srp-data
   .srp-result
   .srp-unavailable
@@ -6070,8 +6041,7 @@ body .container-cart .srp-delivery-info {
   margin: 0;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-delivery-info
   .srp-shipping-current-single__bullet
   path {
@@ -6092,8 +6062,7 @@ body .container-cart .srp-delivery-info .srp-shipping-current-single div {
   color: #2d386e;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-delivery-info
   .srp-shipping-current-single
   .srp-shipping-current-single__price {
@@ -6128,8 +6097,7 @@ body .container-cart .srp-pickup-info .srp-address-title {
   font-size: 16px;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-pickup-info
   .srp-shipping-current-single__bullet
   path {
@@ -6150,8 +6118,7 @@ body .container-cart .srp-pickup-info .srp-shipping-current-single div {
   color: #2d386e;
 }
 
-body
-  .container-cart
+body .container-cart
   .srp-pickup-info
   .srp-shipping-current-single
   .srp-shipping-current-single__price {
@@ -6864,16 +6831,13 @@ body .client-pre-email .emailInfo .icon-lock {
   display: none;
 }
 
-body
-  .v-custom-step-profile
+body .v-custom-step-profile
   #client-profile-data
   .form-page.client-pre-email.anim-death.anim-current,
-body
-  .v-custom-step-shipping
+body .v-custom-step-shipping
   #client-profile-data
   .form-page.client-pre-email.anim-death.anim-current,
-body
-  .v-custom-step-payment
+body .v-custom-step-payment
   #client-profile-data
   .form-page.client-pre-email.anim-death.anim-current {
   display: none !important;
