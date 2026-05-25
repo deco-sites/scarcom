@@ -26,9 +26,6 @@
       "__resolveType": "algolia/sections/Analytics/Algolia.tsx"
     },
     {
-      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
-    },
-    {
       "__resolveType": "htmx/sections/htmx.tsx"
     }
   ],
@@ -40,7 +37,7 @@
       "includeScriptsToHead": {
         "includes": [
           {
-            "__resolveType": "analytics/loaders/DecoAnalyticsScript.ts"
+            "__resolveType": "analytics/loaders/OneDollarScript.ts"
           }
         ],
         "includePlausible": true

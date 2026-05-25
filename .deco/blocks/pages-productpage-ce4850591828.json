@@ -138,20 +138,20 @@
       "__resolveType": "site/sections/Product/ProductTipBar.tsx",
       "elements": [
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/d4542ef1-6acf-41fb-8746-d56e8986e338/fon-icone.svg",
+          "icon": "https://decoims.com/scarcom/e765eaf1-8b3a-43c4-b6c8-aabecd59fec7/d4542ef1_d4542ef1-6acf-41fb-8746-d56e8986e338.svg",
           "text": "<p>Atendimento </p><p>personalizado</p>"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/fc9b2e74-7b96-4d46-af81-67cc97ba5dbe/file-icone.svg",
+          "icon": "https://decoims.com/scarcom/b9664487-546f-400a-a1d0-495d939b0055/fc9b2e74_fc9b2e74-7b96-4d46-af81-67cc97ba5dbe.svg",
           "text": "<p>faturamento e prazo</p><p>para empresas</p>"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/d73fb092-b6f4-4040-94f8-7a5a25975f32/idea-icone.svg",
+          "icon": "https://decoims.com/scarcom/bc9880fd-9048-4878-9db9-f48b762bd062/d73fb092_d73fb092-b6f4-4040-94f8-7a5a25975f32.svg",
           "text": "<p>Desde 2009 levando solução </p><p>para nossos clientes</p>"
         },
         {
           "text": "Compra Segura",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/54226807-8c49-4804-9182-316113f7d4de/cart-icone.svg"
+          "icon": "https://decoims.com/scarcom/e792fc2e-c675-4d5a-aa7a-0ddd02284c67/54226807_54226807-8c49-4804-9182-316113f7d4de.svg"
         }
       ]
     },
@@ -181,11 +181,11 @@
               "alt": "Imagem Simples",
               "text": "<p style=\"text-align: start\">Com o sistema de imagens Ultra HD, a Rally Camera oferece vídeos incrivelmente nítidos, cores excepcionais e precisão ótica excepcional em resoluções de até 4K. A tecnologia Logitech RightLightTM otimiza o equilíbrio de luz para priorizar a aparência dos rostos e renderizar a aparência natural dos tons de pele, mesmo em condições de pouca luz ou de contraluz.</p>",
               "title": "VÍDEO COM QUALIDADE DE ESTÚDIO",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9ed3616b-18ff-4cdf-8fbc-bd5ea69cbe69/rally-plus-overview.webp",
+              "banner": "https://decoims.com/scarcom/20cb58af-43fd-470a-834e-9a420cb39b36/9ed3616b_9ed3616b-18ff-4cdf-8fbc-bd5ea69cbe69.webp",
               "mediaType": "IMAGE"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
+              "banner": "https://decoims.com/scarcom/e65c323b-5898-4b6d-a342-0a1894a4ac40/001a421c_001a421c-eae2-4090-a337-743c0cccd422.png",
               "text": "<p style=\"text-align: start\">A Rally Camera incorpora lentes e sensor de 4K de alto nível da Logitech e um excelente design apropriado para qualquer ambiente profissional. Com um elegante acabamento em preto fosco e metal cinza-ardósia, a Rally Camera pode ser colocada sobre mesas, tripés ou fixada à uma parede (equipamento incluído). Em instalações suspensas, a câmera detecta quando está invertida e corrige automaticamente o sentido da imagem e os controles da câmera.</p>",
               "title": "DESIGN ELEGANTE INDUSTRIAL",
               "alt": "Image Alt",
@@ -212,7 +212,7 @@
           "contentDetails": [
             {
               "mediaType": "VIDEO",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/7e554a9c-6416-4e1f-8d0a-520ec7e677c1/ubiquiti-unifi-u6lr.jpg",
+              "banner": "https://decoims.com/scarcom/38f01a9e-9718-4390-83d2-f48a1f53ee04/7e554a9c_7e554a9c-6416-4e1f-8d0a-520ec7e677c1.jpg",
               "text": "<p>O Access Point PoE Wi-Fi 6 Unifi U6-LR da Ubiquiti é um dispositivo de alto desempenho projetado para oferecer uma conectividade Wi-Fi excepcional em ambientes internos.</p>",
               "alt": "Ubiquiti U6-LR n wi-fi excepcional",
               "videoHtml": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ Q36umi7m7yQ?si=oDtr0W12mybNwG_C\" title=\"YouTube video player\" frameborder=\"0\"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -2593,7 +2593,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI - ST24000VE002",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk-ai/_shared/files/SkyHawk_AI_12-16-20-24TB_206541200a.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/1b2b7e86-c9e8-478a-a0c6-415d93a128f1/4d5d5b6c_4d5d5b6cd759b334d57b921002866b5c\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação"
             }
           ],
@@ -2734,7 +2734,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI - ST20000VE002",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk-ai/_shared/files/SkyHawk_AI_12-16-20-24TB_206541200a.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/1b2b7e86-c9e8-478a-a0c6-415d93a128f1/4d5d5b6c_4d5d5b6cd759b334d57b921002866b5c\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação"
             }
           ],
@@ -2875,7 +2875,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI - ST16000VE002",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk-ai/_shared/files/SkyHawk_AI_12-16-20-24TB_206541200a.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/1b2b7e86-c9e8-478a-a0c6-415d93a128f1/4d5d5b6c_4d5d5b6cd759b334d57b921002866b5c\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação"
             }
           ],
@@ -3016,7 +3016,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI - ST10000ve001",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk-ai/_shared/files/SkyHawk_AI_12-16-20-24TB_206541200a.pdf\"><strong><u>Manual do Usuário</u></strong></a><br><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/1b2b7e86-c9e8-478a-a0c6-415d93a128f1/4d5d5b6c_4d5d5b6cd759b334d57b921002866b5c\"><strong><u>Manual do Usuário</u></strong></a><br><br></p>",
               "title": "Documentação"
             }
           ],
@@ -3157,7 +3157,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI - ST10000VE001",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk-ai/_shared/files/SkyHawk_AI_12-16-20-24TB_206541200a.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/1b2b7e86-c9e8-478a-a0c6-415d93a128f1/4d5d5b6c_4d5d5b6cd759b334d57b921002866b5c\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação"
             }
           ],
@@ -3296,7 +3296,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI ",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk/_shared/files/201370100h.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações </u></strong><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ba43aca3-68e6-4e9a-813f-d726c7492f77/eb18ffb6_eb18ffb63b0d1203b430c00497ccd775\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação"
             }
           ],
@@ -3434,7 +3434,7 @@
             {
               "mediaType": "IMAGE",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI ",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u> </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk/_shared/files/201370100h.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u> </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ba43aca3-68e6-4e9a-813f-d726c7492f77/eb18ffb6_eb18ffb63b0d1203b430c00497ccd775\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png"
             }
@@ -3573,7 +3573,7 @@
             {
               "mediaType": "IMAGE",
               "alt": "Ficha técnica, manual do usuário, folha de especificações de Disco rígido para vídeo SkyHawk AI ",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u> </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/support/internal-hard-drives/consumer-electronics/skyhawk/_shared/files/201370100h.pdf\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai-hm/skyhawk-3-5-hdd-DS1902-17-2107US-July-2021-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/skyhawk-ai/skyhawk-ai-DS1960-15C-2310US-pt_BR.pdf\"><strong><u> </u></strong></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ba43aca3-68e6-4e9a-813f-d726c7492f77/eb18ffb6_eb18ffb63b0d1203b430c00497ccd775\"><strong><u>Manual do Usuário</u></strong></a><br></p>",
               "title": "Documentação",
               "banner": "https://data.decoassets.com/scarcom/c320fd9d-6324-47b1-9001-ecc1eab0beb2/Folha-de-especificacoes---SkyHawk-1.png"
             }
@@ -4233,7 +4233,7 @@
               "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png",
               "alt": "Documentação Ironwolf seagate",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/files/206815300a_Ironwolf_Pro_12-16-20-24.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>"
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ef357374-22ae-481a-bfc1-d5de8babede1/d48bcb2e_d48bcb2e8c4f5e24f62b9e76a3234dfd\"><strong><u>Manual do Usuário</u></strong></a></p>"
             }
           ],
           "productId": "156040"
@@ -4293,7 +4293,7 @@
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png",
               "alt": "Documentação Ironwolf seagate",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/files/206815300a_Ironwolf_Pro_12-16-20-24.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações</u></strong> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ef357374-22ae-481a-bfc1-d5de8babede1/d48bcb2e_d48bcb2e8c4f5e24f62b9e76a3234dfd\"><strong><u>Manual do Usuário</u></strong></a></p>",
               "title": "Documentação"
             }
           ],
@@ -4404,7 +4404,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://data.decoassets.com/scarcom/2e48168f-272c-4675-84ef-97a343bdf6b3/WesternDigital.red.4.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><strong><u>Folha de Especificações </u></strong></a> <br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:  <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><strong><u>Folha de Especificações </u></strong></a> <br></p>",
               "title": "Documentação ",
               "alt": "Documentação Conheça mais sobre o produto Western Digital linha red Folha de Especificações  Manual do Usuário"
             }
@@ -4549,7 +4549,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações<br></u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/assets/products/nas-drives/ironwolf-pro-hard-drive/files/206815300a_Ironwolf_Pro_12-16-20-24.pdf\"><strong><u>Manual do Usuário</u></strong></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.seagate.com/content/dam/seagate/pt_br/content-fragments/products/datasheets/ironwolf-pro-12tb/ironwolf-pro-20tb-DS2129-4-2311US-pt_BR.pdf\"><strong><u>Folha de Especificações<br></u></strong></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/ef357374-22ae-481a-bfc1-d5de8babede1/d48bcb2e_d48bcb2e8c4f5e24f62b9e76a3234dfd\"><strong><u>Manual do Usuário</u></strong></a></p>",
               "title": "Documentação ",
               "alt": "Documentação Ironwolf SEAGATE",
               "banner": "https://data.decoassets.com/scarcom/ca29eef8-13a6-415a-a03d-99b35e781662/IRONWOLF13.png"
@@ -6107,7 +6107,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png"
@@ -6147,7 +6147,7 @@
             },
             {
               "mediaType": "IMAGE",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png"
@@ -6189,7 +6189,7 @@
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações</u></a> <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações</u></a> <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação"
             }
           ],
@@ -6228,7 +6228,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações</u></a> <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações</u></a> <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6268,7 +6268,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6308,7 +6308,7 @@
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação"
             }
           ],
@@ -6347,7 +6347,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6387,7 +6387,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6427,7 +6427,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6467,7 +6467,7 @@
             {
               "mediaType": "IMAGE",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png"
             }
@@ -6507,7 +6507,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><em>Folha de Especificações </em></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><em>Folha de Especificações </em></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6546,7 +6546,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u><br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em:</p><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u><br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6587,7 +6587,7 @@
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação"
             }
           ],
@@ -6626,7 +6626,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6666,7 +6666,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6706,7 +6706,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6746,7 +6746,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6800,7 +6800,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações</u> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações</u> </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6854,7 +6854,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/cc59e7a8-0b3b-4f10-b1a5-f1013f9a7626/Design-sem-nome---2025-03-21T143226.004.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://products.wdc.com/library/SpecSheet/PBR/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6908,7 +6908,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -6963,7 +6963,7 @@
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\">Folha de Especificações <br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\">Folha de Especificações <br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação"
             }
           ],
@@ -7016,7 +7016,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7070,7 +7070,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7124,7 +7124,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/afbc8b7f-03cd-4afd-9ef4-182a58990168/Design-sem-nome---2025-03-26T214157.861.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\">Folha de Especificações </a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7178,7 +7178,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Folha de Especificações </u><br><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Folha de Especificações </u><br><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7232,7 +7232,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7286,7 +7286,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7340,7 +7340,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7394,7 +7394,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7448,7 +7448,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7502,7 +7502,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -7556,7 +7556,7 @@
             {
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/3c689aa8-a707-4611-8766-b3ea6af6dbb6/Design-sem-nome---2025-03-26T213507.252.png",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-gold/data-sheet-wd-gold-hdd.pdf\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/f06b1542-8ecf-4798-91ce-4f636a484b6d/126e1a6c_126e1a6ce0192cd334fffa8977c599a6\"><u>Folha de Especificações </u><br></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "title": "Documentação",
               "alt": "Documentação"
             }
@@ -9344,7 +9344,7 @@
             {
               "mediaType": "IMAGE",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/d4de7fa7-d212-4ef5-aca9-f50c92836d34/Captura-de-tela-2025-04-22-173646.png"
             }
@@ -9398,7 +9398,7 @@
             {
               "mediaType": "IMAGE",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-pro-hdd/data-sheet-wd-red-pro-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/b5d3ce9f-8dd4-4971-8b48-7285cf9f63b1/4bf29217_4bf29217f833d4fa3433159cdb2ab054\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/d4de7fa7-d212-4ef5-aca9-f50c92836d34/Captura-de-tela-2025-04-22-173646.png"
             }
@@ -9452,7 +9452,7 @@
             {
               "mediaType": "IMAGE",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/pt_br/assets/public/western-digital/product/internal-drives/wd-purple-pro-hdd/product-brief-wd-purple-pro-sata-hdd.pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/3d93207f-bba0-4aec-bdef-2cc7d0ec7a5a/cac61d8e_cac61d8ef3b570bea91ce1d61353b3dc\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "alt": "Documentação",
               "banner": "https://assets.decocache.com/scarcom/0222c8ec-5e38-4aaf-af0d-37ba15d38feb/Captura-de-tela-2025-04-23-182730.png"
             }
@@ -9930,7 +9930,7 @@
               "mediaType": "IMAGE",
               "banner": "https://assets.decocache.com/scarcom/d4de7fa7-d212-4ef5-aca9-f50c92836d34/Captura-de-tela-2025-04-22-173646.png",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"file:///C:/Users/lucas/Downloads/brochure-wd-color-brand%20(3).pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/pt_br/assets/public/western-digital/product/internal-drives/wd-red-plus-hdd/product-brief-western-digital-wd-red-plus-hdd.pdf\"><u>Manual do Usuário</u></a><br></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"file:///C:/Users/lucas/Downloads/brochure-wd-color-brand%20(3).pdf\"><u>Folha de Especificações <br></u></a><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/d397acab-3289-4070-89a6-794edaa950f0/6a780b07_6a780b070a526e79bc1d2ecfe6445d91\"><u>Manual do Usuário</u></a><br></p>",
               "alt": "Documentação"
             }
           ],
@@ -12226,7 +12226,7 @@
             {
               "mediaType": "IMAGE",
               "title": "Documentação",
-              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/product/internal-drives/wd-red-plus-hdd/product-brief-western-digital-wd-red-plus-hdd.pdf\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://documents.westerndigital.com/content/dam/doc-library/en_us/assets/public/western-digital/collateral/brochure/brochure-wd-color-brand.pdf\"><u>Manual do Usuário</u></a></p>",
+              "text": "<p>Conheça mais sobre o produto clicando abaixo em: <br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/360746cb-c341-43ad-a648-e1c25bc4239f/c0a80866_c0a80866ca4e73c3a30e32fd1552706c\"><u>Folha de Especificações </u></a><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://decoims.com/scarcom/556551df-00a5-414e-b8e9-f8d23bbcbde5/98ea3139_98ea3139969f7f91d5ee0c00d7ba7f71\"><u>Manual do Usuário</u></a></p>",
               "banner": "https://assets.decocache.com/scarcom/2d92faa0-2bb9-498a-b8de-0be1ae07ce04/Captura-de-tela-2025-05-22-151312.png",
               "alt": "Documentação"
             }
@@ -21045,28 +21045,28 @@
       "__resolveType": "site/sections/Product/QuickInformationBar.tsx",
       "elements": [
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/fb364f9d-e552-4d01-9137-2f9cc11e6538/wpp-icone.svg",
+          "icon": "https://decoims.com/scarcom/1c118144-3164-46be-a0a5-b09f4bb59dd2/fb364f9d_fb364f9d-e552-4d01-9137-2f9cc11e6538.svg",
           "title": "Telefone/Whatsapp:",
           "contact": "(11) 3279-5555",
           "url": "https://wa.me/551132795555",
           "target": false
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/cf1f3f68-06cf-4330-b0e2-538e46ead502/skype-icone.svg",
+          "icon": "https://decoims.com/scarcom/408cac6c-8050-4ba4-8b92-11f12de8ab6e/cf1f3f68_cf1f3f68-06cf-4330-b0e2-538e46ead502.svg",
           "title": "Skype:",
           "contact": "scarcom-info",
           "url": "skype:scarcom-info?call",
           "target": true
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/20f042af-e92b-4df3-a2a0-aed2fc916ecd/email-icone.svg",
+          "icon": "https://decoims.com/scarcom/a9c3cb4d-50da-4e83-b9c2-fb53c49b0b41/20f042af_20f042af-e92b-4df3-a2a0-aed2fc916ecd.svg",
           "title": "E-mail:",
           "contact": "atendimento@scarcom.com.br",
           "url": "mailto:atendimento@scarcom.com.br",
           "target": true
         }
       ],
-      "shortLogo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/f54678cc-74e1-4c75-9352-ce1e279e75fa/logo.svg"
+      "shortLogo": "https://decoims.com/scarcom/304f8958-c239-4e52-8b22-58efedc9f18a/f54678cc_f54678cc-74e1-4c75-9352-ce1e279e75fa.svg"
     },
     {
       "__resolveType": "Produtos relacionados "
