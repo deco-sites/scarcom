@@ -63,7 +63,7 @@ function CategoryList(props: Props) {
         description: "Moda feminina direto de Milão",
         href: "/feminino",
         image:
-          "https://ik.imagekit.io/decocx/tr:w-680,h-680/https:/ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/fdcb3c8f-d629-485e-bf70-8060bd8a9f65",
+          "https://decoims.com/scarcom/d47820da-5737-4c43-8a3e-7be4af32c871/fdcb3c8f_fdcb3c8f-d629-485e-bf70-8060bd8a9f65.jpg",
         buttonText: "Ver produtos",
       },
     ],

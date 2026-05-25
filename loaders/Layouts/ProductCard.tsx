@@ -49,13 +49,13 @@ export const Preview = (_: Props) => (
               "@type": "ImageObject",
               "alternateName": "test",
               "url":
-                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/b9e0a819-6a75-47af-84fe-90b44fecda5f",
+                "https://decoims.com/scarcom/79f74003-09ef-4921-a72d-dfd0199399e5/b9e0a819_b9e0a819-6a75-47af-84fe-90b44fecda5f.png",
             },
             {
               "@type": "ImageObject",
               "alternateName": "test",
               "url":
-                "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/b9e0a819-6a75-47af-84fe-90b44fecda5f",
+                "https://decoims.com/scarcom/79f74003-09ef-4921-a72d-dfd0199399e5/b9e0a819_b9e0a819-6a75-47af-84fe-90b44fecda5f.png",
             },
           ],
           "offers": {

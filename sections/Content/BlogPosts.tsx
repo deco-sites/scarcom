@@ -44,7 +44,7 @@ function BlogPosts({
     {
       href: "/",
       image:
-        "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/80a115a2-3623-4e9b-aec7-42601c2ff416",
+        "https://decoims.com/scarcom/66f6e90a-9759-409d-b049-94361d2dfe60/80a115a2_80a115a2-3623-4e9b-aec7-42601c2ff416.png",
       alt: "alternative text",
       label: "Title Post",
       description: "Description",
@@ -54,7 +54,7 @@ function BlogPosts({
     {
       href: "/",
       image:
-        "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/80a115a2-3623-4e9b-aec7-42601c2ff416",
+        "https://decoims.com/scarcom/66f6e90a-9759-409d-b049-94361d2dfe60/80a115a2_80a115a2-3623-4e9b-aec7-42601c2ff416.png",
       alt: "alternative text",
       label: "Title Post",
       description: "Description",
@@ -64,7 +64,7 @@ function BlogPosts({
     {
       href: "/",
       image:
-        "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2291/80a115a2-3623-4e9b-aec7-42601c2ff416",
+        "https://decoims.com/scarcom/66f6e90a-9759-409d-b049-94361d2dfe60/80a115a2_80a115a2-3623-4e9b-aec7-42601c2ff416.png",
       alt: "alternative text",
       label: "Title Post",
       description: "Description",

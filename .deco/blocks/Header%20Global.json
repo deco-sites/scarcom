@@ -18,7 +18,7 @@
             "textColor": "#ffffff",
             "textAlert": "(11) 3279-5555",
             "alt": "tel icon wpp",
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/0b37ba9e-58a2-4a94-918b-dbf4d9847403/WhatsappLogo.svg",
+            "image": "https://decoims.com/scarcom/d70b3194-f76d-442d-bfec-c914be414973/0b37ba9e_0b37ba9e-58a2-4a94-918b-dbf4d9847403.svg",
             "url": "https://api.whatsapp.com/send/?phone=551132795555&text&type=phone_number&app_absent=0",
             "target": "_blank"
           },
@@ -27,7 +27,7 @@
             "textAlert": "scarcom-info",
             "textColor": "#ffffff",
             "alt": "scarcom-info Icon",
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/2444cd63-7dc7-4084-92ee-3385e24252f0/SkypeLogo.svg",
+            "image": "https://decoims.com/scarcom/c99f8963-0b01-407b-8c4d-af046090c5c1/2444cd63_2444cd63-7dc7-4084-92ee-3385e24252f0.svg",
             "url": "skype:scarcom-info?call",
             "target": "_self"
           },
@@ -36,7 +36,7 @@
             "textAlert": "atendimento@scarcom.com.br",
             "textColor": "#ffffff",
             "alt": "atendimento@scarcom.com.br",
-            "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/43ba4a41-5c17-47fe-a94b-bc3429f17821/Link--SVG.svg",
+            "image": "https://decoims.com/scarcom/4eaca486-f7f6-4433-b6d6-3859fbaa2f2c/43ba4a41_43ba4a41-5c17-47fe-a94b-bc3429f17821.svg",
             "url": "mailto:atendimento@scarcom.com.br",
             "target": "_self"
           }

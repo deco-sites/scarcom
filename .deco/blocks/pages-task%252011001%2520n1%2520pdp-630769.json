@@ -150,15 +150,15 @@
                   "elements": [
                     {
                       "text": "Atendimento personalizado",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/9231f1c5-ac5a-4d97-842d-52d79d29d8ce/fon-icone.svg"
+                      "icon": "https://decoims.com/scarcom/aeb86c2a-09d6-438d-8403-37a16cf70d67/9231f1c5_9231f1c5-ac5a-4d97-842d-52d79d29d8ce.svg"
                     },
                     {
                       "text": "faturamento e prazo para empresas",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/73a1b103-2259-44a8-afd4-a07113b3298e/file-icone.svg"
+                      "icon": "https://decoims.com/scarcom/1f371f9d-953b-4172-a463-88a1e33bbf3b/73a1b103_73a1b103-2259-44a8-afd4-a07113b3298e.svg"
                     },
                     {
                       "text": "Desde 2009 levando solução para nossos clientes",
-                      "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/8aed5f50-c0f6-478c-8c1e-711ddb14d689/idea-icone.svg"
+                      "icon": "https://decoims.com/scarcom/4a660235-35c0-47ce-b459-99e0be4d874b/8aed5f50_8aed5f50-c0f6-478c-8c1e-711ddb14d689.svg"
                     }
                   ]
                 },
@@ -294,20 +294,20 @@
       "__resolveType": "site/sections/Product/ProductTipBar.tsx",
       "elements": [
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/d4542ef1-6acf-41fb-8746-d56e8986e338/fon-icone.svg",
+          "icon": "https://decoims.com/scarcom/e765eaf1-8b3a-43c4-b6c8-aabecd59fec7/d4542ef1_d4542ef1-6acf-41fb-8746-d56e8986e338.svg",
           "text": "<p>Atendimento </p><p>personalizado</p>"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/fc9b2e74-7b96-4d46-af81-67cc97ba5dbe/file-icone.svg",
+          "icon": "https://decoims.com/scarcom/b9664487-546f-400a-a1d0-495d939b0055/fc9b2e74_fc9b2e74-7b96-4d46-af81-67cc97ba5dbe.svg",
           "text": "<p>faturamento e prazo</p><p>para empresas</p>"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/d73fb092-b6f4-4040-94f8-7a5a25975f32/idea-icone.svg",
+          "icon": "https://decoims.com/scarcom/bc9880fd-9048-4878-9db9-f48b762bd062/d73fb092_d73fb092-b6f4-4040-94f8-7a5a25975f32.svg",
           "text": "<p>Desde 2009 levando solução </p><p>para nossos clientes</p>"
         },
         {
           "text": "Compra Segura",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/54226807-8c49-4804-9182-316113f7d4de/cart-icone.svg"
+          "icon": "https://decoims.com/scarcom/e792fc2e-c675-4d5a-aa7a-0ddd02284c67/54226807_54226807-8c49-4804-9182-316113f7d4de.svg"
         }
       ]
     },
@@ -327,19 +327,19 @@
               "alt": "Imagem Simples",
               "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p><p></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p>",
               "title": "Lorem ipsum dolor sit amet",
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
+              "banner": "https://decoims.com/scarcom/594828f5-eb38-4533-bcfc-1c78134a1407/36309366_36309366-b86c-43af-94f3-c5f075e9f79f.png",
               "mediaType": "VIDEO",
               "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3a9d7455-3d5b-4239-b8d1-d4a7a3444610/Image-2.png",
+              "banner": "https://decoims.com/scarcom/eaf37179-ee79-4c38-a095-edf272b28b60/3a9d7455_3a9d7455-3d5b-4239-b8d1-d4a7a3444610.png",
               "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p><p></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor.</p>",
               "title": "Lorem ipsum dolor sit amet",
               "alt": "Alt",
               "mediaType": "IMAGE"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
+              "banner": "https://decoims.com/scarcom/e65c323b-5898-4b6d-a342-0a1894a4ac40/001a421c_001a421c-eae2-4090-a337-743c0cccd422.png",
               "alt": "Image Alt",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
               "title": "Lorem ipsum dolor sit amet",
@@ -351,7 +351,7 @@
         {
           "contentDetails": [
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/36309366-b86c-43af-94f3-c5f075e9f79f/Image-1.png",
+              "banner": "https://decoims.com/scarcom/594828f5-eb38-4533-bcfc-1c78134a1407/36309366_36309366-b86c-43af-94f3-c5f075e9f79f.png",
               "alt": "Texto Simples Exemplo",
               "title": "Lorem ipsum dolor sit amet",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
@@ -359,14 +359,14 @@
               "videoHtml": "<iframe width='100%' height='100%' src=\"https://www.youtube.com/embed/Cj7C7ambQA4?si=l8nZRM19eZbJ49AG\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/3a9d7455-3d5b-4239-b8d1-d4a7a3444610/Image-2.png",
+              "banner": "https://decoims.com/scarcom/eaf37179-ee79-4c38-a095-edf272b28b60/3a9d7455_3a9d7455-3d5b-4239-b8d1-d4a7a3444610.png",
               "alt": "Texto Alternativo Exemplo",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p><p></p><p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
               "title": "Lorem ipsum dolor sit amet",
               "mediaType": "IMAGE"
             },
             {
-              "banner": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/001a421c-eae2-4090-a337-743c0cccd422/Image-3.png",
+              "banner": "https://decoims.com/scarcom/e65c323b-5898-4b6d-a342-0a1894a4ac40/001a421c_001a421c-eae2-4090-a337-743c0cccd422.png",
               "alt": "Texto Alternativo Exemplo",
               "title": "Lorem ipsum dolor sit amet",
               "text": "<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit felis in nunc hendrerit varius. Maecenas suscipit lacinia mauris eget vulputate. Ut maximus dapibus tempor. Donec luctus tortor sed urna sollicitudin, convallis luctus dolor lobortis. Proin elit felis, dictum et enim in, dapibus fringilla lectus.&nbsp;</span></p>",
@@ -381,25 +381,25 @@
       "__resolveType": "site/sections/Product/QuickInformationBar.tsx",
       "elements": [
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/fb364f9d-e552-4d01-9137-2f9cc11e6538/wpp-icone.svg",
+          "icon": "https://decoims.com/scarcom/1c118144-3164-46be-a0a5-b09f4bb59dd2/fb364f9d_fb364f9d-e552-4d01-9137-2f9cc11e6538.svg",
           "title": "Telefone/Whatsapp:",
           "contact": "(11) 3279-5555",
           "url": "https://wa.me/551132795555"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/cf1f3f68-06cf-4330-b0e2-538e46ead502/skype-icone.svg",
+          "icon": "https://decoims.com/scarcom/408cac6c-8050-4ba4-8b92-11f12de8ab6e/cf1f3f68_cf1f3f68-06cf-4330-b0e2-538e46ead502.svg",
           "title": "Skype:",
           "contact": "scarcom-info",
           "url": "skype:scarcom-info?call"
         },
         {
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/20f042af-e92b-4df3-a2a0-aed2fc916ecd/email-icone.svg",
+          "icon": "https://decoims.com/scarcom/a9c3cb4d-50da-4e83-b9c2-fb53c49b0b41/20f042af_20f042af-e92b-4df3-a2a0-aed2fc916ecd.svg",
           "title": "E-mail:",
           "contact": "atendimento@scarcom.com.br",
           "url": "mailto:atendimento@scarcom.com.br"
         }
       ],
-      "shortLogo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/scarcom/f54678cc-74e1-4c75-9352-ce1e279e75fa/logo.svg"
+      "shortLogo": "https://decoims.com/scarcom/304f8958-c239-4e52-8b22-58efedc9f18a/f54678cc_f54678cc-74e1-4c75-9352-ce1e279e75fa.svg"
     },
     {
       "__resolveType": "Produtos relacionados "
