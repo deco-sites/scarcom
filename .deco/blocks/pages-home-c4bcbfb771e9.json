@@ -10,6 +10,139 @@
       "__resolveType": "Banner Secundário - Categorias"
     },
     {
+      "__resolveType": "site/sections/Content/Partners.tsx",
+      "logos": [
+        {
+          "image": "https://decoims.com/scarcom/1c4b4c0e-cf21-4ca5-97ab-532e1ba9b17c/1.png",
+          "altText": "São Camilo"
+        },
+        {
+          "image": "https://decoims.com/scarcom/89e38b0a-250e-42ea-83ea-0c0f505a2013/2.png",
+          "altText": "Catavento"
+        },
+        {
+          "image": "https://decoims.com/scarcom/65ab01dc-6dbb-48a4-a3b2-0181e5c31db9/3.png",
+          "altText": "Theatro Municipal"
+        },
+        {
+          "image": "https://decoims.com/scarcom/b02f6123-6e21-4915-8733-51ec0253745b/4.png",
+          "altText": "Infraero"
+        },
+        {
+          "image": "https://decoims.com/scarcom/abc131e0-719c-4aa6-ba6c-0406de8c95d7/5.png",
+          "altText": "Latam"
+        },
+        {
+          "image": "https://decoims.com/scarcom/0c353d4c-c8ee-43e7-ae51-3b351518e97b/6.png",
+          "altText": "Lindt"
+        },
+        {
+          "image": "https://decoims.com/scarcom/49dd6c7a-e2fe-4767-aa33-bfa12db9f62a/7.png",
+          "altText": "Monte Líbano"
+        },
+        {
+          "image": "https://decoims.com/scarcom/2b587b70-4bb0-4d8e-9ff1-8dee2304f52e/8.png",
+          "altText": "Marinha"
+        },
+        {
+          "image": "https://decoims.com/scarcom/8b49e424-576a-41db-8259-776c779230e9/9.png",
+          "altText": "Bradesco"
+        },
+        {
+          "image": "https://decoims.com/scarcom/8fd16447-f17e-416c-aa6b-271b5e399551/10.png",
+          "altText": "Corinthians"
+        },
+        {
+          "image": "https://decoims.com/scarcom/75f9c41b-1640-43c9-a70e-d642fc74c61e/11.png",
+          "altText": "Santos"
+        },
+        {
+          "image": "https://decoims.com/scarcom/b1b461d5-4cd4-44e7-8d86-230c5f5231a5/12.png",
+          "altText": "Flamengo"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d20274bc-9b45-4589-b52f-b515da07105a/13.png",
+          "altText": "C&A"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d6d30178-91d5-494e-881c-cc706c2ee988/14.png",
+          "altText": "Aramis"
+        },
+        {
+          "image": "https://decoims.com/scarcom/e24e1d88-5701-4668-9d3d-8623d12adb35/15.png",
+          "altText": "Globo"
+        },
+        {
+          "image": "https://decoims.com/scarcom/97bd7a33-1bb3-4b2e-bbc4-b6a02ff0f117/16.png",
+          "altText": "Daycoval"
+        },
+        {
+          "image": "https://decoims.com/scarcom/8b4e7a8c-bb83-4c81-9d40-88558bf17e2c/17.png",
+          "altText": "Sbt"
+        },
+        {
+          "image": "https://decoims.com/scarcom/27332f37-34e1-4c21-84d4-3550424d3f08/18.png",
+          "altText": "Redetv"
+        },
+        {
+          "image": "https://decoims.com/scarcom/40f841ee-4c1f-437f-9b5a-159754244519/19.png",
+          "altText": "Reebok"
+        },
+        {
+          "image": "https://decoims.com/scarcom/9687769e-f10d-4656-b96b-72fd9d33b435/20.png",
+          "altText": "Samsung"
+        },
+        {
+          "image": "https://decoims.com/scarcom/2670c9b6-8c87-45d1-bf07-6a7df2092f35/21.png",
+          "altText": "Petrobras"
+        },
+        {
+          "image": "https://decoims.com/scarcom/6e085e84-448e-4ade-9f9c-d0a2642ac20b/22.png",
+          "altText": "Intel"
+        },
+        {
+          "image": "https://decoims.com/scarcom/dec7f7ac-7124-4f75-9080-841ea4a4d04c/23.png",
+          "altText": "Mania de churrasco"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d08ad7ba-7502-40f2-8f94-8e74ba7a9da5/24.png",
+          "altText": "Aoc"
+        },
+        {
+          "image": "https://decoims.com/scarcom/76089e9e-b158-4f09-8fe1-2b09829fe402/25.png",
+          "altText": "Mash"
+        },
+        {
+          "image": "https://decoims.com/scarcom/791181cb-487f-438c-9dcd-7e2cdc013afd/26.png",
+          "altText": "Web Motors"
+        },
+        {
+          "image": "https://decoims.com/scarcom/04e6ad88-1bb4-4a30-85b3-0e8f14be9b3e/27.png",
+          "altText": "Gree"
+        },
+        {
+          "image": "https://decoims.com/scarcom/de421921-81b7-4ca2-9274-57bc76308b1b/28.png",
+          "altText": "Senai"
+        },
+        {
+          "image": "https://decoims.com/scarcom/3aabb290-d4eb-4727-9505-84b5049ce5dd/29.png",
+          "altText": "Senac"
+        },
+        {
+          "image": "https://decoims.com/scarcom/a51c1263-012a-4fe2-978a-f6ec09a7ae2c/30.png",
+          "altText": "Fiesp"
+        },
+        {
+          "image": "https://decoims.com/scarcom/04c408c9-c1e0-41a2-911e-f15592f02a88/31.png",
+          "altText": "Kia"
+        },
+        {
+          "image": "https://decoims.com/scarcom/24654b2f-e1ab-4a31-b39c-73e6cdf49341/32.png",
+          "altText": "Hagana"
+        }
+      ]
+    },
+    {
       "__resolveType": "Home - Prateleira Coleção"
     },
     {

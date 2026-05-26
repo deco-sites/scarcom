@@ -1,0 +1,481 @@
+{
+  "name": "Parceiros",
+  "path": "/parceiros",
+  "sections": [
+    {
+      "__resolveType": "Header Global"
+    },
+    {
+      "__resolveType": "site/sections/Content/PartnersPage.tsx",
+      "partners": [
+        {
+          "image": "https://decoims.com/scarcom/1c4b4c0e-cf21-4ca5-97ab-532e1ba9b17c/1.png",
+          "alt": "São Camilo ",
+          "segment": "Saúde"
+        },
+        {
+          "alt": "Fiesp",
+          "image": "https://decoims.com/scarcom/a51c1263-012a-4fe2-978a-f6ec09a7ae2c/30.png",
+          "segment": "Indústria"
+        },
+        {
+          "alt": "Senac",
+          "image": "https://decoims.com/scarcom/3aabb290-d4eb-4727-9505-84b5049ce5dd/29.png",
+          "segment": "Educação"
+        },
+        {
+          "alt": "Senai",
+          "image": "https://decoims.com/scarcom/de421921-81b7-4ca2-9274-57bc76308b1b/28.png",
+          "segment": "Indústria"
+        },
+        {
+          "alt": "Gree",
+          "image": "https://decoims.com/scarcom/04e6ad88-1bb4-4a30-85b3-0e8f14be9b3e/27.png",
+          "segment": "Indústria"
+        },
+        {
+          "alt": "Web motors",
+          "image": "https://decoims.com/scarcom/791181cb-487f-438c-9dcd-7e2cdc013afd/26.png",
+          "segment": "Transporte"
+        },
+        {
+          "alt": "Mash",
+          "image": "https://decoims.com/scarcom/76089e9e-b158-4f09-8fe1-2b09829fe402/25.png",
+          "segment": "Roupa"
+        },
+        {
+          "alt": "Aoc",
+          "image": "https://decoims.com/scarcom/d08ad7ba-7502-40f2-8f94-8e74ba7a9da5/24.png",
+          "segment": "Tecnologia"
+        },
+        {
+          "alt": "Mania de Churrasco",
+          "image": "https://decoims.com/scarcom/dec7f7ac-7124-4f75-9080-841ea4a4d04c/23.png",
+          "segment": "Alimentação"
+        },
+        {
+          "alt": "Intel",
+          "image": "https://decoims.com/scarcom/6e085e84-448e-4ade-9f9c-d0a2642ac20b/22.png",
+          "segment": "Tecnologia"
+        },
+        {
+          "alt": "Petrobras",
+          "image": "https://decoims.com/scarcom/2670c9b6-8c87-45d1-bf07-6a7df2092f35/21.png",
+          "segment": "Indústria"
+        },
+        {
+          "alt": "Samsung",
+          "image": "https://decoims.com/scarcom/9687769e-f10d-4656-b96b-72fd9d33b435/20.png",
+          "segment": "Tecnologia"
+        },
+        {
+          "alt": "Reebok",
+          "image": "https://decoims.com/scarcom/40f841ee-4c1f-437f-9b5a-159754244519/19.png",
+          "segment": "Roupa"
+        },
+        {
+          "alt": "Clube atlético monte líbano",
+          "image": "https://decoims.com/scarcom/49dd6c7a-e2fe-4767-aa33-bfa12db9f62a/7.png",
+          "segment": "Outros"
+        },
+        {
+          "alt": "Theatro Municipal",
+          "image": "https://decoims.com/scarcom/65ab01dc-6dbb-48a4-a3b2-0181e5c31db9/3.png",
+          "segment": "Serviços"
+        },
+        {
+          "alt": "Catavento",
+          "image": "https://decoims.com/scarcom/89e38b0a-250e-42ea-83ea-0c0f505a2013/2.png",
+          "segment": "Serviços"
+        },
+        {
+          "alt": "Redetv",
+          "image": "https://decoims.com/scarcom/27332f37-34e1-4c21-84d4-3550424d3f08/18.png",
+          "segment": "Televisão"
+        },
+        {
+          "alt": "Sbt",
+          "image": "https://decoims.com/scarcom/8b4e7a8c-bb83-4c81-9d40-88558bf17e2c/17.png",
+          "segment": "Televisão"
+        },
+        {
+          "alt": "Globo",
+          "image": "https://decoims.com/scarcom/e24e1d88-5701-4668-9d3d-8623d12adb35/15.png",
+          "segment": "Televisão"
+        },
+        {
+          "alt": "Daycoval",
+          "image": "https://decoims.com/scarcom/97bd7a33-1bb3-4b2e-bbc4-b6a02ff0f117/16.png",
+          "segment": "Financeiro"
+        },
+        {
+          "alt": "Aramis",
+          "image": "https://decoims.com/scarcom/d6d30178-91d5-494e-881c-cc706c2ee988/14.png",
+          "segment": "Roupa"
+        },
+        {
+          "alt": "Hagana",
+          "image": "https://decoims.com/scarcom/24654b2f-e1ab-4a31-b39c-73e6cdf49341/32.png",
+          "segment": "Serviços"
+        },
+        {
+          "alt": "São Camilo",
+          "image": "https://decoims.com/scarcom/1c4b4c0e-cf21-4ca5-97ab-532e1ba9b17c/1.png",
+          "segment": "Saúde"
+        },
+        {
+          "alt": "Flamengo",
+          "image": "https://decoims.com/scarcom/b1b461d5-4cd4-44e7-8d86-230c5f5231a5/12.png",
+          "segment": "Esporte"
+        },
+        {
+          "alt": "Santos",
+          "image": "https://decoims.com/scarcom/75f9c41b-1640-43c9-a70e-d642fc74c61e/11.png",
+          "segment": "Esporte"
+        },
+        {
+          "alt": "Corinthians",
+          "image": "https://decoims.com/scarcom/8fd16447-f17e-416c-aa6b-271b5e399551/10.png",
+          "segment": "Esporte"
+        },
+        {
+          "alt": "Bradesco",
+          "image": "https://decoims.com/scarcom/8b49e424-576a-41db-8259-776c779230e9/9.png",
+          "segment": "Financeiro"
+        },
+        {
+          "alt": "C&A",
+          "image": "https://decoims.com/scarcom/d20274bc-9b45-4589-b52f-b515da07105a/13.png",
+          "segment": "Roupa"
+        },
+        {
+          "alt": "Ifraero",
+          "image": "https://decoims.com/scarcom/b02f6123-6e21-4915-8733-51ec0253745b/4.png",
+          "segment": "Outros"
+        },
+        {
+          "alt": "Latam",
+          "image": "https://decoims.com/scarcom/abc131e0-719c-4aa6-ba6c-0406de8c95d7/5.png",
+          "segment": "Transporte"
+        },
+        {
+          "alt": "Lindt",
+          "image": "https://decoims.com/scarcom/0c353d4c-c8ee-43e7-ae51-3b351518e97b/6.png",
+          "segment": "Alimentação "
+        },
+        {
+          "alt": "Marinha",
+          "image": "https://decoims.com/scarcom/2b587b70-4bb0-4d8e-9ff1-8dee2304f52e/8.png",
+          "segment": "Serviços"
+        },
+        {
+          "alt": "Faber Castell",
+          "image": "https://decoims.com/scarcom/a0700bd9-9ce4-4637-b405-26040ae7a223/33.png",
+          "segment": "Outros"
+        },
+        {
+          "alt": "Acrilex",
+          "image": "https://decoims.com/scarcom/829279f1-3432-4743-866b-b753c11a5a46/34.png",
+          "segment": "Outros"
+        },
+        {
+          "alt": "Alares",
+          "image": "https://decoims.com/scarcom/ecfa4421-e8ab-465c-9177-1079cb0fbe9d/35.png",
+          "segment": "Outros"
+        },
+        {
+          "alt": "Banco Bmg",
+          "image": "https://decoims.com/scarcom/28ae986e-e50d-452f-9045-096bd962ba16/36.png",
+          "segment": "Financeiro"
+        },
+        {
+          "image": "https://decoims.com/scarcom/520904bc-5933-48a9-870f-7dcb825f5e3d/37.png",
+          "alt": "Yamaha",
+          "segment": "Transporte"
+        },
+        {
+          "image": "https://decoims.com/scarcom/cfd7b696-b4d3-47b0-92ba-45e3e5e9de07/38.png",
+          "alt": "Grupo Primo",
+          "segment": "Financeiro"
+        },
+        {
+          "image": "https://decoims.com/scarcom/65ca97c6-21dd-42d0-bdef-9c0d37df3862/39.png",
+          "alt": "Ambev",
+          "segment": "Indústria"
+        },
+        {
+          "image": "https://decoims.com/scarcom/3103a1d8-4cb6-4af0-910f-328df539dc47/40.png",
+          "alt": "Athletico paulistano",
+          "segment": "Esporte"
+        },
+        {
+          "image": "https://decoims.com/scarcom/4b352d70-da73-4c3c-89f1-423b1820c299/41.png",
+          "alt": "Pernambucanas",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/13640d28-9f71-4a7d-80f1-26d880ce8258/42.png",
+          "alt": "Unimed",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/73ce0e1b-c4de-482c-ab1c-17991d5f1990/43.png",
+          "alt": "Brookfield",
+          "segment": "Financeiro"
+        },
+        {
+          "image": "https://decoims.com/scarcom/a53469e6-84af-41a4-b85d-a759920affb9/44.png",
+          "alt": "Ultragaz",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/3fa3db43-ce49-425e-bbea-e15594fab95c/45.png",
+          "alt": "Coco bambu",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/0e9f19e5-b7af-4fc1-b7e6-497370e03564/46.png",
+          "alt": "Sicoob",
+          "segment": "Financeiro"
+        },
+        {
+          "image": "https://decoims.com/scarcom/fe7f9224-8151-460d-ad17-2da3138195fb/47.png",
+          "alt": "Rosário",
+          "segment": "Educação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/e77b2fd9-287c-4b48-8dfe-f7edca256a6d/48.png",
+          "alt": "Mackenzie",
+          "segment": "Educação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/ff668f1d-fe8a-428f-930a-e043d254d575/49.png",
+          "alt": "Azul",
+          "segment": "Transporte"
+        },
+        {
+          "image": "https://decoims.com/scarcom/7f458286-510d-461c-be2e-b02c7b1a6fbf/50.png",
+          "alt": "Casa Suíça",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/294dc17e-0ffc-4d06-ba46-2a02c5408cf9/51.png",
+          "alt": "Ibis",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/9f2e8403-9dc0-48b9-8655-d8742e181674/52.png",
+          "alt": "China in Box",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d0ce0b5a-d129-4ec6-a640-7aef1babbc16/53.png",
+          "alt": "Livraria Cultura",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/ce209589-98fd-43ec-8168-8f1205dc2f1e/54.png",
+          "alt": "Sabesp",
+          "segment": "Serviços"
+        },
+        {
+          "image": "https://decoims.com/scarcom/2942b130-bb93-46c2-a298-f0a23b820f1f/55.png",
+          "alt": "Central Plaza Shopping",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/7876a60e-59fd-4ccb-8c21-846b13f58205/56.png",
+          "alt": "Sodimac",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/60a06355-8b83-4cf2-bc52-44c2fd523330/57.png",
+          "alt": "Dafiti",
+          "segment": "Roupa"
+        },
+        {
+          "image": "https://decoims.com/scarcom/6468620e-b6a0-427c-81f0-e4694e13d4c0/58.png",
+          "alt": "Giraffas",
+          "segment": "Alimentação "
+        },
+        {
+          "image": "https://decoims.com/scarcom/84c50684-62b9-4293-b7b1-5fb67e2e1c8c/59.png",
+          "alt": "Giuliana Flores",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/42668572-5574-478c-91d3-529fa12f6f08/60.png",
+          "alt": "Habibs",
+          "segment": "Alimentação "
+        },
+        {
+          "image": "https://decoims.com/scarcom/407b2e9b-966a-4c10-b970-89c385bb65d9/61.png",
+          "alt": "Multilaser",
+          "segment": "Tecnologia"
+        },
+        {
+          "image": "https://decoims.com/scarcom/5019ebb3-9e87-45f8-bb5c-d123c3940130/62.png",
+          "alt": "Fasano",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/2e8695d1-33cf-4d70-86e6-b9eab4700b03/63.png",
+          "alt": "Paris",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/b8a53914-c36b-49ac-bd84-9d34e61707fb/64.png",
+          "alt": "DeB",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/b5d0c874-62f1-4f3b-8f00-9e5e499aa96a/65.png",
+          "alt": "Calvin Klein",
+          "segment": "Roupa"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d356ba0b-def3-47a0-9a88-72568c47da80/66.png",
+          "alt": "Breton",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/c3a0a245-bece-4371-8ac0-475025d9902a/67.png",
+          "alt": "Ri Happy",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/1770762d-dbb0-41ee-b603-f1c77ce29bc3/68.png",
+          "alt": "Copel",
+          "segment": "Serviços"
+        },
+        {
+          "image": "https://decoims.com/scarcom/91a6f403-8745-4c47-91b1-eac16442fdc0/69.png",
+          "alt": "Mega imagem",
+          "segment": "Saúde"
+        },
+        {
+          "image": "https://decoims.com/scarcom/66b96bb5-fa02-4f56-a1dd-72cd31408e82/70.png",
+          "alt": "Trocafone",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/bd2d06b0-ca29-4c4d-a9f2-d8803a023070/71.png",
+          "alt": "Siqueira Castro",
+          "segment": "Serviços"
+        },
+        {
+          "image": "https://decoims.com/scarcom/966c9891-67c1-4769-b4f6-fdf4516de61e/72.png",
+          "alt": "Nav",
+          "segment": "Transporte"
+        },
+        {
+          "image": "https://decoims.com/scarcom/3324c4e6-d8af-405c-b052-c180210a3e76/73.png",
+          "alt": "Gas Brasiliano",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/be9c1e25-6a42-4a94-9239-19afa564b73f/74.png",
+          "alt": "Rommanel",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/f9fbcfc0-37b7-4171-ac12-aff1dcd5dde3/75.png",
+          "alt": "Makita",
+          "segment": "Indústria"
+        },
+        {
+          "image": "https://decoims.com/scarcom/ffd30d10-5dec-4a0a-963f-aaaf730e5215/76.png",
+          "alt": "Di Gaspi",
+          "segment": "Varejo"
+        },
+        {
+          "image": "https://decoims.com/scarcom/6e22d424-a7de-45de-a8a6-b71f73268d2a/77.png",
+          "alt": "Paraná banco",
+          "segment": "Financeiro"
+        },
+        {
+          "image": "https://decoims.com/scarcom/f4a1c7e9-4faf-4faa-81da-841262e6ccd6/78.png",
+          "alt": "Grupo kolplast",
+          "segment": "Saúde"
+        },
+        {
+          "image": "https://decoims.com/scarcom/840f9620-df6c-4964-baf5-61b7a4cd1213/79.png",
+          "alt": "Honda",
+          "segment": "Transporte"
+        },
+        {
+          "image": "https://decoims.com/scarcom/e391a9d9-3eb4-4076-9044-ba2b08a90fed/80.png",
+          "alt": "Oab",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/76ef0d79-a361-4494-b1be-129af022cfeb/81.png",
+          "alt": "Kanaflex",
+          "segment": "Indústria"
+        },
+        {
+          "image": "https://decoims.com/scarcom/2d09798c-fec3-461e-b242-f39eb5d96ea7/82.png",
+          "alt": "Grupo zelo",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/cf3ba391-21e0-4eb5-acfe-1edbdec62751/83.png",
+          "alt": "Seastar",
+          "segment": "Outros"
+        },
+        {
+          "image": "https://decoims.com/scarcom/36f8bf61-5403-4b34-b12b-5a6bc65db227/84.png",
+          "alt": "Andra",
+          "segment": "Indústria"
+        },
+        {
+          "image": "https://decoims.com/scarcom/8ea74194-14b7-4bf3-9b33-134f91bfc84e/85.png",
+          "alt": "Brasileirão",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/5d5f7708-1146-4b82-bec0-342886f34f0b/86.png",
+          "alt": "Gocil",
+          "segment": "Serviços"
+        },
+        {
+          "image": "https://decoims.com/scarcom/c67441b9-4e67-4df9-9c06-1025e8913312/87.png",
+          "alt": "Brico",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/46e2a29b-e069-4af8-b3e0-3748a0bb1516/88.png",
+          "alt": "Italac",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/d8d822a5-174b-4f86-acf5-4c3a56825e3f/89.png",
+          "alt": "Atacadão",
+          "segment": "Alimentação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/674ab130-5b6c-4e44-b859-62f0f4bb88cf/90.png",
+          "alt": "Insper",
+          "segment": "Educação"
+        },
+        {
+          "image": "https://decoims.com/scarcom/19bb52fc-765c-433e-9bd0-f5c566e8f6d4/91.png",
+          "alt": "Dr Reddys",
+          "segment": "Saúde"
+        },
+        {
+          "image": "https://decoims.com/scarcom/cdafba49-c604-49e7-a16b-74b1f760866f/92.png",
+          "alt": "Verisure",
+          "segment": "Serviços"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer Global"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
