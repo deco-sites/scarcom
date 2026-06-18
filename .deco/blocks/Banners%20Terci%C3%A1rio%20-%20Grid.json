@@ -30,8 +30,8 @@
               "badges": [],
               "buttonColor": "primary"
             },
-            "srcDesktop": "https://assets.decocache.com/scarcom/e3f2986b-4771-49f6-bfce-6ab0d12e5583/1742476503758-51da3cd3-9023-4cef-89f3-b1ea296acf83",
-            "srcMobile": "https://assets.decocache.com/scarcom/b84d3854-a936-4a12-b349-e57a4682efa0/1742476505491-3f79128d-f824-481b-9673-c1f264dd288e",
+            "srcDesktop": "https://decoims.com/scarcom/96991738-8faf-407c-8be7-dfe85f7b2477/1742476503758-51da3cd3-9023-4cef-89f3-b1ea296acf83.webp",
+            "srcMobile": "https://decoims.com/scarcom/2f72fb50-5e8e-4bd7-9631-5d56f78ebc14/1742476505491-3f79128d-f824-481b-9673-c1f264dd288e.webp",
             "alt": "Headset USB ",
             "href": "/c3210-80s01a6/p",
             "columnStart": 1,
@@ -47,10 +47,10 @@
               "buttonColor": "neutral",
               "reverse": true
             },
-            "srcDesktop": "https://assets.decocache.com/scarcom/e563ffec-1682-4ff4-82ec-1d65620c8663/1742476508337-c0ce50d5-79cc-438e-bf95-0bd04e56b39a",
+            "srcDesktop": "https://decoims.com/scarcom/c415f8f6-6450-48d3-8e29-cf11c29989c1/1742476508337-c0ce50d5-79cc-438e-bf95-0bd04e56b39a.webp",
             "alt": "Mini",
             "href": "/mini",
-            "srcMobile": "https://assets.decocache.com/scarcom/6a2c3d5f-0a02-4a2e-a5c4-7d5954225619/1742476509948-6e6db1cf-366d-43fc-9309-597c2b0028db"
+            "srcMobile": "https://decoims.com/scarcom/097a410d-fbc7-499f-9fd0-517b6b6f4075/1742476509948-6e6db1cf-366d-43fc-9309-597c2b0028db.webp"
           },
           {
             "textColor": "primary",
@@ -60,8 +60,8 @@
               "badges": [],
               "buttonColor": "secondary"
             },
-            "srcDesktop": "https://assets.decocache.com/scarcom/5ed31bbd-2ddc-4861-bdd0-33396e17cc9e/1742476511258-f6b9a972-9310-43c1-8203-b113af945d30",
-            "srcMobile": "https://assets.decocache.com/scarcom/16ed6109-290f-4945-940c-b16e2aad6671/1742476512660-98e69c07-67e9-405d-98ee-ad95b4d26fe7",
+            "srcDesktop": "https://decoims.com/scarcom/44e3f1cf-ea40-4367-8f26-844e32d9402e/1742476511258-f6b9a972-9310-43c1-8203-b113af945d30.webp",
+            "srcMobile": "https://decoims.com/scarcom/e26e88c0-defa-43e4-898e-fc7e4054b1c8/1742476512660-98e69c07-67e9-405d-98ee-ad95b4d26fe7.webp",
             "alt": "HD SSD Sata 3 Kingston",
             "href": "/hd_ssd_240_gb_sata_3_kingston_sa400s37-240g/p"
           }
