@@ -4,7 +4,7 @@ import type { PartnerItem } from "./types.ts";
 export type { PartnerItem };
 
 const PLACEHOLDER_IMAGE =
-  "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/fe7cd8ba-c954-45d6-9282-ee7d8ca8e3c7";
+  "https://decoims.com/scarcom/c92f9fe3-acb3-4e6f-84c4-40ecff114a5e/fe7cd8ba-c954-45d6-9282-ee7d8ca8e3c7.svg";
 
 const STATS = [
   { value: "125+", label: "Parceiros Ativos" },

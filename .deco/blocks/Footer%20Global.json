@@ -88,7 +88,7 @@
           }
         ],
         "logo": {
-          "image": "https://assets.decocache.com/scarcom/a188a542-2ca2-478e-bacc-f6a28c0a2c3d/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca"
+          "image": "https://decoims.com/scarcom/316deecf-94e5-4af1-a9ac-e4244e856f5e/1742476359184-1f6dc342-05a2-4692-87d3-22a19abac5ca.png"
         },
         "socialNetWorks": [
           {
@@ -106,50 +106,50 @@
         "payments": [
           {
             "alt": "Mastercard",
-            "image": "https://assets.decocache.com/scarcom/19d9fdd0-739a-4b49-9876-6c2c8f59a722/1742476386220-ba466288-05d9-4f39-9eb6-049bf4c5eb05"
+            "image": "https://decoims.com/scarcom/21d3fb22-df1f-4bf6-8787-229a6e22a2b2/1742476386220-ba466288-05d9-4f39-9eb6-049bf4c5eb05.jpg"
           },
           {
             "alt": "Visa",
-            "image": "https://assets.decocache.com/scarcom/35476d2b-3120-46ca-8c1f-472178b3b7c1/1742476387434-0c60fc79-a4fa-48b9-b477-3662ece8571a"
+            "image": "https://decoims.com/scarcom/c37e86b9-c6b6-469e-b19e-ca593de6da01/1742476387434-0c60fc79-a4fa-48b9-b477-3662ece8571a.jpg"
           },
           {
-            "image": "https://assets.decocache.com/scarcom/ad0eab65-f1bf-4c62-8691-38ab74808514/1742476388512-ac829344-6534-44aa-840b-4676b339143d",
+            "image": "https://decoims.com/scarcom/9ef52525-3f2e-4bda-9e16-8cfe352ccb4e/1742476388512-ac829344-6534-44aa-840b-4676b339143d.jpg",
             "alt": "Elo"
           },
           {
             "alt": "American Express",
-            "image": "https://assets.decocache.com/scarcom/ebcc2053-b439-4332-ac68-1ae2232e49d0/1742476390527-5ae86266-de55-462f-b972-43ee4dc732d0"
+            "image": "https://decoims.com/scarcom/a67fcfd5-ca05-4039-8ec4-69c3fff82902/1742476390527-5ae86266-de55-462f-b972-43ee4dc732d0.jpg"
           },
           {
-            "image": "https://assets.decocache.com/scarcom/43a5a105-616b-4a67-a8fa-e7b34a4483ad/1742476391692-45eb1cfa-50f6-4b0a-9db0-27d548e153af",
+            "image": "https://decoims.com/scarcom/147f7f74-c72d-4967-a665-955d74f54216/1742476391692-45eb1cfa-50f6-4b0a-9db0-27d548e153af.jpg",
             "alt": "Pix"
           },
           {
             "alt": "Boleto",
-            "image": "https://assets.decocache.com/scarcom/50f06347-31b3-4b47-b38b-0669968477ff/1742476392846-815153b4-14d3-4917-8836-82b305fe93c7"
+            "image": "https://decoims.com/scarcom/f1d21734-018c-42fa-98ad-ddbfeb57c155/1742476392846-815153b4-14d3-4917-8836-82b305fe93c7.jpg"
           }
         ],
         "securities": [
           {
             "alt": "Let's Encrypt",
-            "image": "https://assets.decocache.com/scarcom/3a65400d-bd49-4d49-a371-35221befa3a3/1742476394049-11a68b3a-ea26-4fe2-9566-f3f1951c12fe"
+            "image": "https://decoims.com/scarcom/17578733-1442-4100-9540-fb041ef622ac/1742476394049-11a68b3a-ea26-4fe2-9566-f3f1951c12fe.png"
           }
         ],
         "poweredby": [
           {
             "alt": "agencia n1",
             "label": "Created By",
-            "image": "https://assets.decocache.com/scarcom/06a4447a-76da-4a4e-9e55-191dc253501c/1742476395211-0e25fd23-a9ff-4301-9a19-5ca1a273eae1",
+            "image": "https://decoims.com/scarcom/94f54431-4a69-4c4b-ab71-d97f27e1a80c/1742476395211-0e25fd23-a9ff-4301-9a19-5ca1a273eae1.png",
             "href": "https://www.n1.ag/"
           },
           {
             "alt": "Deco",
             "label": " ",
-            "image": "https://assets.decocache.com/scarcom/5a5812fb-d170-4bb5-9e35-d030e9a964bc/1742476396292-c1e3b475-c061-4780-bfc6-f435facf0797",
+            "image": "https://decoims.com/scarcom/b3e50ebe-0325-420c-8390-fbeae8fe6bc9/1742476396292-c1e3b475-c061-4780-bfc6-f435facf0797.png",
             "href": "https://deco.cx/"
           },
           {
-            "image": "https://assets.decocache.com/scarcom/be74ef6b-e5b1-4171-a626-f74493824dc3/1742476398041-685dcc4c-2b15-42ae-9d26-dc6915e1049c",
+            "image": "https://decoims.com/scarcom/a728ce58-ba04-4285-b1e6-0ffb652d5a8f/1742476398041-685dcc4c-2b15-42ae-9d26-dc6915e1049c.svg",
             "alt": "vtex",
             "label": "Powered by",
             "href": "https://vtex.com/br-pt"

@@ -37,12 +37,12 @@ const PLACEHOLDER_LOGOS: PartnerLogo[] = [
   {
     altText: "Webmotors",
     image:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/fe7cd8ba-c954-45d6-9282-ee7d8ca8e3c7",
+      "https://decoims.com/scarcom/c92f9fe3-acb3-4e6f-84c4-40ecff114a5e/fe7cd8ba-c954-45d6-9282-ee7d8ca8e3c7.svg",
   },
   {
     altText: "KIA",
     image:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/239/637e8601-6b86-4979-aa97-68013a2a60fd",
+      "https://decoims.com/scarcom/0f65c2f3-6b02-490c-a4f5-b2da01f53136/637e8601-6b86-4979-aa97-68013a2a60fd.svg",
   },
 ];
 

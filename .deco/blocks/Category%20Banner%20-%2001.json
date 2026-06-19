@@ -2,8 +2,8 @@
   "banners": [
     {
       "image": {
-        "mobile": "https://assets.decocache.com/scarcom/a1932f75-3fbc-4835-9683-ea5bfcc213fb/1742476534128-91102b71-4832-486a-b683-5f7b06f649af",
-        "desktop": "https://assets.decocache.com/scarcom/733d19bd-8c60-4e73-a7b5-2f7b1b98408b/1742476535898-ec597b6a-dcf1-48ca-a99d-95b3c6304f96"
+        "mobile": "https://decoims.com/scarcom/ba1d89e3-72e1-4470-887e-ba2bca9c0ddc/1742476534128-91102b71-4832-486a-b683-5f7b06f649af.png",
+        "desktop": "https://decoims.com/scarcom/07be26f7-77b7-49ca-8b85-d90527523995/1742476535898-ec597b6a-dcf1-48ca-a99d-95b3c6304f96.png"
       },
       "title": "Woman",
       "matcher": "/feminino/*",
@@ -11,8 +11,8 @@
     },
     {
       "image": {
-        "mobile": "https://assets.decocache.com/scarcom/a1932f75-3fbc-4835-9683-ea5bfcc213fb/1742476534128-91102b71-4832-486a-b683-5f7b06f649af",
-        "desktop": "https://assets.decocache.com/scarcom/733d19bd-8c60-4e73-a7b5-2f7b1b98408b/1742476535898-ec597b6a-dcf1-48ca-a99d-95b3c6304f96"
+        "mobile": "https://decoims.com/scarcom/ba1d89e3-72e1-4470-887e-ba2bca9c0ddc/1742476534128-91102b71-4832-486a-b683-5f7b06f649af.png",
+        "desktop": "https://decoims.com/scarcom/07be26f7-77b7-49ca-8b85-d90527523995/1742476535898-ec597b6a-dcf1-48ca-a99d-95b3c6304f96.png"
       },
       "title": "Woman",
       "matcher": "/*",
