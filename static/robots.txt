@@ -119,3 +119,5 @@ Disallow: /prodimages/
 Disallow: /private/
 
 Allow: /
+
+Sitemap: https://www.scarcom.com.br/sitemap.xml
