@@ -20,6 +20,7 @@ import * as $DetailsControl from "./islands/DetailsControl.tsx";
 import * as $ExchangeForm from "./islands/ExchangeForm.tsx";
 import * as $ExpandableDescription from "./islands/ExpandableDescription.tsx";
 import * as $Form from "./islands/Form.tsx";
+import * as $GoogleBusinessReviews from "./islands/GoogleBusinessReviews.tsx";
 import * as $Header_Buttons from "./islands/Header/Buttons.tsx";
 import * as $Header_Cart_linx from "./islands/Header/Cart/linx.tsx";
 import * as $Header_Cart_nuvemshop from "./islands/Header/Cart/nuvemshop.tsx";
@@ -39,6 +40,7 @@ import * as $PartnersGrid from "./islands/PartnersGrid.tsx";
 import * as $ProductImageZoom from "./islands/ProductImageZoom.tsx";
 import * as $ProductShelf from "./islands/ProductShelf.tsx";
 import * as $RequestQuote from "./islands/RequestQuote.tsx";
+import * as $ReviewerAvatar from "./islands/ReviewerAvatar.tsx";
 import * as $SearchControls from "./islands/SearchControls.tsx";
 import * as $Searchbar from "./islands/Searchbar.tsx";
 import * as $ShippingSimulation from "./islands/ShippingSimulation.tsx";
@@ -72,6 +74,7 @@ const manifest = {
     "./islands/ExchangeForm.tsx": $ExchangeForm,
     "./islands/ExpandableDescription.tsx": $ExpandableDescription,
     "./islands/Form.tsx": $Form,
+    "./islands/GoogleBusinessReviews.tsx": $GoogleBusinessReviews,
     "./islands/Header/Buttons.tsx": $Header_Buttons,
     "./islands/Header/Cart/linx.tsx": $Header_Cart_linx,
     "./islands/Header/Cart/nuvemshop.tsx": $Header_Cart_nuvemshop,
@@ -91,6 +94,7 @@ const manifest = {
     "./islands/ProductImageZoom.tsx": $ProductImageZoom,
     "./islands/ProductShelf.tsx": $ProductShelf,
     "./islands/RequestQuote.tsx": $RequestQuote,
+    "./islands/ReviewerAvatar.tsx": $ReviewerAvatar,
     "./islands/SearchControls.tsx": $SearchControls,
     "./islands/Searchbar.tsx": $Searchbar,
     "./islands/ShippingSimulation.tsx": $ShippingSimulation,

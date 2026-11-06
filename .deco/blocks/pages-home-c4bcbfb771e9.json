@@ -149,6 +149,20 @@
       "__resolveType": "Banners Terciário - Grid"
     },
     {
+      "__resolveType": "site/sections/Content/GoogleBusinessReviews.tsx",
+      "title": "Avaliações no Google",
+      "description": "Veja o que nossos clientes dizem após comprar com a Scarcom",
+      "headerAlignment": "center",
+      "maxReviews": 50,
+      "cacheTtlSeconds": 3600,
+      "apiListOrderBy": "default",
+      "carouselMinItems": 4,
+      "carouselItemWidth": 292,
+      "showCta": true,
+      "ctaLabel": "Ver todas as avaliações no Google",
+      "hideWhenEmpty": true
+    },
+    {
       "__resolveType": "Instagram - Imagens"
     },
     {

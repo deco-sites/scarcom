@@ -96,6 +96,7 @@ import * as $$$$$$75 from "./sections/SEO/SeoPDPCustom.tsx";
 import * as $$$$$$76 from "./sections/Social/InstagramPosts.tsx";
 import * as $$$$$$77 from "./sections/Social/WhatsApp.tsx";
 import * as $$$$$$78 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$79 from "./sections/Content/GoogleBusinessReviews.tsx";
 
 const manifest = {
   "loaders": {
@@ -184,6 +185,7 @@ const manifest = {
     "site/sections/Social/InstagramPosts.tsx": $$$$$$76,
     "site/sections/Social/WhatsApp.tsx": $$$$$$77,
     "site/sections/Theme/Theme.tsx": $$$$$$78,
+    "site/sections/Content/GoogleBusinessReviews.tsx": $$$$$$79,
   },
   "apps": {
     "site/apps/deco/ai-assistants.ts": $$$$$$$$$$$0,
