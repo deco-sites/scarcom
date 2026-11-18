@@ -84,3 +84,5 @@ _docker_deps.ts
 .cursor/
 .claude/
 CLAUDE.md
+# Cloudflare Worker (wrangler)
+.wrangler/
