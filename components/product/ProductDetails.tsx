@@ -79,7 +79,7 @@ export async function loader(props: LoaderProps, _req: Request, _: AppContext) {
       ...defaultProps,
     };
   }
-  const response = await fetch(
+  const dataStockKeeping = await fetch(
     `https://scarcom.myvtex.com/api/catalog_system/pvt/sku/stockkeepingunitbyid/${defaultProps.page?.product.sku}`,
     {
       headers: {
@@ -88,8 +88,16 @@ export async function loader(props: LoaderProps, _req: Request, _: AppContext) {
         "Content-Type": "application/json",
       },
     },
-  );
-  const dataStockKeeping = await response.json();
+  )
+    .then((response) => (response.ok ? response.json() : null))
+    .catch(() => null);
+  if (!dataStockKeeping) {
+    console.error("ProductDetails: manufacturer code lookup failed");
+    return {
+      manufacturerCode: null,
+      ...defaultProps,
+    };
+  }
   return {
     manufacturerCode: dataStockKeeping.ManufacturerCode as string,
     ...defaultProps,
